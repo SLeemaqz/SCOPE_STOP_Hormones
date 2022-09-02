@@ -22,7 +22,7 @@
 
 
 
-<meta name="date" content="2022-09-01" />
+<meta name="date" content="2022-09-02" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="apple-mobile-web-app-capable" content="yes" />
@@ -2113,17 +2113,18 @@ border: 0;
 
 
 <style type="text/css">
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
+code.sourceCode > span { display: inline-block; line-height: 1.25; }
 code.sourceCode > span { color: inherit; text-decoration: inherit; }
+code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode { white-space: pre; position: relative; }
 pre.sourceCode { margin: 0; }
 @media screen {
 div.sourceCode { overflow: auto; }
 }
 @media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+code.sourceCode { white-space: pre-wrap; }
+code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
 }
 pre.numberSource code
   { counter-reset: source-line 0; }
@@ -2143,7 +2144,7 @@ pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-le
 div.sourceCode
   {   }
 @media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 code span.al { color: #ff0000; } /* Alert */
 code span.an { color: #008000; } /* Annotation */
@@ -2184,57 +2185,61 @@ code span.wa { color: #008000; font-weight: bold; } /* Warning */
       <nav role="navigation">
 
 <ul class="summary">
-<li class="chapter" data-level="" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i>Overview</a></li>
+<li class="chapter" data-level="" data-path="overview.html"><a href="overview.html"><i class="fa fa-check"></i>Overview</a></li>
 <li class="part"><span><b>I Raw Data</b></span></li>
-<li class="chapter" data-level="1" data-path="standard-curves.html"><a href="standard-curves.html"><i class="fa fa-check"></i><b>1</b> Standard Curves</a>
-<ul>
-<li class="chapter" data-level="1.1" data-path="prolactin.html"><a href="prolactin.html"><i class="fa fa-check"></i><b>1.1</b> Prolactin</a>
-<ul>
+<li class="chapter" data-level="1" data-path="standard-curves.html"><a href="standard-curves.html"><i class="fa fa-check"></i><b>1</b> Standard Curves</a><ul>
+<li class="chapter" data-level="1.1" data-path="prolactin.html"><a href="prolactin.html"><i class="fa fa-check"></i><b>1.1</b> Prolactin</a><ul>
 <li class="chapter" data-level="1.1.1" data-path="prolactin.html"><a href="prolactin.html#data"><i class="fa fa-check"></i><b>1.1.1</b> Data</a></li>
 <li class="chapter" data-level="1.1.2" data-path="prolactin.html"><a href="prolactin.html#cv"><i class="fa fa-check"></i><b>1.1.2</b> CV</a></li>
 <li class="chapter" data-level="1.1.3" data-path="prolactin.html"><a href="prolactin.html#standard-curves-1"><i class="fa fa-check"></i><b>1.1.3</b> Standard curves</a></li>
 <li class="chapter" data-level="1.1.4" data-path="prolactin.html"><a href="prolactin.html#session-info"><i class="fa fa-check"></i><b>1.1.4</b> Session info</a></li>
 </ul></li>
-<li class="chapter" data-level="1.2" data-path="hpl.html"><a href="hpl.html"><i class="fa fa-check"></i><b>1.2</b> HPL</a>
-<ul>
+<li class="chapter" data-level="1.2" data-path="hpl.html"><a href="hpl.html"><i class="fa fa-check"></i><b>1.2</b> HPL</a><ul>
 <li class="chapter" data-level="1.2.1" data-path="hpl.html"><a href="hpl.html#data-1"><i class="fa fa-check"></i><b>1.2.1</b> Data</a></li>
 <li class="chapter" data-level="1.2.2" data-path="hpl.html"><a href="hpl.html#cv-1"><i class="fa fa-check"></i><b>1.2.2</b> CV</a></li>
 <li class="chapter" data-level="1.2.3" data-path="hpl.html"><a href="hpl.html#standard-curves-2"><i class="fa fa-check"></i><b>1.2.3</b> Standard curves</a></li>
 <li class="chapter" data-level="1.2.4" data-path="hpl.html"><a href="hpl.html#session-info-1"><i class="fa fa-check"></i><b>1.2.4</b> Session info</a></li>
 </ul></li>
-<li class="chapter" data-level="1.3" data-path="gh2.html"><a href="gh2.html"><i class="fa fa-check"></i><b>1.3</b> GH2</a>
-<ul>
+<li class="chapter" data-level="1.3" data-path="gh2.html"><a href="gh2.html"><i class="fa fa-check"></i><b>1.3</b> GH2</a><ul>
 <li class="chapter" data-level="1.3.1" data-path="gh2.html"><a href="gh2.html#data-2"><i class="fa fa-check"></i><b>1.3.1</b> Data</a></li>
 <li class="chapter" data-level="1.3.2" data-path="gh2.html"><a href="gh2.html#cv-2"><i class="fa fa-check"></i><b>1.3.2</b> CV</a></li>
 <li class="chapter" data-level="1.3.3" data-path="gh2.html"><a href="gh2.html#standard-curves-3"><i class="fa fa-check"></i><b>1.3.3</b> Standard curves</a></li>
 <li class="chapter" data-level="1.3.4" data-path="gh2.html"><a href="gh2.html#session-info-2"><i class="fa fa-check"></i><b>1.3.4</b> Session info</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="2" data-path="hormones-data.html"><a href="hormones-data.html"><i class="fa fa-check"></i><b>2</b> Hormones Data</a>
-<ul>
+<li class="chapter" data-level="2" data-path="hormones-data.html"><a href="hormones-data.html"><i class="fa fa-check"></i><b>2</b> Hormones Data</a><ul>
 <li class="chapter" data-level="2.1" data-path="main-data.html"><a href="main-data.html"><i class="fa fa-check"></i><b>2.1</b> Main data</a></li>
 <li class="chapter" data-level="2.2" data-path="hormones-data-1.html"><a href="hormones-data-1.html"><i class="fa fa-check"></i><b>2.2</b> Hormones data</a></li>
 <li class="chapter" data-level="2.3" data-path="data-labels.html"><a href="data-labels.html"><i class="fa fa-check"></i><b>2.3</b> Data labels</a></li>
 </ul></li>
-<li class="chapter" data-level="3" data-path="plate-effect.html"><a href="plate-effect.html"><i class="fa fa-check"></i><b>3</b> Plate Effect</a>
-<ul>
-<li class="chapter" data-level="3.1" data-path="prolactin-1.html"><a href="prolactin-1.html"><i class="fa fa-check"></i><b>3.1</b> Prolactin</a>
-<ul>
+<li class="chapter" data-level="3" data-path="plate-effect.html"><a href="plate-effect.html"><i class="fa fa-check"></i><b>3</b> Plate Effect</a><ul>
+<li class="chapter" data-level="3.1" data-path="prolactin-1.html"><a href="prolactin-1.html"><i class="fa fa-check"></i><b>3.1</b> Prolactin</a><ul>
 <li class="chapter" data-level="3.1.1" data-path="prolactin-1.html"><a href="prolactin-1.html#model-summary"><i class="fa fa-check"></i><b>3.1.1</b> Model summary</a></li>
 <li class="chapter" data-level="3.1.2" data-path="prolactin-1.html"><a href="prolactin-1.html#sample-descriptives"><i class="fa fa-check"></i><b>3.1.2</b> Sample descriptives</a></li>
 </ul></li>
-<li class="chapter" data-level="3.2" data-path="hpl-1.html"><a href="hpl-1.html"><i class="fa fa-check"></i><b>3.2</b> HPL</a>
-<ul>
+<li class="chapter" data-level="3.2" data-path="hpl-1.html"><a href="hpl-1.html"><i class="fa fa-check"></i><b>3.2</b> HPL</a><ul>
 <li class="chapter" data-level="3.2.1" data-path="hpl-1.html"><a href="hpl-1.html#model-summary-1"><i class="fa fa-check"></i><b>3.2.1</b> Model summary</a></li>
 <li class="chapter" data-level="3.2.2" data-path="hpl-1.html"><a href="hpl-1.html#sample-descriptives-1"><i class="fa fa-check"></i><b>3.2.2</b> Sample descriptives</a></li>
 </ul></li>
-<li class="chapter" data-level="3.3" data-path="gh2-1.html"><a href="gh2-1.html"><i class="fa fa-check"></i><b>3.3</b> GH2</a>
-<ul>
+<li class="chapter" data-level="3.3" data-path="gh2-1.html"><a href="gh2-1.html"><i class="fa fa-check"></i><b>3.3</b> GH2</a><ul>
 <li class="chapter" data-level="3.3.1" data-path="gh2-1.html"><a href="gh2-1.html#model-summary-2"><i class="fa fa-check"></i><b>3.3.1</b> Model summary</a></li>
 <li class="chapter" data-level="3.3.2" data-path="gh2-1.html"><a href="gh2-1.html#sample-descriptives-2"><i class="fa fa-check"></i><b>3.3.2</b> Sample descriptives</a></li>
 </ul></li>
 </ul></li>
-<li class="chapter" data-level="4" data-path="hormone-models.html"><a href="hormone-models.html"><i class="fa fa-check"></i><b>4</b> Hormone Models</a></li>
+<li class="part"><span><b>II Association with Factors</b></span></li>
+<li class="chapter" data-level="4" data-path="descriptives.html"><a href="descriptives.html"><i class="fa fa-check"></i><b>4</b> Descriptives</a></li>
+<li class="chapter" data-level="5" data-path="fa-supp-3-categories.html"><a href="fa-supp-3-categories.html"><i class="fa fa-check"></i><b>5</b> FA supp: 3 categories</a><ul>
+<li class="chapter" data-level="5.1" data-path="prolactin-2.html"><a href="prolactin-2.html"><i class="fa fa-check"></i><b>5.1</b> Prolactin</a></li>
+<li class="chapter" data-level="5.2" data-path="hpl-2.html"><a href="hpl-2.html"><i class="fa fa-check"></i><b>5.2</b> HPL</a></li>
+<li class="chapter" data-level="5.3" data-path="gh2-2.html"><a href="gh2-2.html"><i class="fa fa-check"></i><b>5.3</b> GH2</a></li>
+</ul></li>
+<li class="chapter" data-level="6" data-path="fa-supp-4-categories.html"><a href="fa-supp-4-categories.html"><i class="fa fa-check"></i><b>6</b> FA supp: 4 categories</a><ul>
+<li class="chapter" data-level="6.1" data-path="prolactin-3.html"><a href="prolactin-3.html"><i class="fa fa-check"></i><b>6.1</b> Prolactin</a></li>
+<li class="chapter" data-level="6.2" data-path="hpl-3.html"><a href="hpl-3.html"><i class="fa fa-check"></i><b>6.2</b> HPL</a></li>
+<li class="chapter" data-level="6.3" data-path="gh2-3.html"><a href="gh2-3.html"><i class="fa fa-check"></i><b>6.3</b> GH2</a></li>
+<li class="chapter" data-level="6.4" data-path="session-info-3.html"><a href="session-info-3.html"><i class="fa fa-check"></i><b>6.4</b> Session info</a></li>
+</ul></li>
+<li class="chapter" data-level="7" data-path="hormone-models.html"><a href="hormone-models.html"><i class="fa fa-check"></i><b>7</b> Hormone Models</a></li>
 </ul>
 
       </nav>
@@ -2252,24 +2257,24 @@ code span.wa { color: #008000; font-weight: bold; } /* Warning */
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="data-labels" class="section level2 hasAnchor" number="2.3">
+<div id="data-labels" class="section level2 hasAnchor">
 <h2><span class="header-section-number">2.3</span> Data labels<a href="data-labels.html#data-labels" class="anchor-section" aria-label="Anchor link to header"></a></h2>
 <p>Define variable labels.</p>
-<div class="sourceCode" id="cb19"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb19-1"><a href="data-labels.html#cb19-1" aria-hidden="true"></a><span class="co"># outcomes</span></span>
-<span id="cb19-2"><a href="data-labels.html#cb19-2" aria-hidden="true"></a>outc_labels &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;GDM vs non-GDM&quot;</span>,<span class="st">&quot;SPTB vs non-SPTB&quot;</span>,<span class="st">&quot;GHT vs non-GHT&quot;</span>,<span class="st">&quot;PE vs non-PE&quot;</span>,<span class="st">&quot;SGA vs non-SGA&quot;</span>,</span>
-<span id="cb19-3"><a href="data-labels.html#cb19-3" aria-hidden="true"></a>        <span class="st">&quot;GDM vs Uncomplicated&quot;</span>,<span class="st">&quot;SPTB vs Uncomplicated&quot;</span>,<span class="st">&quot;GHT vs Uncomplicated&quot;</span>,<span class="st">&quot;PE vs Uncomplicated&quot;</span>,<span class="st">&quot;SGA vs Uncomplicted&quot;</span>,<span class="st">&quot;PE(new) vs Uncomplicated&quot;</span>,<span class="st">&quot;GH(new) vs Uncomplicated&quot;</span>,<span class="st">&quot;PE(new) vs non-PE&quot;</span>,<span class="st">&quot;GH(new) vs non-GH&quot;</span>,</span>
-<span id="cb19-4"><a href="data-labels.html#cb19-4" aria-hidden="true"></a>        <span class="st">&quot;GDM only vs Uncomplicated&quot;</span>,<span class="st">&quot;Uncomplicated&quot;</span>)</span>
-<span id="cb19-5"><a href="data-labels.html#cb19-5" aria-hidden="true"></a><span class="kw">names</span>(outc_labels) &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;f39_gdm_new&quot;</span>,<span class="st">&quot;f39_sptb&quot;</span>,<span class="st">&quot;f39_gh&quot;</span>,<span class="st">&quot;f39_pet&quot;</span>,<span class="st">&quot;f39_sga&quot;</span>,<span class="st">&quot;GDM_new&quot;</span>,<span class="st">&quot;PTB&quot;</span>,<span class="st">&quot;GH&quot;</span>,<span class="st">&quot;PE&quot;</span>,<span class="st">&quot;SGA&quot;</span>,<span class="st">&quot;PE_new&quot;</span>,<span class="st">&quot;GH_new&quot;</span>,<span class="st">&quot;f39_pet_new&quot;</span>,<span class="st">&quot;f39_gh_new&quot;</span>,<span class="st">&quot;GDM_only&quot;</span>,<span class="st">&quot;Uncomplicated&quot;</span>)</span>
-<span id="cb19-6"><a href="data-labels.html#cb19-6" aria-hidden="true"></a></span>
-<span id="cb19-7"><a href="data-labels.html#cb19-7" aria-hidden="true"></a><span class="co"># hormone variables</span></span>
-<span id="cb19-8"><a href="data-labels.html#cb19-8" aria-hidden="true"></a>hormone_labels &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;hPL (mg/l)&quot;</span>,<span class="st">&quot;GH2 (pg/ml)&quot;</span>,<span class="st">&quot;PRL (pg/ml)&quot;</span>)</span>
-<span id="cb19-9"><a href="data-labels.html#cb19-9" aria-hidden="true"></a><span class="kw">names</span>(hormone_labels) &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;HPL&quot;</span>,<span class="st">&quot;GH2&quot;</span>,<span class="st">&quot;Prolactin&quot;</span>)</span>
-<span id="cb19-10"><a href="data-labels.html#cb19-10" aria-hidden="true"></a></span>
-<span id="cb19-11"><a href="data-labels.html#cb19-11" aria-hidden="true"></a><span class="co"># other variables</span></span>
-<span id="cb19-12"><a href="data-labels.html#cb19-12" aria-hidden="true"></a>fvar_labels &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;Serum folate concentration (nM)&quot;</span>,<span class="st">&quot;B12 concentration (pM)&quot;</span>,<span class="st">&quot;Active B12 concentration (pM)&quot;</span>,<span class="st">&quot;Folate:B12 ratio&quot;</span>,<span class="st">&quot;Folate:Active B12 ratio&quot;</span>,<span class="st">&quot;Homocysteine concentration (\u03bcM)&quot;</span>,<span class="st">&quot;CRP (mg/L)&quot;</span>,<span class="st">&quot;Cholesterol (mmol/L)&quot;</span>,<span class="st">&quot;Glucose (mmol/L)&quot;</span>,<span class="st">&quot;HDL (mmol/L)&quot;</span>,<span class="st">&quot;Triglyceride (mmol/L)&quot;</span>,<span class="st">&quot;Maternal age (yrs)&quot;</span>,<span class="st">&quot;Maternal BMI&quot;</span>,<span class="st">&quot;SEI&quot;</span>,<span class="st">&quot;Maternal BMI (category)&quot;</span>,<span class="st">&quot;Baby sex&quot;</span>,<span class="st">&quot;Waist (cm)&quot;</span>,<span class="st">&quot;Smoking&quot;</span>,<span class="st">&quot;Vitamin D&quot;</span>,<span class="st">&quot;Haemoglobin (g/L)&quot;</span>,<span class="st">&quot;Haematocrit (PCV)&quot;</span>,<span class="st">&quot;Folic acid supplement (\u03bcg)&quot;</span>,<span class="st">&quot;Folic acid supplement (\u03bcg)&quot;</span>,<span class="st">&quot;MetS&quot;</span>,<span class="st">&quot;UIC (ug/L)&quot;</span>,<span class="st">&quot;GA (sampling)&quot;</span>,<span class="st">&quot;Ethnicity&quot;</span>,<span class="st">&quot;Caucasian&quot;</span>,<span class="st">&quot;HCG&quot;</span>,<span class="st">&quot;PAPP-A&quot;</span>,<span class="st">&quot;Red cell folate (nmol/L)&quot;</span>,<span class="st">&quot;VitD:Folate&quot;</span>,<span class="st">&quot;Gestational age at birth (weeks)&quot;</span>,<span class="st">&quot;Birthweight (g)&quot;</span>)</span>
-<span id="cb19-13"><a href="data-labels.html#cb19-13" aria-hidden="true"></a><span class="kw">names</span>(fvar_labels) &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;Folate&quot;</span>,<span class="st">&quot;B12&quot;</span>,<span class="st">&quot;Active.B12&quot;</span>,<span class="st">&quot;folate_B12&quot;</span>,<span class="st">&quot;folate_Active.B12&quot;</span>,<span class="st">&quot;Homocysteine&quot;</span>,<span class="st">&quot;CRPL2_mg.L&quot;</span>,<span class="st">&quot;CHOL2_mmol.L&quot;</span>,<span class="st">&quot;GLUC3_mmol.L&quot;</span>,<span class="st">&quot;HDLC4_mmol.L&quot;</span>,<span class="st">&quot;TRIGL_mmol.L&quot;</span>,<span class="st">&quot;f1_age&quot;</span>,<span class="st">&quot;BMI&quot;</span>,<span class="st">&quot;SEI&quot;</span>,<span class="st">&quot;BMI_gp&quot;</span>,<span class="st">&quot;fetal_sex&quot;</span>,<span class="st">&quot;f11_waist&quot;</span>,<span class="st">&quot;f10c_any_cig_1st_vst&quot;</span>,<span class="st">&quot;VitD&quot;</span>,<span class="st">&quot;Hb&quot;</span>,<span class="st">&quot;hct&quot;</span>,<span class="st">&quot;folate_supp&quot;</span>,<span class="st">&quot;folate_cat&quot;</span>,<span class="st">&quot;metab.C1&quot;</span>,<span class="st">&quot;UIC..ug.L.&quot;</span>,<span class="st">&quot;GA_samp&quot;</span>,<span class="st">&quot;Ethnicity&quot;</span>,<span class="st">&quot;Ethnicity_cauc&quot;</span>,<span class="st">&quot;HCG&quot;</span>,<span class="st">&quot;PAPP.A&quot;</span>,<span class="st">&quot;rcfolate&quot;</span>,<span class="st">&quot;VitD_Folate&quot;</span>,<span class="st">&quot;GA_birth&quot;</span>,<span class="st">&quot;Birthweight&quot;</span>)</span>
-<span id="cb19-14"><a href="data-labels.html#cb19-14" aria-hidden="true"></a></span>
-<span id="cb19-15"><a href="data-labels.html#cb19-15" aria-hidden="true"></a>dat_labels &lt;-<span class="st"> </span><span class="kw">c</span>(fvar_labels,hormone_labels,outc_labels)</span></code></pre></div>
+<div class="sourceCode" id="cb19"><pre class="sourceCode r"><code class="sourceCode r"><span id="cb19-1"><a href="data-labels.html#cb19-1"></a><span class="co"># outcomes</span></span>
+<span id="cb19-2"><a href="data-labels.html#cb19-2"></a>outc_labels &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;GDM vs non-GDM&quot;</span>,<span class="st">&quot;SPTB vs non-SPTB&quot;</span>,<span class="st">&quot;GHT vs non-GHT&quot;</span>,<span class="st">&quot;PE vs non-PE&quot;</span>,<span class="st">&quot;SGA vs non-SGA&quot;</span>,</span>
+<span id="cb19-3"><a href="data-labels.html#cb19-3"></a>        <span class="st">&quot;GDM vs Uncomplicated&quot;</span>,<span class="st">&quot;SPTB vs Uncomplicated&quot;</span>,<span class="st">&quot;GHT vs Uncomplicated&quot;</span>,<span class="st">&quot;PE vs Uncomplicated&quot;</span>,<span class="st">&quot;SGA vs Uncomplicted&quot;</span>,<span class="st">&quot;PE(new) vs Uncomplicated&quot;</span>,<span class="st">&quot;GH(new) vs Uncomplicated&quot;</span>,<span class="st">&quot;PE(new) vs non-PE&quot;</span>,<span class="st">&quot;GH(new) vs non-GH&quot;</span>,</span>
+<span id="cb19-4"><a href="data-labels.html#cb19-4"></a>        <span class="st">&quot;GDM only vs Uncomplicated&quot;</span>,<span class="st">&quot;Uncomplicated&quot;</span>)</span>
+<span id="cb19-5"><a href="data-labels.html#cb19-5"></a><span class="kw">names</span>(outc_labels) &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;f39_gdm_new&quot;</span>,<span class="st">&quot;f39_sptb&quot;</span>,<span class="st">&quot;f39_gh&quot;</span>,<span class="st">&quot;f39_pet&quot;</span>,<span class="st">&quot;f39_sga&quot;</span>,<span class="st">&quot;GDM_new&quot;</span>,<span class="st">&quot;PTB&quot;</span>,<span class="st">&quot;GH&quot;</span>,<span class="st">&quot;PE&quot;</span>,<span class="st">&quot;SGA&quot;</span>,<span class="st">&quot;PE_new&quot;</span>,<span class="st">&quot;GH_new&quot;</span>,<span class="st">&quot;f39_pet_new&quot;</span>,<span class="st">&quot;f39_gh_new&quot;</span>,<span class="st">&quot;GDM_only&quot;</span>,<span class="st">&quot;Uncomplicated&quot;</span>)</span>
+<span id="cb19-6"><a href="data-labels.html#cb19-6"></a></span>
+<span id="cb19-7"><a href="data-labels.html#cb19-7"></a><span class="co"># hormone variables</span></span>
+<span id="cb19-8"><a href="data-labels.html#cb19-8"></a>hormone_labels &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;hPL (mg/l)&quot;</span>,<span class="st">&quot;GH2 (pg/ml)&quot;</span>,<span class="st">&quot;PRL (pg/ml)&quot;</span>)</span>
+<span id="cb19-9"><a href="data-labels.html#cb19-9"></a><span class="kw">names</span>(hormone_labels) &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;HPL&quot;</span>,<span class="st">&quot;GH2&quot;</span>,<span class="st">&quot;Prolactin&quot;</span>)</span>
+<span id="cb19-10"><a href="data-labels.html#cb19-10"></a></span>
+<span id="cb19-11"><a href="data-labels.html#cb19-11"></a><span class="co"># other variables</span></span>
+<span id="cb19-12"><a href="data-labels.html#cb19-12"></a>fvar_labels &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;Serum folate concentration (nM)&quot;</span>,<span class="st">&quot;B12 concentration (pM)&quot;</span>,<span class="st">&quot;Active B12 concentration (pM)&quot;</span>,<span class="st">&quot;Folate:B12 ratio&quot;</span>,<span class="st">&quot;Folate:Active B12 ratio&quot;</span>,<span class="st">&quot;Homocysteine concentration (\u03bcM)&quot;</span>,<span class="st">&quot;CRP (mg/L)&quot;</span>,<span class="st">&quot;Cholesterol (mmol/L)&quot;</span>,<span class="st">&quot;Glucose (mmol/L)&quot;</span>,<span class="st">&quot;HDL (mmol/L)&quot;</span>,<span class="st">&quot;Triglyceride (mmol/L)&quot;</span>,<span class="st">&quot;Maternal age (yrs)&quot;</span>,<span class="st">&quot;Maternal BMI&quot;</span>,<span class="st">&quot;SEI&quot;</span>,<span class="st">&quot;Maternal BMI (category)&quot;</span>,<span class="st">&quot;Baby sex&quot;</span>,<span class="st">&quot;Waist (cm)&quot;</span>,<span class="st">&quot;Smoking&quot;</span>,<span class="st">&quot;Vitamin D&quot;</span>,<span class="st">&quot;Haemoglobin (g/L)&quot;</span>,<span class="st">&quot;Haematocrit (PCV)&quot;</span>,<span class="st">&quot;Folic acid supplement (\u03bcg)&quot;</span>,<span class="st">&quot;Folic acid supplement (\u03bcg)&quot;</span>,<span class="st">&quot;MetS&quot;</span>,<span class="st">&quot;UIC (ug/L)&quot;</span>,<span class="st">&quot;GA (sampling)&quot;</span>,<span class="st">&quot;Ethnicity&quot;</span>,<span class="st">&quot;Caucasian&quot;</span>,<span class="st">&quot;HCG&quot;</span>,<span class="st">&quot;PAPP-A&quot;</span>,<span class="st">&quot;Red cell folate (nmol/L)&quot;</span>,<span class="st">&quot;VitD:Folate&quot;</span>,<span class="st">&quot;Gestational age at birth (weeks)&quot;</span>,<span class="st">&quot;Birthweight (g)&quot;</span>)</span>
+<span id="cb19-13"><a href="data-labels.html#cb19-13"></a><span class="kw">names</span>(fvar_labels) &lt;-<span class="st"> </span><span class="kw">c</span>(<span class="st">&quot;Folate&quot;</span>,<span class="st">&quot;B12&quot;</span>,<span class="st">&quot;Active.B12&quot;</span>,<span class="st">&quot;folate_B12&quot;</span>,<span class="st">&quot;folate_Active.B12&quot;</span>,<span class="st">&quot;Homocysteine&quot;</span>,<span class="st">&quot;CRPL2_mg.L&quot;</span>,<span class="st">&quot;CHOL2_mmol.L&quot;</span>,<span class="st">&quot;GLUC3_mmol.L&quot;</span>,<span class="st">&quot;HDLC4_mmol.L&quot;</span>,<span class="st">&quot;TRIGL_mmol.L&quot;</span>,<span class="st">&quot;f1_age&quot;</span>,<span class="st">&quot;BMI&quot;</span>,<span class="st">&quot;SEI&quot;</span>,<span class="st">&quot;BMI_gp&quot;</span>,<span class="st">&quot;fetal_sex&quot;</span>,<span class="st">&quot;f11_waist&quot;</span>,<span class="st">&quot;f10c_any_cig_1st_vst&quot;</span>,<span class="st">&quot;VitD&quot;</span>,<span class="st">&quot;Hb&quot;</span>,<span class="st">&quot;hct&quot;</span>,<span class="st">&quot;folate_supp&quot;</span>,<span class="st">&quot;folate_cat&quot;</span>,<span class="st">&quot;metab.C1&quot;</span>,<span class="st">&quot;UIC..ug.L.&quot;</span>,<span class="st">&quot;GA_samp&quot;</span>,<span class="st">&quot;Ethnicity&quot;</span>,<span class="st">&quot;Ethnicity_cauc&quot;</span>,<span class="st">&quot;HCG&quot;</span>,<span class="st">&quot;PAPP.A&quot;</span>,<span class="st">&quot;rcfolate&quot;</span>,<span class="st">&quot;VitD_Folate&quot;</span>,<span class="st">&quot;GA_birth&quot;</span>,<span class="st">&quot;Birthweight&quot;</span>)</span>
+<span id="cb19-14"><a href="data-labels.html#cb19-14"></a></span>
+<span id="cb19-15"><a href="data-labels.html#cb19-15"></a>dat_labels &lt;-<span class="st"> </span><span class="kw">c</span>(fvar_labels,hormone_labels,outc_labels)</span></code></pre></div>
 
 </div>
 <!-- </div> -->
