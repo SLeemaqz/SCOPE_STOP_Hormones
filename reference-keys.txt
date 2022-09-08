@@ -63,6 +63,7 @@ hormone-models
 raw-plots
 scope-vs-stop
 global-tests
+model-summary-3
 diagnostics
 estimated-means
 comparisons
@@ -104,6 +105,7 @@ hormone-models-1
 raw-plots-1
 scope-vs-stop-1
 global-tests-1
+model-summary-4
 diagnostics-1
 estimated-means-1
 comparisons-1
