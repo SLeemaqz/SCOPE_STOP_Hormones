@@ -59,6 +59,14 @@ mets-1
 prolactin-7
 hpl-7
 gh2-7
+hormone-models
+raw-plots
+scope-vs-stop
+global-tests
+diagnostics
+estimated-means
+comparisons
+plots-for-ga
 session-info-4
 descriptives-1
 by-study-1
@@ -92,4 +100,12 @@ mets-3
 prolactin-13
 hpl-13
 gh2-13
+hormone-models-1
+raw-plots-1
+scope-vs-stop-1
+global-tests-1
+diagnostics-1
+estimated-means-1
+comparisons-1
+plots-for-ga-1
 session-info-5
