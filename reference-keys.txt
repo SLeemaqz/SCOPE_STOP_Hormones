@@ -119,6 +119,10 @@ mets-3
 prolactin-13
 hpl-13
 gh2-13
+birthweight-centile
+prolactin-14
+hpl-14
+gh2-14
 hormone-models-1
 raw-plots-1
 scope-vs-stop-1
@@ -247,7 +251,7 @@ scope-vs-stop-gdm-1
 demographics-8
 mets-10
 outcomes-8
-scope-vs-stop-uncomplicated-1
+scope-vs-stop-non-gdm
 demographics-9
 mets-11
 outcomes-9
