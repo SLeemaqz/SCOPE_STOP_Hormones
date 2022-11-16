@@ -145,6 +145,8 @@ global-tests-3
 model-summary-6
 estimated-means-3
 comparisons-3
+estimated-means-50-unit-increase
+comparisons-50-unit-increase
 diagnostics-3
 plots-1
 folateb12-1
