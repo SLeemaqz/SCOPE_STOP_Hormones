@@ -335,6 +335,8 @@ results
 estimated-means-8
 comparisons-14
 barplots
+comparisons-by-timepoint
+barplots-by-timepoint
 plots-for-ga-2
 folate-3
 global-tests-10
@@ -546,6 +548,8 @@ results-1
 estimated-means-15
 comparisons-27
 barplots-1
+comparisons-by-timepoint-1
+barplots-by-timepoint-1
 plots-for-ga-3
 folate-5
 global-tests-17
