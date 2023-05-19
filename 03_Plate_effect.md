@@ -4070,7 +4070,7 @@ This section explores the Plate effect on hormone levels.
 </table></div>
 
 ## Session info
-**Results generated on: 2023-04-28 13:35:48**
+**Results generated on: 2023-05-19 18:25:48.985357**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -4078,13 +4078,13 @@ sessionInfo()
 ```
 
 ```
-## R version 4.2.3 (2023-03-15)
+## R version 4.3.0 (2023-04-21)
 ## Platform: x86_64-pc-linux-gnu (64-bit)
 ## Running under: Ubuntu 22.04.2 LTS
 ## 
 ## Matrix products: default
-## BLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3
-## LAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.20.so
+## BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.10.0 
+## LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.10.0
 ## 
 ## locale:
 ##  [1] LC_CTYPE=en_AU.UTF-8          LC_NUMERIC=C                 
@@ -4094,54 +4094,56 @@ sessionInfo()
 ##  [9] LC_ADDRESS=en_AU.UTF-8        LC_TELEPHONE=en_AU.UTF-8     
 ## [11] LC_MEASUREMENT=en_AU.UTF-8    LC_IDENTIFICATION=en_AU.UTF-8
 ## 
+## time zone: Australia/Adelaide
+## tzcode source: system (glibc)
+## 
 ## attached base packages:
 ## [1] grid      stats     graphics  grDevices utils     datasets  methods  
 ## [8] base     
 ## 
 ## other attached packages:
 ##  [1] xlsx_0.6.5        plotly_4.10.1     geepack_1.3.9     lmerTest_3.1-3   
-##  [5] lme4_1.1-32       Matrix_1.5-4      ggpubr_0.6.0      emmeans_1.8.5    
-##  [9] car_3.1-2         carData_3.0-5     readxl_1.4.2      Hmisc_5.0-1      
-## [13] fontawesome_0.5.1 htmlwidgets_1.6.2 kableExtra_1.3.4  knitr_1.42       
-## [17] rmarkdown_2.21    ggplot2_3.4.2     devtools_2.4.5    usethis_2.1.6    
-## [21] pander_0.6.5      magrittr_2.0.3    gridExtra_2.3     nvimcom_0.9-75   
+##  [5] lme4_1.1-33       Matrix_1.5-1      ggpubr_0.6.0      emmeans_1.8.5    
+##  [9] car_3.1-2         carData_3.0-5     readxl_1.4.2      Hmisc_4.6-0      
+## [13] Formula_1.2-4     survival_3.5-3    lattice_0.21-8    fontawesome_0.5.1
+## [17] htmlwidgets_1.6.2 kableExtra_1.3.4  knitr_1.42        rmarkdown_2.21   
+## [21] ggplot2_3.4.2     devtools_2.4.3    usethis_2.1.5     pander_0.6.5     
+## [25] magrittr_2.0.3    gridExtra_2.3    
 ## 
 ## loaded via a namespace (and not attached):
-##   [1] minqa_1.2.5         TH.data_1.1-2       colorspace_2.1-0   
-##   [4] ggsignif_0.6.4      ellipsis_0.3.2      estimability_1.4.1 
-##   [7] htmlTable_2.4.1     base64enc_0.1-3     fs_1.6.1           
-##  [10] rstudioapi_0.14     farver_2.1.1        remotes_2.4.2      
-##  [13] fansi_1.0.4         mvtnorm_1.1-3       xml2_1.3.3         
-##  [16] codetools_0.2-19    splines_4.2.3       cachem_1.0.7       
-##  [19] pkgload_1.3.2       Formula_1.2-5       jsonlite_1.8.4     
-##  [22] nloptr_2.0.3        rJava_1.0-6         broom_1.0.4        
-##  [25] cluster_2.1.4       shiny_1.7.4         compiler_4.2.3     
-##  [28] httr_1.4.5          backports_1.4.1     lazyeval_0.2.2     
-##  [31] fastmap_1.1.1       cli_3.6.1           later_1.3.0        
-##  [34] htmltools_0.5.5     prettyunits_1.1.1   tools_4.2.3        
-##  [37] coda_0.19-4         gtable_0.3.3        glue_1.6.2         
-##  [40] dplyr_1.1.2         Rcpp_1.0.10         cellranger_1.1.0   
-##  [43] jquerylib_0.1.4     vctrs_0.6.2         nlme_3.1-162       
-##  [46] svglite_2.1.1       xfun_0.39           stringr_1.5.0      
-##  [49] xlsxjars_0.6.1      ps_1.7.5            rvest_1.0.3        
-##  [52] mime_0.12           miniUI_0.1.1.1      lifecycle_1.0.3    
-##  [55] rstatix_0.7.2       MASS_7.3-58.3       zoo_1.8-12         
-##  [58] scales_1.2.1        promises_1.2.0.1    sandwich_3.0-2     
-##  [61] yaml_2.3.7          memoise_2.0.1       sass_0.4.5         
-##  [64] rpart_4.1.19        stringi_1.7.12      highr_0.10         
-##  [67] checkmate_2.1.0     boot_1.3-28.1       pkgbuild_1.4.0     
-##  [70] rlang_1.1.0         pkgconfig_2.0.3     systemfonts_1.0.4  
-##  [73] evaluate_0.20       lattice_0.21-8      purrr_1.0.1        
-##  [76] labeling_0.4.2      processx_3.8.1      tidyselect_1.2.0   
-##  [79] bookdown_0.33       R6_2.5.1            generics_0.1.3     
-##  [82] profvis_0.3.7       multcomp_1.4-23     pillar_1.9.0       
-##  [85] foreign_0.8-84      withr_2.5.0         survival_3.5-5     
-##  [88] abind_1.4-5         nnet_7.3-18         tibble_3.2.1       
-##  [91] crayon_1.5.2        utf8_1.2.3          urlchecker_1.0.1   
-##  [94] data.table_1.14.8   callr_3.7.3         digest_0.6.31      
-##  [97] webshot_0.5.4       xtable_1.8-4        numDeriv_2016.8-1.1
-## [100] tidyr_1.3.0         httpuv_1.6.9        munsell_0.5.0      
-## [103] viridisLite_0.4.1   bslib_0.4.2         sessioninfo_1.2.2
+##  [1] remotes_2.4.2       sandwich_3.0-1      rlang_1.1.1        
+##  [4] multcomp_1.4-18     compiler_4.3.0      png_0.1-7          
+##  [7] systemfonts_1.0.4   callr_3.7.3         vctrs_0.6.2        
+## [10] rvest_1.0.3         stringr_1.5.0       pkgconfig_2.0.3    
+## [13] crayon_1.5.2        fastmap_1.1.1       backports_1.4.1    
+## [16] ellipsis_0.3.2      labeling_0.4.2      utf8_1.2.3         
+## [19] sessioninfo_1.2.2   nloptr_2.0.0        ps_1.7.5           
+## [22] purrr_1.0.1         xfun_0.39           cachem_1.0.8       
+## [25] jsonlite_1.8.4      highr_0.10          xlsxjars_0.6.1     
+## [28] jpeg_0.1-9          broom_1.0.4         prettyunits_1.1.1  
+## [31] cluster_2.1.4       R6_2.5.1            bslib_0.4.2        
+## [34] stringi_1.7.12      RColorBrewer_1.1-3  boot_1.3-28        
+## [37] pkgload_1.3.2       rpart_4.1.19        numDeriv_2016.8-1.1
+## [40] jquerylib_0.1.4     cellranger_1.1.0    estimability_1.4.1 
+## [43] Rcpp_1.0.10         bookdown_0.34       zoo_1.8-9          
+## [46] base64enc_0.1-3     splines_4.3.0       nnet_7.3-18        
+## [49] tidyselect_1.2.0    rstudioapi_0.14     abind_1.4-5        
+## [52] yaml_2.3.7          codetools_0.2-19    processx_3.8.1     
+## [55] pkgbuild_1.4.0      tibble_3.2.1        withr_2.5.0        
+## [58] coda_0.19-4         evaluate_0.21       foreign_0.8-82     
+## [61] rJava_1.0-6         xml2_1.3.3          pillar_1.9.0       
+## [64] checkmate_2.0.0     generics_0.1.3      munsell_0.5.0      
+## [67] scales_1.2.1        minqa_1.2.4         xtable_1.8-4       
+## [70] glue_1.6.2          lazyeval_0.2.2      tools_4.3.0        
+## [73] data.table_1.14.8   webshot_0.5.4       ggsignif_0.6.4     
+## [76] fs_1.6.2            mvtnorm_1.1-3       tidyr_1.3.0        
+## [79] latticeExtra_0.6-29 colorspace_2.1-0    nlme_3.1-162       
+## [82] htmlTable_2.4.0     cli_3.6.1           fansi_1.0.4        
+## [85] viridisLite_0.4.2   svglite_2.1.0       dplyr_1.1.2        
+## [88] gtable_0.3.3        rstatix_0.7.2       sass_0.4.6         
+## [91] digest_0.6.31       TH.data_1.1-0       farver_2.1.1       
+## [94] memoise_2.0.1       htmltools_0.5.5     lifecycle_1.0.3    
+## [97] httr_1.4.2          MASS_7.3-59
 ```
 </details>
 
