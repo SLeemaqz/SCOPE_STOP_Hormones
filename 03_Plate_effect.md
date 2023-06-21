@@ -4070,7 +4070,7 @@ This section explores the Plate effect on hormone levels.
 </table></div>
 
 ## Session info
-**Results generated on: 2023-05-19 18:25:48.985357**
+**Results generated on: 2023-06-21 16:14:30.960071**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -4102,8 +4102,8 @@ sessionInfo()
 ## [8] base     
 ## 
 ## other attached packages:
-##  [1] xlsx_0.6.5        plotly_4.10.1     geepack_1.3.9     lmerTest_3.1-3   
-##  [5] lme4_1.1-33       Matrix_1.5-1      ggpubr_0.6.0      emmeans_1.8.5    
+##  [1] xlsx_0.6.5        plotly_4.10.2     geepack_1.3.9     lmerTest_3.1-3   
+##  [5] lme4_1.1-33       Matrix_1.5-4.1    ggpubr_0.6.0      emmeans_1.8.5    
 ##  [9] car_3.1-2         carData_3.0-5     readxl_1.4.2      Hmisc_4.6-0      
 ## [13] Formula_1.2-4     survival_3.5-3    lattice_0.21-8    fontawesome_0.5.1
 ## [17] htmlwidgets_1.6.2 kableExtra_1.3.4  knitr_1.42        rmarkdown_2.21   
@@ -4130,20 +4130,20 @@ sessionInfo()
 ## [49] tidyselect_1.2.0    rstudioapi_0.14     abind_1.4-5        
 ## [52] yaml_2.3.7          codetools_0.2-19    processx_3.8.1     
 ## [55] pkgbuild_1.4.0      tibble_3.2.1        withr_2.5.0        
-## [58] coda_0.19-4         evaluate_0.21       foreign_0.8-82     
-## [61] rJava_1.0-6         xml2_1.3.3          pillar_1.9.0       
-## [64] checkmate_2.0.0     generics_0.1.3      munsell_0.5.0      
-## [67] scales_1.2.1        minqa_1.2.4         xtable_1.8-4       
-## [70] glue_1.6.2          lazyeval_0.2.2      tools_4.3.0        
-## [73] data.table_1.14.8   webshot_0.5.4       ggsignif_0.6.4     
-## [76] fs_1.6.2            mvtnorm_1.1-3       tidyr_1.3.0        
-## [79] latticeExtra_0.6-29 colorspace_2.1-0    nlme_3.1-162       
-## [82] htmlTable_2.4.0     cli_3.6.1           fansi_1.0.4        
-## [85] viridisLite_0.4.2   svglite_2.1.0       dplyr_1.1.2        
-## [88] gtable_0.3.3        rstatix_0.7.2       sass_0.4.6         
-## [91] digest_0.6.31       TH.data_1.1-0       farver_2.1.1       
-## [94] memoise_2.0.1       htmltools_0.5.5     lifecycle_1.0.3    
-## [97] httr_1.4.2          MASS_7.3-59
+## [58] evaluate_0.21       foreign_0.8-82      rJava_1.0-6        
+## [61] xml2_1.3.3          pillar_1.9.0        checkmate_2.0.0    
+## [64] generics_0.1.3      munsell_0.5.0       scales_1.2.1       
+## [67] minqa_1.2.4         xtable_1.8-4        glue_1.6.2         
+## [70] lazyeval_0.2.2      tools_4.3.0         data.table_1.14.8  
+## [73] webshot_0.5.4       ggsignif_0.6.4      fs_1.6.2           
+## [76] mvtnorm_1.1-3       tidyr_1.3.0         latticeExtra_0.6-29
+## [79] colorspace_2.1-0    nlme_3.1-162        htmlTable_2.4.0    
+## [82] cli_3.6.1           fansi_1.0.4         viridisLite_0.4.2  
+## [85] svglite_2.1.0       dplyr_1.1.2         gtable_0.3.3       
+## [88] rstatix_0.7.2       sass_0.4.6          digest_0.6.31      
+## [91] TH.data_1.1-0       farver_2.1.1        memoise_2.0.1      
+## [94] htmltools_0.5.5     lifecycle_1.0.3     httr_1.4.2         
+## [97] MASS_7.3-59
 ```
 </details>
 

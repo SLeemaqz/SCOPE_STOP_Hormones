@@ -1070,7 +1070,7 @@ std_fit2 <- lapply(1:length(std_ls),function(k){lm(Abs.ave ~ ns(Conc,df=3),data=
 </details>
 
 ### Session info
-**Results generated on: 2023-05-19 18:25:43.59456**
+**Results generated on: 2023-06-21 16:14:26.239496**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -1078,13 +1078,13 @@ sessionInfo()
 ```
 
 ```
-## R version 4.2.3 (2023-03-15)
+## R version 4.3.0 (2023-04-21)
 ## Platform: x86_64-pc-linux-gnu (64-bit)
 ## Running under: Ubuntu 22.04.2 LTS
 ## 
 ## Matrix products: default
-## BLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3
-## LAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.20.so
+## BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.10.0 
+## LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.10.0
 ## 
 ## locale:
 ##  [1] LC_CTYPE=en_AU.UTF-8       LC_NUMERIC=C              
@@ -1094,37 +1094,37 @@ sessionInfo()
 ##  [9] LC_ADDRESS=C               LC_TELEPHONE=C            
 ## [11] LC_MEASUREMENT=en_AU.UTF-8 LC_IDENTIFICATION=C       
 ## 
+## time zone: Australia/Adelaide
+## tzcode source: system (glibc)
+## 
 ## attached base packages:
 ##  [1] parallel  splines   grid      stats     graphics  grDevices utils    
 ##  [8] datasets  methods   base     
 ## 
 ## other attached packages:
 ##  [1] widgetframe_0.3.1 fontawesome_0.5.1 doParallel_1.0.17 iterators_1.0.14 
-##  [5] foreach_1.5.2     plotly_4.10.1     investr_1.4.2     readxl_1.4.2     
+##  [5] foreach_1.5.2     plotly_4.10.2     investr_1.4.2     readxl_1.4.2     
 ##  [9] htmlwidgets_1.6.2 kableExtra_1.3.4  knitr_1.42        rmarkdown_2.21   
-## [13] ggplot2_3.4.2     devtools_2.4.5    usethis_2.1.6     pander_0.6.5     
-## [17] magrittr_2.0.3    gridExtra_2.3     nvimcom_0.9-75   
+## [13] ggplot2_3.4.2     devtools_2.4.3    usethis_2.1.5     pander_0.6.5     
+## [17] magrittr_2.0.3    gridExtra_2.3    
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] httr_1.4.5        tidyr_1.3.0       sass_0.4.5        pkgload_1.3.2    
-##  [5] jsonlite_1.8.4    viridisLite_0.4.1 bslib_0.4.2       shiny_1.7.4      
-##  [9] highr_0.10        cellranger_1.1.0  yaml_2.3.7        remotes_2.4.2    
-## [13] sessioninfo_1.2.2 pillar_1.9.0      glue_1.6.2        digest_0.6.31    
-## [17] promises_1.2.0.1  rvest_1.0.3       colorspace_2.1-0  htmltools_0.5.5  
-## [21] httpuv_1.6.9      pkgconfig_2.0.3   bookdown_0.33     purrr_1.0.1      
-## [25] xtable_1.8-4      scales_1.2.1      webshot_0.5.4     processx_3.8.1   
-## [29] svglite_2.1.1     later_1.3.0       tibble_3.2.1      generics_0.1.3   
-## [33] ellipsis_0.3.2    cachem_1.0.7      withr_2.5.0       lazyeval_0.2.2   
-## [37] cli_3.6.1         crayon_1.5.2      mime_0.12         memoise_2.0.1    
-## [41] evaluate_0.20     ps_1.7.5          fs_1.6.1          fansi_1.0.4      
-## [45] xml2_1.3.3        pkgbuild_1.4.0    data.table_1.14.8 profvis_0.3.7    
-## [49] tools_4.2.3       prettyunits_1.1.1 lifecycle_1.0.3   stringr_1.5.0    
-## [53] munsell_0.5.0     callr_3.7.3       compiler_4.2.3    jquerylib_0.1.4  
-## [57] systemfonts_1.0.4 rlang_1.1.0       rstudioapi_0.14   crosstalk_1.2.0  
-## [61] miniUI_0.1.1.1    codetools_0.2-19  gtable_0.3.3      R6_2.5.1         
-## [65] dplyr_1.1.2       fastmap_1.1.1     utf8_1.2.3        stringi_1.7.12   
-## [69] Rcpp_1.0.10       vctrs_0.6.2       tidyselect_1.2.0  xfun_0.39        
-## [73] urlchecker_1.0.1
+##  [1] gtable_0.3.3      xfun_0.39         bslib_0.4.2       remotes_2.4.2    
+##  [5] processx_3.8.1    callr_3.7.3       crosstalk_1.2.0   vctrs_0.6.2      
+##  [9] tools_4.3.0       ps_1.7.5          generics_0.1.3    tibble_3.2.1     
+## [13] fansi_1.0.4       highr_0.10        pkgconfig_2.0.3   data.table_1.14.8
+## [17] webshot_0.5.4     lifecycle_1.0.3   compiler_4.3.0    stringr_1.5.0    
+## [21] munsell_0.5.0     codetools_0.2-19  htmltools_0.5.5   sass_0.4.6       
+## [25] yaml_2.3.7        lazyeval_0.2.2    tidyr_1.3.0       pillar_1.9.0     
+## [29] crayon_1.5.2      jquerylib_0.1.4   ellipsis_0.3.2    cachem_1.0.8     
+## [33] sessioninfo_1.2.2 tidyselect_1.2.0  rvest_1.0.3       digest_0.6.31    
+## [37] stringi_1.7.12    dplyr_1.1.2       purrr_1.0.1       bookdown_0.34    
+## [41] fastmap_1.1.1     colorspace_2.1-0  cli_3.6.1         pkgbuild_1.4.0   
+## [45] utf8_1.2.3        withr_2.5.0       prettyunits_1.1.1 scales_1.2.1     
+## [49] httr_1.4.2        cellranger_1.1.0  memoise_2.0.1     evaluate_0.21    
+## [53] viridisLite_0.4.2 rlang_1.1.1       Rcpp_1.0.10       glue_1.6.2       
+## [57] xml2_1.3.3        pkgload_1.3.2     svglite_2.1.0     rstudioapi_0.14  
+## [61] jsonlite_1.8.4    R6_2.5.1          systemfonts_1.0.4 fs_1.6.2
 ```
 </details>
 
@@ -2131,7 +2131,7 @@ std_fit <- lapply(1:length(std_ls),function(k){ #fit 4PL
 </details>
 
 ### Session info
-**Results generated on: 2023-05-19 18:25:43.632262**
+**Results generated on: 2023-06-21 16:14:26.272605**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -2139,13 +2139,13 @@ sessionInfo()
 ```
 
 ```
-## R version 4.2.3 (2023-03-15)
+## R version 4.3.0 (2023-04-21)
 ## Platform: x86_64-pc-linux-gnu (64-bit)
 ## Running under: Ubuntu 22.04.2 LTS
 ## 
 ## Matrix products: default
-## BLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3
-## LAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.20.so
+## BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.10.0 
+## LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.10.0
 ## 
 ## locale:
 ##  [1] LC_CTYPE=en_AU.UTF-8       LC_NUMERIC=C              
@@ -2155,38 +2155,38 @@ sessionInfo()
 ##  [9] LC_ADDRESS=C               LC_TELEPHONE=C            
 ## [11] LC_MEASUREMENT=en_AU.UTF-8 LC_IDENTIFICATION=C       
 ## 
+## time zone: Australia/Adelaide
+## tzcode source: system (glibc)
+## 
 ## attached base packages:
 ##  [1] parallel  splines   grid      stats     graphics  grDevices utils    
 ##  [8] datasets  methods   base     
 ## 
 ## other attached packages:
 ##  [1] minpack.lm_1.2-3  nlme_3.1-162      widgetframe_0.3.1 fontawesome_0.5.1
-##  [5] doParallel_1.0.17 iterators_1.0.14  foreach_1.5.2     plotly_4.10.1    
+##  [5] doParallel_1.0.17 iterators_1.0.14  foreach_1.5.2     plotly_4.10.2    
 ##  [9] investr_1.4.2     readxl_1.4.2      htmlwidgets_1.6.2 kableExtra_1.3.4 
-## [13] knitr_1.42        rmarkdown_2.21    ggplot2_3.4.2     devtools_2.4.5   
-## [17] usethis_2.1.6     pander_0.6.5      magrittr_2.0.3    gridExtra_2.3    
-## [21] nvimcom_0.9-75   
+## [13] knitr_1.42        rmarkdown_2.21    ggplot2_3.4.2     devtools_2.4.3   
+## [17] usethis_2.1.5     pander_0.6.5      magrittr_2.0.3    gridExtra_2.3    
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] fs_1.6.1          webshot_0.5.4     httr_1.4.5        tools_4.2.3      
-##  [5] profvis_0.3.7     bslib_0.4.2       utf8_1.2.3        R6_2.5.1         
-##  [9] lazyeval_0.2.2    colorspace_2.1-0  urlchecker_1.0.1  withr_2.5.0      
-## [13] tidyselect_1.2.0  prettyunits_1.1.1 processx_3.8.1    compiler_4.2.3   
-## [17] cli_3.6.1         rvest_1.0.3       xml2_1.3.3        bookdown_0.33    
-## [21] sass_0.4.5        scales_1.2.1      callr_3.7.3       systemfonts_1.0.4
-## [25] stringr_1.5.0     digest_0.6.31     svglite_2.1.1     pkgconfig_2.0.3  
-## [29] htmltools_0.5.5   sessioninfo_1.2.2 fastmap_1.1.1     highr_0.10       
-## [33] rlang_1.1.0       rstudioapi_0.14   shiny_1.7.4       jquerylib_0.1.4  
-## [37] generics_0.1.3    jsonlite_1.8.4    crosstalk_1.2.0   dplyr_1.1.2      
-## [41] Rcpp_1.0.10       munsell_0.5.0     fansi_1.0.4       lifecycle_1.0.3  
-## [45] stringi_1.7.12    yaml_2.3.7        pkgbuild_1.4.0    promises_1.2.0.1 
-## [49] crayon_1.5.2      lattice_0.21-8    miniUI_0.1.1.1    ps_1.7.5         
-## [53] pillar_1.9.0      codetools_0.2-19  pkgload_1.3.2     glue_1.6.2       
-## [57] evaluate_0.20     data.table_1.14.8 remotes_2.4.2     vctrs_0.6.2      
-## [61] httpuv_1.6.9      cellranger_1.1.0  gtable_0.3.3      purrr_1.0.1      
-## [65] tidyr_1.3.0       cachem_1.0.7      xfun_0.39         mime_0.12        
-## [69] xtable_1.8-4      later_1.3.0       viridisLite_0.4.1 tibble_3.2.1     
-## [73] memoise_2.0.1     ellipsis_0.3.2
+##  [1] gtable_0.3.3      xfun_0.39         bslib_0.4.2       remotes_2.4.2    
+##  [5] processx_3.8.1    lattice_0.21-8    callr_3.7.3       crosstalk_1.2.0  
+##  [9] vctrs_0.6.2       tools_4.3.0       ps_1.7.5          generics_0.1.3   
+## [13] tibble_3.2.1      fansi_1.0.4       highr_0.10        pkgconfig_2.0.3  
+## [17] data.table_1.14.8 webshot_0.5.4     lifecycle_1.0.3   compiler_4.3.0   
+## [21] stringr_1.5.0     munsell_0.5.0     codetools_0.2-19  htmltools_0.5.5  
+## [25] sass_0.4.6        yaml_2.3.7        lazyeval_0.2.2    tidyr_1.3.0      
+## [29] pillar_1.9.0      crayon_1.5.2      jquerylib_0.1.4   ellipsis_0.3.2   
+## [33] cachem_1.0.8      sessioninfo_1.2.2 tidyselect_1.2.0  rvest_1.0.3      
+## [37] digest_0.6.31     stringi_1.7.12    dplyr_1.1.2       purrr_1.0.1      
+## [41] bookdown_0.34     fastmap_1.1.1     colorspace_2.1-0  cli_3.6.1        
+## [45] pkgbuild_1.4.0    utf8_1.2.3        withr_2.5.0       prettyunits_1.1.1
+## [49] scales_1.2.1      httr_1.4.2        cellranger_1.1.0  memoise_2.0.1    
+## [53] evaluate_0.21     viridisLite_0.4.2 rlang_1.1.1       Rcpp_1.0.10      
+## [57] glue_1.6.2        xml2_1.3.3        pkgload_1.3.2     svglite_2.1.0    
+## [61] rstudioapi_0.14   jsonlite_1.8.4    R6_2.5.1          systemfonts_1.0.4
+## [65] fs_1.6.2
 ```
 </details>
 
@@ -3397,7 +3397,7 @@ std_fit <- lapply(1:length(std_ls),function(k){lm(Abs.ave ~ ns(Conc,df=3),data=s
 </details>
 
 ### Session info
-**Results generated on: 2023-05-19 18:25:43.677666**
+**Results generated on: 2023-06-21 16:14:26.313248**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -3405,13 +3405,13 @@ sessionInfo()
 ```
 
 ```
-## R version 4.2.3 (2023-03-15)
+## R version 4.3.0 (2023-04-21)
 ## Platform: x86_64-pc-linux-gnu (64-bit)
 ## Running under: Ubuntu 22.04.2 LTS
 ## 
 ## Matrix products: default
-## BLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3
-## LAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.20.so
+## BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.10.0 
+## LAPACK: /usr/lib/x86_64-linux-gnu/lapack/liblapack.so.3.10.0
 ## 
 ## locale:
 ##  [1] LC_CTYPE=en_AU.UTF-8       LC_NUMERIC=C              
@@ -3421,38 +3421,38 @@ sessionInfo()
 ##  [9] LC_ADDRESS=C               LC_TELEPHONE=C            
 ## [11] LC_MEASUREMENT=en_AU.UTF-8 LC_IDENTIFICATION=C       
 ## 
+## time zone: Australia/Adelaide
+## tzcode source: system (glibc)
+## 
 ## attached base packages:
 ##  [1] parallel  splines   grid      stats     graphics  grDevices utils    
 ##  [8] datasets  methods   base     
 ## 
 ## other attached packages:
 ##  [1] minpack.lm_1.2-3  nlme_3.1-162      widgetframe_0.3.1 fontawesome_0.5.1
-##  [5] doParallel_1.0.17 iterators_1.0.14  foreach_1.5.2     plotly_4.10.1    
+##  [5] doParallel_1.0.17 iterators_1.0.14  foreach_1.5.2     plotly_4.10.2    
 ##  [9] investr_1.4.2     readxl_1.4.2      htmlwidgets_1.6.2 kableExtra_1.3.4 
-## [13] knitr_1.42        rmarkdown_2.21    ggplot2_3.4.2     devtools_2.4.5   
-## [17] usethis_2.1.6     pander_0.6.5      magrittr_2.0.3    gridExtra_2.3    
-## [21] nvimcom_0.9-75   
+## [13] knitr_1.42        rmarkdown_2.21    ggplot2_3.4.2     devtools_2.4.3   
+## [17] usethis_2.1.5     pander_0.6.5      magrittr_2.0.3    gridExtra_2.3    
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] fs_1.6.1          webshot_0.5.4     httr_1.4.5        tools_4.2.3      
-##  [5] profvis_0.3.7     bslib_0.4.2       utf8_1.2.3        R6_2.5.1         
-##  [9] lazyeval_0.2.2    colorspace_2.1-0  urlchecker_1.0.1  withr_2.5.0      
-## [13] tidyselect_1.2.0  prettyunits_1.1.1 processx_3.8.1    compiler_4.2.3   
-## [17] cli_3.6.1         rvest_1.0.3       xml2_1.3.3        bookdown_0.33    
-## [21] sass_0.4.5        scales_1.2.1      callr_3.7.3       systemfonts_1.0.4
-## [25] stringr_1.5.0     digest_0.6.31     svglite_2.1.1     pkgconfig_2.0.3  
-## [29] htmltools_0.5.5   sessioninfo_1.2.2 fastmap_1.1.1     highr_0.10       
-## [33] rlang_1.1.0       rstudioapi_0.14   shiny_1.7.4       jquerylib_0.1.4  
-## [37] generics_0.1.3    jsonlite_1.8.4    crosstalk_1.2.0   dplyr_1.1.2      
-## [41] Rcpp_1.0.10       munsell_0.5.0     fansi_1.0.4       lifecycle_1.0.3  
-## [45] stringi_1.7.12    yaml_2.3.7        pkgbuild_1.4.0    promises_1.2.0.1 
-## [49] crayon_1.5.2      lattice_0.21-8    miniUI_0.1.1.1    ps_1.7.5         
-## [53] pillar_1.9.0      codetools_0.2-19  pkgload_1.3.2     glue_1.6.2       
-## [57] evaluate_0.20     data.table_1.14.8 remotes_2.4.2     vctrs_0.6.2      
-## [61] httpuv_1.6.9      cellranger_1.1.0  gtable_0.3.3      purrr_1.0.1      
-## [65] tidyr_1.3.0       cachem_1.0.7      xfun_0.39         mime_0.12        
-## [69] xtable_1.8-4      later_1.3.0       viridisLite_0.4.1 tibble_3.2.1     
-## [73] memoise_2.0.1     ellipsis_0.3.2
+##  [1] gtable_0.3.3      xfun_0.39         bslib_0.4.2       remotes_2.4.2    
+##  [5] processx_3.8.1    lattice_0.21-8    callr_3.7.3       crosstalk_1.2.0  
+##  [9] vctrs_0.6.2       tools_4.3.0       ps_1.7.5          generics_0.1.3   
+## [13] tibble_3.2.1      fansi_1.0.4       highr_0.10        pkgconfig_2.0.3  
+## [17] data.table_1.14.8 webshot_0.5.4     lifecycle_1.0.3   compiler_4.3.0   
+## [21] stringr_1.5.0     munsell_0.5.0     codetools_0.2-19  htmltools_0.5.5  
+## [25] sass_0.4.6        yaml_2.3.7        lazyeval_0.2.2    tidyr_1.3.0      
+## [29] pillar_1.9.0      crayon_1.5.2      jquerylib_0.1.4   ellipsis_0.3.2   
+## [33] cachem_1.0.8      sessioninfo_1.2.2 tidyselect_1.2.0  rvest_1.0.3      
+## [37] digest_0.6.31     stringi_1.7.12    dplyr_1.1.2       purrr_1.0.1      
+## [41] bookdown_0.34     fastmap_1.1.1     colorspace_2.1-0  cli_3.6.1        
+## [45] pkgbuild_1.4.0    utf8_1.2.3        withr_2.5.0       prettyunits_1.1.1
+## [49] scales_1.2.1      httr_1.4.2        cellranger_1.1.0  memoise_2.0.1    
+## [53] evaluate_0.21     viridisLite_0.4.2 rlang_1.1.1       Rcpp_1.0.10      
+## [57] glue_1.6.2        xml2_1.3.3        pkgload_1.3.2     svglite_2.1.0    
+## [61] rstudioapi_0.14   jsonlite_1.8.4    R6_2.5.1          systemfonts_1.0.4
+## [65] fs_1.6.2
 ```
 </details>
 
