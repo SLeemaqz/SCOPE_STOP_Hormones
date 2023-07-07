@@ -517,7 +517,7 @@ Descriptives on raw data. <br />
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.69 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.71 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -573,7 +573,7 @@ Descriptives on raw data. <br />
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.17 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.18 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -6967,13 +6967,13 @@ mod_ls <- lapply(c(hormone_var,insulin_var),function(x){
 			 return(mod1)})
 #mod_em <- lapply(mod_ls,function(x){emmeans(x,as.formula(paste0("revpairwise~",fvarc,"|Study")),type="response")})
 #mod_em2 <- lapply(mod_ls,function(x){emmeans(x,as.formula(paste0("revpairwise~Study|",fvarc)),type="response")})
-mod_em <- foreach(ind1=1:length(mod_ls),.packages=c("emmeans","lme4","lmerTest","geepack")) %dopar% {
+mod_em <- foreach(ind1=1:length(mod_ls)) %dofuture% {
 	if(!any(class(mod_ls[[ind1]])%in%"gee")){
 	em1 <- emmeans(mod_ls[[ind1]],as.formula(paste0("revpairwise~",fvarc,"|Study")),type="response",lmer.df="satterthwaite",data=dat_run)}
 	if(any(class(mod_ls[[ind1]])%in%"gee")){
 	em1 <- emmeans(mod_ls[[ind1]],as.formula(paste0("revpairwise~",fvarc,"|Study")),type="response")}
 	return(em1)}
-mod_em2 <- foreach(ind2=1:length(mod_ls),.packages=c("emmeans","lme4","lmerTest","geepack")) %dopar% {
+mod_em2 <- foreach(ind2=1:length(mod_ls)) %dofuture% {
 	if(!any(class(mod_ls[[ind2]])%in%"gee")){
 	em2 <- emmeans(mod_ls[[ind2]],as.formula(paste0("revpairwise~Study|",fvarc)),type="response",lmer.df="satterthwaite",data=dat_run)}
 	if(any(class(mod_ls[[ind2]])%in%"gee")){
@@ -6982,7 +6982,7 @@ mod_em2 <- foreach(ind2=1:length(mod_ls),.packages=c("emmeans","lme4","lmerTest"
 names(mod_ls) <- names(mod_em) <- names(mod_em2) <- c(hormone_var,insulin_var)
 
 #mod_sum <- lapply(mod_ls,extract.ci.lme,rc=2,eff.exp=T) #model summary
-mod_sum <- foreach(ind3=1:length(mod_ls),.packages=c("lme4","lmerTest","geepack")) %dopar% {
+mod_sum <- foreach(ind3=1:length(mod_ls)) %dofuture% {
 	extract.ci.mod(mod_ls[[ind3]],rc=2,eff.exp=T)} #model summary
 names(mod_sum) <- c(hormone_var,insulin_var)
 mod_em_est <- lapply(mod_em,function(x) round_df(data.frame(x$emmeans),2)) #estimated means
@@ -21284,7 +21284,7 @@ Model diagnositcs.
 
 
 # Session info
-**Results generated on: 2023-06-21 16:17:24.244787**
+**Results generated on: 2023-07-07 14:30:25.102982**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -21292,7 +21292,7 @@ sessionInfo()
 ```
 
 ```
-## R version 4.3.0 (2023-04-21)
+## R version 4.3.1 (2023-06-16)
 ## Platform: x86_64-pc-linux-gnu (64-bit)
 ## Running under: Ubuntu 22.04.2 LTS
 ## 
@@ -21312,52 +21312,54 @@ sessionInfo()
 ## tzcode source: system (glibc)
 ## 
 ## attached base packages:
-##  [1] parallel  splines   grid      stats     graphics  grDevices utils    
-##  [8] datasets  methods   base     
+## [1] splines   grid      stats     graphics  grDevices utils     datasets 
+## [8] methods   base     
 ## 
 ## other attached packages:
 ##  [1] ggpubr_0.6.0      car_3.1-2         carData_3.0-5     xlsx_0.6.5       
-##  [5] geepack_1.3.9     doParallel_1.0.17 iterators_1.0.14  foreach_1.5.2    
+##  [5] geepack_1.3.9     doFuture_1.0.0    future_1.32.0     foreach_1.5.2    
 ##  [9] emmeans_1.8.5     lmerTest_3.1-3    lme4_1.1-33       Matrix_1.5-4.1   
 ## [13] readxl_1.4.2      fontawesome_0.5.1 htmlwidgets_1.6.2 kableExtra_1.3.4 
 ## [17] knitr_1.42        rmarkdown_2.21    devtools_2.4.3    usethis_2.1.5    
 ## [21] pander_0.6.5      magrittr_2.0.3    gridExtra_2.3     Hmisc_4.6-0      
-## [25] ggplot2_3.4.2     Formula_1.2-4     survival_3.5-3    lattice_0.21-8   
+## [25] ggplot2_3.4.2     Formula_1.2-4     survival_3.5-5    lattice_0.21-8   
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] remotes_2.4.2       sandwich_3.0-1      rlang_1.1.1        
-##  [4] multcomp_1.4-18     compiler_4.3.0      mgcv_1.8-42        
-##  [7] png_0.1-7           systemfonts_1.0.4   callr_3.7.3        
-## [10] vctrs_0.6.2         rvest_1.0.3         stringr_1.5.0      
-## [13] pkgconfig_2.0.3     crayon_1.5.2        fastmap_1.1.1      
-## [16] backports_1.4.1     ellipsis_0.3.2      labeling_0.4.2     
-## [19] utf8_1.2.3          sessioninfo_1.2.2   ps_1.7.5           
-## [22] nloptr_2.0.0        purrr_1.0.1         xfun_0.39          
-## [25] cachem_1.0.8        jsonlite_1.8.4      highr_0.10         
-## [28] xlsxjars_0.6.1      jpeg_0.1-9          broom_1.0.4        
-## [31] prettyunits_1.1.1   cluster_2.1.4       R6_2.5.1           
-## [34] bslib_0.4.2         stringi_1.7.12      RColorBrewer_1.1-3 
-## [37] boot_1.3-28         pkgload_1.3.2       rpart_4.1.19       
-## [40] jquerylib_0.1.4     cellranger_1.1.0    numDeriv_2016.8-1.1
-## [43] estimability_1.4.1  Rcpp_1.0.10         bookdown_0.34      
-## [46] zoo_1.8-9           base64enc_0.1-3     nnet_7.3-18        
-## [49] tidyselect_1.2.0    abind_1.4-5         rstudioapi_0.14    
-## [52] yaml_2.3.7          codetools_0.2-19    processx_3.8.1     
-## [55] pkgbuild_1.4.0      tibble_3.2.1        withr_2.5.0        
-## [58] evaluate_0.21       foreign_0.8-82      rJava_1.0-6        
-## [61] xml2_1.3.3          pillar_1.9.0        checkmate_2.0.0    
-## [64] generics_0.1.3      munsell_0.5.0       scales_1.2.1       
-## [67] minqa_1.2.4         xtable_1.8-4        glue_1.6.2         
-## [70] tools_4.3.0         data.table_1.14.8   ggsignif_0.6.4     
-## [73] webshot_0.5.4       fs_1.6.2            mvtnorm_1.1-3      
-## [76] tidyr_1.3.0         latticeExtra_0.6-29 colorspace_2.1-0   
-## [79] nlme_3.1-162        htmlTable_2.4.0     cli_3.6.1          
-## [82] fansi_1.0.4         viridisLite_0.4.2   svglite_2.1.0      
-## [85] dplyr_1.1.2         gtable_0.3.3        rstatix_0.7.2      
-## [88] sass_0.4.6          digest_0.6.31       pbkrtest_0.5.2     
-## [91] TH.data_1.1-0       farver_2.1.1        memoise_2.0.1      
-## [94] htmltools_0.5.5     lifecycle_1.0.3     httr_1.4.2         
-## [97] MASS_7.3-59
+##   [1] RColorBrewer_1.1-3  rstudioapi_0.14     jsonlite_1.8.4     
+##   [4] TH.data_1.1-0       estimability_1.4.1  farver_2.1.1       
+##   [7] nloptr_2.0.0        fs_1.6.2            vctrs_0.6.2        
+##  [10] memoise_2.0.1       minqa_1.2.4         base64enc_0.1-3    
+##  [13] rstatix_0.7.2       webshot_0.5.4       htmltools_0.5.5    
+##  [16] broom_1.0.4         cellranger_1.1.0    sass_0.4.6         
+##  [19] parallelly_1.36.0   bslib_0.4.2         pbkrtest_0.5.2     
+##  [22] sandwich_3.0-1      zoo_1.8-9           cachem_1.0.8       
+##  [25] lifecycle_1.0.3     iterators_1.0.14    pkgconfig_2.0.3    
+##  [28] R6_2.5.1            fastmap_1.1.1       digest_0.6.31      
+##  [31] numDeriv_2016.8-1.1 colorspace_2.1-0    ps_1.7.5           
+##  [34] pkgload_1.3.2       labeling_0.4.2      fansi_1.0.4        
+##  [37] mgcv_1.8-42         httr_1.4.2          abind_1.4-5        
+##  [40] compiler_4.3.1      remotes_2.4.2       withr_2.5.0        
+##  [43] htmlTable_2.4.0     backports_1.4.1     pkgbuild_1.4.0     
+##  [46] highr_0.10          ggsignif_0.6.4      MASS_7.3-60        
+##  [49] sessioninfo_1.2.2   tools_4.3.1         foreign_0.8-82     
+##  [52] future.apply_1.8.1  nnet_7.3-19         glue_1.6.2         
+##  [55] callr_3.7.3         nlme_3.1-162        checkmate_2.0.0    
+##  [58] cluster_2.1.4       generics_0.1.3      gtable_0.3.3       
+##  [61] tidyr_1.3.0         data.table_1.14.8   xml2_1.3.3         
+##  [64] utf8_1.2.3          pillar_1.9.0        stringr_1.5.0      
+##  [67] rJava_1.0-6         dplyr_1.1.2         tidyselect_1.2.0   
+##  [70] bookdown_0.34       svglite_2.1.0       xfun_0.39          
+##  [73] stringi_1.7.12      yaml_2.3.7          boot_1.3-28        
+##  [76] evaluate_0.21       codetools_0.2-19    xlsxjars_0.6.1     
+##  [79] tibble_3.2.1        cli_3.6.1           rpart_4.1.19       
+##  [82] xtable_1.8-4        systemfonts_1.0.4   munsell_0.5.0      
+##  [85] processx_3.8.1      jquerylib_0.1.4     Rcpp_1.0.10        
+##  [88] globals_0.16.2      png_0.1-7           parallel_4.3.1     
+##  [91] ellipsis_0.3.2      prettyunits_1.1.1   latticeExtra_0.6-29
+##  [94] jpeg_0.1-9          listenv_0.8.0       viridisLite_0.4.2  
+##  [97] mvtnorm_1.1-3       scales_1.2.1        purrr_1.0.1        
+## [100] crayon_1.5.2        rlang_1.1.1         rvest_1.0.3        
+## [103] multcomp_1.4-18
 ```
 </details>
 

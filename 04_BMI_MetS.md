@@ -2017,68 +2017,15 @@ Descriptives on raw data.<br />
 
 LME for duplicated or repeated measures shown on next page.
 
-```r
-fvarc <- "folate_cat2"
-```
 
 
-```r
-mod_ls <- lapply(c(hormone_var,insulin_var),function(x){
-	 if(x%in%hormone_var){ #LME for hormones
-	 mod_eq <- as.formula(paste0("log(",x,")~",fvarc,"+",fvarc,"*Study + GA_samp + Study + (1|Study.ID) + (1|Assay.",x,")")) #log
-			 mod <- eval(bquote(lmer(.(mod_eq),data=dat_run)))}
-	 if(x%in%insulin_var){ #GEE for insulin
-			dat_tmp <- na.omit(dat_run[with(dat_run,order(Study,Study.ID)),c("Study","Study.ID","GA_samp",fvarc,x)])
-			dat_tmp <- dat_tmp[with(dat_tmp,order(Study,Study.ID)),]
-			mod_eq <- as.formula(paste0("log(",x,")~",fvarc,"+",fvarc,"*Study + GA_samp + Study"))
-			mod <- eval(bquote(geeglm(.(mod_eq),data=dat_tmp,id=Study.ID,corstr="independence")))}
-			 return(mod)})
-```
-
-```
-## Warning in checkConv(attr(opt, "derivs"), opt$par, ctrl = control$checkConv, :
-## Model failed to converge with max|grad| = 0.00274069 (tol = 0.002, component 1)
-```
-
-```r
-mod_em <- foreach(ind1=1:length(mod_ls),.packages=c("emmeans","lme4","lmerTest")) %dopar% {
-	emmeans(mod_ls[[ind1]],as.formula(paste0("revpairwise~",fvarc,"|Study")),type="response",lmer.df="satterthwaite")}
-mod_em2 <- foreach(ind2=1:length(mod_ls),.packages=c("emmeans","lme4","lmerTest")) %dopar% {
-	emmeans(mod_ls[[ind2]],as.formula(paste0("revpairwise~Study|",fvarc)),type="response",lmer.df="satterthwaite")}
-names(mod_ls) <- names(mod_em) <- names(mod_em2) <- c(hormone_var,insulin_var)
-
-#mod_sum <- lapply(mod_ls,extract.ci.lme,rc=2,eff.exp=T) #model summary
-mod_sum <- foreach(ind3=1:length(mod_ls),.packages=c("lme4","lmerTest","geepack")) %dopar% {
-	extract.ci.mod(mod_ls[[ind3]],rc=2,eff.exp=T)} #model summary
-names(mod_sum) <- c(hormone_var,insulin_var)
-mod_em_est <- lapply(mod_em,function(x) round_df(data.frame(x$emmeans),2)) #estimated means
-mod_em_sum1 <- lapply(mod_em,emmeans.sum) #post-hoc contrasts
-mod_em_sum2 <- lapply(mod_em2,emmeans.sum) #post-hoc contrasts
-mod_em_sum <- mapply(function(x,y){
-			     x[,2] <- paste(dat_labels[names(x)[2]],x[,2],sep=": ")
-			     y[,2] <- paste(dat_labels[names(y)[2]],y[,2],sep=": ")
-			     names(x)[2] <- names(y)[2] <- "Subgroup"
-			     return(rbind(x,y))},
-			     mod_em_sum1,mod_em_sum2,SIMPLIFY=F)
-```
 
 ## Prolactin
 
 
 
 
-```r
-cat("\n<b>Model summary</b>\n")	
-```
-
-
 <b>Model summary</b>
-
-```r
-mod_sum[[varc]] %>% kbl() %>%
-	kable_classic(full_width=F,font_size=16,position="left")
-```
-
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -2126,18 +2073,8 @@ mod_sum[[varc]] %>% kbl() %>%
 </tbody>
 </table>
 
-```r
-cat("\n<b>Estimated marginal means</b>\n")
-```
-
 
 <b>Estimated marginal means</b>
-
-```r
-mod_em_est[[varc]] %>% kbl() %>%
-	kable_classic(full_width=F,font_size=16,position="left")
-```
-
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -2208,39 +2145,10 @@ mod_em_est[[varc]] %>% kbl() %>%
 </tbody>
 </table>
 
-```r
-if(!any(class(mod_ls[[varc]])%in%"gee")){
-	p1 <- ggplot(mod_em_est[[varc]], aes(x=get(names(mod_em_est[[varc]])[1]),y=response, ymin=lower.CL,ymax=upper.CL,group=Study,color=Study))}
-if(any(class(mod_ls[[varc]])%in%"gee")){
-	p1 <- ggplot(mod_em_est[[varc]], aes(x=get(names(mod_em_est[[varc]])[1]),y=response, ymin=asymp.LCL,ymax=asymp.UCL,group=Study,color=Study))}
-p1 <- p1 + geom_pointrange(size=0.7,position=position_dodge(width=0.2)) +
-  geom_errorbar(width=0.08,linewidth=1,position=position_dodge(width=0.2))+
-  scale_y_continuous(limits=c(0,NA),expand=expansion(mult=c(0,0.1))) +
-  labs(title="Estimated marginal means (95% CI)",x=dat_labels[fvarc],y=dat_labels[varc]) +
-  theme_bw() +
-  theme(axis.title=element_text(size=16,face="bold"),axis.text=element_text(color="black",size=14),
-			   plot.title=element_text(face="bold",color="black",size=14),
-			   panel.grid.major.x=element_blank(),
-			   legend.position="bottom",legend.title=element_text(size=15,face="bold"),legend.text=element_text(size=14)) 
-print(p1)
-```
-
 <img src="04_BMI_MetS_files/figure-html/mod_sum_fa_plot-1.png" width="672" />
-
-```r
-cat("\n\n\n<br /><b>Post-hoc comparisons</b><br />\n")
-```
-
-
 
 
 <br /><b>Post-hoc comparisons</b><br />
-
-```r
-mod_em_sum[[varc]] %>% kbl() %>%
-	kable_classic(full_width=F,font_size=16,position="left")
-```
-
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -3349,9 +3257,6 @@ LME or GEE for duplicated or repeated measures.
 `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:orange;overflow:visible;position:relative;"><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>`{=html} <span style="color:orange;"><b>LME models used for Prolactin, hPL and Gh2 with Study ID as a random effect in the analyses. GEEs used for Insulin and HOMA-IR due to failed distributional assumption even after data transformation.</b></span><br />
 
 
-```r
-fvarc <- "folate_cat3"
-```
 
 
 
@@ -5202,48 +5107,6 @@ Descriptives with univariate P-values.
 </table></div>
 
 
-```r
-mod_ls <- lapply(c(hormone_var,insulin_var),function(x){
-		if(x%in%hormone_var){ #LME for hormones
-			 #mod_eq <- as.formula(paste0(x,"~BMI_gp2 + GA_samp + Study + (1|Study.ID)"))
-	 mod_eq <- as.formula(paste0("log(",x,")~",fvarc,"+",fvarc,"*Study + GA_samp + Study + (1|Study.ID) + (1|Assay.",x,")")) #log
-			 mod1 <- eval(bquote(lmer(.(mod_eq),data=dat_run)))}
-		if(x%in%insulin_var){ #GEE for insulin
-			dat_tmp <- na.omit(dat_run[with(dat_run,order(Study,Study.ID)),c("Study","Study.ID","GA_samp",fvarc,x)])
-			dat_tmp <- dat_tmp[with(dat_tmp,order(Study,Study.ID)),]
-			mod_eq <- as.formula(paste0("log(",x,")~",fvarc,"+",fvarc,"*Study + GA_samp + Study"))
-			mod1 <- eval(bquote(geeglm(.(mod_eq),data=dat_tmp,id=Study.ID,corstr="independence")))}
-			 return(mod1)})
-#mod_em <- lapply(mod_ls,function(x){emmeans(x,as.formula(paste0("revpairwise~",fvarc,"|Study")),type="response")})
-#mod_em2 <- lapply(mod_ls,function(x){emmeans(x,as.formula(paste0("revpairwise~Study|",fvarc)),type="response")})
-mod_em <- foreach(ind1=1:length(mod_ls),.packages=c("emmeans","lme4","lmerTest","geepack")) %dopar% {
-	if(!any(class(mod_ls[[ind1]])%in%"gee")){
-	em1 <- emmeans(mod_ls[[ind1]],as.formula(paste0("revpairwise~",fvarc,"|Study")),type="response",lmer.df="satterthwaite",data=dat_run)}
-	if(any(class(mod_ls[[ind1]])%in%"gee")){
-	em1 <- emmeans(mod_ls[[ind1]],as.formula(paste0("revpairwise~",fvarc,"|Study")),type="response")}
-	return(em1)}
-mod_em2 <- foreach(ind2=1:length(mod_ls),.packages=c("emmeans","lme4","lmerTest","geepack")) %dopar% {
-	if(!any(class(mod_ls[[ind2]])%in%"gee")){
-	em2 <- emmeans(mod_ls[[ind2]],as.formula(paste0("revpairwise~Study|",fvarc)),type="response",lmer.df="satterthwaite",data=dat_run)}
-	if(any(class(mod_ls[[ind2]])%in%"gee")){
-	em2 <- emmeans(mod_ls[[ind2]],as.formula(paste0("revpairwise~Study|",fvarc)),type="response")}
-	return(em2)}
-names(mod_ls) <- names(mod_em) <- names(mod_em2) <- c(hormone_var,insulin_var)
-
-#mod_sum <- lapply(mod_ls,extract.ci.lme,rc=2,eff.exp=T) #model summary
-mod_sum <- foreach(ind3=1:length(mod_ls),.packages=c("lme4","lmerTest","geepack")) %dopar% {
-	extract.ci.mod(mod_ls[[ind3]],rc=2,eff.exp=T)} #model summary
-names(mod_sum) <- c(hormone_var,insulin_var)
-mod_em_est <- lapply(mod_em,function(x) round_df(data.frame(x$emmeans),2)) #estimated means
-mod_em_sum1 <- lapply(mod_em,emmeans.sum) #post-hoc contrasts
-mod_em_sum2 <- lapply(mod_em2,emmeans.sum) #post-hoc contrasts
-mod_em_sum <- mapply(function(x,y){
-			     x[,2] <- paste(dat_labels[names(x)[2]],x[,2],sep=": ")
-			     y[,2] <- paste(dat_labels[names(y)[2]],y[,2],sep=": ")
-			     names(x)[2] <- names(y)[2] <- "Subgroup"
-			     return(rbind(x,y))},
-			     mod_em_sum1,mod_em_sum2,SIMPLIFY=F)
-```
 
 ## Prolactin
 LME for repeated measures.
@@ -13132,15 +12995,11 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <img src="04_BMI_MetS_files/figure-html/em_plots2-6.png" width="960" />
 
 # Session info
-**Results generated on: 2023-06-21 16:14:57.559632**
+**Results generated on: 2023-07-07 14:28:46.95557**
 <details><summary>Click for more details</summary>
 
-```r
-sessionInfo()
 ```
-
-```
-## R version 4.3.0 (2023-04-21)
+## R version 4.3.1 (2023-06-16)
 ## Platform: x86_64-pc-linux-gnu (64-bit)
 ## Running under: Ubuntu 22.04.2 LTS
 ## 
@@ -13167,45 +13026,44 @@ sessionInfo()
 ##  [1] ggpubr_0.6.0      car_3.1-2         carData_3.0-5     xlsx_0.6.5       
 ##  [5] geepack_1.3.9     doParallel_1.0.17 iterators_1.0.14  foreach_1.5.2    
 ##  [9] emmeans_1.8.5     lmerTest_3.1-3    lme4_1.1-33       Matrix_1.5-4.1   
-## [13] readxl_1.4.2      Hmisc_4.6-0       Formula_1.2-4     survival_3.5-3   
+## [13] readxl_1.4.2      Hmisc_4.6-0       Formula_1.2-4     survival_3.5-5   
 ## [17] lattice_0.21-8    fontawesome_0.5.1 htmlwidgets_1.6.2 kableExtra_1.3.4 
 ## [21] knitr_1.42        rmarkdown_2.21    ggplot2_3.4.2     devtools_2.4.3   
 ## [25] usethis_2.1.5     pander_0.6.5      magrittr_2.0.3    gridExtra_2.3    
 ## 
 ## loaded via a namespace (and not attached):
 ##  [1] remotes_2.4.2       sandwich_3.0-1      rlang_1.1.1        
-##  [4] multcomp_1.4-18     compiler_4.3.0      mgcv_1.8-42        
-##  [7] png_0.1-7           systemfonts_1.0.4   callr_3.7.3        
-## [10] vctrs_0.6.2         rvest_1.0.3         stringr_1.5.0      
-## [13] pkgconfig_2.0.3     crayon_1.5.2        fastmap_1.1.1      
-## [16] backports_1.4.1     ellipsis_0.3.2      labeling_0.4.2     
-## [19] utf8_1.2.3          sessioninfo_1.2.2   ps_1.7.5           
-## [22] nloptr_2.0.0        purrr_1.0.1         xfun_0.39          
-## [25] cachem_1.0.8        jsonlite_1.8.4      highr_0.10         
-## [28] xlsxjars_0.6.1      jpeg_0.1-9          broom_1.0.4        
-## [31] prettyunits_1.1.1   cluster_2.1.4       R6_2.5.1           
-## [34] bslib_0.4.2         stringi_1.7.12      RColorBrewer_1.1-3 
-## [37] boot_1.3-28         pkgload_1.3.2       rpart_4.1.19       
-## [40] jquerylib_0.1.4     cellranger_1.1.0    numDeriv_2016.8-1.1
-## [43] estimability_1.4.1  Rcpp_1.0.10         bookdown_0.34      
-## [46] zoo_1.8-9           base64enc_0.1-3     splines_4.3.0      
-## [49] nnet_7.3-18         tidyselect_1.2.0    abind_1.4-5        
-## [52] rstudioapi_0.14     yaml_2.3.7          codetools_0.2-19   
-## [55] processx_3.8.1      pkgbuild_1.4.0      tibble_3.2.1       
-## [58] withr_2.5.0         evaluate_0.21       foreign_0.8-82     
-## [61] rJava_1.0-6         xml2_1.3.3          pillar_1.9.0       
-## [64] checkmate_2.0.0     generics_0.1.3      munsell_0.5.0      
-## [67] scales_1.2.1        minqa_1.2.4         xtable_1.8-4       
-## [70] glue_1.6.2          tools_4.3.0         data.table_1.14.8  
-## [73] ggsignif_0.6.4      webshot_0.5.4       fs_1.6.2           
-## [76] mvtnorm_1.1-3       tidyr_1.3.0         latticeExtra_0.6-29
-## [79] colorspace_2.1-0    nlme_3.1-162        htmlTable_2.4.0    
-## [82] cli_3.6.1           fansi_1.0.4         viridisLite_0.4.2  
-## [85] svglite_2.1.0       dplyr_1.1.2         gtable_0.3.3       
-## [88] rstatix_0.7.2       sass_0.4.6          digest_0.6.31      
-## [91] TH.data_1.1-0       farver_2.1.1        memoise_2.0.1      
-## [94] htmltools_0.5.5     lifecycle_1.0.3     httr_1.4.2         
-## [97] MASS_7.3-59
+##  [4] multcomp_1.4-18     compiler_4.3.1      png_0.1-7          
+##  [7] systemfonts_1.0.4   callr_3.7.3         vctrs_0.6.2        
+## [10] rvest_1.0.3         stringr_1.5.0       pkgconfig_2.0.3    
+## [13] crayon_1.5.2        fastmap_1.1.1       backports_1.4.1    
+## [16] ellipsis_0.3.2      labeling_0.4.2      utf8_1.2.3         
+## [19] sessioninfo_1.2.2   ps_1.7.5            nloptr_2.0.0       
+## [22] purrr_1.0.1         xfun_0.39           cachem_1.0.8       
+## [25] jsonlite_1.8.4      highr_0.10          xlsxjars_0.6.1     
+## [28] jpeg_0.1-9          broom_1.0.4         prettyunits_1.1.1  
+## [31] cluster_2.1.4       R6_2.5.1            bslib_0.4.2        
+## [34] stringi_1.7.12      RColorBrewer_1.1-3  boot_1.3-28        
+## [37] pkgload_1.3.2       rpart_4.1.19        jquerylib_0.1.4    
+## [40] cellranger_1.1.0    numDeriv_2016.8-1.1 estimability_1.4.1 
+## [43] Rcpp_1.0.10         bookdown_0.34       zoo_1.8-9          
+## [46] base64enc_0.1-3     splines_4.3.1       nnet_7.3-19        
+## [49] tidyselect_1.2.0    abind_1.4-5         rstudioapi_0.14    
+## [52] yaml_2.3.7          codetools_0.2-19    processx_3.8.1     
+## [55] pkgbuild_1.4.0      tibble_3.2.1        withr_2.5.0        
+## [58] evaluate_0.21       foreign_0.8-82      rJava_1.0-6        
+## [61] xml2_1.3.3          pillar_1.9.0        checkmate_2.0.0    
+## [64] generics_0.1.3      munsell_0.5.0       scales_1.2.1       
+## [67] minqa_1.2.4         xtable_1.8-4        glue_1.6.2         
+## [70] tools_4.3.1         data.table_1.14.8   ggsignif_0.6.4     
+## [73] webshot_0.5.4       fs_1.6.2            mvtnorm_1.1-3      
+## [76] tidyr_1.3.0         latticeExtra_0.6-29 colorspace_2.1-0   
+## [79] nlme_3.1-162        htmlTable_2.4.0     cli_3.6.1          
+## [82] fansi_1.0.4         viridisLite_0.4.2   svglite_2.1.0      
+## [85] dplyr_1.1.2         gtable_0.3.3        rstatix_0.7.2      
+## [88] sass_0.4.6          digest_0.6.31       TH.data_1.1-0      
+## [91] farver_2.1.1        memoise_2.0.1       htmltools_0.5.5    
+## [94] lifecycle_1.0.3     httr_1.4.2          MASS_7.3-60
 ```
 </details>
 

@@ -136,7 +136,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.0005 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -388,7 +388,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.01 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.010 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -514,7 +514,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.38 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.37 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -570,7 +570,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.68 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.66 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -626,7 +626,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.62 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.63 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -1148,7 +1148,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.0005 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.0003 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -1754,7 +1754,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.46 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.44 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -2283,7 +2283,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.08 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.09 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -2399,7 +2399,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.76 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.74 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -2609,7 +2609,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.0010 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -2735,7 +2735,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.34 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.36 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -2833,7 +2833,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.67 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.68 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -2889,7 +2889,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.89 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.88 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -3411,7 +3411,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.09 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.08 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -4539,7 +4539,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.02 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -10574,153 +10574,7 @@ Descriptives with univariate P-values.
 
 
 </details>
-   (Intercept) BMI_gp3Normal BMI_gp3Overweight BMI_gp3Obese f39_gdm_newGDM
-38           1             0                 0            1              0
-39           1             1                 0            0              0
-40           1             1                 0            0              0
-41           1             0                 1            0              0
-42           1             0                 1            0              1
-46           1             0                 1            0              0
-   StudySTOP GA_samp BMI_gp3Normal:StudySTOP BMI_gp3Overweight:StudySTOP
-38         0   15.29                       0                           0
-39         0   15.00                       0                           0
-40         0   15.00                       0                           0
-41         0   16.00                       0                           0
-42         0   14.43                       0                           0
-46         0   14.86                       0                           0
-   BMI_gp3Obese:StudySTOP f39_gdm_newGDM:StudySTOP BMI_gp3Normal:f39_gdm_newGDM
-38                      0                        0                            0
-39                      0                        0                            0
-40                      0                        0                            0
-41                      0                        0                            0
-42                      0                        0                            0
-46                      0                        0                            0
-   BMI_gp3Overweight:f39_gdm_newGDM BMI_gp3Obese:f39_gdm_newGDM
-38                                0                           0
-39                                0                           0
-40                                0                           0
-41                                0                           0
-42                                1                           0
-46                                0                           0
-   BMI_gp3Normal:f39_gdm_newGDM:StudySTOP
-38                                      0
-39                                      0
-40                                      0
-41                                      0
-42                                      0
-46                                      0
-   BMI_gp3Overweight:f39_gdm_newGDM:StudySTOP
-38                                          0
-39                                          0
-40                                          0
-41                                          0
-42                                          0
-46                                          0
-   BMI_gp3Obese:f39_gdm_newGDM:StudySTOP
-38                                     0
-39                                     0
-40                                     0
-41                                     0
-42                                     0
-46                                     0
-   (Intercept) BMI_gp3Normal BMI_gp3Overweight BMI_gp3Obese f39_gdm_newGDM
-38           1             0                 0            1              0
-39           1             1                 0            0              0
-40           1             1                 0            0              0
-41           1             0                 1            0              0
-42           1             0                 1            0              1
-46           1             0                 1            0              0
-   StudySTOP GA_samp BMI_gp3Normal:StudySTOP BMI_gp3Overweight:StudySTOP
-38         0   15.29                       0                           0
-39         0   15.00                       0                           0
-40         0   15.00                       0                           0
-41         0   16.00                       0                           0
-42         0   14.43                       0                           0
-46         0   14.86                       0                           0
-   BMI_gp3Obese:StudySTOP f39_gdm_newGDM:StudySTOP BMI_gp3Normal:f39_gdm_newGDM
-38                      0                        0                            0
-39                      0                        0                            0
-40                      0                        0                            0
-41                      0                        0                            0
-42                      0                        0                            0
-46                      0                        0                            0
-   BMI_gp3Overweight:f39_gdm_newGDM BMI_gp3Obese:f39_gdm_newGDM
-38                                0                           0
-39                                0                           0
-40                                0                           0
-41                                0                           0
-42                                1                           0
-46                                0                           0
-   BMI_gp3Normal:f39_gdm_newGDM:StudySTOP
-38                                      0
-39                                      0
-40                                      0
-41                                      0
-42                                      0
-46                                      0
-   BMI_gp3Overweight:f39_gdm_newGDM:StudySTOP
-38                                          0
-39                                          0
-40                                          0
-41                                          0
-42                                          0
-46                                          0
-   BMI_gp3Obese:f39_gdm_newGDM:StudySTOP
-38                                     0
-39                                     0
-40                                     0
-41                                     0
-42                                     0
-46                                     0
-   (Intercept) BMI_gp3Normal BMI_gp3Overweight BMI_gp3Obese f39_gdm_newGDM
-38           1             0                 0            1              0
-39           1             1                 0            0              0
-40           1             1                 0            0              0
-41           1             0                 1            0              0
-42           1             0                 1            0              1
-43           1             0                 1            0              1
-   StudySTOP GA_samp BMI_gp3Normal:StudySTOP BMI_gp3Overweight:StudySTOP
-38         0   15.29                       0                           0
-39         0   15.00                       0                           0
-40         0   15.00                       0                           0
-41         0   16.00                       0                           0
-42         0   14.43                       0                           0
-43         0   14.43                       0                           0
-   BMI_gp3Obese:StudySTOP f39_gdm_newGDM:StudySTOP BMI_gp3Normal:f39_gdm_newGDM
-38                      0                        0                            0
-39                      0                        0                            0
-40                      0                        0                            0
-41                      0                        0                            0
-42                      0                        0                            0
-43                      0                        0                            0
-   BMI_gp3Overweight:f39_gdm_newGDM BMI_gp3Obese:f39_gdm_newGDM
-38                                0                           0
-39                                0                           0
-40                                0                           0
-41                                0                           0
-42                                1                           0
-43                                1                           0
-   BMI_gp3Normal:f39_gdm_newGDM:StudySTOP
-38                                      0
-39                                      0
-40                                      0
-41                                      0
-42                                      0
-43                                      0
-   BMI_gp3Overweight:f39_gdm_newGDM:StudySTOP
-38                                          0
-39                                          0
-40                                          0
-41                                          0
-42                                          0
-43                                          0
-   BMI_gp3Obese:f39_gdm_newGDM:StudySTOP
-38                                     0
-39                                     0
-40                                     0
-41                                     0
-42                                     0
-43                                     0
+
 
 ## Prolactin
 LME for duplicated or repeated measures.
@@ -14198,216 +14052,7 @@ Descriptives with univariate P-values.
 
 
 </details>
-   (Intercept) Age_BMI_gp<35 yrs, obese Age_BMI_gp>=35 yrs, non-obese
-38           1                        1                             0
-39           1                        0                             0
-40           1                        0                             0
-41           1                        0                             0
-42           1                        0                             0
-46           1                        0                             0
-   Age_BMI_gp>=35 yrs, obese f39_gdm_newGDM StudySTOP GA_samp
-38                         0              0         0   15.29
-39                         0              0         0   15.00
-40                         0              0         0   15.00
-41                         0              0         0   16.00
-42                         0              1         0   14.43
-46                         0              0         0   14.86
-   Age_BMI_gp<35 yrs, obese:StudySTOP Age_BMI_gp>=35 yrs, non-obese:StudySTOP
-38                                  0                                       0
-39                                  0                                       0
-40                                  0                                       0
-41                                  0                                       0
-42                                  0                                       0
-46                                  0                                       0
-   Age_BMI_gp>=35 yrs, obese:StudySTOP f39_gdm_newGDM:StudySTOP
-38                                   0                        0
-39                                   0                        0
-40                                   0                        0
-41                                   0                        0
-42                                   0                        0
-46                                   0                        0
-   Age_BMI_gp<35 yrs, obese:f39_gdm_newGDM
-38                                       0
-39                                       0
-40                                       0
-41                                       0
-42                                       0
-46                                       0
-   Age_BMI_gp>=35 yrs, non-obese:f39_gdm_newGDM
-38                                            0
-39                                            0
-40                                            0
-41                                            0
-42                                            0
-46                                            0
-   Age_BMI_gp>=35 yrs, obese:f39_gdm_newGDM
-38                                        0
-39                                        0
-40                                        0
-41                                        0
-42                                        0
-46                                        0
-   Age_BMI_gp<35 yrs, obese:f39_gdm_newGDM:StudySTOP
-38                                                 0
-39                                                 0
-40                                                 0
-41                                                 0
-42                                                 0
-46                                                 0
-   Age_BMI_gp>=35 yrs, non-obese:f39_gdm_newGDM:StudySTOP
-38                                                      0
-39                                                      0
-40                                                      0
-41                                                      0
-42                                                      0
-46                                                      0
-   Age_BMI_gp>=35 yrs, obese:f39_gdm_newGDM:StudySTOP
-38                                                  0
-39                                                  0
-40                                                  0
-41                                                  0
-42                                                  0
-46                                                  0
-   (Intercept) Age_BMI_gp<35 yrs, obese Age_BMI_gp>=35 yrs, non-obese
-38           1                        1                             0
-39           1                        0                             0
-40           1                        0                             0
-41           1                        0                             0
-42           1                        0                             0
-46           1                        0                             0
-   Age_BMI_gp>=35 yrs, obese f39_gdm_newGDM StudySTOP GA_samp
-38                         0              0         0   15.29
-39                         0              0         0   15.00
-40                         0              0         0   15.00
-41                         0              0         0   16.00
-42                         0              1         0   14.43
-46                         0              0         0   14.86
-   Age_BMI_gp<35 yrs, obese:StudySTOP Age_BMI_gp>=35 yrs, non-obese:StudySTOP
-38                                  0                                       0
-39                                  0                                       0
-40                                  0                                       0
-41                                  0                                       0
-42                                  0                                       0
-46                                  0                                       0
-   Age_BMI_gp>=35 yrs, obese:StudySTOP f39_gdm_newGDM:StudySTOP
-38                                   0                        0
-39                                   0                        0
-40                                   0                        0
-41                                   0                        0
-42                                   0                        0
-46                                   0                        0
-   Age_BMI_gp<35 yrs, obese:f39_gdm_newGDM
-38                                       0
-39                                       0
-40                                       0
-41                                       0
-42                                       0
-46                                       0
-   Age_BMI_gp>=35 yrs, non-obese:f39_gdm_newGDM
-38                                            0
-39                                            0
-40                                            0
-41                                            0
-42                                            0
-46                                            0
-   Age_BMI_gp>=35 yrs, obese:f39_gdm_newGDM
-38                                        0
-39                                        0
-40                                        0
-41                                        0
-42                                        0
-46                                        0
-   Age_BMI_gp<35 yrs, obese:f39_gdm_newGDM:StudySTOP
-38                                                 0
-39                                                 0
-40                                                 0
-41                                                 0
-42                                                 0
-46                                                 0
-   Age_BMI_gp>=35 yrs, non-obese:f39_gdm_newGDM:StudySTOP
-38                                                      0
-39                                                      0
-40                                                      0
-41                                                      0
-42                                                      0
-46                                                      0
-   Age_BMI_gp>=35 yrs, obese:f39_gdm_newGDM:StudySTOP
-38                                                  0
-39                                                  0
-40                                                  0
-41                                                  0
-42                                                  0
-46                                                  0
-   (Intercept) Age_BMI_gp<35 yrs, obese Age_BMI_gp>=35 yrs, non-obese
-38           1                        1                             0
-39           1                        0                             0
-40           1                        0                             0
-41           1                        0                             0
-42           1                        0                             0
-43           1                        0                             0
-   Age_BMI_gp>=35 yrs, obese f39_gdm_newGDM StudySTOP GA_samp
-38                         0              0         0   15.29
-39                         0              0         0   15.00
-40                         0              0         0   15.00
-41                         0              0         0   16.00
-42                         0              1         0   14.43
-43                         0              1         0   14.43
-   Age_BMI_gp<35 yrs, obese:StudySTOP Age_BMI_gp>=35 yrs, non-obese:StudySTOP
-38                                  0                                       0
-39                                  0                                       0
-40                                  0                                       0
-41                                  0                                       0
-42                                  0                                       0
-43                                  0                                       0
-   Age_BMI_gp>=35 yrs, obese:StudySTOP f39_gdm_newGDM:StudySTOP
-38                                   0                        0
-39                                   0                        0
-40                                   0                        0
-41                                   0                        0
-42                                   0                        0
-43                                   0                        0
-   Age_BMI_gp<35 yrs, obese:f39_gdm_newGDM
-38                                       0
-39                                       0
-40                                       0
-41                                       0
-42                                       0
-43                                       0
-   Age_BMI_gp>=35 yrs, non-obese:f39_gdm_newGDM
-38                                            0
-39                                            0
-40                                            0
-41                                            0
-42                                            0
-43                                            0
-   Age_BMI_gp>=35 yrs, obese:f39_gdm_newGDM
-38                                        0
-39                                        0
-40                                        0
-41                                        0
-42                                        0
-43                                        0
-   Age_BMI_gp<35 yrs, obese:f39_gdm_newGDM:StudySTOP
-38                                                 0
-39                                                 0
-40                                                 0
-41                                                 0
-42                                                 0
-43                                                 0
-   Age_BMI_gp>=35 yrs, non-obese:f39_gdm_newGDM:StudySTOP
-38                                                      0
-39                                                      0
-40                                                      0
-41                                                      0
-42                                                      0
-43                                                      0
-   Age_BMI_gp>=35 yrs, obese:f39_gdm_newGDM:StudySTOP
-38                                                  0
-39                                                  0
-40                                                  0
-41                                                  0
-42                                                  0
-43                                                  0
+
 
 ## Prolactin
 LME for duplicated or repeated measures.
@@ -21981,6 +21626,13 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 Model summaries.
 
 
+```
+## Computing profile confidence intervals ...
+## Computing profile confidence intervals ...
+## Computing profile confidence intervals ...
+```
+
+
 <b> Prolactin </b><br /><table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -22343,7 +21995,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
 ```r
 em_eq <- as.formula(paste0("pairwise~Study*",outc2))
 #fit_em <- lapply(fit_ls,function(x){emmeans(x,em_eq,type="response")})
-fit_em <- foreach(ind2=1:length(fit_ls),.packages=c("foreach","lme4","lmerTest","geepack","emmeans")) %dopar% {
+fit_em <- foreach(ind2=1:length(fit_ls)) %dofuture% {
 		emmeans(fit_ls[[ind2]],em_eq,type="response",lmer.df="satterthwaite")}
 names(fit_em) <- names(fit_ls)
 
