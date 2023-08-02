@@ -74,6 +74,51 @@
 </tbody>
 </table>
 
+
+
+<b>Number of available samples</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;font-weight: bold;"> Var </th>
+   <th style="text-align:center;font-weight: bold;"> Uncomplicated: Available N(%) </th>
+   <th style="text-align:center;font-weight: bold;"> GDM: Available N(%) </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> PRL (ng/ml) </td>
+   <td style="text-align:center;"> 1101 (85.2%) </td>
+   <td style="text-align:center;"> 216 (86.1%) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> hPL (μg/ml) </td>
+   <td style="text-align:center;"> 1087 (84.1%) </td>
+   <td style="text-align:center;"> 206 (82.1%) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GH2 (ng/ml) </td>
+   <td style="text-align:center;"> 1094 (84.7%) </td>
+   <td style="text-align:center;"> 205 (81.7%) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:center;"> 1132 (87.6%) </td>
+   <td style="text-align:center;"> 227 (90.4%) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HOMA-IR </td>
+   <td style="text-align:center;"> 1131 (87.5%) </td>
+   <td style="text-align:center;"> 226 (90.0%) </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Glucose (mmol/L) </td>
+   <td style="text-align:center;"> 1279 (99.0%) </td>
+   <td style="text-align:center;"> 250 (99.6%) </td>
+  </tr>
+</tbody>
+</table>
+
 ## Within SCOPE
 
 
@@ -1320,7 +1365,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.0005 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.0010 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -1698,7 +1743,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.007 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.009 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -1754,7 +1799,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.15 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.16 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>

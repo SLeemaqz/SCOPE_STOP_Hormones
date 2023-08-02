@@ -1070,7 +1070,7 @@ std_fit2 <- lapply(1:length(std_ls),function(k){lm(Abs.ave ~ ns(Conc,df=3),data=
 </details>
 
 ### Session info
-**Results generated on: 2023-07-07 14:28:15.560546**
+**Results generated on: 2023-08-02 18:14:35.520925**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -1078,7 +1078,7 @@ sessionInfo()
 ```
 
 ```
-## R version 4.3.0 (2023-04-21)
+## R version 4.3.1 (2023-06-16)
 ## Platform: x86_64-pc-linux-gnu (64-bit)
 ## Running under: Ubuntu 22.04.2 LTS
 ## 
@@ -1098,33 +1098,35 @@ sessionInfo()
 ## tzcode source: system (glibc)
 ## 
 ## attached base packages:
-##  [1] parallel  splines   grid      stats     graphics  grDevices utils    
-##  [8] datasets  methods   base     
+## [1] splines   grid      stats     graphics  grDevices utils     datasets 
+## [8] methods   base     
 ## 
 ## other attached packages:
-##  [1] widgetframe_0.3.1 fontawesome_0.5.1 doParallel_1.0.17 iterators_1.0.14 
+##  [1] widgetframe_0.3.1 fontawesome_0.5.1 doFuture_1.0.0    future_1.32.0    
 ##  [5] foreach_1.5.2     plotly_4.10.2     investr_1.4.2     readxl_1.4.2     
 ##  [9] htmlwidgets_1.6.2 kableExtra_1.3.4  knitr_1.42        rmarkdown_2.21   
 ## [13] ggplot2_3.4.2     devtools_2.4.3    usethis_2.1.5     pander_0.6.5     
 ## [17] magrittr_2.0.3    gridExtra_2.3    
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] gtable_0.3.3      xfun_0.39         bslib_0.4.2       remotes_2.4.2    
-##  [5] processx_3.8.1    callr_3.7.3       crosstalk_1.2.0   vctrs_0.6.2      
-##  [9] tools_4.3.0       ps_1.7.5          generics_0.1.3    tibble_3.2.1     
-## [13] fansi_1.0.4       highr_0.10        pkgconfig_2.0.3   data.table_1.14.8
-## [17] webshot_0.5.4     lifecycle_1.0.3   compiler_4.3.0    stringr_1.5.0    
-## [21] munsell_0.5.0     codetools_0.2-19  htmltools_0.5.5   sass_0.4.6       
-## [25] yaml_2.3.7        lazyeval_0.2.2    tidyr_1.3.0       pillar_1.9.0     
-## [29] crayon_1.5.2      jquerylib_0.1.4   ellipsis_0.3.2    cachem_1.0.8     
-## [33] sessioninfo_1.2.2 tidyselect_1.2.0  rvest_1.0.3       digest_0.6.31    
-## [37] stringi_1.7.12    dplyr_1.1.2       purrr_1.0.1       bookdown_0.34    
-## [41] fastmap_1.1.1     colorspace_2.1-0  cli_3.6.1         pkgbuild_1.4.0   
-## [45] utf8_1.2.3        withr_2.5.0       prettyunits_1.1.1 scales_1.2.1     
-## [49] httr_1.4.2        cellranger_1.1.0  memoise_2.0.1     evaluate_0.21    
-## [53] viridisLite_0.4.2 rlang_1.1.1       Rcpp_1.0.10       glue_1.6.2       
-## [57] xml2_1.3.3        pkgload_1.3.2     svglite_2.1.0     rstudioapi_0.14  
-## [61] jsonlite_1.8.4    R6_2.5.1          systemfonts_1.0.4 fs_1.6.2
+##  [1] gtable_0.3.3       xfun_0.39          bslib_0.4.2        remotes_2.4.2     
+##  [5] processx_3.8.1     callr_3.7.3        crosstalk_1.2.0    vctrs_0.6.3       
+##  [9] tools_4.3.1        ps_1.7.5           generics_0.1.3     parallel_4.3.1    
+## [13] tibble_3.2.1       fansi_1.0.4        highr_0.10         pkgconfig_2.0.3   
+## [17] data.table_1.14.8  webshot_0.5.4      lifecycle_1.0.3    compiler_4.3.1    
+## [21] stringr_1.5.0      munsell_0.5.0      codetools_0.2-19   htmltools_0.5.5   
+## [25] sass_0.4.6         yaml_2.3.7         lazyeval_0.2.2     tidyr_1.3.0       
+## [29] pillar_1.9.0       crayon_1.5.2       jquerylib_0.1.4    ellipsis_0.3.2    
+## [33] cachem_1.0.8       iterators_1.0.14   sessioninfo_1.2.2  parallelly_1.36.0 
+## [37] tidyselect_1.2.0   rvest_1.0.3        digest_0.6.33      stringi_1.7.12    
+## [41] listenv_0.8.0      dplyr_1.1.2        purrr_1.0.1        bookdown_0.34     
+## [45] fastmap_1.1.1      colorspace_2.1-0   cli_3.6.1          pkgbuild_1.4.0    
+## [49] utf8_1.2.3         future.apply_1.8.1 withr_2.5.0        prettyunits_1.1.1 
+## [53] scales_1.2.1       httr_1.4.2         globals_0.16.2     cellranger_1.1.0  
+## [57] memoise_2.0.1      evaluate_0.21      viridisLite_0.4.2  rlang_1.1.1       
+## [61] Rcpp_1.0.11        glue_1.6.2         xml2_1.3.3         pkgload_1.3.2     
+## [65] svglite_2.1.0      rstudioapi_0.14    jsonlite_1.8.4     R6_2.5.1          
+## [69] systemfonts_1.0.4  fs_1.6.2
 ```
 </details>
 
@@ -2131,7 +2133,7 @@ std_fit <- lapply(1:length(std_ls),function(k){ #fit 4PL
 </details>
 
 ### Session info
-**Results generated on: 2023-07-07 14:28:15.603508**
+**Results generated on: 2023-08-02 18:14:35.553705**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -2139,7 +2141,7 @@ sessionInfo()
 ```
 
 ```
-## R version 4.3.0 (2023-04-21)
+## R version 4.3.1 (2023-06-16)
 ## Platform: x86_64-pc-linux-gnu (64-bit)
 ## Running under: Ubuntu 22.04.2 LTS
 ## 
@@ -2159,34 +2161,35 @@ sessionInfo()
 ## tzcode source: system (glibc)
 ## 
 ## attached base packages:
-##  [1] parallel  splines   grid      stats     graphics  grDevices utils    
-##  [8] datasets  methods   base     
+## [1] splines   grid      stats     graphics  grDevices utils     datasets 
+## [8] methods   base     
 ## 
 ## other attached packages:
 ##  [1] minpack.lm_1.2-3  nlme_3.1-162      widgetframe_0.3.1 fontawesome_0.5.1
-##  [5] doParallel_1.0.17 iterators_1.0.14  foreach_1.5.2     plotly_4.10.2    
+##  [5] doFuture_1.0.0    future_1.32.0     foreach_1.5.2     plotly_4.10.2    
 ##  [9] investr_1.4.2     readxl_1.4.2      htmlwidgets_1.6.2 kableExtra_1.3.4 
 ## [13] knitr_1.42        rmarkdown_2.21    ggplot2_3.4.2     devtools_2.4.3   
 ## [17] usethis_2.1.5     pander_0.6.5      magrittr_2.0.3    gridExtra_2.3    
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] gtable_0.3.3      xfun_0.39         bslib_0.4.2       remotes_2.4.2    
-##  [5] processx_3.8.1    lattice_0.21-8    callr_3.7.3       crosstalk_1.2.0  
-##  [9] vctrs_0.6.2       tools_4.3.0       ps_1.7.5          generics_0.1.3   
-## [13] tibble_3.2.1      fansi_1.0.4       highr_0.10        pkgconfig_2.0.3  
-## [17] data.table_1.14.8 webshot_0.5.4     lifecycle_1.0.3   compiler_4.3.0   
-## [21] stringr_1.5.0     munsell_0.5.0     codetools_0.2-19  htmltools_0.5.5  
-## [25] sass_0.4.6        yaml_2.3.7        lazyeval_0.2.2    tidyr_1.3.0      
-## [29] pillar_1.9.0      crayon_1.5.2      jquerylib_0.1.4   ellipsis_0.3.2   
-## [33] cachem_1.0.8      sessioninfo_1.2.2 tidyselect_1.2.0  rvest_1.0.3      
-## [37] digest_0.6.31     stringi_1.7.12    dplyr_1.1.2       purrr_1.0.1      
-## [41] bookdown_0.34     fastmap_1.1.1     colorspace_2.1-0  cli_3.6.1        
-## [45] pkgbuild_1.4.0    utf8_1.2.3        withr_2.5.0       prettyunits_1.1.1
-## [49] scales_1.2.1      httr_1.4.2        cellranger_1.1.0  memoise_2.0.1    
-## [53] evaluate_0.21     viridisLite_0.4.2 rlang_1.1.1       Rcpp_1.0.10      
-## [57] glue_1.6.2        xml2_1.3.3        pkgload_1.3.2     svglite_2.1.0    
-## [61] rstudioapi_0.14   jsonlite_1.8.4    R6_2.5.1          systemfonts_1.0.4
-## [65] fs_1.6.2
+##  [1] gtable_0.3.3       xfun_0.39          bslib_0.4.2        remotes_2.4.2     
+##  [5] processx_3.8.1     lattice_0.21-8     callr_3.7.3        crosstalk_1.2.0   
+##  [9] vctrs_0.6.3        tools_4.3.1        ps_1.7.5           generics_0.1.3    
+## [13] parallel_4.3.1     tibble_3.2.1       fansi_1.0.4        highr_0.10        
+## [17] pkgconfig_2.0.3    data.table_1.14.8  webshot_0.5.4      lifecycle_1.0.3   
+## [21] compiler_4.3.1     stringr_1.5.0      munsell_0.5.0      codetools_0.2-19  
+## [25] htmltools_0.5.5    sass_0.4.6         yaml_2.3.7         lazyeval_0.2.2    
+## [29] tidyr_1.3.0        pillar_1.9.0       crayon_1.5.2       jquerylib_0.1.4   
+## [33] ellipsis_0.3.2     cachem_1.0.8       iterators_1.0.14   sessioninfo_1.2.2 
+## [37] parallelly_1.36.0  tidyselect_1.2.0   rvest_1.0.3        digest_0.6.33     
+## [41] stringi_1.7.12     listenv_0.8.0      dplyr_1.1.2        purrr_1.0.1       
+## [45] bookdown_0.34      fastmap_1.1.1      colorspace_2.1-0   cli_3.6.1         
+## [49] pkgbuild_1.4.0     utf8_1.2.3         future.apply_1.8.1 withr_2.5.0       
+## [53] prettyunits_1.1.1  scales_1.2.1       httr_1.4.2         globals_0.16.2    
+## [57] cellranger_1.1.0   memoise_2.0.1      evaluate_0.21      viridisLite_0.4.2 
+## [61] rlang_1.1.1        Rcpp_1.0.11        glue_1.6.2         xml2_1.3.3        
+## [65] pkgload_1.3.2      svglite_2.1.0      rstudioapi_0.14    jsonlite_1.8.4    
+## [69] R6_2.5.1           systemfonts_1.0.4  fs_1.6.2
 ```
 </details>
 
@@ -3397,7 +3400,7 @@ std_fit <- lapply(1:length(std_ls),function(k){lm(Abs.ave ~ ns(Conc,df=3),data=s
 </details>
 
 ### Session info
-**Results generated on: 2023-07-07 14:28:15.638689**
+**Results generated on: 2023-08-02 18:14:35.585486**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -3405,7 +3408,7 @@ sessionInfo()
 ```
 
 ```
-## R version 4.3.0 (2023-04-21)
+## R version 4.3.1 (2023-06-16)
 ## Platform: x86_64-pc-linux-gnu (64-bit)
 ## Running under: Ubuntu 22.04.2 LTS
 ## 
@@ -3425,34 +3428,35 @@ sessionInfo()
 ## tzcode source: system (glibc)
 ## 
 ## attached base packages:
-##  [1] parallel  splines   grid      stats     graphics  grDevices utils    
-##  [8] datasets  methods   base     
+## [1] splines   grid      stats     graphics  grDevices utils     datasets 
+## [8] methods   base     
 ## 
 ## other attached packages:
 ##  [1] minpack.lm_1.2-3  nlme_3.1-162      widgetframe_0.3.1 fontawesome_0.5.1
-##  [5] doParallel_1.0.17 iterators_1.0.14  foreach_1.5.2     plotly_4.10.2    
+##  [5] doFuture_1.0.0    future_1.32.0     foreach_1.5.2     plotly_4.10.2    
 ##  [9] investr_1.4.2     readxl_1.4.2      htmlwidgets_1.6.2 kableExtra_1.3.4 
 ## [13] knitr_1.42        rmarkdown_2.21    ggplot2_3.4.2     devtools_2.4.3   
 ## [17] usethis_2.1.5     pander_0.6.5      magrittr_2.0.3    gridExtra_2.3    
 ## 
 ## loaded via a namespace (and not attached):
-##  [1] gtable_0.3.3      xfun_0.39         bslib_0.4.2       remotes_2.4.2    
-##  [5] processx_3.8.1    lattice_0.21-8    callr_3.7.3       crosstalk_1.2.0  
-##  [9] vctrs_0.6.2       tools_4.3.0       ps_1.7.5          generics_0.1.3   
-## [13] tibble_3.2.1      fansi_1.0.4       highr_0.10        pkgconfig_2.0.3  
-## [17] data.table_1.14.8 webshot_0.5.4     lifecycle_1.0.3   compiler_4.3.0   
-## [21] stringr_1.5.0     munsell_0.5.0     codetools_0.2-19  htmltools_0.5.5  
-## [25] sass_0.4.6        yaml_2.3.7        lazyeval_0.2.2    tidyr_1.3.0      
-## [29] pillar_1.9.0      crayon_1.5.2      jquerylib_0.1.4   ellipsis_0.3.2   
-## [33] cachem_1.0.8      sessioninfo_1.2.2 tidyselect_1.2.0  rvest_1.0.3      
-## [37] digest_0.6.31     stringi_1.7.12    dplyr_1.1.2       purrr_1.0.1      
-## [41] bookdown_0.34     fastmap_1.1.1     colorspace_2.1-0  cli_3.6.1        
-## [45] pkgbuild_1.4.0    utf8_1.2.3        withr_2.5.0       prettyunits_1.1.1
-## [49] scales_1.2.1      httr_1.4.2        cellranger_1.1.0  memoise_2.0.1    
-## [53] evaluate_0.21     viridisLite_0.4.2 rlang_1.1.1       Rcpp_1.0.10      
-## [57] glue_1.6.2        xml2_1.3.3        pkgload_1.3.2     svglite_2.1.0    
-## [61] rstudioapi_0.14   jsonlite_1.8.4    R6_2.5.1          systemfonts_1.0.4
-## [65] fs_1.6.2
+##  [1] gtable_0.3.3       xfun_0.39          bslib_0.4.2        remotes_2.4.2     
+##  [5] processx_3.8.1     lattice_0.21-8     callr_3.7.3        crosstalk_1.2.0   
+##  [9] vctrs_0.6.3        tools_4.3.1        ps_1.7.5           generics_0.1.3    
+## [13] parallel_4.3.1     tibble_3.2.1       fansi_1.0.4        highr_0.10        
+## [17] pkgconfig_2.0.3    data.table_1.14.8  webshot_0.5.4      lifecycle_1.0.3   
+## [21] compiler_4.3.1     stringr_1.5.0      munsell_0.5.0      codetools_0.2-19  
+## [25] htmltools_0.5.5    sass_0.4.6         yaml_2.3.7         lazyeval_0.2.2    
+## [29] tidyr_1.3.0        pillar_1.9.0       crayon_1.5.2       jquerylib_0.1.4   
+## [33] ellipsis_0.3.2     cachem_1.0.8       iterators_1.0.14   sessioninfo_1.2.2 
+## [37] parallelly_1.36.0  tidyselect_1.2.0   rvest_1.0.3        digest_0.6.33     
+## [41] stringi_1.7.12     listenv_0.8.0      dplyr_1.1.2        purrr_1.0.1       
+## [45] bookdown_0.34      fastmap_1.1.1      colorspace_2.1-0   cli_3.6.1         
+## [49] pkgbuild_1.4.0     utf8_1.2.3         future.apply_1.8.1 withr_2.5.0       
+## [53] prettyunits_1.1.1  scales_1.2.1       httr_1.4.2         globals_0.16.2    
+## [57] cellranger_1.1.0   memoise_2.0.1      evaluate_0.21      viridisLite_0.4.2 
+## [61] rlang_1.1.1        Rcpp_1.0.11        glue_1.6.2         xml2_1.3.3        
+## [65] pkgload_1.3.2      svglite_2.1.0      rstudioapi_0.14    jsonlite_1.8.4    
+## [69] R6_2.5.1           systemfonts_1.0.4  fs_1.6.2
 ```
 </details>
 
