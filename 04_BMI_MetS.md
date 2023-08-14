@@ -1136,6 +1136,13 @@ Descriptives on raw data.<br />
  </thead>
 <tbody>
   <tr>
+   <td style="text-align:left;border-top: 1px solid black;"> Gestational age at birth (weeks): Median (IQ range) </td>
+   <td style="text-align:left;border-top: 1px solid black;"> 39.9 (38.7-40.9) </td>
+   <td style="text-align:left;border-top: 1px solid black;"> 39.6 (38.6-40.5) </td>
+   <td style="text-align:left;border-top: 1px solid black;"> 39.7 (38.7-40.7) </td>
+   <td style="text-align:left;border-top: 1px solid black;"> 0.0004 </td>
+  </tr>
+  <tr>
    <td style="text-align:left;border-top: 1px solid black;"> Birthweight (g): Median (IQ range) </td>
    <td style="text-align:left;border-top: 1px solid black;"> 3390.0 (3050.0-3730.0) </td>
    <td style="text-align:left;border-top: 1px solid black;"> 3390.0 (3039.0-3704.5) </td>
@@ -13055,7 +13062,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <img src="04_BMI_MetS_files/figure-html/em_plots2-6.png" width="960" />
 
 # Session info
-**Results generated on: 2023-08-02 18:15:05.902393**
+**Results generated on: 2023-08-11 13:35:08.464626**
 <details><summary>Click for more details</summary>
 
 ```

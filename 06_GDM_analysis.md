@@ -122,6 +122,64 @@
 ## Within SCOPE
 
 
+### Hormones
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Characteristic </th>
+   <th style="text-align:left;"> Uncomplicated (n=598) </th>
+   <th style="text-align:left;"> GDM (n=58) </th>
+   <th style="text-align:left;"> Total (n=656) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> PRL (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 184.4 (193.4) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 118.8 (86.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 180.6 (189.4) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> hPL (μg/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 188.4 (57.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 116.5 (49.3) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 184.4 (59.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> GH2 (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.6 (2.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.1 (2.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.5 (2.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.0009 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 21.8 (23.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 50.4 (55.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 23.8 (27.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.004 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> HOMA-IR: Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 5.6 (6.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 14.8 (18.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 6.3 (8.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.007 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Glucose (mmol/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 5.4 (0.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 6.0 (1.1) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 5.5 (0.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.0004 </td>
+  </tr>
+</tbody>
+</table>
+
+
 ### Demographics
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:500px; overflow-x: scroll; width:100%; "><table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -1250,6 +1308,64 @@
 ## Within STOP
 
 
+### Hormones
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Characteristic </th>
+   <th style="text-align:left;"> Uncomplicated (n=694) </th>
+   <th style="text-align:left;"> GDM (n=193) </th>
+   <th style="text-align:left;"> Total (n=887) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> PRL (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 101.3 (112.3) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 98.5 (95.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 100.7 (108.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.74 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> hPL (μg/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 76.7 (50.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 70.4 (50.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 75.4 (50.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.14 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> GH2 (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 1.9 (1.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 1.7 (1.2) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 1.9 (1.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.17 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 15.4 (18.2) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 30.6 (41.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 18.8 (25.9) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> HOMA-IR: Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.4 (4.3) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 7.5 (13.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.3 (7.4) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Glucose (mmol/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.8 (0.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.9 (0.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.8 (0.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.006 </td>
+  </tr>
+</tbody>
+</table>
+
+
 ### Demographics
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:500px; overflow-x: scroll; width:100%; "><table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -1365,7 +1481,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.0010 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.0005 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -1743,7 +1859,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.009 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.010 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -2383,6 +2499,64 @@
 </table>
 
 ## SCOPE vs STOP (GDM)
+
+
+### Hormones
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Characteristic </th>
+   <th style="text-align:left;"> SCOPE (n=58) </th>
+   <th style="text-align:left;"> STOP (n=193) </th>
+   <th style="text-align:left;"> Total (n=251) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> PRL (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 118.8 (86.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 98.5 (95.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 101.1 (94.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.27 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> hPL (μg/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 116.5 (49.3) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 70.4 (50.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 76.2 (52.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> GH2 (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.1 (2.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 1.7 (1.2) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 1.9 (1.4) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.003 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 50.4 (55.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 30.6 (41.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 33.7 (43.9) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.05 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> HOMA-IR: Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 14.8 (18.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 7.5 (13.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 8.6 (14.2) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.04 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Glucose (mmol/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 6.0 (1.1) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.9 (0.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 5.2 (1.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
 
 
 ### Demographics
@@ -3513,6 +3687,64 @@
 ## SCOPE vs STOP (Uncomplicated)
 
 
+### Hormones
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Characteristic </th>
+   <th style="text-align:left;"> SCOPE (n=598) </th>
+   <th style="text-align:left;"> STOP (n=694) </th>
+   <th style="text-align:left;"> Total (n=1292) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> PRL (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 184.4 (193.4) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 101.3 (112.3) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 134.1 (155.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> hPL (μg/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 188.4 (57.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 76.7 (50.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 121.4 (76.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> GH2 (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.6 (2.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 1.9 (1.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.0 (2.2) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 21.8 (23.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 15.4 (18.2) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 18.0 (20.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> HOMA-IR: Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 5.6 (6.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.4 (4.3) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.3 (5.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Glucose (mmol/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 5.4 (0.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.8 (0.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 5.1 (0.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
 ### Demographics
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:500px; overflow-x: scroll; width:100%; "><table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -4006,7 +4238,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.17 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.16 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>

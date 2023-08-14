@@ -4070,7 +4070,7 @@ This section explores the Plate effect on hormone levels.
 </table></div>
 
 ## Session info
-**Results generated on: 2023-08-02 18:14:40.05349**
+**Results generated on: 2023-08-11 13:34:43.062589**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -4080,7 +4080,7 @@ sessionInfo()
 ```
 ## R version 4.3.1 (2023-06-16)
 ## Platform: x86_64-pc-linux-gnu (64-bit)
-## Running under: Ubuntu 22.04.2 LTS
+## Running under: Ubuntu 22.04.3 LTS
 ## 
 ## Matrix products: default
 ## BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.10.0 
@@ -4103,7 +4103,7 @@ sessionInfo()
 ## 
 ## other attached packages:
 ##  [1] xlsx_0.6.5        plotly_4.10.2     geepack_1.3.9     lmerTest_3.1-3   
-##  [5] lme4_1.1-33       Matrix_1.5-4.1    ggpubr_0.6.0      emmeans_1.8.5    
+##  [5] lme4_1.1-33       Matrix_1.6-0      ggpubr_0.6.0      emmeans_1.8.5    
 ##  [9] car_3.1-2         carData_3.0-5     readxl_1.4.2      Hmisc_5.1-0      
 ## [13] fontawesome_0.5.1 htmlwidgets_1.6.2 kableExtra_1.3.4  knitr_1.42       
 ## [17] rmarkdown_2.21    ggplot2_3.4.2     devtools_2.4.3    usethis_2.1.5    

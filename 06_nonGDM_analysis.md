@@ -122,6 +122,64 @@
 ## Within SCOPE
 
 
+### Hormones
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Characteristic </th>
+   <th style="text-align:left;"> non-GDM (n=1066) </th>
+   <th style="text-align:left;"> GDM (n=58) </th>
+   <th style="text-align:left;"> Total (n=1124) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> PRL (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 187.4 (184.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 118.8 (86.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 185.1 (182.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.0005 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> hPL (μg/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 186.1 (54.2) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 116.5 (49.3) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 183.8 (55.4) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> GH2 (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.7 (2.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.1 (2.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.7 (2.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.0004 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 23.8 (27.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 50.4 (55.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 24.9 (29.2) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.007 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> HOMA-IR: Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 6.1 (7.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 14.8 (18.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 6.5 (8.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.01 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Glucose (mmol/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 5.4 (0.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 6.0 (1.1) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 5.5 (0.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.0004 </td>
+  </tr>
+</tbody>
+</table>
+
+
 ### Demographics
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:500px; overflow-x: scroll; width:100%; "><table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -1250,6 +1308,64 @@
 ## Within STOP
 
 
+### Hormones
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Characteristic </th>
+   <th style="text-align:left;"> non-GDM (n=1022) </th>
+   <th style="text-align:left;"> GDM (n=193) </th>
+   <th style="text-align:left;"> Total (n=1215) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> PRL (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 106.3 (116.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 98.5 (95.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 105.0 (113.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.33 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> hPL (μg/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 74.7 (49.9) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 70.4 (50.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 74.0 (50.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.30 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> GH2 (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 1.9 (1.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 1.7 (1.2) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 1.9 (1.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.09 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 16.6 (22.1) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 30.6 (41.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 18.9 (26.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> HOMA-IR: Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.7 (5.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 7.5 (13.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.3 (7.3) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Glucose (mmol/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.8 (0.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.9 (0.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.8 (0.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.003 </td>
+  </tr>
+</tbody>
+</table>
+
+
 ### Demographics
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:500px; overflow-x: scroll; width:100%; "><table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -1743,7 +1859,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.04 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -2383,6 +2499,64 @@
 </table>
 
 ## SCOPE vs STOP (GDM)
+
+
+### Hormones
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Characteristic </th>
+   <th style="text-align:left;"> SCOPE (n=0) </th>
+   <th style="text-align:left;"> STOP (n=0) </th>
+   <th style="text-align:left;"> Total (n=0) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> PRL (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> hPL (μg/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> GH2 (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> HOMA-IR: Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Glucose (mmol/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> - </td>
+  </tr>
+</tbody>
+</table>
 
 
 ### Demographics
@@ -3511,6 +3685,64 @@
 </table>
 
 ## SCOPE vs STOP (non-GDM)
+
+
+### Hormones
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Characteristic </th>
+   <th style="text-align:left;"> SCOPE (n=0) </th>
+   <th style="text-align:left;"> STOP (n=0) </th>
+   <th style="text-align:left;"> Total (n=0) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> PRL (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> hPL (μg/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> GH2 (ng/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> HOMA-IR: Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Glucose (mmol/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
+   <td style="text-align:left;border-top:1px solid black;"> - </td>
+  </tr>
+</tbody>
+</table>
 
 
 ### Demographics

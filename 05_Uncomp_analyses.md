@@ -618,7 +618,7 @@ Descriptives on raw data. <br />
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.18 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.16 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -14944,6 +14944,18 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 
 <img src="05_Uncomp_analyses_files/figure-html/ems_plots-6.png" width="672" />
 
+<img src="05_Uncomp_analyses_files/figure-html/ems_plots-7.png" width="672" />
+
+<img src="05_Uncomp_analyses_files/figure-html/ems_plots-8.png" width="672" />
+
+<img src="05_Uncomp_analyses_files/figure-html/ems_plots-9.png" width="672" />
+
+<img src="05_Uncomp_analyses_files/figure-html/ems_plots-10.png" width="672" />
+
+<img src="05_Uncomp_analyses_files/figure-html/ems_plots-11.png" width="672" />
+
+<img src="05_Uncomp_analyses_files/figure-html/ems_plots-12.png" width="672" />
+
 
 ### Plots for GA
 
@@ -21326,10 +21338,647 @@ Model diagnositcs.
 
 <img src="05_Uncomp_analyses_files/figure-html/rcfol_em_plot-6.png" width="960" />
 
+## Red cell folate (categories)
+Within reference ranges.
+
+
+
+### Global tests
+Type III ANOVA on main and interaction effects, and LM model summaries.<br />
+
+<b> PRL (ng/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;">   </th>
+   <th style="text-align:right;"> Chisq </th>
+   <th style="text-align:right;"> Df </th>
+   <th style="text-align:left;"> Pr(&gt;Chisq) </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:right;"> 176.5298310 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp </td>
+   <td style="text-align:right;"> 0.0020879 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 75.7290268 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> hPL (μg/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;">   </th>
+   <th style="text-align:right;"> Chisq </th>
+   <th style="text-align:right;"> Df </th>
+   <th style="text-align:left;"> Pr(&gt;Chisq) </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:right;"> 41.4726214 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp </td>
+   <td style="text-align:right;"> 0.2775494 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 1126.6013558 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> GH2 (ng/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;">   </th>
+   <th style="text-align:right;"> Chisq </th>
+   <th style="text-align:right;"> Df </th>
+   <th style="text-align:left;"> Pr(&gt;Chisq) </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:right;"> 420.04231 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp </td>
+   <td style="text-align:right;"> 6.18705 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 572.93929 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> Insulin (uU/L) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> model term </th>
+   <th style="text-align:right;"> df1 </th>
+   <th style="text-align:right;"> df2 </th>
+   <th style="text-align:right;"> F.ratio </th>
+   <th style="text-align:right;"> Chisq </th>
+   <th style="text-align:left;"> p.value </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.418 </td>
+   <td style="text-align:right;"> 0.418 </td>
+   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.761 </td>
+   <td style="text-align:right;"> 0.761 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> HOMA-IR </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> model term </th>
+   <th style="text-align:right;"> df1 </th>
+   <th style="text-align:right;"> df2 </th>
+   <th style="text-align:right;"> F.ratio </th>
+   <th style="text-align:right;"> Chisq </th>
+   <th style="text-align:left;"> p.value </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.435 </td>
+   <td style="text-align:right;"> 0.435 </td>
+   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.646 </td>
+   <td style="text-align:right;"> 0.646 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> Glucose (mmol/L) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> model term </th>
+   <th style="text-align:right;"> df1 </th>
+   <th style="text-align:right;"> df2 </th>
+   <th style="text-align:right;"> F.ratio </th>
+   <th style="text-align:right;"> Chisq </th>
+   <th style="text-align:left;"> p.value </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 4.135 </td>
+   <td style="text-align:right;"> 4.135 </td>
+   <td style="text-align:left;"> 0.04 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.457 </td>
+   <td style="text-align:right;"> 0.457 </td>
+   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+### Model summary
+Ratio of Geometric means (95% CI)<br />
+
+<b> PRL (ng/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 14.79 (9.94, 22.00) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp&gt;1400 </td>
+   <td style="text-align:left;"> 1.00 (0.90, 1.11) </td>
+   <td style="text-align:left;"> 0.96 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.15 (1.12, 1.19) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> hPL (μg/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 1.98 (1.61, 2.44) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp&gt;1400 </td>
+   <td style="text-align:left;"> 1.02 (0.96, 1.08) </td>
+   <td style="text-align:left;"> 0.60 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.35 (1.33, 1.37) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> GH2 (ng/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 0.05 (0.04, 0.06) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp&gt;1400 </td>
+   <td style="text-align:left;"> 0.90 (0.83, 0.98) </td>
+   <td style="text-align:left;"> 0.01 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.35 (1.32, 1.39) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> Insulin (uU/L) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 8.11 (5.00, 13.13) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp&gt;1400 </td>
+   <td style="text-align:left;"> 1.04 (0.92, 1.19) </td>
+   <td style="text-align:left;"> 0.52 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.02 (0.98, 1.06) </td>
+   <td style="text-align:left;"> 0.38 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> HOMA-IR </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 1.71 (1.04, 2.82) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp&gt;1400 </td>
+   <td style="text-align:left;"> 1.05 (0.91, 1.20) </td>
+   <td style="text-align:left;"> 0.51 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.02 (0.97, 1.06) </td>
+   <td style="text-align:left;"> 0.42 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> Glucose (mmol/L) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 4.78 (4.35, 5.25) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp&gt;1400 </td>
+   <td style="text-align:left;"> 1.04 (1.00, 1.07) </td>
+   <td style="text-align:left;"> 0.04 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.00 (0.99, 1.00) </td>
+   <td style="text-align:left;"> 0.50 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+### Diagnostics
+Model diagnositcs.<br />
+
+<p><b>Diagnositcs for  PRL (ng/ml) </b></p>
+<img src="05_Uncomp_analyses_files/figure-html/rcfolgp_mod-1.png" width="672" />
+
+
+
+<p><b>Diagnositcs for  hPL (μg/ml) </b></p>
+<img src="05_Uncomp_analyses_files/figure-html/rcfolgp_mod-2.png" width="672" />
+
+
+
+<p><b>Diagnositcs for  GH2 (ng/ml) </b></p>
+<img src="05_Uncomp_analyses_files/figure-html/rcfolgp_mod-3.png" width="672" />
+
+
+
+<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<img src="05_Uncomp_analyses_files/figure-html/rcfolgp_mod-4.png" width="672" />
+
+
+
+<p><b>Diagnositcs for  HOMA-IR </b></p>
+<img src="05_Uncomp_analyses_files/figure-html/rcfolgp_mod-5.png" width="672" />
+
+
+
+<p><b>Diagnositcs for  Glucose (mmol/L) </b></p>
+<img src="05_Uncomp_analyses_files/figure-html/rcfolgp_mod-6.png" width="672" />
+
+
+
+
+
+### Estimated marginal means
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Outcome </th>
+   <th style="text-align:center;"> rcfolate_gp </th>
+   <th style="text-align:center;"> response </th>
+   <th style="text-align:center;"> SE </th>
+   <th style="text-align:center;"> df </th>
+   <th style="text-align:center;"> lower.CL </th>
+   <th style="text-align:center;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> PRL (ng/ml) </td>
+   <td style="text-align:center;"> 360 to 1400 </td>
+   <td style="text-align:center;"> 74.847 </td>
+   <td style="text-align:center;"> 6.442 </td>
+   <td style="text-align:center;"> 75.895 </td>
+   <td style="text-align:center;"> 63.057 </td>
+   <td style="text-align:center;"> 88.843 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PRL (ng/ml) </td>
+   <td style="text-align:center;"> &gt;1400 </td>
+   <td style="text-align:center;"> 74.659 </td>
+   <td style="text-align:center;"> 6.331 </td>
+   <td style="text-align:center;"> 71.843 </td>
+   <td style="text-align:center;"> 63.048 </td>
+   <td style="text-align:center;"> 88.409 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> hPL (μg/ml) </td>
+   <td style="text-align:center;"> 360 to 1400 </td>
+   <td style="text-align:center;"> 61.851 </td>
+   <td style="text-align:center;"> 2.053 </td>
+   <td style="text-align:center;"> 74.734 </td>
+   <td style="text-align:center;"> 57.894 </td>
+   <td style="text-align:center;"> 66.078 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> hPL (μg/ml) </td>
+   <td style="text-align:center;"> &gt;1400 </td>
+   <td style="text-align:center;"> 62.844 </td>
+   <td style="text-align:center;"> 2.025 </td>
+   <td style="text-align:center;"> 67.509 </td>
+   <td style="text-align:center;"> 58.930 </td>
+   <td style="text-align:center;"> 67.018 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GH2 (ng/ml) </td>
+   <td style="text-align:center;"> 360 to 1400 </td>
+   <td style="text-align:center;"> 1.529 </td>
+   <td style="text-align:center;"> 0.063 </td>
+   <td style="text-align:center;"> 96.552 </td>
+   <td style="text-align:center;"> 1.410 </td>
+   <td style="text-align:center;"> 1.658 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GH2 (ng/ml) </td>
+   <td style="text-align:center;"> &gt;1400 </td>
+   <td style="text-align:center;"> 1.378 </td>
+   <td style="text-align:center;"> 0.054 </td>
+   <td style="text-align:center;"> 85.205 </td>
+   <td style="text-align:center;"> 1.274 </td>
+   <td style="text-align:center;"> 1.490 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:center;"> 360 to 1400 </td>
+   <td style="text-align:center;"> 10.052 </td>
+   <td style="text-align:center;"> 0.468 </td>
+   <td style="text-align:center;"> Inf </td>
+   <td style="text-align:center;"> 9.176 </td>
+   <td style="text-align:center;"> 11.013 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:center;"> &gt;1400 </td>
+   <td style="text-align:center;"> 10.498 </td>
+   <td style="text-align:center;"> 0.504 </td>
+   <td style="text-align:center;"> Inf </td>
+   <td style="text-align:center;"> 9.556 </td>
+   <td style="text-align:center;"> 11.533 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HOMA-IR </td>
+   <td style="text-align:center;"> 360 to 1400 </td>
+   <td style="text-align:center;"> 2.104 </td>
+   <td style="text-align:center;"> 0.102 </td>
+   <td style="text-align:center;"> Inf </td>
+   <td style="text-align:center;"> 1.913 </td>
+   <td style="text-align:center;"> 2.314 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HOMA-IR </td>
+   <td style="text-align:center;"> &gt;1400 </td>
+   <td style="text-align:center;"> 2.204 </td>
+   <td style="text-align:center;"> 0.112 </td>
+   <td style="text-align:center;"> Inf </td>
+   <td style="text-align:center;"> 1.996 </td>
+   <td style="text-align:center;"> 2.434 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Glucose (mmol/L) </td>
+   <td style="text-align:center;"> 360 to 1400 </td>
+   <td style="text-align:center;"> 4.648 </td>
+   <td style="text-align:center;"> 0.056 </td>
+   <td style="text-align:center;"> Inf </td>
+   <td style="text-align:center;"> 4.540 </td>
+   <td style="text-align:center;"> 4.759 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Glucose (mmol/L) </td>
+   <td style="text-align:center;"> &gt;1400 </td>
+   <td style="text-align:center;"> 4.818 </td>
+   <td style="text-align:center;"> 0.062 </td>
+   <td style="text-align:center;"> Inf </td>
+   <td style="text-align:center;"> 4.698 </td>
+   <td style="text-align:center;"> 4.941 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+### Post-hoc comparisons
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Outcome </th>
+   <th style="text-align:center;"> Contrast </th>
+   <th style="text-align:center;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:center;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> PRL (ng/ml) </td>
+   <td style="text-align:center;"> &gt;1400 / 360 to 1400 </td>
+   <td style="text-align:center;"> 1.00 (0.90, 1.11) </td>
+   <td style="text-align:center;"> 1.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> hPL (μg/ml) </td>
+   <td style="text-align:center;"> &gt;1400 / 360 to 1400 </td>
+   <td style="text-align:center;"> 1.02 (0.96, 1.08) </td>
+   <td style="text-align:center;"> 0.6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GH2 (ng/ml) </td>
+   <td style="text-align:center;"> &gt;1400 / 360 to 1400 </td>
+   <td style="text-align:center;"> 0.90 (0.83, 0.98) </td>
+   <td style="text-align:center;"> 0.01 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:center;"> &gt;1400 / 360 to 1400 </td>
+   <td style="text-align:center;"> 1.04 (0.92, 1.19) </td>
+   <td style="text-align:center;"> 0.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HOMA-IR </td>
+   <td style="text-align:center;"> &gt;1400 / 360 to 1400 </td>
+   <td style="text-align:center;"> 1.05 (0.91, 1.20) </td>
+   <td style="text-align:center;"> 0.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Glucose (mmol/L) </td>
+   <td style="text-align:center;"> &gt;1400 / 360 to 1400 </td>
+   <td style="text-align:center;"> 1.04 (1.00, 1.07) </td>
+   <td style="text-align:center;"> 0.04 </td>
+  </tr>
+</tbody>
+</table>
+
+## Red cell folate (categories 2)
+Over detection limit.
+
+
 
 
 # Session info
-**Results generated on: 2023-08-02 18:16:33.472181**
+**Results generated on: 2023-08-11 13:36:37.983643**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -21339,7 +21988,7 @@ sessionInfo()
 ```
 ## R version 4.3.1 (2023-06-16)
 ## Platform: x86_64-pc-linux-gnu (64-bit)
-## Running under: Ubuntu 22.04.2 LTS
+## Running under: Ubuntu 22.04.3 LTS
 ## 
 ## Matrix products: default
 ## BLAS:   /usr/lib/x86_64-linux-gnu/blas/libblas.so.3.10.0 
@@ -21363,7 +22012,7 @@ sessionInfo()
 ## other attached packages:
 ##  [1] ggpubr_0.6.0      car_3.1-2         carData_3.0-5     xlsx_0.6.5       
 ##  [5] geepack_1.3.9     doFuture_1.0.0    future_1.32.0     foreach_1.5.2    
-##  [9] emmeans_1.8.5     lmerTest_3.1-3    lme4_1.1-33       Matrix_1.5-4.1   
+##  [9] emmeans_1.8.5     lmerTest_3.1-3    lme4_1.1-33       Matrix_1.6-0     
 ## [13] readxl_1.4.2      fontawesome_0.5.1 htmlwidgets_1.6.2 kableExtra_1.3.4 
 ## [17] knitr_1.42        rmarkdown_2.21    ggplot2_3.4.2     devtools_2.4.3   
 ## [21] usethis_2.1.5     pander_0.6.5      magrittr_2.0.3    gridExtra_2.3    
@@ -21371,7 +22020,7 @@ sessionInfo()
 ## 
 ## loaded via a namespace (and not attached):
 ##   [1] remotes_2.4.2       sandwich_3.0-1      rlang_1.1.1        
-##   [4] multcomp_1.4-18     compiler_4.3.1      mgcv_1.8-42        
+##   [4] multcomp_1.4-18     compiler_4.3.1      mgcv_1.9-0         
 ##   [7] systemfonts_1.0.4   callr_3.7.3         vctrs_0.6.3        
 ##  [10] rvest_1.0.3         stringr_1.5.0       pkgconfig_2.0.3    
 ##  [13] crayon_1.5.2        fastmap_1.1.1       backports_1.4.1    
