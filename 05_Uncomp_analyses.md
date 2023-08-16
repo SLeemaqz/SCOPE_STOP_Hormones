@@ -55,7 +55,7 @@ Descriptives on raw data. <br />
    <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/ml): Mean (SD) </td>
    <td style="text-align:left;border-top:1px solid black;"> 21.8 (23.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 15.4 (18.2) </td>
    <td style="text-align:left;border-top:1px solid black;"> 18.0 (20.5) </td>
@@ -106,7 +106,7 @@ Descriptives on raw data. <br />
    <td style="text-align:center;"> 651 (91.6%) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:center;"> 455 (75.3%) </td>
    <td style="text-align:center;"> 677 (95.2%) </td>
   </tr>
@@ -618,7 +618,7 @@ Descriptives on raw data. <br />
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.16 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.15 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -6767,7 +6767,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.54 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 10.8 (6.0-21.9) </td>
    <td style="text-align:left;"> 10.3 (6.3-16.8) </td>
    <td style="text-align:left;"> 10.8 (6.1-21.7) </td>
@@ -6825,7 +6825,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.70 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 14.4 (6.5-29.1) </td>
    <td style="text-align:left;"> 19.5 (10.0-35.6) </td>
    <td style="text-align:left;"> 14.4 (6.5-29.1) </td>
@@ -6925,7 +6925,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.53 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 9.3 (5.7-17.3) </td>
    <td style="text-align:left;"> 8.5 (4.7-13.9) </td>
    <td style="text-align:left;"> 9.3 (5.6-17.0) </td>
@@ -7904,7 +7904,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 6.1 (4.4-12.4) </td>
    <td style="text-align:left;"> 7.7 (4.6-16.6) </td>
    <td style="text-align:left;"> 11.6 (6.8-23.3) </td>
@@ -7976,7 +7976,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 9.0 (6.0-11.4) </td>
    <td style="text-align:left;"> 10.6 (5.2-22.4) </td>
    <td style="text-align:left;"> 17.7 (9.0-29.6) </td>
@@ -8102,7 +8102,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 4.8 (4.3-14.1) </td>
    <td style="text-align:left;"> 7.2 (4.2-12.8) </td>
    <td style="text-align:left;"> 9.6 (6.5-16.1) </td>
@@ -9825,7 +9825,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.0004 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 9.3 (5.2-19.2) </td>
    <td style="text-align:left;"> 16.1 (9.7-31.6) </td>
    <td style="text-align:left;"> 8.5 (4.6-16.8) </td>
@@ -9897,7 +9897,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 13.4 (5.8-25.7) </td>
    <td style="text-align:left;"> 20.1 (9.7-34.8) </td>
    <td style="text-align:left;"> 11.3 (8.1-20.2) </td>
@@ -10023,7 +10023,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.10 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 8.1 (4.8-14.6) </td>
    <td style="text-align:left;"> 15.2 (9.9-27.4) </td>
    <td style="text-align:left;"> 6.7 (4.1-15.4) </td>
@@ -11739,7 +11739,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 9.9 (5.7-19.6) </td>
    <td style="text-align:left;"> 28.0 (14.4-51.6) </td>
    <td style="text-align:left;"> 10.8 (6.1-21.9) </td>
@@ -11797,7 +11797,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.29 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 12.5 (6.1-24.7) </td>
    <td style="text-align:left;"> 33.9 (20.3-60.0) </td>
    <td style="text-align:left;"> 14.4 (6.5-29.1) </td>
@@ -11897,7 +11897,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.37 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 9.1 (5.5-16.2) </td>
    <td style="text-align:left;"> 16.5 (10.9-37.2) </td>
    <td style="text-align:left;"> 9.2 (5.7-17.1) </td>
@@ -12824,7 +12824,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.31 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 10.7 (6.1-21.4) </td>
    <td style="text-align:left;"> 11.1 (5.8-22.7) </td>
    <td style="text-align:left;"> 10.8 (6.0-21.7) </td>
@@ -12882,7 +12882,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.36 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 14.1 (6.4-27.4) </td>
    <td style="text-align:left;"> 19.8 (7.2-39.0) </td>
    <td style="text-align:left;"> 14.4 (6.5-29.1) </td>
@@ -12982,7 +12982,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.33 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 9.3 (5.7-17.0) </td>
    <td style="text-align:left;"> 8.3 (5.3-16.9) </td>
    <td style="text-align:left;"> 9.2 (5.6-17.0) </td>
@@ -14078,7 +14078,7 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -14335,7 +14335,7 @@ Ratio of Geometric means (95% CI)
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -14458,7 +14458,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="05_Uncomp_analyses_files/figure-html/model_diag-4.png" width="672" />
 
 
@@ -14858,14 +14858,14 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> 0.007 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> STOP / SCOPE </td>
    <td style="text-align:left;"> 10 </td>
    <td style="text-align:left;"> 0.40 (0.23, 0.71) </td>
    <td style="text-align:left;"> 0.002 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> STOP / SCOPE </td>
    <td style="text-align:left;"> 16 </td>
    <td style="text-align:left;"> 0.82 (0.67, 1.01) </td>
@@ -15137,7 +15137,7 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -15423,7 +15423,7 @@ Ratio of Geometric means (95% CI)
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -15800,14 +15800,14 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> 1.00 (1.00, 1.00) </td>
    <td style="text-align:left;"> 0.006 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> 1.00 (1.00, 1.00) </td>
@@ -15862,7 +15862,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="05_Uncomp_analyses_files/figure-html/unnamed-chunk-38-4.png" width="672" />
 
 
@@ -16051,7 +16051,7 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -16339,7 +16339,7 @@ Ratio of Geometric means (95% CI)
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -16555,7 +16555,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -16718,14 +16718,14 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> B12363.5 / B12263.5 </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> 0.95 (0.91, 1.00) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> B12363.5 / B12263.5 </td>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> 0.95 (0.91, 1.00) </td>
@@ -16874,7 +16874,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -17037,14 +17037,14 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> B12313.5 / B12263.5 </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> 0.98 (0.95, 1.00) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> B12313.5 / B12263.5 </td>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> 0.98 (0.95, 1.00) </td>
@@ -17099,7 +17099,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="05_Uncomp_analyses_files/figure-html/b12_hor-4.png" width="672" />
 
 
@@ -17290,7 +17290,7 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -17583,7 +17583,7 @@ Ratio of Geometric means (95% CI)
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -17799,7 +17799,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -17962,14 +17962,14 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> folate_B12247.58 / folate_B12147.58 </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> 0.99 (0.96, 1.02) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> folate_B12247.58 / folate_B12147.58 </td>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> 0.99 (0.96, 1.02) </td>
@@ -18024,7 +18024,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="05_Uncomp_analyses_files/figure-html/fb12_hor-4.png" width="672" />
 
 
@@ -18215,7 +18215,7 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -18503,7 +18503,7 @@ Ratio of Geometric means (95% CI)
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -18719,7 +18719,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -18882,14 +18882,14 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> Active.B1270 / Active.B1260 </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> 0.99 (0.96, 1.03) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> Active.B1270 / Active.B1260 </td>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> 0.99 (0.96, 1.03) </td>
@@ -18944,7 +18944,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="05_Uncomp_analyses_files/figure-html/ab12_hor-4.png" width="672" />
 
 
@@ -19134,7 +19134,7 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -19432,7 +19432,7 @@ Ratio of Geometric means (95% CI)
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -19648,7 +19648,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -19811,14 +19811,14 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> folate_Active.B121144.86 / folate_Active.B12644.86 </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> 0.97 (0.93, 1.01) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> folate_Active.B121144.86 / folate_Active.B12644.86 </td>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> 0.97 (0.93, 1.01) </td>
@@ -19873,7 +19873,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="05_Uncomp_analyses_files/figure-html/fab12_hor-4.png" width="672" />
 
 
@@ -20063,7 +20063,7 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -20351,7 +20351,7 @@ Ratio of Geometric means (95% CI)
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -20567,7 +20567,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -20730,14 +20730,14 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> Homocysteine5.6 / Homocysteine4.6 </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> 0.98 (0.93, 1.03) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:left;"> Homocysteine5.6 / Homocysteine4.6 </td>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> 0.98 (0.93, 1.03) </td>
@@ -20792,7 +20792,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="05_Uncomp_analyses_files/figure-html/hcy_hor-4.png" width="672" />
 
 
@@ -20943,7 +20943,7 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -21175,7 +21175,7 @@ Ratio of Geometric means (95% CI)
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -21311,7 +21311,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="05_Uncomp_analyses_files/figure-html/unnamed-chunk-42-4.png" width="672" />
 
 
@@ -21339,7 +21339,7 @@ Model diagnositcs.
 <img src="05_Uncomp_analyses_files/figure-html/rcfol_em_plot-6.png" width="960" />
 
 ## Red cell folate (categories)
-Within reference ranges.
+Within reference ranges (360 to 1400 vs >1400).
 
 
 
@@ -21460,7 +21460,7 @@ Type III ANOVA on main and interaction effects, and LM model summaries.<br />
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -21666,7 +21666,7 @@ Ratio of Geometric means (95% CI)<br />
 
 
 
-<b> Insulin (uU/L) </b><br />
+<b> Insulin (uU/ml) </b><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -21776,7 +21776,7 @@ Model diagnositcs.<br />
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="05_Uncomp_analyses_files/figure-html/rcfolgp_mod-4.png" width="672" />
 
 
@@ -21862,7 +21862,7 @@ Model diagnositcs.<br />
    <td style="text-align:center;"> 1.490 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:center;"> 360 to 1400 </td>
    <td style="text-align:center;"> 10.052 </td>
    <td style="text-align:center;"> 0.468 </td>
@@ -21871,7 +21871,7 @@ Model diagnositcs.<br />
    <td style="text-align:center;"> 11.013 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:center;"> &gt;1400 </td>
    <td style="text-align:center;"> 10.498 </td>
    <td style="text-align:center;"> 0.504 </td>
@@ -21921,6 +21921,28 @@ Model diagnositcs.<br />
 
 
 
+### Plots
+<img src="05_Uncomp_analyses_files/figure-html/rcfolgp_mod-7.png" width="672" />
+
+
+<img src="05_Uncomp_analyses_files/figure-html/rcfolgp_mod-8.png" width="672" />
+
+
+<img src="05_Uncomp_analyses_files/figure-html/rcfolgp_mod-9.png" width="672" />
+
+
+<img src="05_Uncomp_analyses_files/figure-html/rcfolgp_mod-10.png" width="672" />
+
+
+<img src="05_Uncomp_analyses_files/figure-html/rcfolgp_mod-11.png" width="672" />
+
+
+<img src="05_Uncomp_analyses_files/figure-html/rcfolgp_mod-12.png" width="672" />
+
+
+
+
+
 ### Post-hoc comparisons
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -21951,7 +21973,7 @@ Model diagnositcs.<br />
    <td style="text-align:center;"> 0.01 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:center;"> &gt;1400 / 360 to 1400 </td>
    <td style="text-align:center;"> 1.04 (0.92, 1.19) </td>
    <td style="text-align:center;"> 0.5 </td>
@@ -21972,13 +21994,662 @@ Model diagnositcs.<br />
 </table>
 
 ## Red cell folate (categories 2)
-Over detection limit.
+Over detection limit (360 to 1789 vs >=1790).
 
+### Global tests
+Type III ANOVA on main and interaction effects, and LM model summaries.<br />
+
+<b> PRL (ng/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;">   </th>
+   <th style="text-align:right;"> Chisq </th>
+   <th style="text-align:right;"> Df </th>
+   <th style="text-align:left;"> Pr(&gt;Chisq) </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:right;"> 180.256937 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp2 </td>
+   <td style="text-align:right;"> 4.092289 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.04 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 71.304099 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> hPL (μg/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;">   </th>
+   <th style="text-align:right;"> Chisq </th>
+   <th style="text-align:right;"> Df </th>
+   <th style="text-align:left;"> Pr(&gt;Chisq) </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:right;"> 42.3880663 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp2 </td>
+   <td style="text-align:right;"> 0.2369317 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 1115.0372969 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> GH2 (ng/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;">   </th>
+   <th style="text-align:right;"> Chisq </th>
+   <th style="text-align:right;"> Df </th>
+   <th style="text-align:left;"> Pr(&gt;Chisq) </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:right;"> 424.0485398 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp2 </td>
+   <td style="text-align:right;"> 0.0362665 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.8 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 553.8496342 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> Insulin (uU/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> model term </th>
+   <th style="text-align:right;"> df1 </th>
+   <th style="text-align:right;"> df2 </th>
+   <th style="text-align:right;"> F.ratio </th>
+   <th style="text-align:right;"> Chisq </th>
+   <th style="text-align:left;"> p.value </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp2 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 5.039 </td>
+   <td style="text-align:right;"> 5.039 </td>
+   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.370 </td>
+   <td style="text-align:right;"> 0.370 </td>
+   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> HOMA-IR </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> model term </th>
+   <th style="text-align:right;"> df1 </th>
+   <th style="text-align:right;"> df2 </th>
+   <th style="text-align:right;"> F.ratio </th>
+   <th style="text-align:right;"> Chisq </th>
+   <th style="text-align:left;"> p.value </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp2 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 5.570 </td>
+   <td style="text-align:right;"> 5.570 </td>
+   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.271 </td>
+   <td style="text-align:right;"> 0.271 </td>
+   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> Glucose (mmol/L) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> model term </th>
+   <th style="text-align:right;"> df1 </th>
+   <th style="text-align:right;"> df2 </th>
+   <th style="text-align:right;"> F.ratio </th>
+   <th style="text-align:right;"> Chisq </th>
+   <th style="text-align:left;"> p.value </th>
+   <th style="text-align:left;">  </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp2 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 4.972 </td>
+   <td style="text-align:right;"> 4.972 </td>
+   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 1.108 </td>
+   <td style="text-align:right;"> 1.108 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+### Model summary
+Ratio of Geometric means (95% CI)<br />
+
+<b> PRL (ng/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 15.04 (10.13, 22.34) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp2≥1790 </td>
+   <td style="text-align:left;"> 1.14 (1.00, 1.29) </td>
+   <td style="text-align:left;"> 0.04 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.15 (1.11, 1.18) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> hPL (μg/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 2.00 (1.62, 2.46) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp2≥1790 </td>
+   <td style="text-align:left;"> 1.02 (0.95, 1.09) </td>
+   <td style="text-align:left;"> 0.63 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.35 (1.33, 1.37) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> GH2 (ng/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 0.05 (0.03, 0.06) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp2≥1790 </td>
+   <td style="text-align:left;"> 0.99 (0.90, 1.09) </td>
+   <td style="text-align:left;"> 0.85 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.35 (1.32, 1.38) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> Insulin (uU/ml) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 8.46 (5.22, 13.72) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp2≥1790 </td>
+   <td style="text-align:left;"> 1.23 (1.03, 1.47) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.01 (0.97, 1.06) </td>
+   <td style="text-align:left;"> 0.54 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> HOMA-IR </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 1.80 (1.09, 2.96) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp2≥1790 </td>
+   <td style="text-align:left;"> 1.25 (1.04, 1.51) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.01 (0.97, 1.06) </td>
+   <td style="text-align:left;"> 0.60 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+<b> Glucose (mmol/L) </b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 4.89 (4.46, 5.36) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> rcfolate_gp2≥1790 </td>
+   <td style="text-align:left;"> 1.06 (1.01, 1.12) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.00 (0.99, 1.00) </td>
+   <td style="text-align:left;"> 0.29 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+
+### Diagnostics
+Model diagnositcs.<br />
+
+<p><b>Diagnositcs for  PRL (ng/ml) </b></p>
+<img src="05_Uncomp_analyses_files/figure-html/rcfolategp2_hor-1.png" width="672" />
+
+
+
+<p><b>Diagnositcs for  hPL (μg/ml) </b></p>
+<img src="05_Uncomp_analyses_files/figure-html/rcfolategp2_hor-2.png" width="672" />
+
+
+
+<p><b>Diagnositcs for  GH2 (ng/ml) </b></p>
+<img src="05_Uncomp_analyses_files/figure-html/rcfolategp2_hor-3.png" width="672" />
+
+
+
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
+<img src="05_Uncomp_analyses_files/figure-html/rcfolategp2_hor-4.png" width="672" />
+
+
+
+<p><b>Diagnositcs for  HOMA-IR </b></p>
+<img src="05_Uncomp_analyses_files/figure-html/rcfolategp2_hor-5.png" width="672" />
+
+
+
+<p><b>Diagnositcs for  Glucose (mmol/L) </b></p>
+<img src="05_Uncomp_analyses_files/figure-html/rcfolategp2_hor-6.png" width="672" />
+
+
+
+
+
+### Estimated marginal means
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Outcome </th>
+   <th style="text-align:center;"> rcfolate_gp2 </th>
+   <th style="text-align:center;"> response </th>
+   <th style="text-align:center;"> SE </th>
+   <th style="text-align:center;"> df </th>
+   <th style="text-align:center;"> lower.CL </th>
+   <th style="text-align:center;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> PRL (ng/ml) </td>
+   <td style="text-align:center;"> 360 to 1789 </td>
+   <td style="text-align:center;"> 72.674 </td>
+   <td style="text-align:center;"> 5.958 </td>
+   <td style="text-align:center;"> 63.383 </td>
+   <td style="text-align:center;"> 61.693 </td>
+   <td style="text-align:center;"> 85.609 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> PRL (ng/ml) </td>
+   <td style="text-align:center;"> ≥1790 </td>
+   <td style="text-align:center;"> 82.714 </td>
+   <td style="text-align:center;"> 7.863 </td>
+   <td style="text-align:center;"> 110.212 </td>
+   <td style="text-align:center;"> 68.511 </td>
+   <td style="text-align:center;"> 99.861 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> hPL (μg/ml) </td>
+   <td style="text-align:center;"> 360 to 1789 </td>
+   <td style="text-align:center;"> 62.143 </td>
+   <td style="text-align:center;"> 1.865 </td>
+   <td style="text-align:center;"> 51.975 </td>
+   <td style="text-align:center;"> 58.510 </td>
+   <td style="text-align:center;"> 66.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> hPL (μg/ml) </td>
+   <td style="text-align:center;"> ≥1790 </td>
+   <td style="text-align:center;"> 63.218 </td>
+   <td style="text-align:center;"> 2.526 </td>
+   <td style="text-align:center;"> 144.272 </td>
+   <td style="text-align:center;"> 58.417 </td>
+   <td style="text-align:center;"> 68.414 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GH2 (ng/ml) </td>
+   <td style="text-align:center;"> 360 to 1789 </td>
+   <td style="text-align:center;"> 1.449 </td>
+   <td style="text-align:center;"> 0.052 </td>
+   <td style="text-align:center;"> 61.530 </td>
+   <td style="text-align:center;"> 1.348 </td>
+   <td style="text-align:center;"> 1.558 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GH2 (ng/ml) </td>
+   <td style="text-align:center;"> ≥1790 </td>
+   <td style="text-align:center;"> 1.435 </td>
+   <td style="text-align:center;"> 0.075 </td>
+   <td style="text-align:center;"> 206.783 </td>
+   <td style="text-align:center;"> 1.295 </td>
+   <td style="text-align:center;"> 1.590 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
+   <td style="text-align:center;"> 360 to 1789 </td>
+   <td style="text-align:center;"> 9.833 </td>
+   <td style="text-align:center;"> 0.351 </td>
+   <td style="text-align:center;"> Inf </td>
+   <td style="text-align:center;"> 9.168 </td>
+   <td style="text-align:center;"> 10.545 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
+   <td style="text-align:center;"> ≥1790 </td>
+   <td style="text-align:center;"> 12.070 </td>
+   <td style="text-align:center;"> 1.012 </td>
+   <td style="text-align:center;"> Inf </td>
+   <td style="text-align:center;"> 10.241 </td>
+   <td style="text-align:center;"> 14.226 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HOMA-IR </td>
+   <td style="text-align:center;"> 360 to 1789 </td>
+   <td style="text-align:center;"> 2.052 </td>
+   <td style="text-align:center;"> 0.077 </td>
+   <td style="text-align:center;"> Inf </td>
+   <td style="text-align:center;"> 1.906 </td>
+   <td style="text-align:center;"> 2.210 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HOMA-IR </td>
+   <td style="text-align:center;"> ≥1790 </td>
+   <td style="text-align:center;"> 2.570 </td>
+   <td style="text-align:center;"> 0.224 </td>
+   <td style="text-align:center;"> Inf </td>
+   <td style="text-align:center;"> 2.166 </td>
+   <td style="text-align:center;"> 3.050 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Glucose (mmol/L) </td>
+   <td style="text-align:center;"> 360 to 1789 </td>
+   <td style="text-align:center;"> 4.669 </td>
+   <td style="text-align:center;"> 0.039 </td>
+   <td style="text-align:center;"> Inf </td>
+   <td style="text-align:center;"> 4.593 </td>
+   <td style="text-align:center;"> 4.747 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Glucose (mmol/L) </td>
+   <td style="text-align:center;"> ≥1790 </td>
+   <td style="text-align:center;"> 4.954 </td>
+   <td style="text-align:center;"> 0.125 </td>
+   <td style="text-align:center;"> Inf </td>
+   <td style="text-align:center;"> 4.715 </td>
+   <td style="text-align:center;"> 5.204 </td>
+  </tr>
+</tbody>
+</table>
+
+
+
+
+### Plots
+<img src="05_Uncomp_analyses_files/figure-html/rcfolategp2_hor-7.png" width="672" />
+
+
+<img src="05_Uncomp_analyses_files/figure-html/rcfolategp2_hor-8.png" width="672" />
+
+
+<img src="05_Uncomp_analyses_files/figure-html/rcfolategp2_hor-9.png" width="672" />
+
+
+<img src="05_Uncomp_analyses_files/figure-html/rcfolategp2_hor-10.png" width="672" />
+
+
+<img src="05_Uncomp_analyses_files/figure-html/rcfolategp2_hor-11.png" width="672" />
+
+
+<img src="05_Uncomp_analyses_files/figure-html/rcfolategp2_hor-12.png" width="672" />
+
+
+
+
+
+### Post-hoc comparisons
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Outcome </th>
+   <th style="text-align:center;"> Contrast </th>
+   <th style="text-align:center;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:center;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> PRL (ng/ml) </td>
+   <td style="text-align:center;"> ≥1790 / 360 to 1789 </td>
+   <td style="text-align:center;"> 1.14 (1.00, 1.29) </td>
+   <td style="text-align:center;"> 0.04 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> hPL (μg/ml) </td>
+   <td style="text-align:center;"> ≥1790 / 360 to 1789 </td>
+   <td style="text-align:center;"> 1.02 (0.95, 1.09) </td>
+   <td style="text-align:center;"> 0.6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GH2 (ng/ml) </td>
+   <td style="text-align:center;"> ≥1790 / 360 to 1789 </td>
+   <td style="text-align:center;"> 0.99 (0.90, 1.09) </td>
+   <td style="text-align:center;"> 0.8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
+   <td style="text-align:center;"> ≥1790 / 360 to 1789 </td>
+   <td style="text-align:center;"> 1.23 (1.03, 1.47) </td>
+   <td style="text-align:center;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HOMA-IR </td>
+   <td style="text-align:center;"> ≥1790 / 360 to 1789 </td>
+   <td style="text-align:center;"> 1.25 (1.04, 1.51) </td>
+   <td style="text-align:center;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Glucose (mmol/L) </td>
+   <td style="text-align:center;"> ≥1790 / 360 to 1789 </td>
+   <td style="text-align:center;"> 1.06 (1.01, 1.12) </td>
+   <td style="text-align:center;"> 0.03 </td>
+  </tr>
+</tbody>
+</table>
 
 
 
 # Session info
-**Results generated on: 2023-08-11 13:36:37.983643**
+**Results generated on: 2023-08-16 13:33:38.71713**
 <details><summary>Click for more details</summary>
 
 ```r

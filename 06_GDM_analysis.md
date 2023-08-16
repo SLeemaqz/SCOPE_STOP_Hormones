@@ -51,7 +51,7 @@
    <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/ml): Mean (SD) </td>
    <td style="text-align:left;border-top:1px solid black;"> 18.0 (20.5) </td>
    <td style="text-align:left;border-top:1px solid black;"> 33.7 (43.9) </td>
    <td style="text-align:left;border-top:1px solid black;"> 20.6 (26.6) </td>
@@ -102,7 +102,7 @@
    <td style="text-align:center;"> 205 (81.7%) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:center;"> 1132 (87.6%) </td>
    <td style="text-align:center;"> 227 (90.4%) </td>
   </tr>
@@ -156,7 +156,7 @@
    <td style="text-align:left;border-top:1px solid black;"> 0.0009 </td>
   </tr>
   <tr>
-   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/ml): Mean (SD) </td>
    <td style="text-align:left;border-top:1px solid black;"> 21.8 (23.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 50.4 (55.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 23.8 (27.5) </td>
@@ -1342,7 +1342,7 @@
    <td style="text-align:left;border-top:1px solid black;"> 0.17 </td>
   </tr>
   <tr>
-   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/ml): Mean (SD) </td>
    <td style="text-align:left;border-top:1px solid black;"> 15.4 (18.2) </td>
    <td style="text-align:left;border-top:1px solid black;"> 30.6 (41.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 18.8 (25.9) </td>
@@ -1481,7 +1481,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.0005 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.0010 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -1859,7 +1859,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.010 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.008 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -2535,7 +2535,7 @@
    <td style="text-align:left;border-top:1px solid black;"> 0.003 </td>
   </tr>
   <tr>
-   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/ml): Mean (SD) </td>
    <td style="text-align:left;border-top:1px solid black;"> 50.4 (55.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 30.6 (41.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 33.7 (43.9) </td>
@@ -3721,7 +3721,7 @@
    <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/ml): Mean (SD) </td>
    <td style="text-align:left;border-top:1px solid black;"> 21.8 (23.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 15.4 (18.2) </td>
    <td style="text-align:left;border-top:1px solid black;"> 18.0 (20.5) </td>
@@ -4238,7 +4238,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.16 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.18 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -8353,7 +8353,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.54 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 10.8 (6.0-21.9) </td>
    <td style="text-align:left;"> 10.3 (6.3-16.8) </td>
    <td style="text-align:left;"> 10.8 (6.1-21.7) </td>
@@ -8411,7 +8411,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.41 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 17.7 (9.2-42.2) </td>
    <td style="text-align:left;"> 13.0 (9.9-23.8) </td>
    <td style="text-align:left;"> 17.3 (9.4-40.4) </td>
@@ -8471,7 +8471,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.70 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 14.4 (6.5-29.1) </td>
    <td style="text-align:left;"> 19.5 (10.0-35.6) </td>
    <td style="text-align:left;"> 14.4 (6.5-29.1) </td>
@@ -8571,7 +8571,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.69 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 34.0 (16.6-52.7) </td>
    <td style="text-align:left;"> 52.7 (35.0-70.4) </td>
    <td style="text-align:left;"> 34.0 (16.6-55.4) </td>
@@ -8977,6 +8977,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -8985,24 +8986,28 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.84 (0.58, 1.20) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.76 (0.59, 0.99) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.48 (0.22, 1.03) </td>
    <td style="text-align:left;"> 0.06 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.95 (0.72, 1.25) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -9249,6 +9254,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -9257,24 +9263,28 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.89 (0.74, 1.08) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.00 (0.87, 1.15) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.91 (0.61, 1.36) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.71 (0.61, 0.83) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -9521,6 +9531,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -9529,24 +9540,28 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.95 (0.74, 1.23) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.01 (0.84, 1.23) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.81 (0.44, 1.50) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.12 (0.91, 1.37) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -9793,6 +9808,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -9801,24 +9817,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.26 (0.82, 1.93) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.80 (0.60, 1.08) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.35 (0.73, 2.51) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.84 (0.61, 1.17) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -10065,6 +10085,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -10073,24 +10094,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.34 (0.84, 2.13) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.78 (0.57, 1.08) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.32 (0.69, 2.51) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.84 (0.60, 1.18) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -10337,6 +10362,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -10345,24 +10371,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.06 (0.95, 1.17) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.98 (0.95, 1.02) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.96 (0.87, 1.07) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.98 (0.94, 1.02) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -10485,7 +10515,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 6.1 (4.4-12.4) </td>
    <td style="text-align:left;"> 7.7 (4.6-16.6) </td>
    <td style="text-align:left;"> 11.6 (6.8-23.3) </td>
@@ -10557,7 +10587,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.34 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 4.5 (3.7-6.8) </td>
    <td style="text-align:left;"> 11.1 (5.7-30.9) </td>
    <td style="text-align:left;"> 12.6 (8.5-20.1) </td>
@@ -10631,7 +10661,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 9.0 (6.0-11.4) </td>
    <td style="text-align:left;"> 10.6 (5.2-22.4) </td>
    <td style="text-align:left;"> 17.7 (9.0-29.6) </td>
@@ -10757,7 +10787,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> -- </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> NA (NA-NA) </td>
    <td style="text-align:left;"> 25.1 (8.8-38.2) </td>
    <td style="text-align:left;"> 17.1 (16.6-62.4) </td>
@@ -11332,6 +11362,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -11340,144 +11371,168 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.80 (0.48, 1.34) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.82 (0.49, 1.37) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.02 (0.86, 1.22) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.69 (0.41, 1.18) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.86 (0.70, 1.06) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.85 (0.68, 1.05) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.08 (0.71, 1.65) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.07 (0.70, 1.65) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.99 (0.85, 1.15) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.86 (0.55, 1.33) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.79 (0.66, 0.94) </td>
    <td style="text-align:left;"> 0.004 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.80 (0.67, 0.95) </td>
    <td style="text-align:left;"> 0.007 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.37 (0.68, 2.79) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.70 (0.38, 1.28) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.51 (0.28, 0.93) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.59 (0.60, 4.25) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.27 (0.47, 3.40) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.80 (0.57, 1.12) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.18 (0.45, 3.11) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.74 (0.56, 0.98) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.93 (0.69, 1.26) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -11839,6 +11894,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -11847,144 +11903,168 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.97 (0.74, 1.28) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.91 (0.70, 1.20) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.94 (0.85, 1.03) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.78 (0.59, 1.03) </td>
    <td style="text-align:left;"> 0.10 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.80 (0.72, 0.89) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.85 (0.77, 0.95) </td>
    <td style="text-align:left;"> 0.001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.81 (0.65, 1.00) </td>
    <td style="text-align:left;"> 0.06 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.76 (0.61, 0.95) </td>
    <td style="text-align:left;"> 0.010 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.95 (0.88, 1.02) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.63 (0.51, 0.79) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.79 (0.72, 0.86) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.83 (0.76, 0.91) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.97 (0.69, 1.35) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.85 (0.63, 1.14) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.88 (0.67, 1.16) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.84 (0.50, 1.40) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.73 (0.44, 1.23) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.88 (0.73, 1.05) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.57 (0.34, 0.95) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.68 (0.59, 0.79) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.78 (0.66, 0.92) </td>
    <td style="text-align:left;"> 0.0004 </td>
   </tr>
@@ -12346,6 +12426,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -12354,144 +12435,168 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.04 (0.72, 1.50) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.92 (0.63, 1.33) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.88 (0.78, 1.00) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.77 (0.53, 1.12) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.74 (0.64, 0.85) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.84 (0.72, 0.98) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.67 (0.49, 0.90) </td>
    <td style="text-align:left;"> 0.004 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.64 (0.47, 0.87) </td>
    <td style="text-align:left;"> 0.0010 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.95 (0.86, 1.06) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.60 (0.44, 0.82) </td>
    <td style="text-align:left;"> 0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.89 (0.79, 1.01) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.94 (0.82, 1.07) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.08 (0.65, 1.81) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.67 (0.42, 1.05) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.62 (0.40, 0.94) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.95 (0.47, 1.96) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.76 (0.37, 1.57) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.80 (0.62, 1.02) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.81 (0.40, 1.64) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.84 (0.69, 1.03) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.06 (0.85, 1.32) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -12828,6 +12933,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -12836,144 +12942,168 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.33 (0.71, 2.51) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.77 (0.94, 3.34) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.33 (1.02, 1.72) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.49 (1.32, 4.72) </td>
    <td style="text-align:left;"> 0.001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.87 (1.43, 2.44) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.41 (1.07, 1.85) </td>
    <td style="text-align:left;"> 0.006 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.23 (0.76, 2.00) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.59 (0.98, 2.59) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.29 (1.09, 1.53) </td>
    <td style="text-align:left;"> 0.0007 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.56 (1.56, 4.18) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.08 (1.73, 2.49) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.61 (1.33, 1.94) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.33 (0.71, 2.51) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.77 (0.94, 3.34) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.33 (1.02, 1.72) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.49 (1.32, 4.72) </td>
    <td style="text-align:left;"> 0.001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.87 (1.43, 2.44) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.41 (1.07, 1.85) </td>
    <td style="text-align:left;"> 0.006 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.23 (0.76, 2.00) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.59 (0.98, 2.59) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.29 (1.09, 1.53) </td>
    <td style="text-align:left;"> 0.0007 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.56 (1.56, 4.18) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.08 (1.73, 2.49) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.61 (1.33, 1.94) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -13310,6 +13440,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -13318,144 +13449,168 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.39 (0.75, 2.58) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.87 (1.00, 3.48) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.34 (1.01, 1.78) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.65 (1.41, 4.96) </td>
    <td style="text-align:left;"> 0.0004 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.90 (1.42, 2.54) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.42 (1.05, 1.91) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.27 (0.78, 2.07) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.65 (1.00, 2.70) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.30 (1.09, 1.56) </td>
    <td style="text-align:left;"> 0.001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.78 (1.69, 4.57) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.19 (1.81, 2.65) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.68 (1.38, 2.06) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.39 (0.75, 2.58) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.87 (1.00, 3.48) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.34 (1.01, 1.78) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.65 (1.41, 4.96) </td>
    <td style="text-align:left;"> 0.0004 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.90 (1.42, 2.54) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.42 (1.05, 1.91) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.27 (0.78, 2.07) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.65 (1.00, 2.70) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.30 (1.09, 1.56) </td>
    <td style="text-align:left;"> 0.001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.78 (1.69, 4.57) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.19 (1.81, 2.65) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.68 (1.38, 2.06) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -13792,6 +13947,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -13800,144 +13956,168 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.05 (0.96, 1.16) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.08 (0.97, 1.21) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.02 (0.95, 1.11) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.04 (0.94, 1.16) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.99 (0.93, 1.05) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.97 (0.88, 1.06) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.03 (0.97, 1.10) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.05 (0.97, 1.12) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.01 (0.96, 1.06) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.07 (1.00, 1.15) </td>
    <td style="text-align:left;"> 0.06 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.04 (0.99, 1.08) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.02 (0.97, 1.08) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.05 (0.96, 1.16) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.08 (0.97, 1.21) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.02 (0.95, 1.11) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.04 (0.94, 1.16) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.99 (0.93, 1.05) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.97 (0.88, 1.06) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.03 (0.97, 1.10) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.05 (0.97, 1.12) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.01 (0.96, 1.06) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.07 (1.00, 1.15) </td>
    <td style="text-align:left;"> 0.06 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.04 (0.99, 1.08) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.02 (0.97, 1.08) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -14060,7 +14240,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.0004 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 9.3 (5.2-19.2) </td>
    <td style="text-align:left;"> 16.1 (9.7-31.6) </td>
    <td style="text-align:left;"> 8.5 (4.6-16.8) </td>
@@ -14132,7 +14312,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.47 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 11.9 (6.6-30.3) </td>
    <td style="text-align:left;"> 26.6 (15.7-50.8) </td>
    <td style="text-align:left;"> 9.4 (7.8-13.3) </td>
@@ -14206,7 +14386,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 13.4 (5.8-25.7) </td>
    <td style="text-align:left;"> 20.1 (9.7-34.8) </td>
    <td style="text-align:left;"> 11.3 (8.1-20.2) </td>
@@ -14332,7 +14512,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> -- </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 17.1 (11.5-39.8) </td>
    <td style="text-align:left;"> 41.4 (27.2-67.4) </td>
    <td style="text-align:left;"> NA (NA-NA) </td>
@@ -14907,6 +15087,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -14915,144 +15096,168 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.87 (0.71, 1.05) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.00 (0.54, 1.86) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.16 (0.61, 2.20) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.61 (0.30, 1.23) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.70 (0.34, 1.44) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.60 (0.24, 1.55) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.80 (0.68, 0.94) </td>
    <td style="text-align:left;"> 0.003 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.77 (0.51, 1.17) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.97 (0.63, 1.48) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.59 (0.32, 1.07) </td>
    <td style="text-align:left;"> 0.10 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.73 (0.40, 1.34) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.76 (0.37, 1.55) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.64 (0.39, 1.05) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.38 (0.14, 1.06) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.60 (0.22, 1.67) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.87 (0.68, 1.11) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.20 (0.69, 2.08) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.38 (0.80, 2.40) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.71 (0.44, 1.14) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.82 (0.51, 1.31) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.59 (0.30, 1.17) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -15414,6 +15619,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -15422,144 +15628,168 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.83 (0.75, 0.91) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.98 (0.70, 1.36) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.18 (0.84, 1.66) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.72 (0.51, 1.03) </td>
    <td style="text-align:left;"> 0.08 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.88 (0.61, 1.25) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.74 (0.46, 1.19) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.81 (0.74, 0.88) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.04 (0.84, 1.28) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.28 (1.03, 1.60) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.74 (0.54, 1.01) </td>
    <td style="text-align:left;"> 0.06 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.92 (0.67, 1.26) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.72 (0.49, 1.04) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.87 (0.69, 1.11) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.85 (0.51, 1.42) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.97 (0.58, 1.63) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.74 (0.65, 0.85) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.85 (0.64, 1.12) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.14 (0.85, 1.51) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.49 (0.38, 0.62) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.65 (0.51, 0.84) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.58 (0.40, 0.82) </td>
    <td style="text-align:left;"> 0.0004 </td>
   </tr>
@@ -15921,6 +16151,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -15929,144 +16160,168 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.77 (0.67, 0.89) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.94 (0.61, 1.44) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.21 (0.78, 1.89) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.84 (0.51, 1.41) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.09 (0.65, 1.84) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.90 (0.46, 1.75) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.91 (0.81, 1.02) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.03 (0.76, 1.38) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.13 (0.83, 1.54) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.89 (0.58, 1.38) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.98 (0.63, 1.53) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.87 (0.52, 1.46) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.64 (0.44, 0.92) </td>
    <td style="text-align:left;"> 0.010 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.65 (0.29, 1.48) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.02 (0.45, 2.33) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.92 (0.77, 1.11) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.13 (0.75, 1.71) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.23 (0.82, 1.85) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.04 (0.73, 1.47) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.12 (0.79, 1.59) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.91 (0.55, 1.52) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
@@ -16403,6 +16658,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -16411,144 +16667,168 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.66 (1.30, 2.11) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.97 (0.59, 1.60) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.59 (0.34, 0.99) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.05 (1.08, 3.89) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.24 (0.65, 2.37) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.11 (0.95, 4.69) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.94 (1.63, 2.30) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.87 (0.56, 1.33) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.45 (0.29, 0.69) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.28 (0.93, 1.77) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.66 (0.48, 0.92) </td>
    <td style="text-align:left;"> 0.008 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.48 (0.89, 2.47) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.66 (1.30, 2.11) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.97 (0.59, 1.60) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.59 (0.34, 0.99) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.05 (1.08, 3.89) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.24 (0.65, 2.37) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.11 (0.95, 4.69) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.94 (1.63, 2.30) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.87 (0.56, 1.33) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.45 (0.29, 0.69) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.28 (0.93, 1.77) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.66 (0.48, 0.92) </td>
    <td style="text-align:left;"> 0.008 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.48 (0.89, 2.47) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -16885,6 +17165,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -16893,144 +17174,168 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.68 (1.29, 2.19) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.01 (0.58, 1.75) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.60 (0.34, 1.07) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.13 (1.04, 4.36) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.27 (0.62, 2.62) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.11 (0.87, 5.11) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.04 (1.70, 2.45) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.86 (0.55, 1.36) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.42 (0.27, 0.67) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.30 (0.94, 1.81) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.64 (0.45, 0.90) </td>
    <td style="text-align:left;"> 0.004 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.51 (0.88, 2.57) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.68 (1.29, 2.19) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.01 (0.58, 1.75) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.60 (0.34, 1.07) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.13 (1.04, 4.36) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.27 (0.62, 2.62) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.11 (0.87, 5.11) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.04 (1.70, 2.45) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.86 (0.55, 1.36) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.42 (0.27, 0.67) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.30 (0.94, 1.81) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.64 (0.45, 0.90) </td>
    <td style="text-align:left;"> 0.004 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.51 (0.88, 2.57) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -17367,6 +17672,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -17375,144 +17681,168 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.98 (0.91, 1.04) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.00 (0.92, 1.08) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.02 (0.93, 1.12) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.05 (0.87, 1.27) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.08 (0.89, 1.30) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.05 (0.86, 1.29) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.03 (0.99, 1.08) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.99 (0.95, 1.04) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.96 (0.91, 1.01) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.00 (0.94, 1.05) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.96 (0.91, 1.02) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.00 (0.94, 1.07) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.98 (0.91, 1.04) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.00 (0.92, 1.08) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.02 (0.93, 1.12) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.05 (0.87, 1.27) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.08 (0.89, 1.30) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.05 (0.86, 1.29) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.03 (0.99, 1.08) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.99 (0.95, 1.04) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.96 (0.91, 1.01) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.00 (0.94, 1.05) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.96 (0.91, 1.02) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.00 (0.94, 1.07) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
@@ -17626,7 +17956,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 9.9 (5.7-19.6) </td>
    <td style="text-align:left;"> 28.0 (14.4-51.6) </td>
    <td style="text-align:left;"> 10.8 (6.1-21.9) </td>
@@ -17684,7 +18014,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.97 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 13.4 (7.7-30.2) </td>
    <td style="text-align:left;"> 34.0 (17.6-58.7) </td>
    <td style="text-align:left;"> 17.1 (9.4-38.5) </td>
@@ -17744,7 +18074,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.29 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 12.5 (6.1-24.7) </td>
    <td style="text-align:left;"> 33.9 (20.3-60.0) </td>
    <td style="text-align:left;"> 14.4 (6.5-29.1) </td>
@@ -17844,7 +18174,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.49 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 19.6 (12.1-43.2) </td>
    <td style="text-align:left;"> 39.9 (17.6-82.7) </td>
    <td style="text-align:left;"> 31.9 (16.6-51.0) </td>
@@ -18246,6 +18576,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -18254,24 +18585,28 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.03 (0.86, 1.23) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.93 (0.75, 1.14) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.66 (0.46, 0.97) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.91 (0.73, 1.14) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -18518,6 +18853,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -18526,24 +18862,28 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.91 (0.83, 0.99) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.88 (0.78, 0.98) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.94 (0.78, 1.13) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.88 (0.78, 0.99) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
@@ -18790,6 +19130,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -18798,24 +19139,28 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.90 (0.79, 1.02) </td>
    <td style="text-align:left;"> 0.10 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.99 (0.84, 1.16) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.68 (0.52, 0.90) </td>
    <td style="text-align:left;"> 0.008 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.98 (0.83, 1.16) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
@@ -19062,6 +19407,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -19070,24 +19416,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.51 (2.01, 3.14) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.96 (1.47, 2.63) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.99 (1.20, 3.30) </td>
    <td style="text-align:left;"> 0.007 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.19 (1.59, 3.00) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -19334,6 +19684,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -19342,24 +19693,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.85 (2.24, 3.63) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 2.28 (1.65, 3.14) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.05 (1.16, 3.63) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.51 (1.76, 3.58) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -19606,6 +19961,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -19614,24 +19970,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.12 (1.09, 1.16) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.17 (1.10, 1.23) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.12 (0.92, 1.36) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.13 (1.06, 1.20) </td>
    <td style="text-align:left;"> 0.0001 </td>
   </tr>
@@ -19746,7 +20106,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.31 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 10.7 (6.1-21.4) </td>
    <td style="text-align:left;"> 11.1 (5.8-22.7) </td>
    <td style="text-align:left;"> 10.8 (6.0-21.7) </td>
@@ -19804,7 +20164,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.97 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 17.6 (9.6-39.0) </td>
    <td style="text-align:left;"> 16.8 (8.0-47.2) </td>
    <td style="text-align:left;"> 17.6 (9.5-40.5) </td>
@@ -19864,7 +20224,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.36 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 14.1 (6.4-27.4) </td>
    <td style="text-align:left;"> 19.8 (7.2-39.0) </td>
    <td style="text-align:left;"> 14.4 (6.5-29.1) </td>
@@ -19964,7 +20324,7 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.81 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Median (IQ range) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Median (IQ range) </td>
    <td style="text-align:left;"> 31.9 (16.6-54.1) </td>
    <td style="text-align:left;"> 39.9 (21.0-58.3) </td>
    <td style="text-align:left;"> 34.0 (16.6-55.4) </td>
@@ -20366,6 +20726,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -20374,24 +20735,28 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.18 (0.97, 1.45) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.10 (0.95, 1.28) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.36 (0.74, 2.51) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.47 (1.12, 1.94) </td>
    <td style="text-align:left;"> 0.006 </td>
   </tr>
@@ -20638,6 +21003,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -20646,24 +21012,28 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.15 (1.03, 1.28) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.15 (1.06, 1.25) </td>
    <td style="text-align:left;"> 0.0009 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.39 (1.03, 1.88) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.04 (0.89, 1.21) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -20910,6 +21280,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -20918,24 +21289,28 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.07 (0.92, 1.23) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.05 (0.94, 1.18) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.12 (0.72, 1.77) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.94 (0.77, 1.16) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -21182,6 +21557,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -21190,24 +21566,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.16 (0.83, 1.62) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.96 (0.79, 1.17) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.53 (0.23, 1.21) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.15 (0.71, 1.86) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -21454,6 +21834,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -21462,24 +21843,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.20 (0.85, 1.70) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.98 (0.79, 1.20) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.56 (0.24, 1.28) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.09 (0.66, 1.81) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -21726,6 +22111,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -21734,24 +22120,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.07 (1.00, 1.13) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.07 (0.99, 1.15) </td>
    <td style="text-align:left;"> 0.10 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.97 (0.84, 1.11) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.95 (0.91, 0.99) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
@@ -22671,7 +23061,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_GDM_analysis_files/figure-html/model_diag-4.png" width="672" />
 
 
@@ -24266,58 +24656,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 186.2873571 </td>
+   <td style="text-align:right;"> 166.0537558 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 2.3744735 </td>
+   <td style="text-align:left;"> Folate </td>
+   <td style="text-align:right;"> 2.4526126 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.1 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 0.8352147 </td>
+   <td style="text-align:right;"> 0.6482207 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.4 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 2.3632920 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 1.3383219 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 151.3636207 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:GDM_new </td>
+   <td style="text-align:right;"> 0.0737512 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.8 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 0.8231549 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:Study </td>
+   <td style="text-align:right;"> 2.4443463 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.1 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 89.8462847 </td>
+   <td style="text-align:left;"> Folate:GDM_new:Study </td>
+   <td style="text-align:right;"> 0.0167006 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 27.6014746 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 145.4047280 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 2.0357209 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> 0.9 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -24338,58 +24735,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 114.7698430 </td>
+   <td style="text-align:right;"> 37.7924677 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 7.2736070 </td>
+   <td style="text-align:left;"> Folate </td>
+   <td style="text-align:right;"> 0.1029730 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.007 </td>
-   <td style="text-align:left;"> ** </td>
+   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1.2866802 </td>
+   <td style="text-align:right;"> 0.1600993 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> 0.7 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 122.0690428 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 8.2930926 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.004 </td>
+   <td style="text-align:left;"> ** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 1945.3062005 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 2.9326031 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.09 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 0.2523666 </td>
+   <td style="text-align:left;"> Folate:GDM_new </td>
+   <td style="text-align:right;"> 0.2718582 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.6 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 2038.4734597 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 0.1153311 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 1.9535696 </td>
+   <td style="text-align:left;"> Folate:Study </td>
+   <td style="text-align:right;"> 0.0018958 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:GDM_new:Study </td>
+   <td style="text-align:right;"> 0.9457358 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -24410,58 +24814,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 222.6039862 </td>
+   <td style="text-align:right;"> 333.7985238 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 0.8028006 </td>
+   <td style="text-align:left;"> Folate </td>
+   <td style="text-align:right;"> 0.6363644 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.4 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1.2852257 </td>
+   <td style="text-align:right;"> 0.0003137 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> 1.0 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 27.8356406 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 0.2830153 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 0.6462443 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.4 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 0.4132299 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> 0.6 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 862.5535317 </td>
+   <td style="text-align:right;"> 873.7248805 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 3.4900314 </td>
+   <td style="text-align:left;"> Folate:GDM_new </td>
+   <td style="text-align:right;"> 1.4214832 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.06 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 0.0000007 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:Study </td>
+   <td style="text-align:right;"> 1.4248198 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:GDM_new:Study </td>
+   <td style="text-align:right;"> 1.7380914 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.2 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -24485,73 +24896,83 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> Folate </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 21.941 </td>
-   <td style="text-align:right;"> 21.941 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 32.023 </td>
-   <td style="text-align:right;"> 32.023 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 228.774 </td>
-   <td style="text-align:right;"> 228.774 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:right;"> 9.074 </td>
+   <td style="text-align:right;"> 9.074 </td>
+   <td style="text-align:left;"> 0.003 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
+   <td style="text-align:left;"> GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 16.948 </td>
-   <td style="text-align:right;"> 16.948 </td>
+   <td style="text-align:right;"> 25.522 </td>
+   <td style="text-align:right;"> 25.522 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
+   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.127 </td>
-   <td style="text-align:right;"> 0.127 </td>
-   <td style="text-align:left;"> 0.7 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 9.643 </td>
+   <td style="text-align:right;"> 9.643 </td>
+   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.547 </td>
-   <td style="text-align:right;"> 0.547 </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:right;"> 0.032 </td>
+   <td style="text-align:right;"> 0.032 </td>
+   <td style="text-align:left;"> 0.9 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> Folate:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.128 </td>
-   <td style="text-align:right;"> 4.128 </td>
-   <td style="text-align:left;"> 0.04 </td>
-   <td style="text-align:left;"> \* </td>
+   <td style="text-align:right;"> 0.196 </td>
+   <td style="text-align:right;"> 0.196 </td>
+   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> Folate:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.772 </td>
+   <td style="text-align:right;"> 0.772 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.977 </td>
+   <td style="text-align:right;"> 0.977 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> Folate:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.006 </td>
+   <td style="text-align:right;"> 0.006 </td>
+   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
 </table>
@@ -24574,73 +24995,83 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> Folate </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 35.890 </td>
-   <td style="text-align:right;"> 35.890 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 29.826 </td>
-   <td style="text-align:right;"> 29.826 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 225.782 </td>
-   <td style="text-align:right;"> 225.782 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:right;"> 11.114 </td>
+   <td style="text-align:right;"> 11.114 </td>
+   <td style="text-align:left;"> 0.0009 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
+   <td style="text-align:left;"> GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 17.023 </td>
-   <td style="text-align:right;"> 17.023 </td>
+   <td style="text-align:right;"> 26.938 </td>
+   <td style="text-align:right;"> 26.938 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
+   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.075 </td>
-   <td style="text-align:right;"> 0.075 </td>
-   <td style="text-align:left;"> 0.8 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 15.817 </td>
+   <td style="text-align:right;"> 15.817 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.242 </td>
-   <td style="text-align:right;"> 0.242 </td>
-   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:left;"> 0.9 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> Folate:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.391 </td>
-   <td style="text-align:right;"> 4.391 </td>
-   <td style="text-align:left;"> 0.04 </td>
-   <td style="text-align:left;"> \* </td>
+   <td style="text-align:right;"> 0.680 </td>
+   <td style="text-align:right;"> 0.680 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> Folate:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.954 </td>
+   <td style="text-align:right;"> 0.954 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 1.300 </td>
+   <td style="text-align:right;"> 1.300 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> Folate:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
 </table>
@@ -24663,72 +25094,82 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
+   <td style="text-align:left;"> Folate </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 3.341 </td>
+   <td style="text-align:right;"> 3.341 </td>
+   <td style="text-align:left;"> 0.07 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 5 </td>
+   <td style="text-align:left;"> GDM_new </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 5.928 </td>
+   <td style="text-align:right;"> 5.928 </td>
+   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 7 </td>
    <td style="text-align:left;"> Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 54.379 </td>
-   <td style="text-align:right;"> 54.379 </td>
+   <td style="text-align:right;"> 17.784 </td>
+   <td style="text-align:right;"> 17.784 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
+   <td style="text-align:left;"> 8 </td>
+   <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 3.763 </td>
-   <td style="text-align:right;"> 3.763 </td>
-   <td style="text-align:left;"> 0.05 </td>
+   <td style="text-align:right;"> 0.589 </td>
+   <td style="text-align:right;"> 0.589 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 2 </td>
+   <td style="text-align:left;"> Folate:GDM_new </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 3.209 </td>
+   <td style="text-align:right;"> 3.209 </td>
+   <td style="text-align:left;"> 0.07 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
+   <td style="text-align:left;"> Folate:Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 8.487 </td>
-   <td style="text-align:right;"> 8.487 </td>
-   <td style="text-align:left;"> 0.004 </td>
-   <td style="text-align:left;"> ** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.174 </td>
-   <td style="text-align:right;"> 1.174 </td>
+   <td style="text-align:right;"> 1.075 </td>
+   <td style="text-align:right;"> 1.075 </td>
    <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:right;"> 1.115 </td>
+   <td style="text-align:right;"> 1.115 </td>
+   <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 7 </td>
-   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> Folate:GDM_new:Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.289 </td>
-   <td style="text-align:right;"> 0.289 </td>
-   <td style="text-align:left;"> 0.6 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.683 </td>
-   <td style="text-align:right;"> 1.683 </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:right;"> 0.363 </td>
+   <td style="text-align:right;"> 0.363 </td>
+   <td style="text-align:left;"> 0.5 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -24915,18 +25356,18 @@ Ratio of Geometric means (95% CI)
   </tr>
   <tr>
    <td style="text-align:left;"> Folate </td>
-   <td style="text-align:left;"> -0.00 (-0.01, -0.00) </td>
-   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> -0.00 (-0.00, -0.00) </td>
+   <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> 0.87 (0.36, 1.38) </td>
-   <td style="text-align:left;"> 0.0008 </td>
+   <td style="text-align:left;"> 0.88 (0.51, 1.25) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> -0.36 (-0.59, -0.14) </td>
-   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> -0.36 (-0.58, -0.14) </td>
+   <td style="text-align:left;"> 0.001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
@@ -24935,23 +25376,18 @@ Ratio of Geometric means (95% CI)
   </tr>
   <tr>
    <td style="text-align:left;"> Folate:GDM_newGDM </td>
-   <td style="text-align:left;"> -0.00 (-0.01, 0.00) </td>
-   <td style="text-align:left;"> 0.82 </td>
+   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.62 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.29 (-0.85, 0.28) </td>
-   <td style="text-align:left;"> 0.32 </td>
+   <td style="text-align:left;"> -0.30 (-0.64, 0.04) </td>
+   <td style="text-align:left;"> 0.09 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Folate:StudySTOP </td>
    <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.29 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Folate:GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.00 (-0.01, 0.01) </td>
-   <td style="text-align:left;"> 0.94 </td>
+   <td style="text-align:left;"> 0.25 </td>
   </tr>
 </tbody>
 </table>
@@ -24969,22 +25405,22 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 1.38 (0.81, 1.95) </td>
+   <td style="text-align:left;"> 1.38 (0.82, 1.95) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Folate </td>
    <td style="text-align:left;"> -0.00 (-0.01, -0.00) </td>
-   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> 0.010 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> 1.01 (0.44, 1.58) </td>
-   <td style="text-align:left;"> 0.0005 </td>
+   <td style="text-align:left;"> 1.01 (0.60, 1.42) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> -0.52 (-0.76, -0.28) </td>
+   <td style="text-align:left;"> -0.52 (-0.75, -0.29) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
@@ -24994,23 +25430,18 @@ Ratio of Geometric means (95% CI)
   </tr>
   <tr>
    <td style="text-align:left;"> Folate:GDM_newGDM </td>
-   <td style="text-align:left;"> -0.00 (-0.01, 0.00) </td>
-   <td style="text-align:left;"> 0.60 </td>
+   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.40 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.37 (-0.99, 0.26) </td>
-   <td style="text-align:left;"> 0.25 </td>
+   <td style="text-align:left;"> -0.36 (-0.73, 0.02) </td>
+   <td style="text-align:left;"> 0.06 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Folate:StudySTOP </td>
    <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.28 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Folate:GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> 0.00 (-0.01, 0.01) </td>
-   <td style="text-align:left;"> 0.97 </td>
+   <td style="text-align:left;"> 0.23 </td>
   </tr>
 </tbody>
 </table>
@@ -25416,6 +25847,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -25425,6 +25857,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.999 (0.997, 1.000) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -25432,6 +25865,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.000 (0.999, 1.002) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -25439,6 +25873,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.999 (0.996, 1.002) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -25446,6 +25881,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.001 (0.999, 1.003) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -25453,6 +25889,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.000 (0.999, 1.001) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -25460,6 +25897,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.000 (0.999, 1.001) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -25467,6 +25905,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.000 (0.999, 1.002) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -25474,6 +25913,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.001 (0.999, 1.002) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -25481,6 +25921,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.000 (0.999, 1.002) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -25488,6 +25929,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.000 (0.999, 1.001) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -25495,6 +25937,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.000 (0.998, 1.003) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -25502,6 +25945,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.000 (0.998, 1.001) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -25509,6 +25953,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.997 (0.995, 1.000) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
@@ -25516,6 +25961,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.999 (0.997, 1.000) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -25523,6 +25969,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.997 (0.992, 1.001) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -25530,6 +25977,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.998 (0.995, 1.001) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -25537,6 +25985,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.997 (0.995, 0.999) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
@@ -25544,6 +25993,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.999 (0.997, 1.000) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -25551,6 +26001,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.996 (0.991, 1.001) </td>
    <td style="text-align:left;"> 0.08 </td>
   </tr>
@@ -25558,6 +26009,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.997 (0.994, 1.001) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -25565,6 +26017,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.000 (0.999, 1.000) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -25572,6 +26025,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.000 (1.000, 1.001) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -25579,6 +26033,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.999 (0.997, 1.000) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
@@ -25586,6 +26041,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling, BMI, e
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.999 (0.998, 1.000) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
@@ -26031,7 +26487,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_GDM_analysis_files/figure-html/model_diag_fol-4.png" width="672" />
 
 
@@ -26081,58 +26537,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 186.2873571 </td>
+   <td style="text-align:right;"> 142.6249156 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 2.3744735 </td>
+   <td style="text-align:left;"> B12 </td>
+   <td style="text-align:right;"> 0.0133596 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.1 </td>
+   <td style="text-align:left;"> 0.9 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 0.8352147 </td>
+   <td style="text-align:right;"> 2.0584988 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> 0.2 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 2.3632920 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 0.2833550 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.1 </td>
+   <td style="text-align:left;"> 0.6 </td>
    <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 89.8462847 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 27.6014746 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 145.4047280 </td>
+   <td style="text-align:right;"> 153.0273355 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 2.0357209 </td>
+   <td style="text-align:left;"> B12:GDM_new </td>
+   <td style="text-align:right;"> 1.2736316 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1.6999725 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> B12:Study </td>
+   <td style="text-align:right;"> 0.2217536 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 0.7321150 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.4 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -26153,59 +26616,66 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 114.7698430 </td>
+   <td style="text-align:right;"> 27.4857978 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 7.2736070 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.007 </td>
-   <td style="text-align:left;"> ** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1.2866802 </td>
+   <td style="text-align:left;"> B12 </td>
+   <td style="text-align:right;"> 1.0580423 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 122.0690428 </td>
+   <td style="text-align:left;"> GDM_new </td>
+   <td style="text-align:right;"> 6.0339287 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 2.9326031 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 3.7853360 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.09 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 0.2523666 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:left;"> 0.05 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 2038.4734597 </td>
+   <td style="text-align:right;"> 1979.9428441 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 1.9535696 </td>
+   <td style="text-align:left;"> B12:GDM_new </td>
+   <td style="text-align:right;"> 3.8688047 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> 0.05 </td>
    <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 7.9375646 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.005 </td>
+   <td style="text-align:left;"> ** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> B12:Study </td>
+   <td style="text-align:right;"> 0.0272714 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 6.5247527 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
 </tbody>
 </table>
@@ -26225,58 +26695,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 222.6039862 </td>
+   <td style="text-align:right;"> 343.0252955 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> B12 </td>
+   <td style="text-align:right;"> 6.3264944 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new </td>
+   <td style="text-align:right;"> 3.1930263 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.07 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 0.8028006 </td>
+   <td style="text-align:right;"> 0.7898003 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.4 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1.2852257 </td>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 898.0854142 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> B12:GDM_new </td>
+   <td style="text-align:right;"> 1.2319261 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 27.8356406 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 2.8650730 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 0.6462443 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> 0.09 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 0.4132299 </td>
+   <td style="text-align:left;"> B12:Study </td>
+   <td style="text-align:right;"> 1.7622600 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> 0.2 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 862.5535317 </td>
+   <td style="text-align:left;"> B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 0.9244163 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 3.4900314 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.06 </td>
+   <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -26300,73 +26777,83 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> B12 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 21.941 </td>
-   <td style="text-align:right;"> 21.941 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 32.023 </td>
-   <td style="text-align:right;"> 32.023 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 228.774 </td>
-   <td style="text-align:right;"> 228.774 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:right;"> 6.372 </td>
+   <td style="text-align:right;"> 6.372 </td>
+   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
+   <td style="text-align:left;"> GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 16.948 </td>
-   <td style="text-align:right;"> 16.948 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:right;"> 12.913 </td>
+   <td style="text-align:right;"> 12.913 </td>
+   <td style="text-align:left;"> 0.0003 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
+   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.127 </td>
-   <td style="text-align:right;"> 0.127 </td>
-   <td style="text-align:left;"> 0.7 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 7.038 </td>
+   <td style="text-align:right;"> 7.038 </td>
+   <td style="text-align:left;"> 0.008 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.547 </td>
-   <td style="text-align:right;"> 0.547 </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:right;"> 0.018 </td>
+   <td style="text-align:right;"> 0.018 </td>
+   <td style="text-align:left;"> 0.9 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> B12:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.128 </td>
-   <td style="text-align:right;"> 4.128 </td>
-   <td style="text-align:left;"> 0.04 </td>
-   <td style="text-align:left;"> \* </td>
+   <td style="text-align:right;"> 1.272 </td>
+   <td style="text-align:right;"> 1.272 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> B12:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 1.629 </td>
+   <td style="text-align:right;"> 1.629 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.909 </td>
+   <td style="text-align:right;"> 0.909 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.302 </td>
+   <td style="text-align:right;"> 0.302 </td>
+   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
 </table>
@@ -26389,73 +26876,83 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> B12 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 35.890 </td>
-   <td style="text-align:right;"> 35.890 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 29.826 </td>
-   <td style="text-align:right;"> 29.826 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 225.782 </td>
-   <td style="text-align:right;"> 225.782 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:right;"> 4.974 </td>
+   <td style="text-align:right;"> 4.974 </td>
+   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
+   <td style="text-align:left;"> GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 17.023 </td>
-   <td style="text-align:right;"> 17.023 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:right;"> 11.314 </td>
+   <td style="text-align:right;"> 11.314 </td>
+   <td style="text-align:left;"> 0.0008 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
+   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.075 </td>
-   <td style="text-align:right;"> 0.075 </td>
-   <td style="text-align:left;"> 0.8 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 8.376 </td>
+   <td style="text-align:right;"> 8.376 </td>
+   <td style="text-align:left;"> 0.004 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.242 </td>
-   <td style="text-align:right;"> 0.242 </td>
-   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:right;"> 0.010 </td>
+   <td style="text-align:right;"> 0.010 </td>
+   <td style="text-align:left;"> 0.9 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> B12:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.391 </td>
-   <td style="text-align:right;"> 4.391 </td>
-   <td style="text-align:left;"> 0.04 </td>
-   <td style="text-align:left;"> \* </td>
+   <td style="text-align:right;"> 0.879 </td>
+   <td style="text-align:right;"> 0.879 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> B12:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 1.091 </td>
+   <td style="text-align:right;"> 1.091 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.677 </td>
+   <td style="text-align:right;"> 0.677 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.121 </td>
+   <td style="text-align:right;"> 0.121 </td>
+   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
 </table>
@@ -26478,72 +26975,82 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> B12 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 54.379 </td>
-   <td style="text-align:right;"> 54.379 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 3.763 </td>
-   <td style="text-align:right;"> 3.763 </td>
-   <td style="text-align:left;"> 0.05 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 8.487 </td>
-   <td style="text-align:right;"> 8.487 </td>
-   <td style="text-align:left;"> 0.004 </td>
-   <td style="text-align:left;"> ** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.174 </td>
-   <td style="text-align:right;"> 1.174 </td>
-   <td style="text-align:left;"> 0.3 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:left;"> 1.0 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 7 </td>
-   <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.289 </td>
-   <td style="text-align:right;"> 0.289 </td>
+   <td style="text-align:right;"> 0.355 </td>
+   <td style="text-align:right;"> 0.355 </td>
    <td style="text-align:left;"> 0.6 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> 5 </td>
+   <td style="text-align:left;"> GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.683 </td>
-   <td style="text-align:right;"> 1.683 </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:right;"> 0.786 </td>
+   <td style="text-align:right;"> 0.786 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 8.298 </td>
+   <td style="text-align:right;"> 8.298 </td>
+   <td style="text-align:left;"> 0.004 </td>
+   <td style="text-align:left;"> ** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 8 </td>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.579 </td>
+   <td style="text-align:right;"> 0.579 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 2 </td>
+   <td style="text-align:left;"> B12:GDM_new </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.044 </td>
+   <td style="text-align:right;"> 0.044 </td>
+   <td style="text-align:left;"> 0.8 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> B12:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.073 </td>
+   <td style="text-align:right;"> 0.073 </td>
+   <td style="text-align:left;"> 0.8 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.267 </td>
+   <td style="text-align:right;"> 0.267 </td>
+   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.010 </td>
+   <td style="text-align:right;"> 0.010 </td>
+   <td style="text-align:left;"> 0.9 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -26617,23 +27124,23 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 0.57 (0.35, 0.79) </td>
+   <td style="text-align:left;"> 0.59 (0.37, 0.81) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> B12 </td>
    <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.07 </td>
+   <td style="text-align:left;"> 0.30 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> -0.04 (-0.19, 0.11) </td>
-   <td style="text-align:left;"> 0.60 </td>
+   <td style="text-align:left;"> -0.36 (-0.65, -0.07) </td>
+   <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> 0.17 (0.05, 0.28) </td>
-   <td style="text-align:left;"> 0.006 </td>
+   <td style="text-align:left;"> 0.12 (-0.00, 0.24) </td>
+   <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
@@ -26642,18 +27149,23 @@ Ratio of Geometric means (95% CI)
   </tr>
   <tr>
    <td style="text-align:left;"> B12:GDM_newGDM </td>
-   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.34 </td>
+   <td style="text-align:left;"> 0.00 (0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> 0.07 (-0.04, 0.19) </td>
-   <td style="text-align:left;"> 0.23 </td>
+   <td style="text-align:left;"> 0.46 (0.14, 0.78) </td>
+   <td style="text-align:left;"> 0.005 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> B12:StudySTOP </td>
-   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.45 </td>
+   <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.87 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> B12:GDM_newGDM:StudySTOP </td>
+   <td style="text-align:left;"> -0.00 (-0.00, -0.00) </td>
+   <td style="text-align:left;"> 0.01 </td>
   </tr>
 </tbody>
 </table>
@@ -26725,23 +27237,23 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 2.86 (2.27, 3.45) </td>
+   <td style="text-align:left;"> 2.87 (2.29, 3.46) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> B12 </td>
    <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.07 </td>
+   <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> 1.18 (0.23, 2.13) </td>
-   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> 0.97 (0.54, 1.40) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> -0.46 (-0.80, -0.12) </td>
-   <td style="text-align:left;"> 0.008 </td>
+   <td style="text-align:left;"> -0.49 (-0.81, -0.16) </td>
+   <td style="text-align:left;"> 0.004 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
@@ -26751,22 +27263,17 @@ Ratio of Geometric means (95% CI)
   <tr>
    <td style="text-align:left;"> B12:GDM_newGDM </td>
    <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.37 </td>
+   <td style="text-align:left;"> 0.27 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.50 (-1.51, 0.52) </td>
-   <td style="text-align:left;"> 0.34 </td>
+   <td style="text-align:left;"> -0.25 (-0.58, 0.08) </td>
+   <td style="text-align:left;"> 0.14 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> B12:StudySTOP </td>
    <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.28 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> B12:GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.58 </td>
+   <td style="text-align:left;"> 0.20 </td>
   </tr>
 </tbody>
 </table>
@@ -26784,23 +27291,23 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 1.50 (0.88, 2.12) </td>
+   <td style="text-align:left;"> 1.51 (0.89, 2.13) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> B12 </td>
    <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.09 </td>
+   <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> 1.21 (0.15, 2.27) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> 1.07 (0.59, 1.55) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> -0.62 (-0.99, -0.26) </td>
-   <td style="text-align:left;"> 0.0009 </td>
+   <td style="text-align:left;"> -0.64 (-0.99, -0.29) </td>
+   <td style="text-align:left;"> 0.0004 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
@@ -26810,22 +27317,17 @@ Ratio of Geometric means (95% CI)
   <tr>
    <td style="text-align:left;"> B12:GDM_newGDM </td>
    <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.49 </td>
+   <td style="text-align:left;"> 0.29 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.48 (-1.61, 0.66) </td>
-   <td style="text-align:left;"> 0.41 </td>
+   <td style="text-align:left;"> -0.31 (-0.67, 0.06) </td>
+   <td style="text-align:left;"> 0.10 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> B12:StudySTOP </td>
    <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.30 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> B12:GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.73 </td>
+   <td style="text-align:left;"> 0.23 </td>
   </tr>
 </tbody>
 </table>
@@ -26963,38 +27465,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 87.24599 </td>
-   <td style="text-align:right;"> 2.640238 </td>
-   <td style="text-align:right;"> 212.7556 </td>
-   <td style="text-align:right;"> 82.19380 </td>
-   <td style="text-align:right;"> 92.60873 </td>
+   <td style="text-align:right;"> 86.68206 </td>
+   <td style="text-align:right;"> 2.632632 </td>
+   <td style="text-align:right;"> 213.4706 </td>
+   <td style="text-align:right;"> 81.64505 </td>
+   <td style="text-align:right;"> 92.02982 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 98.71923 </td>
-   <td style="text-align:right;"> 2.502384 </td>
-   <td style="text-align:right;"> 106.8561 </td>
-   <td style="text-align:right;"> 93.88105 </td>
-   <td style="text-align:right;"> 103.80675 </td>
+   <td style="text-align:right;"> 98.85500 </td>
+   <td style="text-align:right;"> 2.509604 </td>
+   <td style="text-align:right;"> 106.3658 </td>
+   <td style="text-align:right;"> 94.00280 </td>
+   <td style="text-align:right;"> 103.95767 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 78.93065 </td>
-   <td style="text-align:right;"> 4.429983 </td>
-   <td style="text-align:right;"> 651.9714 </td>
-   <td style="text-align:right;"> 70.69410 </td>
-   <td style="text-align:right;"> 88.12685 </td>
+   <td style="text-align:right;"> 82.65049 </td>
+   <td style="text-align:right;"> 4.849031 </td>
+   <td style="text-align:right;"> 610.8268 </td>
+   <td style="text-align:right;"> 73.65582 </td>
+   <td style="text-align:right;"> 92.74357 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 95.93171 </td>
-   <td style="text-align:right;"> 3.410817 </td>
-   <td style="text-align:right;"> 316.6739 </td>
-   <td style="text-align:right;"> 89.45032 </td>
-   <td style="text-align:right;"> 102.88272 </td>
+   <td style="text-align:right;"> 95.63783 </td>
+   <td style="text-align:right;"> 3.401521 </td>
+   <td style="text-align:right;"> 314.8558 </td>
+   <td style="text-align:right;"> 89.17405 </td>
+   <td style="text-align:right;"> 102.57015 </td>
   </tr>
 </tbody>
 </table>
@@ -27071,38 +27573,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 13.59273 </td>
-   <td style="text-align:right;"> 0.9070672 </td>
+   <td style="text-align:right;"> 13.55675 </td>
+   <td style="text-align:right;"> 0.9031283 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 11.92626 </td>
-   <td style="text-align:right;"> 15.49205 </td>
+   <td style="text-align:right;"> 11.89734 </td>
+   <td style="text-align:right;"> 15.44761 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 10.34775 </td>
-   <td style="text-align:right;"> 0.4304582 </td>
+   <td style="text-align:right;"> 10.35361 </td>
+   <td style="text-align:right;"> 0.4308209 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 9.53755 </td>
-   <td style="text-align:right;"> 11.22678 </td>
+   <td style="text-align:right;"> 9.54273 </td>
+   <td style="text-align:right;"> 11.23339 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 28.63309 </td>
-   <td style="text-align:right;"> 3.9851963 </td>
+   <td style="text-align:right;"> 29.66964 </td>
+   <td style="text-align:right;"> 4.3870159 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 21.79700 </td>
-   <td style="text-align:right;"> 37.61315 </td>
+   <td style="text-align:right;"> 22.20505 </td>
+   <td style="text-align:right;"> 39.64357 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 17.67812 </td>
-   <td style="text-align:right;"> 1.3392265 </td>
+   <td style="text-align:right;"> 17.64377 </td>
+   <td style="text-align:right;"> 1.3367027 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 15.23885 </td>
-   <td style="text-align:right;"> 20.50784 </td>
+   <td style="text-align:right;"> 15.20911 </td>
+   <td style="text-align:right;"> 20.46817 </td>
   </tr>
 </tbody>
 </table>
@@ -27125,38 +27627,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 3.295468 </td>
-   <td style="text-align:right;"> 0.2346256 </td>
+   <td style="text-align:right;"> 3.289451 </td>
+   <td style="text-align:right;"> 0.2333498 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 2.866254 </td>
-   <td style="text-align:right;"> 3.788957 </td>
+   <td style="text-align:right;"> 2.862465 </td>
+   <td style="text-align:right;"> 3.780129 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 2.156407 </td>
-   <td style="text-align:right;"> 0.0942371 </td>
+   <td style="text-align:right;"> 2.157247 </td>
+   <td style="text-align:right;"> 0.0942625 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.979395 </td>
-   <td style="text-align:right;"> 2.349250 </td>
+   <td style="text-align:right;"> 1.980186 </td>
+   <td style="text-align:right;"> 2.350140 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 7.673065 </td>
-   <td style="text-align:right;"> 1.1569764 </td>
+   <td style="text-align:right;"> 7.863563 </td>
+   <td style="text-align:right;"> 1.2846270 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 5.709804 </td>
-   <td style="text-align:right;"> 10.311374 </td>
+   <td style="text-align:right;"> 5.709042 </td>
+   <td style="text-align:right;"> 10.831173 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 3.802319 </td>
-   <td style="text-align:right;"> 0.3093746 </td>
+   <td style="text-align:right;"> 3.797184 </td>
+   <td style="text-align:right;"> 0.3091261 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 3.241834 </td>
-   <td style="text-align:right;"> 4.459707 </td>
+   <td style="text-align:right;"> 3.237173 </td>
+   <td style="text-align:right;"> 4.454073 </td>
   </tr>
 </tbody>
 </table>
@@ -27230,6 +27732,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -27239,6 +27742,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.010 (0.956, 1.067) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -27246,6 +27750,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.017 (0.978, 1.058) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -27253,6 +27758,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.045 (0.958, 1.140) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -27260,6 +27766,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.052 (0.986, 1.123) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -27267,34 +27774,39 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 1.027 (0.998, 1.058) </td>
-   <td style="text-align:left;"> 0.07 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 1.016 (0.986, 1.047) </td>
+   <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 1.013 (0.992, 1.035) </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 1.019 (0.997, 1.041) </td>
+   <td style="text-align:left;"> 0.08 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 1.008 (0.962, 1.055) </td>
-   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.122 (1.021, 1.233) </td>
+   <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.994 (0.960, 1.030) </td>
-   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.977 (0.942, 1.015) </td>
+   <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.060 (1.018, 1.103) </td>
    <td style="text-align:left;"> 0.004 </td>
   </tr>
@@ -27302,6 +27814,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.016 (0.987, 1.045) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -27309,6 +27822,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.077 (1.011, 1.148) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
@@ -27316,6 +27830,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.032 (0.984, 1.083) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -27323,62 +27838,71 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.916 (0.833, 1.008) </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.911 (0.830, 1.000) </td>
+   <td style="text-align:left;"> 0.05 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin </td>
+   <td style="text-align:left;"> B12366 / B12266 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.976 (0.925, 1.029) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin </td>
+   <td style="text-align:left;"> B12366 / B12266 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.858 (0.751, 0.980) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin </td>
+   <td style="text-align:left;"> B12366 / B12266 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.919 (0.835, 1.011) </td>
+   <td style="text-align:left;"> 0.08 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HOMA.IR </td>
+   <td style="text-align:left;"> B12366 / B12266 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.910 (0.824, 1.006) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin </td>
-   <td style="text-align:left;"> B12366 / B12266 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.973 (0.921, 1.027) </td>
-   <td style="text-align:left;"> 0.3 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Insulin </td>
-   <td style="text-align:left;"> B12366 / B12266 </td>
-   <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.798 (0.598, 1.063) </td>
-   <td style="text-align:left;"> 0.1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Insulin </td>
-   <td style="text-align:left;"> B12366 / B12266 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.927 (0.840, 1.024) </td>
-   <td style="text-align:left;"> 0.1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> HOMA.IR </td>
-   <td style="text-align:left;"> B12366 / B12266 </td>
-   <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.914 (0.825, 1.013) </td>
-   <td style="text-align:left;"> 0.09 </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.973 (0.917, 1.032) </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.975 (0.920, 1.034) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.814 (0.593, 1.117) </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.856 (0.741, 0.987) </td>
+   <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.923 (0.829, 1.027) </td>
-   <td style="text-align:left;"> 0.1 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.917 (0.827, 1.016) </td>
+   <td style="text-align:left;"> 0.10 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.989 (0.973, 1.005) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -27386,6 +27910,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.996 (0.986, 1.005) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -27393,6 +27918,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.992 (0.960, 1.026) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -27400,6 +27926,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.999 (0.978, 1.020) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -27500,52 +28027,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 0.9732297 </td>
-   <td style="text-align:right;"> 0.0347802 </td>
-   <td style="text-align:right;"> 1222.642 </td>
-   <td style="text-align:right;"> 0.9073314 </td>
-   <td style="text-align:right;"> 1.043914 </td>
-   <td style="text-align:left;"> 0.448 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 0.8739563 </td>
+   <td style="text-align:right;"> 0.0481123 </td>
+   <td style="text-align:right;"> 664.0487 </td>
+   <td style="text-align:right;"> 0.7844125 </td>
+   <td style="text-align:right;"> 0.9737219 </td>
+   <td style="text-align:left;"> 0.015 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 0.9865241 </td>
-   <td style="text-align:right;"> 0.0176277 </td>
-   <td style="text-align:right;"> 1222.642 </td>
-   <td style="text-align:right;"> 0.9525394 </td>
-   <td style="text-align:right;"> 1.021721 </td>
-   <td style="text-align:left;"> 0.448 </td>
+   <td style="text-align:right;"> 1.0031428 </td>
+   <td style="text-align:right;"> 0.0190608 </td>
+   <td style="text-align:right;"> 1300.0835 </td>
+   <td style="text-align:right;"> 0.9664378 </td>
+   <td style="text-align:right;"> 1.0412418 </td>
+   <td style="text-align:left;"> 0.869 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 0.9865241 </td>
-   <td style="text-align:right;"> 0.0176277 </td>
-   <td style="text-align:right;"> 1222.642 </td>
-   <td style="text-align:right;"> 0.9525394 </td>
-   <td style="text-align:right;"> 1.021721 </td>
-   <td style="text-align:left;"> 0.448 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 0.8712183 </td>
+   <td style="text-align:right;"> 0.0450833 </td>
+   <td style="text-align:right;"> 600.1575 </td>
+   <td style="text-align:right;"> 0.7870286 </td>
+   <td style="text-align:right;"> 0.9644139 </td>
+   <td style="text-align:left;"> 0.008 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 0.9811009 </td>
-   <td style="text-align:right;"> 0.0197731 </td>
-   <td style="text-align:right;"> 1327.900 </td>
-   <td style="text-align:right;"> 0.9430678 </td>
-   <td style="text-align:right;"> 1.020668 </td>
-   <td style="text-align:left;"> 0.344 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 1.1042956 </td>
+   <td style="text-align:right;"> 0.0556984 </td>
+   <td style="text-align:right;"> 563.4220 </td>
+   <td style="text-align:right;"> 1.0001384 </td>
+   <td style="text-align:right;"> 1.2193001 </td>
+   <td style="text-align:left;"> 0.050 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9811009 </td>
-   <td style="text-align:right;"> 0.0197731 </td>
-   <td style="text-align:right;"> 1327.900 </td>
-   <td style="text-align:right;"> 0.9430678 </td>
-   <td style="text-align:right;"> 1.020668 </td>
-   <td style="text-align:left;"> 0.344 </td>
+   <td style="text-align:right;"> 0.9590684 </td>
+   <td style="text-align:right;"> 0.0210968 </td>
+   <td style="text-align:right;"> 1400.5208 </td>
+   <td style="text-align:right;"> 0.9185638 </td>
+   <td style="text-align:right;"> 1.0013591 </td>
+   <td style="text-align:left;"> 0.058 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -27638,52 +28165,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 1.2343601 </td>
-   <td style="text-align:right;"> 0.2036054 </td>
+   <td style="text-align:right;"> 1.1469112 </td>
+   <td style="text-align:right;"> 0.1224671 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8933832 </td>
-   <td style="text-align:right;"> 1.705477 </td>
-   <td style="text-align:left;"> 0.202 </td>
+   <td style="text-align:right;"> 0.9303332 </td>
+   <td style="text-align:right;"> 1.413908 </td>
+   <td style="text-align:left;"> 0.199 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 1.0617957 </td>
-   <td style="text-align:right;"> 0.0595431 </td>
+   <td style="text-align:right;"> 1.0709394 </td>
+   <td style="text-align:right;"> 0.0571774 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9512781 </td>
-   <td style="text-align:right;"> 1.185153 </td>
-   <td style="text-align:left;"> 0.285 </td>
+   <td style="text-align:right;"> 0.9645378 </td>
+   <td style="text-align:right;"> 1.189078 </td>
+   <td style="text-align:left;"> 0.199 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 1.1625213 </td>
-   <td style="text-align:right;"> 0.1803263 </td>
+   <td style="text-align:right;"> 1.0709394 </td>
+   <td style="text-align:right;"> 0.0571774 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8577594 </td>
-   <td style="text-align:right;"> 1.575565 </td>
-   <td style="text-align:left;"> 0.332 </td>
+   <td style="text-align:right;"> 0.9645378 </td>
+   <td style="text-align:right;"> 1.189078 </td>
+   <td style="text-align:left;"> 0.199 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 0.8708117 </td>
-   <td style="text-align:right;"> 0.1345590 </td>
+   <td style="text-align:right;"> 0.9414962 </td>
+   <td style="text-align:right;"> 0.0512245 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.6432732 </td>
-   <td style="text-align:right;"> 1.178835 </td>
-   <td style="text-align:left;"> 0.371 </td>
+   <td style="text-align:right;"> 0.8462658 </td>
+   <td style="text-align:right;"> 1.047443 </td>
+   <td style="text-align:left;"> 0.268 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9534200 </td>
-   <td style="text-align:right;"> 0.0549831 </td>
+   <td style="text-align:right;"> 0.9414962 </td>
+   <td style="text-align:right;"> 0.0512245 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8515223 </td>
-   <td style="text-align:right;"> 1.067511 </td>
-   <td style="text-align:left;"> 0.408 </td>
+   <td style="text-align:right;"> 0.8462658 </td>
+   <td style="text-align:right;"> 1.047443 </td>
+   <td style="text-align:left;"> 0.268 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -27707,52 +28234,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 1.2077955 </td>
-   <td style="text-align:right;"> 0.2183087 </td>
+   <td style="text-align:right;"> 1.1477984 </td>
+   <td style="text-align:right;"> 0.1316612 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8474986 </td>
-   <td style="text-align:right;"> 1.721265 </td>
-   <td style="text-align:left;"> 0.296 </td>
+   <td style="text-align:right;"> 0.9166981 </td>
+   <td style="text-align:right;"> 1.437159 </td>
+   <td style="text-align:left;"> 0.229 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 1.0649921 </td>
-   <td style="text-align:right;"> 0.0642949 </td>
+   <td style="text-align:right;"> 1.0713535 </td>
+   <td style="text-align:right;"> 0.0614462 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9461463 </td>
-   <td style="text-align:right;"> 1.198766 </td>
-   <td style="text-align:left;"> 0.297 </td>
+   <td style="text-align:right;"> 0.9574435 </td>
+   <td style="text-align:right;"> 1.198816 </td>
+   <td style="text-align:left;"> 0.229 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 1.1340887 </td>
-   <td style="text-align:right;"> 0.1932218 </td>
+   <td style="text-align:right;"> 1.0713535 </td>
+   <td style="text-align:right;"> 0.0614462 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8121242 </td>
-   <td style="text-align:right;"> 1.583695 </td>
-   <td style="text-align:left;"> 0.460 </td>
+   <td style="text-align:right;"> 0.9574435 </td>
+   <td style="text-align:right;"> 1.198816 </td>
+   <td style="text-align:left;"> 0.229 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 0.8903221 </td>
-   <td style="text-align:right;"> 0.1511550 </td>
+   <td style="text-align:right;"> 0.9398504 </td>
+   <td style="text-align:right;"> 0.0551365 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.6383133 </td>
-   <td style="text-align:right;"> 1.241825 </td>
-   <td style="text-align:left;"> 0.494 </td>
+   <td style="text-align:right;"> 0.8377662 </td>
+   <td style="text-align:right;"> 1.054374 </td>
+   <td style="text-align:left;"> 0.290 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9480861 </td>
-   <td style="text-align:right;"> 0.0588700 </td>
+   <td style="text-align:right;"> 0.9398504 </td>
+   <td style="text-align:right;"> 0.0551365 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8394478 </td>
-   <td style="text-align:right;"> 1.070784 </td>
-   <td style="text-align:left;"> 0.391 </td>
+   <td style="text-align:right;"> 0.8377662 </td>
+   <td style="text-align:right;"> 1.054374 </td>
+   <td style="text-align:left;"> 0.290 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -27909,38 +28436,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 86.66356 </td>
-   <td style="text-align:right;"> 2.563355 </td>
-   <td style="text-align:right;"> 195.8223 </td>
-   <td style="text-align:right;"> 81.75285 </td>
-   <td style="text-align:right;"> 91.86924 </td>
+   <td style="text-align:right;"> 86.33838 </td>
+   <td style="text-align:right;"> 2.557415 </td>
+   <td style="text-align:right;"> 194.8997 </td>
+   <td style="text-align:right;"> 81.43912 </td>
+   <td style="text-align:right;"> 91.53238 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 98.39338 </td>
-   <td style="text-align:right;"> 2.485903 </td>
-   <td style="text-align:right;"> 105.5218 </td>
-   <td style="text-align:right;"> 93.58599 </td>
-   <td style="text-align:right;"> 103.44772 </td>
+   <td style="text-align:right;"> 98.38586 </td>
+   <td style="text-align:right;"> 2.489064 </td>
+   <td style="text-align:right;"> 104.9517 </td>
+   <td style="text-align:right;"> 93.57222 </td>
+   <td style="text-align:right;"> 103.44712 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 78.77861 </td>
-   <td style="text-align:right;"> 4.366150 </td>
-   <td style="text-align:right;"> 642.3517 </td>
-   <td style="text-align:right;"> 70.65503 </td>
-   <td style="text-align:right;"> 87.83620 </td>
+   <td style="text-align:right;"> 80.30615 </td>
+   <td style="text-align:right;"> 4.473273 </td>
+   <td style="text-align:right;"> 621.1605 </td>
+   <td style="text-align:right;"> 71.98499 </td>
+   <td style="text-align:right;"> 89.58919 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 96.07223 </td>
-   <td style="text-align:right;"> 3.394486 </td>
-   <td style="text-align:right;"> 309.4580 </td>
-   <td style="text-align:right;"> 89.61992 </td>
-   <td style="text-align:right;"> 102.98907 </td>
+   <td style="text-align:right;"> 96.18367 </td>
+   <td style="text-align:right;"> 3.397694 </td>
+   <td style="text-align:right;"> 307.3219 </td>
+   <td style="text-align:right;"> 89.72505 </td>
+   <td style="text-align:right;"> 103.10720 </td>
   </tr>
 </tbody>
 </table>
@@ -28017,38 +28544,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 13.89415 </td>
-   <td style="text-align:right;"> 0.8785217 </td>
+   <td style="text-align:right;"> 13.87606 </td>
+   <td style="text-align:right;"> 0.8774446 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 12.274695 </td>
-   <td style="text-align:right;"> 15.72726 </td>
+   <td style="text-align:right;"> 12.258601 </td>
+   <td style="text-align:right;"> 15.70693 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 10.41984 </td>
-   <td style="text-align:right;"> 0.4270505 </td>
+   <td style="text-align:right;"> 10.41744 </td>
+   <td style="text-align:right;"> 0.4270716 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 9.615574 </td>
-   <td style="text-align:right;"> 11.29138 </td>
+   <td style="text-align:right;"> 9.613143 </td>
+   <td style="text-align:right;"> 11.28903 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 30.29789 </td>
-   <td style="text-align:right;"> 4.2206871 </td>
+   <td style="text-align:right;"> 30.82962 </td>
+   <td style="text-align:right;"> 4.5440752 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 23.058693 </td>
-   <td style="text-align:right;"> 39.80981 </td>
+   <td style="text-align:right;"> 23.094412 </td>
+   <td style="text-align:right;"> 41.15565 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 18.01483 </td>
-   <td style="text-align:right;"> 1.3609484 </td>
+   <td style="text-align:right;"> 18.02213 </td>
+   <td style="text-align:right;"> 1.3612571 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 15.535498 </td>
-   <td style="text-align:right;"> 20.88983 </td>
+   <td style="text-align:right;"> 15.542210 </td>
+   <td style="text-align:right;"> 20.89775 </td>
   </tr>
 </tbody>
 </table>
@@ -28071,38 +28598,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 3.370533 </td>
-   <td style="text-align:right;"> 0.2272804 </td>
+   <td style="text-align:right;"> 3.367533 </td>
+   <td style="text-align:right;"> 0.2268849 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 2.953253 </td>
-   <td style="text-align:right;"> 3.846772 </td>
+   <td style="text-align:right;"> 2.950956 </td>
+   <td style="text-align:right;"> 3.842916 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 2.171079 </td>
-   <td style="text-align:right;"> 0.0935430 </td>
+   <td style="text-align:right;"> 2.170726 </td>
+   <td style="text-align:right;"> 0.0935500 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.995266 </td>
-   <td style="text-align:right;"> 2.362384 </td>
+   <td style="text-align:right;"> 1.994902 </td>
+   <td style="text-align:right;"> 2.362047 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 8.079109 </td>
-   <td style="text-align:right;"> 1.2422411 </td>
+   <td style="text-align:right;"> 8.176041 </td>
+   <td style="text-align:right;"> 1.3385987 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 5.976997 </td>
-   <td style="text-align:right;"> 10.920536 </td>
+   <td style="text-align:right;"> 5.931746 </td>
+   <td style="text-align:right;"> 11.269472 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 3.879551 </td>
-   <td style="text-align:right;"> 0.3154260 </td>
+   <td style="text-align:right;"> 3.880629 </td>
+   <td style="text-align:right;"> 0.3154237 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 3.308070 </td>
-   <td style="text-align:right;"> 4.549757 </td>
+   <td style="text-align:right;"> 3.309140 </td>
+   <td style="text-align:right;"> 4.550814 </td>
   </tr>
 </tbody>
 </table>
@@ -28176,6 +28703,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -28185,6 +28713,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.005 (0.978, 1.033) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -28192,6 +28721,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.008 (0.989, 1.028) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -28199,6 +28729,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.022 (0.979, 1.068) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -28206,6 +28737,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.026 (0.993, 1.060) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -28213,34 +28745,39 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 1.013 (0.999, 1.028) </td>
-   <td style="text-align:left;"> 0.07 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 1.008 (0.993, 1.023) </td>
+   <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 1.007 (0.996, 1.017) </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 1.010 (0.999, 1.021) </td>
+   <td style="text-align:left;"> 0.08 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 1.004 (0.981, 1.027) </td>
-   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.059 (1.010, 1.110) </td>
+   <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.997 (0.980, 1.015) </td>
-   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.989 (0.970, 1.007) </td>
+   <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.029 (1.009, 1.050) </td>
    <td style="text-align:left;"> 0.004 </td>
   </tr>
@@ -28248,6 +28785,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.008 (0.994, 1.022) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -28255,6 +28793,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.038 (1.005, 1.071) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
@@ -28262,6 +28801,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.016 (0.992, 1.041) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -28269,62 +28809,71 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.957 (0.912, 1.004) </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.955 (0.911, 1.000) </td>
+   <td style="text-align:left;"> 0.05 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin </td>
+   <td style="text-align:left;"> B12316 / B12266 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.988 (0.962, 1.015) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin </td>
+   <td style="text-align:left;"> B12316 / B12266 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.926 (0.867, 0.990) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin </td>
+   <td style="text-align:left;"> B12316 / B12266 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.958 (0.914, 1.005) </td>
+   <td style="text-align:left;"> 0.08 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HOMA.IR </td>
+   <td style="text-align:left;"> B12316 / B12266 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.954 (0.908, 1.003) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin </td>
-   <td style="text-align:left;"> B12316 / B12266 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.986 (0.960, 1.013) </td>
-   <td style="text-align:left;"> 0.3 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Insulin </td>
-   <td style="text-align:left;"> B12316 / B12266 </td>
-   <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.893 (0.774, 1.031) </td>
-   <td style="text-align:left;"> 0.1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Insulin </td>
-   <td style="text-align:left;"> B12316 / B12266 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.963 (0.916, 1.012) </td>
-   <td style="text-align:left;"> 0.1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> HOMA.IR </td>
-   <td style="text-align:left;"> B12316 / B12266 </td>
-   <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.956 (0.908, 1.006) </td>
-   <td style="text-align:left;"> 0.09 </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.987 (0.958, 1.016) </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.988 (0.959, 1.017) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.902 (0.770, 1.057) </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.925 (0.861, 0.994) </td>
+   <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.961 (0.911, 1.013) </td>
-   <td style="text-align:left;"> 0.1 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.957 (0.910, 1.008) </td>
+   <td style="text-align:left;"> 0.10 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.995 (0.986, 1.003) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -28332,6 +28881,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.998 (0.993, 1.003) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -28339,6 +28889,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.996 (0.980, 1.013) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -28346,6 +28897,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.999 (0.989, 1.010) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -28446,52 +28998,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 0.9865241 </td>
-   <td style="text-align:right;"> 0.0176277 </td>
-   <td style="text-align:right;"> 1222.642 </td>
-   <td style="text-align:right;"> 0.9525394 </td>
-   <td style="text-align:right;"> 1.021721 </td>
-   <td style="text-align:left;"> 0.448 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 0.9348563 </td>
+   <td style="text-align:right;"> 0.0257325 </td>
+   <td style="text-align:right;"> 664.0487 </td>
+   <td style="text-align:right;"> 0.8856707 </td>
+   <td style="text-align:right;"> 0.9867735 </td>
+   <td style="text-align:left;"> 0.015 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 0.9932392 </td>
-   <td style="text-align:right;"> 0.0088738 </td>
-   <td style="text-align:right;"> 1222.642 </td>
-   <td style="text-align:right;"> 0.9759813 </td>
-   <td style="text-align:right;"> 1.010802 </td>
-   <td style="text-align:left;"> 0.448 </td>
+   <td style="text-align:right;"> 1.0015702 </td>
+   <td style="text-align:right;"> 0.0095155 </td>
+   <td style="text-align:right;"> 1300.0835 </td>
+   <td style="text-align:right;"> 0.9830757 </td>
+   <td style="text-align:right;"> 1.0204126 </td>
+   <td style="text-align:left;"> 0.869 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 0.9932392 </td>
-   <td style="text-align:right;"> 0.0088738 </td>
-   <td style="text-align:right;"> 1222.642 </td>
-   <td style="text-align:right;"> 0.9759813 </td>
-   <td style="text-align:right;"> 1.010802 </td>
-   <td style="text-align:left;"> 0.448 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 0.9333907 </td>
+   <td style="text-align:right;"> 0.0241503 </td>
+   <td style="text-align:right;"> 600.1575 </td>
+   <td style="text-align:right;"> 0.8871463 </td>
+   <td style="text-align:right;"> 0.9820458 </td>
+   <td style="text-align:left;"> 0.008 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 0.9905054 </td>
-   <td style="text-align:right;"> 0.0099813 </td>
-   <td style="text-align:right;"> 1327.900 </td>
-   <td style="text-align:right;"> 0.9711168 </td>
-   <td style="text-align:right;"> 1.010281 </td>
-   <td style="text-align:left;"> 0.344 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 1.0508547 </td>
+   <td style="text-align:right;"> 0.0265015 </td>
+   <td style="text-align:right;"> 563.4220 </td>
+   <td style="text-align:right;"> 1.0000692 </td>
+   <td style="text-align:right;"> 1.1042192 </td>
+   <td style="text-align:left;"> 0.050 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9905054 </td>
-   <td style="text-align:right;"> 0.0099813 </td>
-   <td style="text-align:right;"> 1327.900 </td>
-   <td style="text-align:right;"> 0.9711168 </td>
-   <td style="text-align:right;"> 1.010281 </td>
-   <td style="text-align:left;"> 0.344 </td>
+   <td style="text-align:right;"> 0.9793204 </td>
+   <td style="text-align:right;"> 0.0107712 </td>
+   <td style="text-align:right;"> 1400.5208 </td>
+   <td style="text-align:right;"> 0.9584173 </td>
+   <td style="text-align:right;"> 1.0006793 </td>
+   <td style="text-align:left;"> 0.058 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -28584,52 +29136,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 1.1110176 </td>
-   <td style="text-align:right;"> 0.0916301 </td>
+   <td style="text-align:right;"> 1.0709394 </td>
+   <td style="text-align:right;"> 0.0571774 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9451895 </td>
-   <td style="text-align:right;"> 1.305939 </td>
-   <td style="text-align:left;"> 0.202 </td>
+   <td style="text-align:right;"> 0.9645378 </td>
+   <td style="text-align:right;"> 1.189078 </td>
+   <td style="text-align:left;"> 0.199 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 1.0304347 </td>
-   <td style="text-align:right;"> 0.0288922 </td>
+   <td style="text-align:right;"> 1.0348620 </td>
+   <td style="text-align:right;"> 0.0276256 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9753349 </td>
-   <td style="text-align:right;"> 1.088647 </td>
-   <td style="text-align:left;"> 0.285 </td>
+   <td style="text-align:right;"> 0.9821089 </td>
+   <td style="text-align:right;"> 1.090449 </td>
+   <td style="text-align:left;"> 0.199 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 1.0782028 </td>
-   <td style="text-align:right;"> 0.0836235 </td>
+   <td style="text-align:right;"> 1.0348620 </td>
+   <td style="text-align:right;"> 0.0276256 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9261530 </td>
-   <td style="text-align:right;"> 1.255215 </td>
-   <td style="text-align:left;"> 0.332 </td>
+   <td style="text-align:right;"> 0.9821089 </td>
+   <td style="text-align:right;"> 1.090449 </td>
+   <td style="text-align:left;"> 0.199 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 0.9331729 </td>
-   <td style="text-align:right;"> 0.0720976 </td>
+   <td style="text-align:right;"> 0.9703072 </td>
+   <td style="text-align:right;"> 0.0263960 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8020431 </td>
-   <td style="text-align:right;"> 1.085742 </td>
-   <td style="text-align:left;"> 0.371 </td>
+   <td style="text-align:right;"> 0.9199271 </td>
+   <td style="text-align:right;"> 1.023446 </td>
+   <td style="text-align:left;"> 0.268 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9764323 </td>
-   <td style="text-align:right;"> 0.0281551 </td>
+   <td style="text-align:right;"> 0.9703072 </td>
+   <td style="text-align:right;"> 0.0263960 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9227796 </td>
-   <td style="text-align:right;"> 1.033204 </td>
-   <td style="text-align:left;"> 0.408 </td>
+   <td style="text-align:right;"> 0.9199271 </td>
+   <td style="text-align:right;"> 1.023446 </td>
+   <td style="text-align:left;"> 0.268 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -28653,52 +29205,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 1.0989975 </td>
-   <td style="text-align:right;"> 0.0993217 </td>
+   <td style="text-align:right;"> 1.0713535 </td>
+   <td style="text-align:right;"> 0.0614462 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9205969 </td>
-   <td style="text-align:right;"> 1.311970 </td>
-   <td style="text-align:left;"> 0.296 </td>
+   <td style="text-align:right;"> 0.9574435 </td>
+   <td style="text-align:right;"> 1.198816 </td>
+   <td style="text-align:left;"> 0.229 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 1.0319846 </td>
-   <td style="text-align:right;"> 0.0311511 </td>
+   <td style="text-align:right;"> 1.0350621 </td>
+   <td style="text-align:right;"> 0.0296824 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9727005 </td>
-   <td style="text-align:right;"> 1.094882 </td>
-   <td style="text-align:left;"> 0.297 </td>
+   <td style="text-align:right;"> 0.9784904 </td>
+   <td style="text-align:right;"> 1.094904 </td>
+   <td style="text-align:left;"> 0.229 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 1.0649360 </td>
-   <td style="text-align:right;"> 0.0907199 </td>
+   <td style="text-align:right;"> 1.0350621 </td>
+   <td style="text-align:right;"> 0.0296824 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9011793 </td>
-   <td style="text-align:right;"> 1.258449 </td>
-   <td style="text-align:left;"> 0.460 </td>
+   <td style="text-align:right;"> 0.9784904 </td>
+   <td style="text-align:right;"> 1.094904 </td>
+   <td style="text-align:left;"> 0.229 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 0.9435688 </td>
-   <td style="text-align:right;"> 0.0800975 </td>
+   <td style="text-align:right;"> 0.9694588 </td>
+   <td style="text-align:right;"> 0.0284367 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.7989451 </td>
-   <td style="text-align:right;"> 1.114372 </td>
-   <td style="text-align:left;"> 0.494 </td>
+   <td style="text-align:right;"> 0.9152957 </td>
+   <td style="text-align:right;"> 1.026827 </td>
+   <td style="text-align:left;"> 0.290 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9736971 </td>
-   <td style="text-align:right;"> 0.0302301 </td>
+   <td style="text-align:right;"> 0.9694588 </td>
+   <td style="text-align:right;"> 0.0284367 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9162138 </td>
-   <td style="text-align:right;"> 1.034787 </td>
-   <td style="text-align:left;"> 0.391 </td>
+   <td style="text-align:right;"> 0.9152957 </td>
+   <td style="text-align:right;"> 1.026827 </td>
+   <td style="text-align:left;"> 0.290 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -28791,7 +29343,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_GDM_analysis_files/figure-html/unnamed-chunk-56-4.png" width="672" />
 
 
@@ -28840,58 +29392,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 186.2873571 </td>
+   <td style="text-align:right;"> 169.8724552 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 2.3744735 </td>
+   <td style="text-align:left;"> folate_B12 </td>
+   <td style="text-align:right;"> 3.7847549 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.1 </td>
+   <td style="text-align:left;"> 0.05 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 0.8352147 </td>
+   <td style="text-align:right;"> 0.5764352 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.4 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 2.3632920 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 2.6871647 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.1 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 89.8462847 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 27.6014746 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 145.4047280 </td>
+   <td style="text-align:right;"> 151.7582805 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 2.0357209 </td>
+   <td style="text-align:left;"> folate_B12:GDM_new </td>
+   <td style="text-align:right;"> 0.0111970 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1.1101316 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> folate_B12:Study </td>
+   <td style="text-align:right;"> 5.7254015 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> folate_B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 0.0207807 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.9 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -28912,59 +29471,66 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 114.7698430 </td>
+   <td style="text-align:right;"> 37.8071254 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 7.2736070 </td>
+   <td style="text-align:left;"> folate_B12 </td>
+   <td style="text-align:right;"> 0.0821847 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.007 </td>
-   <td style="text-align:left;"> ** </td>
+   <td style="text-align:left;"> 0.8 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1.2866802 </td>
+   <td style="text-align:right;"> 0.5570061 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> 0.5 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 122.0690428 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 9.9200537 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 2.9326031 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.09 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 0.2523666 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.6 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 2038.4734597 </td>
+   <td style="text-align:right;"> 1959.9141332 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 1.9535696 </td>
+   <td style="text-align:left;"> folate_B12:GDM_new </td>
+   <td style="text-align:right;"> 5.6137682 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1.5557746 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.2 </td>
    <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> folate_B12:Study </td>
+   <td style="text-align:right;"> 0.0319745 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> folate_B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 5.9889500 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
 </tbody>
 </table>
@@ -28984,58 +29550,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 222.6039862 </td>
+   <td style="text-align:right;"> 325.1881724 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 0.8028006 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.4 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1.2852257 </td>
+   <td style="text-align:left;"> folate_B12 </td>
+   <td style="text-align:right;"> 1.0321016 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 27.8356406 </td>
+   <td style="text-align:left;"> GDM_new </td>
+   <td style="text-align:right;"> 0.0016102 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 0.6462443 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> 1.0 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 0.4132299 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 0.1084480 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> 0.7 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 862.5535317 </td>
+   <td style="text-align:right;"> 877.5072246 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 3.4900314 </td>
+   <td style="text-align:left;"> folate_B12:GDM_new </td>
+   <td style="text-align:right;"> 2.4568213 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.06 </td>
+   <td style="text-align:left;"> 0.1 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 0.0027551 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> folate_B12:Study </td>
+   <td style="text-align:right;"> 0.0171659 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> folate_B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 2.8020725 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.09 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -29059,73 +29632,83 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> folate_B12 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 21.941 </td>
-   <td style="text-align:right;"> 21.941 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 32.023 </td>
-   <td style="text-align:right;"> 32.023 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 228.774 </td>
-   <td style="text-align:right;"> 228.774 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 16.948 </td>
-   <td style="text-align:right;"> 16.948 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.127 </td>
-   <td style="text-align:right;"> 0.127 </td>
-   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:right;"> 0.344 </td>
+   <td style="text-align:right;"> 0.344 </td>
+   <td style="text-align:left;"> 0.6 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> 5 </td>
+   <td style="text-align:left;"> GDM_new </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 28.664 </td>
+   <td style="text-align:right;"> 28.664 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 8.069 </td>
+   <td style="text-align:right;"> 8.069 </td>
+   <td style="text-align:left;"> 0.005 </td>
+   <td style="text-align:left;"> ** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.547 </td>
-   <td style="text-align:right;"> 0.547 </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:right;"> 0.082 </td>
+   <td style="text-align:right;"> 0.082 </td>
+   <td style="text-align:left;"> 0.8 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> folate_B12:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.128 </td>
-   <td style="text-align:right;"> 4.128 </td>
-   <td style="text-align:left;"> 0.04 </td>
-   <td style="text-align:left;"> \* </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> folate_B12:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.038 </td>
+   <td style="text-align:right;"> 0.038 </td>
+   <td style="text-align:left;"> 0.8 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.602 </td>
+   <td style="text-align:right;"> 0.602 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> folate_B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.282 </td>
+   <td style="text-align:right;"> 0.282 </td>
+   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
 </table>
@@ -29148,73 +29731,83 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> folate_B12 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 35.890 </td>
-   <td style="text-align:right;"> 35.890 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 29.826 </td>
-   <td style="text-align:right;"> 29.826 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 225.782 </td>
-   <td style="text-align:right;"> 225.782 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 17.023 </td>
-   <td style="text-align:right;"> 17.023 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.075 </td>
-   <td style="text-align:right;"> 0.075 </td>
-   <td style="text-align:left;"> 0.8 </td>
+   <td style="text-align:right;"> 0.646 </td>
+   <td style="text-align:right;"> 0.646 </td>
+   <td style="text-align:left;"> 0.4 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> 5 </td>
+   <td style="text-align:left;"> GDM_new </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 29.220 </td>
+   <td style="text-align:right;"> 29.220 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 14.790 </td>
+   <td style="text-align:right;"> 14.790 </td>
+   <td style="text-align:left;"> 0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.242 </td>
-   <td style="text-align:right;"> 0.242 </td>
-   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:right;"> 0.003 </td>
+   <td style="text-align:right;"> 0.003 </td>
+   <td style="text-align:left;"> 1.0 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> folate_B12:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.391 </td>
-   <td style="text-align:right;"> 4.391 </td>
-   <td style="text-align:left;"> 0.04 </td>
-   <td style="text-align:left;"> \* </td>
+   <td style="text-align:right;"> 0.057 </td>
+   <td style="text-align:right;"> 0.057 </td>
+   <td style="text-align:left;"> 0.8 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> folate_B12:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:right;"> 0.000 </td>
+   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.886 </td>
+   <td style="text-align:right;"> 0.886 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> folate_B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.162 </td>
+   <td style="text-align:right;"> 0.162 </td>
+   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
 </table>
@@ -29237,72 +29830,82 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
+   <td style="text-align:left;"> folate_B12 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.869 </td>
+   <td style="text-align:right;"> 0.869 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 5 </td>
+   <td style="text-align:left;"> GDM_new </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 5.757 </td>
+   <td style="text-align:right;"> 5.757 </td>
+   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 7 </td>
    <td style="text-align:left;"> Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 54.379 </td>
-   <td style="text-align:right;"> 54.379 </td>
+   <td style="text-align:right;"> 25.701 </td>
+   <td style="text-align:right;"> 25.701 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 3.763 </td>
-   <td style="text-align:right;"> 3.763 </td>
-   <td style="text-align:left;"> 0.05 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 8.487 </td>
-   <td style="text-align:right;"> 8.487 </td>
-   <td style="text-align:left;"> 0.004 </td>
-   <td style="text-align:left;"> ** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.174 </td>
-   <td style="text-align:right;"> 1.174 </td>
-   <td style="text-align:left;"> 0.3 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:left;"> 1.0 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.289 </td>
-   <td style="text-align:right;"> 0.289 </td>
-   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:right;"> 0.401 </td>
+   <td style="text-align:right;"> 0.401 </td>
+   <td style="text-align:left;"> 0.5 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> folate_B12:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.683 </td>
-   <td style="text-align:right;"> 1.683 </td>
+   <td style="text-align:right;"> 1.596 </td>
+   <td style="text-align:right;"> 1.596 </td>
    <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> folate_B12:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.626 </td>
+   <td style="text-align:right;"> 0.626 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 1.077 </td>
+   <td style="text-align:right;"> 1.077 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> folate_B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.045 </td>
+   <td style="text-align:right;"> 0.045 </td>
+   <td style="text-align:left;"> 0.8 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -29376,23 +29979,23 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 0.68 (0.47, 0.89) </td>
+   <td style="text-align:left;"> 0.66 (0.45, 0.87) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_B12 </td>
    <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.23 </td>
+   <td style="text-align:left;"> 0.77 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> -0.07 (-0.19, 0.05) </td>
-   <td style="text-align:left;"> 0.25 </td>
+   <td style="text-align:left;"> 0.06 (-0.10, 0.22) </td>
+   <td style="text-align:left;"> 0.46 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> 0.11 (0.02, 0.19) </td>
-   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> 0.14 (0.05, 0.22) </td>
+   <td style="text-align:left;"> 0.002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
@@ -29401,18 +30004,23 @@ Ratio of Geometric means (95% CI)
   </tr>
   <tr>
    <td style="text-align:left;"> folate_B12:GDM_newGDM </td>
-   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.65 </td>
+   <td style="text-align:left;"> -0.00 (-0.00, -0.00) </td>
+   <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> 0.05 (-0.06, 0.17) </td>
-   <td style="text-align:left;"> 0.37 </td>
+   <td style="text-align:left;"> -0.11 (-0.29, 0.06) </td>
+   <td style="text-align:left;"> 0.21 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_B12:StudySTOP </td>
-   <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.32 </td>
+   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.86 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> folate_B12:GDM_newGDM:StudySTOP </td>
+   <td style="text-align:left;"> 0.00 (0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.01 </td>
   </tr>
 </tbody>
 </table>
@@ -29484,22 +30092,22 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 2.61 (2.07, 3.14) </td>
+   <td style="text-align:left;"> 2.60 (2.07, 3.13) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_B12 </td>
    <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.58 </td>
+   <td style="text-align:left;"> 0.66 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> 0.78 (0.33, 1.24) </td>
-   <td style="text-align:left;"> 0.0007 </td>
+   <td style="text-align:left;"> 0.84 (0.50, 1.19) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> -0.32 (-0.54, -0.10) </td>
+   <td style="text-align:left;"> -0.31 (-0.52, -0.10) </td>
    <td style="text-align:left;"> 0.004 </td>
   </tr>
   <tr>
@@ -29509,23 +30117,18 @@ Ratio of Geometric means (95% CI)
   </tr>
   <tr>
    <td style="text-align:left;"> folate_B12:GDM_newGDM </td>
-   <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.76 </td>
+   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.72 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.20 (-0.70, 0.30) </td>
-   <td style="text-align:left;"> 0.44 </td>
+   <td style="text-align:left;"> -0.27 (-0.61, 0.07) </td>
+   <td style="text-align:left;"> 0.12 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_B12:StudySTOP </td>
    <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.74 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> folate_B12:GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.60 </td>
+   <td style="text-align:left;"> 0.88 </td>
   </tr>
 </tbody>
 </table>
@@ -29543,22 +30146,22 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 1.25 (0.69, 1.82) </td>
+   <td style="text-align:left;"> 1.24 (0.68, 1.81) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_B12 </td>
    <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.50 </td>
+   <td style="text-align:left;"> 0.56 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> 0.90 (0.39, 1.40) </td>
-   <td style="text-align:left;"> 0.0005 </td>
+   <td style="text-align:left;"> 0.95 (0.57, 1.33) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> -0.48 (-0.71, -0.25) </td>
+   <td style="text-align:left;"> -0.47 (-0.69, -0.25) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
@@ -29568,23 +30171,18 @@ Ratio of Geometric means (95% CI)
   </tr>
   <tr>
    <td style="text-align:left;"> folate_B12:GDM_newGDM </td>
-   <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.93 </td>
+   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.58 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.27 (-0.82, 0.29) </td>
-   <td style="text-align:left;"> 0.35 </td>
+   <td style="text-align:left;"> -0.33 (-0.71, 0.04) </td>
+   <td style="text-align:left;"> 0.08 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_B12:StudySTOP </td>
    <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.65 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> folate_B12:GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.69 </td>
+   <td style="text-align:left;"> 0.75 </td>
   </tr>
 </tbody>
 </table>
@@ -29722,38 +30320,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 86.15244 </td>
-   <td style="text-align:right;"> 2.535986 </td>
-   <td style="text-align:right;"> 189.8154 </td>
-   <td style="text-align:right;"> 81.29256 </td>
-   <td style="text-align:right;"> 91.30285 </td>
+   <td style="text-align:right;"> 86.17832 </td>
+   <td style="text-align:right;"> 2.538979 </td>
+   <td style="text-align:right;"> 188.2151 </td>
+   <td style="text-align:right;"> 81.31257 </td>
+   <td style="text-align:right;"> 91.33523 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 98.33039 </td>
-   <td style="text-align:right;"> 2.489858 </td>
-   <td style="text-align:right;"> 105.0383 </td>
-   <td style="text-align:right;"> 93.51537 </td>
-   <td style="text-align:right;"> 103.39333 </td>
+   <td style="text-align:right;"> 98.38177 </td>
+   <td style="text-align:right;"> 2.495652 </td>
+   <td style="text-align:right;"> 104.5259 </td>
+   <td style="text-align:right;"> 93.55549 </td>
+   <td style="text-align:right;"> 103.45702 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 79.42224 </td>
-   <td style="text-align:right;"> 4.420294 </td>
-   <td style="text-align:right;"> 627.4360 </td>
-   <td style="text-align:right;"> 71.19941 </td>
-   <td style="text-align:right;"> 88.59472 </td>
+   <td style="text-align:right;"> 80.17900 </td>
+   <td style="text-align:right;"> 4.471729 </td>
+   <td style="text-align:right;"> 630.3602 </td>
+   <td style="text-align:right;"> 71.86149 </td>
+   <td style="text-align:right;"> 89.45920 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 95.55471 </td>
-   <td style="text-align:right;"> 3.392167 </td>
-   <td style="text-align:right;"> 311.3947 </td>
-   <td style="text-align:right;"> 89.10801 </td>
-   <td style="text-align:right;"> 102.46780 </td>
+   <td style="text-align:right;"> 95.49611 </td>
+   <td style="text-align:right;"> 3.390919 </td>
+   <td style="text-align:right;"> 309.2910 </td>
+   <td style="text-align:right;"> 89.05168 </td>
+   <td style="text-align:right;"> 102.40691 </td>
   </tr>
 </tbody>
 </table>
@@ -29830,38 +30428,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 14.07173 </td>
-   <td style="text-align:right;"> 0.8800702 </td>
+   <td style="text-align:right;"> 14.07586 </td>
+   <td style="text-align:right;"> 0.8800801 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 12.448357 </td>
-   <td style="text-align:right;"> 15.90681 </td>
+   <td style="text-align:right;"> 12.452432 </td>
+   <td style="text-align:right;"> 15.91092 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 10.43885 </td>
-   <td style="text-align:right;"> 0.4305267 </td>
+   <td style="text-align:right;"> 10.44075 </td>
+   <td style="text-align:right;"> 0.4305347 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 9.628238 </td>
-   <td style="text-align:right;"> 11.31771 </td>
+   <td style="text-align:right;"> 9.630115 </td>
+   <td style="text-align:right;"> 11.31962 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 31.78204 </td>
-   <td style="text-align:right;"> 5.1229897 </td>
+   <td style="text-align:right;"> 32.03042 </td>
+   <td style="text-align:right;"> 4.9978966 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 23.172640 </td>
-   <td style="text-align:right;"> 43.59013 </td>
+   <td style="text-align:right;"> 23.590902 </td>
+   <td style="text-align:right;"> 43.48912 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 18.09281 </td>
-   <td style="text-align:right;"> 1.3908196 </td>
+   <td style="text-align:right;"> 18.08465 </td>
+   <td style="text-align:right;"> 1.3890691 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 15.562271 </td>
-   <td style="text-align:right;"> 21.03483 </td>
+   <td style="text-align:right;"> 15.557147 </td>
+   <td style="text-align:right;"> 21.02279 </td>
   </tr>
 </tbody>
 </table>
@@ -29884,38 +30482,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 3.412201 </td>
-   <td style="text-align:right;"> 0.2270819 </td>
+   <td style="text-align:right;"> 3.413043 </td>
+   <td style="text-align:right;"> 0.2271328 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 2.994933 </td>
-   <td style="text-align:right;"> 3.887604 </td>
+   <td style="text-align:right;"> 2.995681 </td>
+   <td style="text-align:right;"> 3.888552 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 2.175412 </td>
-   <td style="text-align:right;"> 0.0942250 </td>
+   <td style="text-align:right;"> 2.175776 </td>
+   <td style="text-align:right;"> 0.0942232 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.998356 </td>
-   <td style="text-align:right;"> 2.368155 </td>
+   <td style="text-align:right;"> 1.998722 </td>
+   <td style="text-align:right;"> 2.368514 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 8.470519 </td>
-   <td style="text-align:right;"> 1.4966232 </td>
+   <td style="text-align:right;"> 8.531524 </td>
+   <td style="text-align:right;"> 1.4624141 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 5.991209 </td>
-   <td style="text-align:right;"> 11.975827 </td>
+   <td style="text-align:right;"> 6.097048 </td>
+   <td style="text-align:right;"> 11.938056 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 3.900860 </td>
-   <td style="text-align:right;"> 0.3223723 </td>
+   <td style="text-align:right;"> 3.899323 </td>
+   <td style="text-align:right;"> 0.3220337 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 3.317538 </td>
-   <td style="text-align:right;"> 4.586747 </td>
+   <td style="text-align:right;"> 3.316583 </td>
+   <td style="text-align:right;"> 4.584452 </td>
   </tr>
 </tbody>
 </table>
@@ -29989,6 +30587,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -29998,6 +30597,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.961 (0.924, 0.999) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
@@ -30005,6 +30605,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.023 (0.991, 1.055) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -30012,6 +30613,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.959 (0.906, 1.016) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -30019,6 +30621,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.021 (0.980, 1.064) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -30026,34 +30629,39 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.988 (0.968, 1.008) </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.997 (0.976, 1.018) </td>
+   <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 1.001 (0.984, 1.018) </td>
-   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.994 (0.977, 1.012) </td>
+   <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.982 (0.953, 1.012) </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.932 (0.885, 0.981) </td>
+   <td style="text-align:left;"> 0.008 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.994 (0.972, 1.017) </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.006 (0.982, 1.030) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.977 (0.950, 1.005) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -30061,6 +30669,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.993 (0.970, 1.016) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -30068,6 +30677,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.974 (0.934, 1.016) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -30075,6 +30685,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.990 (0.960, 1.020) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -30082,62 +30693,71 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.986 (0.937, 1.037) </td>
-   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.990 (0.944, 1.037) </td>
+   <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.996 (0.961, 1.033) </td>
-   <td style="text-align:left;"> 0.8 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.994 (0.960, 1.029) </td>
+   <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 1.002 (0.913, 1.100) </td>
-   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.979 (0.918, 1.045) </td>
+   <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.979 (0.927, 1.034) </td>
-   <td style="text-align:left;"> 0.4 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> HOMA.IR </td>
-   <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
-   <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.982 (0.931, 1.035) </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.983 (0.935, 1.035) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.997 (0.959, 1.037) </td>
-   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.985 (0.938, 1.035) </td>
+   <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
-   <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.988 (0.879, 1.111) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.995 (0.958, 1.033) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.968 (0.901, 1.040) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HOMA.IR </td>
+   <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.973 (0.918, 1.033) </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.977 (0.925, 1.033) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.998 (0.988, 1.007) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -30145,6 +30765,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.007 (0.995, 1.018) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -30152,6 +30773,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.982 (0.956, 1.009) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -30159,6 +30781,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.991 (0.976, 1.006) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -30259,52 +30882,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 1.0256859 </td>
-   <td style="text-align:right;"> 0.0260456 </td>
-   <td style="text-align:right;"> 1125.935 </td>
-   <td style="text-align:right;"> 0.9758348 </td>
-   <td style="text-align:right;"> 1.078084 </td>
-   <td style="text-align:left;"> 0.318 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 1.0762540 </td>
+   <td style="text-align:right;"> 0.0345865 </td>
+   <td style="text-align:right;"> 649.9090 </td>
+   <td style="text-align:right;"> 1.0104376 </td>
+   <td style="text-align:right;"> 1.1463574 </td>
+   <td style="text-align:left;"> 0.023 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 1.0127615 </td>
-   <td style="text-align:right;"> 0.0128587 </td>
-   <td style="text-align:right;"> 1125.935 </td>
-   <td style="text-align:right;"> 0.9878435 </td>
-   <td style="text-align:right;"> 1.038308 </td>
-   <td style="text-align:left;"> 0.318 </td>
+   <td style="text-align:right;"> 0.9974815 </td>
+   <td style="text-align:right;"> 0.0140667 </td>
+   <td style="text-align:right;"> 1289.1463 </td>
+   <td style="text-align:right;"> 0.9702636 </td>
+   <td style="text-align:right;"> 1.0254629 </td>
+   <td style="text-align:left;"> 0.858 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 1.0127615 </td>
-   <td style="text-align:right;"> 0.0128587 </td>
-   <td style="text-align:right;"> 1125.935 </td>
-   <td style="text-align:right;"> 0.9878435 </td>
-   <td style="text-align:right;"> 1.038308 </td>
-   <td style="text-align:left;"> 0.318 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 1.0789714 </td>
+   <td style="text-align:right;"> 0.0311288 </td>
+   <td style="text-align:right;"> 549.2789 </td>
+   <td style="text-align:right;"> 1.0195256 </td>
+   <td style="text-align:right;"> 1.1418832 </td>
+   <td style="text-align:left;"> 0.009 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 0.9939175 </td>
-   <td style="text-align:right;"> 0.0133720 </td>
-   <td style="text-align:right;"> 1247.565 </td>
-   <td style="text-align:right;"> 0.9680265 </td>
-   <td style="text-align:right;"> 1.020501 </td>
-   <td style="text-align:left;"> 0.650 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 0.9349310 </td>
+   <td style="text-align:right;"> 0.0265494 </td>
+   <td style="text-align:right;"> 504.3811 </td>
+   <td style="text-align:right;"> 0.8841983 </td>
+   <td style="text-align:right;"> 0.9885745 </td>
+   <td style="text-align:left;"> 0.018 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9939175 </td>
-   <td style="text-align:right;"> 0.0133720 </td>
-   <td style="text-align:right;"> 1247.565 </td>
-   <td style="text-align:right;"> 0.9680265 </td>
-   <td style="text-align:right;"> 1.020501 </td>
-   <td style="text-align:left;"> 0.650 </td>
+   <td style="text-align:right;"> 1.0113108 </td>
+   <td style="text-align:right;"> 0.0153519 </td>
+   <td style="text-align:right;"> 1398.9582 </td>
+   <td style="text-align:right;"> 0.9816395 </td>
+   <td style="text-align:right;"> 1.0418789 </td>
+   <td style="text-align:left;"> 0.459 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -30397,52 +31020,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 0.9876066 </td>
-   <td style="text-align:right;"> 0.0629693 </td>
+   <td style="text-align:right;"> 1.0087364 </td>
+   <td style="text-align:right;"> 0.0565249 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8715891 </td>
-   <td style="text-align:right;"> 1.119067 </td>
-   <td style="text-align:left;"> 0.845 </td>
+   <td style="text-align:right;"> 0.9038166 </td>
+   <td style="text-align:right;"> 1.125836 </td>
+   <td style="text-align:left;"> 0.877 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 1.0107533 </td>
-   <td style="text-align:right;"> 0.0321888 </td>
+   <td style="text-align:right;"> 1.0043587 </td>
+   <td style="text-align:right;"> 0.0281398 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9495931 </td>
-   <td style="text-align:right;"> 1.075853 </td>
-   <td style="text-align:left;"> 0.737 </td>
+   <td style="text-align:right;"> 0.9506927 </td>
+   <td style="text-align:right;"> 1.061054 </td>
+   <td style="text-align:left;"> 0.877 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 0.9770996 </td>
-   <td style="text-align:right;"> 0.0539722 </td>
+   <td style="text-align:right;"> 1.0043587 </td>
+   <td style="text-align:right;"> 0.0281398 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8768410 </td>
-   <td style="text-align:right;"> 1.088822 </td>
-   <td style="text-align:left;"> 0.675 </td>
+   <td style="text-align:right;"> 0.9506927 </td>
+   <td style="text-align:right;"> 1.061054 </td>
+   <td style="text-align:left;"> 0.877 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 1.0164295 </td>
-   <td style="text-align:right;"> 0.0551397 </td>
+   <td style="text-align:right;"> 0.9894412 </td>
+   <td style="text-align:right;"> 0.0289828 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9139047 </td>
-   <td style="text-align:right;"> 1.130456 </td>
-   <td style="text-align:left;"> 0.764 </td>
+   <td style="text-align:right;"> 0.9342358 </td>
+   <td style="text-align:right;"> 1.047909 </td>
+   <td style="text-align:left;"> 0.717 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9825867 </td>
-   <td style="text-align:right;"> 0.0328804 </td>
+   <td style="text-align:right;"> 0.9894412 </td>
+   <td style="text-align:right;"> 0.0289828 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9202102 </td>
-   <td style="text-align:right;"> 1.049192 </td>
-   <td style="text-align:left;"> 0.600 </td>
+   <td style="text-align:right;"> 0.9342358 </td>
+   <td style="text-align:right;"> 1.047909 </td>
+   <td style="text-align:left;"> 0.717 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -30466,52 +31089,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 1.0006623 </td>
-   <td style="text-align:right;"> 0.0749193 </td>
+   <td style="text-align:right;"> 1.0197048 </td>
+   <td style="text-align:right;"> 0.0615394 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8640886 </td>
-   <td style="text-align:right;"> 1.158822 </td>
-   <td style="text-align:left;"> 0.993 </td>
+   <td style="text-align:right;"> 0.9059501 </td>
+   <td style="text-align:right;"> 1.147743 </td>
+   <td style="text-align:left;"> 0.746 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 1.0155133 </td>
-   <td style="text-align:right;"> 0.0341153 </td>
+   <td style="text-align:right;"> 1.0098043 </td>
+   <td style="text-align:right;"> 0.0304709 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9508023 </td>
-   <td style="text-align:right;"> 1.084629 </td>
-   <td style="text-align:left;"> 0.647 </td>
+   <td style="text-align:right;"> 0.9518141 </td>
+   <td style="text-align:right;"> 1.071328 </td>
+   <td style="text-align:left;"> 0.746 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 0.9853758 </td>
-   <td style="text-align:right;"> 0.0659403 </td>
+   <td style="text-align:right;"> 1.0098043 </td>
+   <td style="text-align:right;"> 0.0304709 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8642521 </td>
-   <td style="text-align:right;"> 1.123475 </td>
-   <td style="text-align:left;"> 0.826 </td>
+   <td style="text-align:right;"> 0.9518141 </td>
+   <td style="text-align:right;"> 1.071328 </td>
+   <td style="text-align:left;"> 0.746 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 1.0061169 </td>
-   <td style="text-align:right;"> 0.0658984 </td>
+   <td style="text-align:right;"> 0.9823047 </td>
+   <td style="text-align:right;"> 0.0316369 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8849049 </td>
-   <td style="text-align:right;"> 1.143932 </td>
-   <td style="text-align:left;"> 0.926 </td>
+   <td style="text-align:right;"> 0.9222141 </td>
+   <td style="text-align:right;"> 1.046311 </td>
+   <td style="text-align:left;"> 0.579 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9762582 </td>
-   <td style="text-align:right;"> 0.0354003 </td>
+   <td style="text-align:right;"> 0.9823047 </td>
+   <td style="text-align:right;"> 0.0316369 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9092832 </td>
-   <td style="text-align:right;"> 1.048167 </td>
-   <td style="text-align:left;"> 0.508 </td>
+   <td style="text-align:right;"> 0.9222141 </td>
+   <td style="text-align:right;"> 1.046311 </td>
+   <td style="text-align:left;"> 0.579 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -30604,7 +31227,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_GDM_analysis_files/figure-html/unnamed-chunk-63-4.png" width="672" />
 
 
@@ -30652,58 +31275,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 186.2873571 </td>
+   <td style="text-align:right;"> 88.8762058 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 2.3744735 </td>
+   <td style="text-align:left;"> Active.B12 </td>
+   <td style="text-align:right;"> 0.0117290 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.1 </td>
+   <td style="text-align:left;"> 0.9 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 0.8352147 </td>
+   <td style="text-align:right;"> 4.3110413 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.04 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 0.5770705 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.4 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 2.3632920 </td>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 65.2025645 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Active.B12:GDM_new </td>
+   <td style="text-align:right;"> 2.6142387 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.1 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 89.8462847 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 4.0486148 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:left;"> 0.04 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 27.6014746 </td>
+   <td style="text-align:left;"> Active.B12:Study </td>
+   <td style="text-align:right;"> 0.0000391 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 145.4047280 </td>
+   <td style="text-align:left;"> Active.B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 2.7234579 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 2.0357209 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> 0.10 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -30724,59 +31354,66 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 114.7698430 </td>
+   <td style="text-align:right;"> 12.1235530 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> 0.0005 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 7.2736070 </td>
+   <td style="text-align:left;"> Active.B12 </td>
+   <td style="text-align:right;"> 0.0056038 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.007 </td>
-   <td style="text-align:left;"> ** </td>
+   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1.2866802 </td>
+   <td style="text-align:right;"> 9.9531213 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.3 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 122.0690428 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 2.2266179 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 2.9326031 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.09 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 0.2523666 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:left;"> 0.1 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 2038.4734597 </td>
+   <td style="text-align:right;"> 1064.5741775 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 1.9535696 </td>
+   <td style="text-align:left;"> Active.B12:GDM_new </td>
+   <td style="text-align:right;"> 6.5685275 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 6.1820118 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Active.B12:Study </td>
+   <td style="text-align:right;"> 0.0261088 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.9 </td>
    <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Active.B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 4.0649939 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.04 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
 </tbody>
 </table>
@@ -30796,58 +31433,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 222.6039862 </td>
+   <td style="text-align:right;"> 185.124725 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 0.8028006 </td>
+   <td style="text-align:left;"> Active.B12 </td>
+   <td style="text-align:right;"> 1.478688 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> 0.2 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1.2852257 </td>
+   <td style="text-align:right;"> 3.592857 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.06 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 1.010315 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 27.8356406 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 0.6462443 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.4 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 0.4132299 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.5 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 862.5535317 </td>
+   <td style="text-align:right;"> 494.549744 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 3.4900314 </td>
+   <td style="text-align:left;"> Active.B12:GDM_new </td>
+   <td style="text-align:right;"> 1.696353 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.06 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 2.413833 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.1 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Active.B12:Study </td>
+   <td style="text-align:right;"> 2.065497 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Active.B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 1.019242 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -30871,73 +31515,83 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> Active.B12 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 21.941 </td>
-   <td style="text-align:right;"> 21.941 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 32.023 </td>
-   <td style="text-align:right;"> 32.023 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 228.774 </td>
-   <td style="text-align:right;"> 228.774 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 16.948 </td>
-   <td style="text-align:right;"> 16.948 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.127 </td>
-   <td style="text-align:right;"> 0.127 </td>
-   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:right;"> 2.222 </td>
+   <td style="text-align:right;"> 2.222 </td>
+   <td style="text-align:left;"> 0.1 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> 5 </td>
+   <td style="text-align:left;"> GDM_new </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 12.975 </td>
+   <td style="text-align:right;"> 12.975 </td>
+   <td style="text-align:left;"> 0.0003 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 4.880 </td>
+   <td style="text-align:right;"> 4.880 </td>
+   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.547 </td>
-   <td style="text-align:right;"> 0.547 </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:left;"> 0.9 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> Active.B12:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.128 </td>
-   <td style="text-align:right;"> 4.128 </td>
-   <td style="text-align:left;"> 0.04 </td>
-   <td style="text-align:left;"> \* </td>
+   <td style="text-align:right;"> 1.540 </td>
+   <td style="text-align:right;"> 1.540 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> Active.B12:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.565 </td>
+   <td style="text-align:right;"> 0.565 </td>
+   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 1.674 </td>
+   <td style="text-align:right;"> 1.674 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> Active.B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.457 </td>
+   <td style="text-align:right;"> 0.457 </td>
+   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
 </table>
@@ -30960,73 +31614,83 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> Active.B12 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 35.890 </td>
-   <td style="text-align:right;"> 35.890 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 29.826 </td>
-   <td style="text-align:right;"> 29.826 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 225.782 </td>
-   <td style="text-align:right;"> 225.782 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 17.023 </td>
-   <td style="text-align:right;"> 17.023 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.075 </td>
-   <td style="text-align:right;"> 0.075 </td>
-   <td style="text-align:left;"> 0.8 </td>
+   <td style="text-align:right;"> 2.321 </td>
+   <td style="text-align:right;"> 2.321 </td>
+   <td style="text-align:left;"> 0.1 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> 5 </td>
+   <td style="text-align:left;"> GDM_new </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 11.866 </td>
+   <td style="text-align:right;"> 11.866 </td>
+   <td style="text-align:left;"> 0.0006 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 6.577 </td>
+   <td style="text-align:right;"> 6.577 </td>
+   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.242 </td>
-   <td style="text-align:right;"> 0.242 </td>
-   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:right;"> 0.145 </td>
+   <td style="text-align:right;"> 0.145 </td>
+   <td style="text-align:left;"> 0.7 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> Active.B12:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.391 </td>
-   <td style="text-align:right;"> 4.391 </td>
-   <td style="text-align:left;"> 0.04 </td>
-   <td style="text-align:left;"> \* </td>
+   <td style="text-align:right;"> 1.586 </td>
+   <td style="text-align:right;"> 1.586 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> Active.B12:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.697 </td>
+   <td style="text-align:right;"> 0.697 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 1.694 </td>
+   <td style="text-align:right;"> 1.694 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> Active.B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.521 </td>
+   <td style="text-align:right;"> 0.521 </td>
+   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
 </table>
@@ -31049,71 +31713,81 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> Active.B12 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 54.379 </td>
-   <td style="text-align:right;"> 54.379 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:right;"> 1.286 </td>
+   <td style="text-align:right;"> 1.286 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> 5 </td>
    <td style="text-align:left;"> GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 3.763 </td>
-   <td style="text-align:right;"> 3.763 </td>
+   <td style="text-align:right;"> 3.887 </td>
+   <td style="text-align:right;"> 3.887 </td>
+   <td style="text-align:left;"> 0.05 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 8.371 </td>
+   <td style="text-align:right;"> 8.371 </td>
+   <td style="text-align:left;"> 0.004 </td>
+   <td style="text-align:left;"> ** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 8 </td>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 1.478 </td>
+   <td style="text-align:right;"> 1.478 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 2 </td>
+   <td style="text-align:left;"> Active.B12:GDM_new </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 3.835 </td>
+   <td style="text-align:right;"> 3.835 </td>
    <td style="text-align:left;"> 0.05 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
+   <td style="text-align:left;"> Active.B12:Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 8.487 </td>
-   <td style="text-align:right;"> 8.487 </td>
-   <td style="text-align:left;"> 0.004 </td>
-   <td style="text-align:left;"> ** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.174 </td>
-   <td style="text-align:right;"> 1.174 </td>
-   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:right;"> 1.680 </td>
+   <td style="text-align:right;"> 1.680 </td>
+   <td style="text-align:left;"> 0.2 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:right;"> 1.989 </td>
+   <td style="text-align:right;"> 1.989 </td>
+   <td style="text-align:left;"> 0.2 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 7 </td>
-   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> Active.B12:GDM_new:Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.289 </td>
-   <td style="text-align:right;"> 0.289 </td>
-   <td style="text-align:left;"> 0.6 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.683 </td>
-   <td style="text-align:right;"> 1.683 </td>
+   <td style="text-align:right;"> 1.380 </td>
+   <td style="text-align:right;"> 1.380 </td>
    <td style="text-align:left;"> 0.2 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
@@ -31188,23 +31862,23 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 0.51 (0.20, 0.81) </td>
-   <td style="text-align:left;"> 0.001 </td>
+   <td style="text-align:left;"> 0.54 (0.24, 0.85) </td>
+   <td style="text-align:left;"> 0.0005 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Active.B12 </td>
    <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.45 </td>
+   <td style="text-align:left;"> 0.94 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> -0.32 (-0.57, -0.07) </td>
-   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> -0.64 (-1.03, -0.24) </td>
+   <td style="text-align:left;"> 0.002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> 0.19 (0.03, 0.36) </td>
-   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> 0.13 (-0.04, 0.31) </td>
+   <td style="text-align:left;"> 0.14 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
@@ -31213,18 +31887,23 @@ Ratio of Geometric means (95% CI)
   </tr>
   <tr>
    <td style="text-align:left;"> Active.B12:GDM_newGDM </td>
-   <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.11 </td>
+   <td style="text-align:left;"> 0.01 (0.00, 0.01) </td>
+   <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> 0.14 (-0.02, 0.31) </td>
-   <td style="text-align:left;"> 0.09 </td>
+   <td style="text-align:left;"> 0.58 (0.12, 1.04) </td>
+   <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Active.B12:StudySTOP </td>
-   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.50 </td>
+   <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.87 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Active.B12:GDM_newGDM:StudySTOP </td>
+   <td style="text-align:left;"> -0.01 (-0.01, -0.00) </td>
+   <td style="text-align:left;"> 0.04 </td>
   </tr>
 </tbody>
 </table>
@@ -31296,48 +31975,43 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 2.74 (2.00, 3.49) </td>
+   <td style="text-align:left;"> 2.76 (2.02, 3.50) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Active.B12 </td>
    <td style="text-align:left;"> -0.00 (-0.01, 0.00) </td>
-   <td style="text-align:left;"> 0.78 </td>
+   <td style="text-align:left;"> 0.60 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> 1.59 (0.52, 2.67) </td>
-   <td style="text-align:left;"> 0.004 </td>
+   <td style="text-align:left;"> 1.29 (0.68, 1.90) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> -0.33 (-0.78, 0.11) </td>
-   <td style="text-align:left;"> 0.14 </td>
+   <td style="text-align:left;"> -0.39 (-0.81, 0.03) </td>
+   <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:left;"> -0.00 (-0.04, 0.04) </td>
-   <td style="text-align:left;"> 0.94 </td>
+   <td style="text-align:left;"> 0.98 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Active.B12:GDM_newGDM </td>
-   <td style="text-align:left;"> -0.01 (-0.02, 0.01) </td>
-   <td style="text-align:left;"> 0.26 </td>
+   <td style="text-align:left;"> -0.00 (-0.01, 0.00) </td>
+   <td style="text-align:left;"> 0.29 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.84 (-2.12, 0.43) </td>
-   <td style="text-align:left;"> 0.20 </td>
+   <td style="text-align:left;"> -0.42 (-0.86, 0.01) </td>
+   <td style="text-align:left;"> 0.06 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Active.B12:StudySTOP </td>
-   <td style="text-align:left;"> 0.00 (-0.01, 0.01) </td>
-   <td style="text-align:left;"> 0.92 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Active.B12:GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> 0.01 (-0.01, 0.02) </td>
-   <td style="text-align:left;"> 0.50 </td>
+   <td style="text-align:left;"> 0.00 (-0.00, 0.01) </td>
+   <td style="text-align:left;"> 0.67 </td>
   </tr>
 </tbody>
 </table>
@@ -31355,48 +32029,43 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 1.44 (0.64, 2.25) </td>
-   <td style="text-align:left;"> 0.0004 </td>
+   <td style="text-align:left;"> 1.47 (0.66, 2.27) </td>
+   <td style="text-align:left;"> 0.0003 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Active.B12 </td>
    <td style="text-align:left;"> -0.00 (-0.01, 0.00) </td>
-   <td style="text-align:left;"> 0.74 </td>
+   <td style="text-align:left;"> 0.55 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> 1.75 (0.51, 2.99) </td>
-   <td style="text-align:left;"> 0.006 </td>
+   <td style="text-align:left;"> 1.39 (0.69, 2.08) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> -0.51 (-0.99, -0.03) </td>
-   <td style="text-align:left;"> 0.04 </td>
+   <td style="text-align:left;"> -0.58 (-1.04, -0.12) </td>
+   <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:left;"> -0.01 (-0.05, 0.04) </td>
-   <td style="text-align:left;"> 0.70 </td>
+   <td style="text-align:left;"> 0.74 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Active.B12:GDM_newGDM </td>
-   <td style="text-align:left;"> -0.01 (-0.03, 0.01) </td>
-   <td style="text-align:left;"> 0.25 </td>
+   <td style="text-align:left;"> -0.00 (-0.01, 0.00) </td>
+   <td style="text-align:left;"> 0.28 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.96 (-2.41, 0.49) </td>
-   <td style="text-align:left;"> 0.19 </td>
+   <td style="text-align:left;"> -0.46 (-0.95, 0.03) </td>
+   <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Active.B12:StudySTOP </td>
-   <td style="text-align:left;"> 0.00 (-0.01, 0.01) </td>
-   <td style="text-align:left;"> 0.88 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Active.B12:GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> 0.01 (-0.01, 0.03) </td>
-   <td style="text-align:left;"> 0.47 </td>
+   <td style="text-align:left;"> 0.00 (-0.00, 0.01) </td>
+   <td style="text-align:left;"> 0.61 </td>
   </tr>
 </tbody>
 </table>
@@ -31534,38 +32203,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 88.36537 </td>
-   <td style="text-align:right;"> 3.079306 </td>
-   <td style="text-align:right;"> 304.6331 </td>
-   <td style="text-align:right;"> 82.50906 </td>
-   <td style="text-align:right;"> 94.63736 </td>
+   <td style="text-align:right;"> 87.99884 </td>
+   <td style="text-align:right;"> 3.073679 </td>
+   <td style="text-align:right;"> 301.7892 </td>
+   <td style="text-align:right;"> 82.15347 </td>
+   <td style="text-align:right;"> 94.26012 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 101.74522 </td>
-   <td style="text-align:right;"> 2.979452 </td>
-   <td style="text-align:right;"> 163.8803 </td>
-   <td style="text-align:right;"> 96.02901 </td>
-   <td style="text-align:right;"> 107.80169 </td>
+   <td style="text-align:right;"> 101.77698 </td>
+   <td style="text-align:right;"> 2.986908 </td>
+   <td style="text-align:right;"> 161.3797 </td>
+   <td style="text-align:right;"> 96.04619 </td>
+   <td style="text-align:right;"> 107.84972 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 74.25030 </td>
-   <td style="text-align:right;"> 5.657213 </td>
-   <td style="text-align:right;"> 532.8871 </td>
-   <td style="text-align:right;"> 63.92880 </td>
-   <td style="text-align:right;"> 86.23823 </td>
+   <td style="text-align:right;"> 71.62685 </td>
+   <td style="text-align:right;"> 5.600898 </td>
+   <td style="text-align:right;"> 491.5282 </td>
+   <td style="text-align:right;"> 61.42588 </td>
+   <td style="text-align:right;"> 83.52188 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 98.59067 </td>
-   <td style="text-align:right;"> 4.467955 </td>
-   <td style="text-align:right;"> 390.2093 </td>
-   <td style="text-align:right;"> 90.18636 </td>
-   <td style="text-align:right;"> 107.77817 </td>
+   <td style="text-align:right;"> 99.79654 </td>
+   <td style="text-align:right;"> 4.557162 </td>
+   <td style="text-align:right;"> 397.7761 </td>
+   <td style="text-align:right;"> 91.22779 </td>
+   <td style="text-align:right;"> 109.17014 </td>
   </tr>
 </tbody>
 </table>
@@ -31642,38 +32311,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 14.51177 </td>
-   <td style="text-align:right;"> 1.1441296 </td>
+   <td style="text-align:right;"> 14.42651 </td>
+   <td style="text-align:right;"> 1.1311375 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 12.433983 </td>
-   <td style="text-align:right;"> 16.93676 </td>
+   <td style="text-align:right;"> 12.371472 </td>
+   <td style="text-align:right;"> 16.82292 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 10.62629 </td>
-   <td style="text-align:right;"> 0.6145519 </td>
+   <td style="text-align:right;"> 10.63751 </td>
+   <td style="text-align:right;"> 0.6140156 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 9.487543 </td>
-   <td style="text-align:right;"> 11.90170 </td>
+   <td style="text-align:right;"> 9.499639 </td>
+   <td style="text-align:right;"> 11.91167 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 41.22261 </td>
-   <td style="text-align:right;"> 7.8478298 </td>
+   <td style="text-align:right;"> 40.14113 </td>
+   <td style="text-align:right;"> 7.5536756 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 28.384837 </td>
-   <td style="text-align:right;"> 59.86659 </td>
+   <td style="text-align:right;"> 27.759541 </td>
+   <td style="text-align:right;"> 58.04529 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 19.13593 </td>
-   <td style="text-align:right;"> 2.1536169 </td>
+   <td style="text-align:right;"> 19.37977 </td>
+   <td style="text-align:right;"> 2.1358081 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 15.348034 </td>
-   <td style="text-align:right;"> 23.85868 </td>
+   <td style="text-align:right;"> 15.614899 </td>
+   <td style="text-align:right;"> 24.05237 </td>
   </tr>
 </tbody>
 </table>
@@ -31696,38 +32365,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 3.545312 </td>
-   <td style="text-align:right;"> 0.3037857 </td>
+   <td style="text-align:right;"> 3.520364 </td>
+   <td style="text-align:right;"> 0.2997609 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 2.997215 </td>
-   <td style="text-align:right;"> 4.193639 </td>
+   <td style="text-align:right;"> 2.979252 </td>
+   <td style="text-align:right;"> 4.159756 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 2.205611 </td>
-   <td style="text-align:right;"> 0.1355601 </td>
+   <td style="text-align:right;"> 2.208426 </td>
+   <td style="text-align:right;"> 0.1354540 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.955297 </td>
-   <td style="text-align:right;"> 2.487969 </td>
+   <td style="text-align:right;"> 1.958278 </td>
+   <td style="text-align:right;"> 2.490528 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 10.819293 </td>
-   <td style="text-align:right;"> 2.3992064 </td>
+   <td style="text-align:right;"> 10.487870 </td>
+   <td style="text-align:right;"> 2.2799730 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 7.005558 </td>
-   <td style="text-align:right;"> 16.709177 </td>
+   <td style="text-align:right;"> 6.849256 </td>
+   <td style="text-align:right;"> 16.059471 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 4.091149 </td>
-   <td style="text-align:right;"> 0.4936023 </td>
+   <td style="text-align:right;"> 4.153545 </td>
+   <td style="text-align:right;"> 0.4913196 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 3.229586 </td>
-   <td style="text-align:right;"> 5.182554 </td>
+   <td style="text-align:right;"> 3.294056 </td>
+   <td style="text-align:right;"> 5.237294 </td>
   </tr>
 </tbody>
 </table>
@@ -31801,6 +32470,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -31810,6 +32480,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.011 (0.978, 1.046) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -31817,6 +32488,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.997 (0.970, 1.025) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
@@ -31824,6 +32496,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.021 (0.966, 1.078) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -31831,6 +32504,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.006 (0.962, 1.053) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
@@ -31838,34 +32512,39 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 1.007 (0.989, 1.025) </td>
-   <td style="text-align:left;"> 0.4 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> HPL </td>
-   <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.999 (0.984, 1.014) </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 1.001 (0.982, 1.020) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 1.003 (0.987, 1.018) </td>
+   <td style="text-align:left;"> 0.7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HPL </td>
+   <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 1.029 (1.000, 1.059) </td>
-   <td style="text-align:left;"> 0.05 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.068 (1.020, 1.118) </td>
+   <td style="text-align:left;"> 0.005 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 1.021 (0.997, 1.047) </td>
-   <td style="text-align:left;"> 0.09 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.008 (0.981, 1.036) </td>
+   <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.019 (0.996, 1.043) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -31873,6 +32552,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.990 (0.970, 1.009) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -31880,6 +32560,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.035 (0.996, 1.076) </td>
    <td style="text-align:left;"> 0.08 </td>
   </tr>
@@ -31887,6 +32568,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.005 (0.973, 1.038) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
@@ -31894,62 +32576,71 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.993 (0.946, 1.043) </td>
-   <td style="text-align:left;"> 0.8 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.987 (0.942, 1.035) </td>
+   <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.996 (0.956, 1.038) </td>
-   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 1.000 (0.961, 1.040) </td>
+   <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.914 (0.796, 1.049) </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.948 (0.875, 1.027) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.972 (0.900, 1.050) </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.960 (0.897, 1.028) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HOMA.IR </td>
+   <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.984 (0.935, 1.036) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
-   <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.991 (0.940, 1.045) </td>
-   <td style="text-align:left;"> 0.7 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> HOMA.IR </td>
-   <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.996 (0.954, 1.041) </td>
-   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 1.001 (0.959, 1.044) </td>
+   <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.900 (0.770, 1.052) </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.941 (0.861, 1.028) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.971 (0.892, 1.056) </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.957 (0.888, 1.031) </td>
+   <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.001 (0.991, 1.011) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -31957,6 +32648,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.008 (0.998, 1.019) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -31964,6 +32656,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.980 (0.955, 1.004) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -31971,6 +32664,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.987 (0.970, 1.004) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -32071,52 +32765,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 0.9846814 </td>
-   <td style="text-align:right;"> 0.0224012 </td>
-   <td style="text-align:right;"> 695.3481 </td>
-   <td style="text-align:right;"> 0.9416670 </td>
-   <td style="text-align:right;"> 1.029661 </td>
-   <td style="text-align:left;"> 0.498 </td>
+   <td style="text-align:right;"> 0.9455281 </td>
+   <td style="text-align:right;"> 0.0286475 </td>
+   <td style="text-align:right;"> 699.3782 </td>
+   <td style="text-align:right;"> 0.8909229 </td>
+   <td style="text-align:right;"> 1.0034800 </td>
+   <td style="text-align:left;"> 0.065 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 0.9923111 </td>
-   <td style="text-align:right;"> 0.0112874 </td>
-   <td style="text-align:right;"> 695.3481 </td>
-   <td style="text-align:right;"> 0.9703953 </td>
-   <td style="text-align:right;"> 1.014722 </td>
-   <td style="text-align:left;"> 0.498 </td>
+   <td style="text-align:right;"> 1.0019949 </td>
+   <td style="text-align:right;"> 0.0123586 </td>
+   <td style="text-align:right;"> 714.0996 </td>
+   <td style="text-align:right;"> 0.9780228 </td>
+   <td style="text-align:right;"> 1.0265546 </td>
+   <td style="text-align:left;"> 0.872 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 0.9923111 </td>
-   <td style="text-align:right;"> 0.0112874 </td>
-   <td style="text-align:right;"> 695.3481 </td>
-   <td style="text-align:right;"> 0.9703953 </td>
-   <td style="text-align:right;"> 1.014722 </td>
-   <td style="text-align:left;"> 0.498 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 0.9436455 </td>
+   <td style="text-align:right;"> 0.0258363 </td>
+   <td style="text-align:right;"> 717.4804 </td>
+   <td style="text-align:right;"> 0.8942609 </td>
+   <td style="text-align:right;"> 0.9957574 </td>
+   <td style="text-align:left;"> 0.034 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 1.0221917 </td>
-   <td style="text-align:right;"> 0.0140341 </td>
-   <td style="text-align:right;"> 682.6132 </td>
-   <td style="text-align:right;"> 0.9950047 </td>
-   <td style="text-align:right;"> 1.050122 </td>
-   <td style="text-align:left;"> 0.110 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 1.0673053 </td>
+   <td style="text-align:right;"> 0.0271258 </td>
+   <td style="text-align:right;"> 725.2300 </td>
+   <td style="text-align:right;"> 1.0153576 </td>
+   <td style="text-align:right;"> 1.1219107 </td>
+   <td style="text-align:left;"> 0.011 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 1.0221917 </td>
-   <td style="text-align:right;"> 0.0140341 </td>
-   <td style="text-align:right;"> 682.6132 </td>
-   <td style="text-align:right;"> 0.9950047 </td>
-   <td style="text-align:right;"> 1.050122 </td>
-   <td style="text-align:left;"> 0.110 </td>
+   <td style="text-align:right;"> 1.0051526 </td>
+   <td style="text-align:right;"> 0.0161172 </td>
+   <td style="text-align:right;"> 692.7746 </td>
+   <td style="text-align:right;"> 0.9740011 </td>
+   <td style="text-align:right;"> 1.0373005 </td>
+   <td style="text-align:left;"> 0.749 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -32209,52 +32903,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 1.0674308 </td>
-   <td style="text-align:right;"> 0.0926427 </td>
+   <td style="text-align:right;"> 1.0256798 </td>
+   <td style="text-align:right;"> 0.0615096 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9004583 </td>
-   <td style="text-align:right;"> 1.265365 </td>
-   <td style="text-align:left;"> 0.452 </td>
+   <td style="text-align:right;"> 0.9119385 </td>
+   <td style="text-align:right;"> 1.153607 </td>
+   <td style="text-align:left;"> 0.672 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 1.0032374 </td>
-   <td style="text-align:right;"> 0.0324721 </td>
+   <td style="text-align:right;"> 1.0127585 </td>
+   <td style="text-align:right;"> 0.0303674 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9415699 </td>
-   <td style="text-align:right;"> 1.068944 </td>
-   <td style="text-align:left;"> 0.920 </td>
+   <td style="text-align:right;"> 0.9549547 </td>
+   <td style="text-align:right;"> 1.074061 </td>
+   <td style="text-align:left;"> 0.672 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 1.0639863 </td>
-   <td style="text-align:right;"> 0.0857935 </td>
+   <td style="text-align:right;"> 1.0127585 </td>
+   <td style="text-align:right;"> 0.0303674 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9084484 </td>
-   <td style="text-align:right;"> 1.246154 </td>
-   <td style="text-align:left;"> 0.442 </td>
+   <td style="text-align:right;"> 0.9549547 </td>
+   <td style="text-align:right;"> 1.074061 </td>
+   <td style="text-align:left;"> 0.672 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 0.9201366 </td>
-   <td style="text-align:right;"> 0.0686826 </td>
+   <td style="text-align:right;"> 0.9603312 </td>
+   <td style="text-align:right;"> 0.0363751 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.7949051 </td>
-   <td style="text-align:right;"> 1.065097 </td>
-   <td style="text-align:left;"> 0.265 </td>
+   <td style="text-align:right;"> 0.8916195 </td>
+   <td style="text-align:right;"> 1.034338 </td>
+   <td style="text-align:left;"> 0.285 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9758536 </td>
-   <td style="text-align:right;"> 0.0433644 </td>
+   <td style="text-align:right;"> 0.9603312 </td>
+   <td style="text-align:right;"> 0.0363751 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8944570 </td>
-   <td style="text-align:right;"> 1.064657 </td>
-   <td style="text-align:left;"> 0.582 </td>
+   <td style="text-align:right;"> 0.8916195 </td>
+   <td style="text-align:right;"> 1.034338 </td>
+   <td style="text-align:left;"> 0.285 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -32278,52 +32972,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 1.0844304 </td>
-   <td style="text-align:right;"> 0.1052959 </td>
+   <td style="text-align:right;"> 1.0339325 </td>
+   <td style="text-align:right;"> 0.0674890 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8965032 </td>
-   <td style="text-align:right;"> 1.311751 </td>
-   <td style="text-align:left;"> 0.404 </td>
+   <td style="text-align:right;"> 0.9097683 </td>
+   <td style="text-align:right;"> 1.175042 </td>
+   <td style="text-align:left;"> 0.609 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 1.0054168 </td>
-   <td style="text-align:right;"> 0.0352071 </td>
+   <td style="text-align:right;"> 1.0168247 </td>
+   <td style="text-align:right;"> 0.0331861 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9387270 </td>
-   <td style="text-align:right;"> 1.076844 </td>
-   <td style="text-align:left;"> 0.877 </td>
+   <td style="text-align:right;"> 0.9538178 </td>
+   <td style="text-align:right;"> 1.083994 </td>
+   <td style="text-align:left;"> 0.609 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 1.0785879 </td>
-   <td style="text-align:right;"> 0.0977963 </td>
+   <td style="text-align:right;"> 1.0168247 </td>
+   <td style="text-align:right;"> 0.0331861 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9029766 </td>
-   <td style="text-align:right;"> 1.288352 </td>
-   <td style="text-align:left;"> 0.404 </td>
+   <td style="text-align:right;"> 0.9538178 </td>
+   <td style="text-align:right;"> 1.083994 </td>
+   <td style="text-align:left;"> 0.609 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 0.9082591 </td>
-   <td style="text-align:right;"> 0.0763835 </td>
+   <td style="text-align:right;"> 0.9558794 </td>
+   <td style="text-align:right;"> 0.0399053 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.7702376 </td>
-   <td style="text-align:right;"> 1.071013 </td>
-   <td style="text-align:left;"> 0.253 </td>
+   <td style="text-align:right;"> 0.8807808 </td>
+   <td style="text-align:right;"> 1.037381 </td>
+   <td style="text-align:left;"> 0.280 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9743593 </td>
-   <td style="text-align:right;"> 0.0474284 </td>
+   <td style="text-align:right;"> 0.9558794 </td>
+   <td style="text-align:right;"> 0.0399053 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8856979 </td>
-   <td style="text-align:right;"> 1.071896 </td>
-   <td style="text-align:left;"> 0.594 </td>
+   <td style="text-align:right;"> 0.8807808 </td>
+   <td style="text-align:right;"> 1.037381 </td>
+   <td style="text-align:left;"> 0.280 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -32416,7 +33110,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_GDM_analysis_files/figure-html/unnamed-chunk-70-4.png" width="672" />
 
 
@@ -32464,58 +33158,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 186.2873571 </td>
+   <td style="text-align:right;"> 105.9654174 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 2.3744735 </td>
+   <td style="text-align:left;"> folate_Active.B12 </td>
+   <td style="text-align:right;"> 2.8507424 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.1 </td>
+   <td style="text-align:left;"> 0.09 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 0.8352147 </td>
+   <td style="text-align:right;"> 1.1655961 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 2.3632920 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 6.9823448 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.1 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 89.8462847 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 27.6014746 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:left;"> 0.008 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 145.4047280 </td>
+   <td style="text-align:right;"> 66.5831228 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 2.0357209 </td>
+   <td style="text-align:left;"> folate_Active.B12:GDM_new </td>
+   <td style="text-align:right;"> 0.0040185 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 0.9576216 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> folate_Active.B12:Study </td>
+   <td style="text-align:right;"> 7.2599035 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.007 </td>
+   <td style="text-align:left;"> ** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> folate_Active.B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 0.0013920 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 1.0 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -32536,59 +33237,66 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 114.7698430 </td>
+   <td style="text-align:right;"> 13.9681088 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> 0.0002 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 7.2736070 </td>
+   <td style="text-align:left;"> folate_Active.B12 </td>
+   <td style="text-align:right;"> 0.4096199 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.007 </td>
-   <td style="text-align:left;"> ** </td>
+   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1.2866802 </td>
+   <td style="text-align:right;"> 0.0935974 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> 0.8 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 122.0690428 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 14.4440520 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 1058.4296326 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 2.9326031 </td>
+   <td style="text-align:left;"> folate_Active.B12:GDM_new </td>
+   <td style="text-align:right;"> 2.3157121 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.09 </td>
+   <td style="text-align:left;"> 0.1 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 0.2523666 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 0.2657622 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.6 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 2038.4734597 </td>
+   <td style="text-align:left;"> folate_Active.B12:Study </td>
+   <td style="text-align:right;"> 5.2239565 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 1.9535696 </td>
+   <td style="text-align:left;"> folate_Active.B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 4.8125063 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.2 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
 </tbody>
 </table>
@@ -32608,58 +33316,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 222.6039862 </td>
+   <td style="text-align:right;"> 190.2290308 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 0.8028006 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.4 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1.2852257 </td>
+   <td style="text-align:left;"> folate_Active.B12 </td>
+   <td style="text-align:right;"> 1.0860066 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 27.8356406 </td>
+   <td style="text-align:left;"> GDM_new </td>
+   <td style="text-align:right;"> 0.1049198 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 0.6462443 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> 0.7 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 0.4132299 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 1.3273208 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> 0.2 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 862.5535317 </td>
+   <td style="text-align:right;"> 492.6053979 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 3.4900314 </td>
+   <td style="text-align:left;"> folate_Active.B12:GDM_new </td>
+   <td style="text-align:right;"> 1.2525421 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.06 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 0.1156740 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> folate_Active.B12:Study </td>
+   <td style="text-align:right;"> 1.9208434 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> folate_Active.B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 0.8227386 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.4 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -32683,73 +33398,83 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> folate_Active.B12 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 21.941 </td>
-   <td style="text-align:right;"> 21.941 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 32.023 </td>
-   <td style="text-align:right;"> 32.023 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 228.774 </td>
-   <td style="text-align:right;"> 228.774 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:right;"> 4.471 </td>
+   <td style="text-align:right;"> 4.471 </td>
+   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
+   <td style="text-align:left;"> GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 16.948 </td>
-   <td style="text-align:right;"> 16.948 </td>
+   <td style="text-align:right;"> 27.005 </td>
+   <td style="text-align:right;"> 27.005 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
+   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.127 </td>
-   <td style="text-align:right;"> 0.127 </td>
-   <td style="text-align:left;"> 0.7 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 9.213 </td>
+   <td style="text-align:right;"> 9.213 </td>
+   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.547 </td>
-   <td style="text-align:right;"> 0.547 </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:right;"> 0.005 </td>
+   <td style="text-align:left;"> 0.9 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> folate_Active.B12:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.128 </td>
-   <td style="text-align:right;"> 4.128 </td>
-   <td style="text-align:left;"> 0.04 </td>
-   <td style="text-align:left;"> \* </td>
+   <td style="text-align:right;"> 0.518 </td>
+   <td style="text-align:right;"> 0.518 </td>
+   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> folate_Active.B12:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.028 </td>
+   <td style="text-align:right;"> 0.028 </td>
+   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.836 </td>
+   <td style="text-align:right;"> 0.836 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> folate_Active.B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 1.318 </td>
+   <td style="text-align:right;"> 1.318 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
 </table>
@@ -32772,73 +33497,83 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> folate_Active.B12 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 35.890 </td>
-   <td style="text-align:right;"> 35.890 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 29.826 </td>
-   <td style="text-align:right;"> 29.826 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 225.782 </td>
-   <td style="text-align:right;"> 225.782 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:right;"> 5.750 </td>
+   <td style="text-align:right;"> 5.750 </td>
+   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
+   <td style="text-align:left;"> GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 17.023 </td>
-   <td style="text-align:right;"> 17.023 </td>
+   <td style="text-align:right;"> 24.286 </td>
+   <td style="text-align:right;"> 24.286 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
+   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.075 </td>
-   <td style="text-align:right;"> 0.075 </td>
-   <td style="text-align:left;"> 0.8 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 13.077 </td>
+   <td style="text-align:right;"> 13.077 </td>
+   <td style="text-align:left;"> 0.0003 </td>
+   <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.242 </td>
-   <td style="text-align:right;"> 0.242 </td>
-   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:right;"> 0.143 </td>
+   <td style="text-align:right;"> 0.143 </td>
+   <td style="text-align:left;"> 0.7 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> folate_Active.B12:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.391 </td>
-   <td style="text-align:right;"> 4.391 </td>
-   <td style="text-align:left;"> 0.04 </td>
-   <td style="text-align:left;"> \* </td>
+   <td style="text-align:right;"> 0.855 </td>
+   <td style="text-align:right;"> 0.855 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> folate_Active.B12:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:right;"> 0.001 </td>
+   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.717 </td>
+   <td style="text-align:right;"> 0.717 </td>
+   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> folate_Active.B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 1.532 </td>
+   <td style="text-align:right;"> 1.532 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
 </table>
@@ -32861,72 +33596,82 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> folate_Active.B12 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 54.379 </td>
-   <td style="text-align:right;"> 54.379 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 3.763 </td>
-   <td style="text-align:right;"> 3.763 </td>
-   <td style="text-align:left;"> 0.05 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 8.487 </td>
-   <td style="text-align:right;"> 8.487 </td>
-   <td style="text-align:left;"> 0.004 </td>
-   <td style="text-align:left;"> ** </td>
+   <td style="text-align:right;"> 4.993 </td>
+   <td style="text-align:right;"> 4.993 </td>
+   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
+   <td style="text-align:left;"> GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.174 </td>
-   <td style="text-align:right;"> 1.174 </td>
-   <td style="text-align:left;"> 0.3 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:right;"> 3.118 </td>
+   <td style="text-align:right;"> 3.118 </td>
+   <td style="text-align:left;"> 0.08 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 23.055 </td>
+   <td style="text-align:right;"> 23.055 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.289 </td>
-   <td style="text-align:right;"> 0.289 </td>
-   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:right;"> 1.291 </td>
+   <td style="text-align:right;"> 1.291 </td>
+   <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> folate_Active.B12:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.683 </td>
-   <td style="text-align:right;"> 1.683 </td>
+   <td style="text-align:right;"> 1.879 </td>
+   <td style="text-align:right;"> 1.879 </td>
    <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> folate_Active.B12:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.387 </td>
+   <td style="text-align:right;"> 0.387 </td>
+   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 1.832 </td>
+   <td style="text-align:right;"> 1.832 </td>
+   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> folate_Active.B12:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.193 </td>
+   <td style="text-align:right;"> 0.193 </td>
+   <td style="text-align:left;"> 0.7 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -33000,43 +33745,48 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 0.55 (0.27, 0.84) </td>
+   <td style="text-align:left;"> 0.55 (0.26, 0.83) </td>
    <td style="text-align:left;"> 0.0002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_Active.B12 </td>
    <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.92 </td>
+   <td style="text-align:left;"> 0.52 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> -0.17 (-0.33, -0.01) </td>
-   <td style="text-align:left;"> 0.04 </td>
+   <td style="text-align:left;"> -0.03 (-0.24, 0.17) </td>
+   <td style="text-align:left;"> 0.76 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> 0.20 (0.08, 0.31) </td>
-   <td style="text-align:left;"> 0.0006 </td>
+   <td style="text-align:left;"> 0.22 (0.11, 0.33) </td>
+   <td style="text-align:left;"> 0.0002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:left;"> 0.30 (0.28, 0.32) </td>
+   <td style="text-align:left;"> 0.30 (0.28, 0.31) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_Active.B12:GDM_newGDM </td>
-   <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.45 </td>
+   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.13 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> 0.12 (-0.04, 0.29) </td>
-   <td style="text-align:left;"> 0.15 </td>
+   <td style="text-align:left;"> -0.06 (-0.29, 0.17) </td>
+   <td style="text-align:left;"> 0.61 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_Active.B12:StudySTOP </td>
-   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.11 </td>
+   <td style="text-align:left;"> -0.00 (-0.00, -0.00) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> folate_Active.B12:GDM_newGDM:StudySTOP </td>
+   <td style="text-align:left;"> 0.00 (0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.03 </td>
   </tr>
 </tbody>
 </table>
@@ -33108,48 +33858,43 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 2.79 (2.11, 3.46) </td>
+   <td style="text-align:left;"> 2.76 (2.09, 3.44) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_Active.B12 </td>
    <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.06 </td>
+   <td style="text-align:left;"> 0.09 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> 0.96 (0.41, 1.50) </td>
-   <td style="text-align:left;"> 0.0005 </td>
+   <td style="text-align:left;"> 1.06 (0.59, 1.53) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> -0.40 (-0.67, -0.13) </td>
-   <td style="text-align:left;"> 0.004 </td>
+   <td style="text-align:left;"> -0.37 (-0.63, -0.10) </td>
+   <td style="text-align:left;"> 0.006 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:left;"> -0.00 (-0.04, 0.04) </td>
-   <td style="text-align:left;"> 0.94 </td>
+   <td style="text-align:left;"> 0.96 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_Active.B12:GDM_newGDM </td>
-   <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.75 </td>
+   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.38 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.29 (-0.90, 0.33) </td>
-   <td style="text-align:left;"> 0.36 </td>
+   <td style="text-align:left;"> -0.44 (-0.90, 0.02) </td>
+   <td style="text-align:left;"> 0.06 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_Active.B12:StudySTOP </td>
    <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.23 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> folate_Active.B12:GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.25 </td>
+   <td style="text-align:left;"> 0.39 </td>
   </tr>
 </tbody>
 </table>
@@ -33167,48 +33912,43 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 1.48 (0.76, 2.21) </td>
+   <td style="text-align:left;"> 1.46 (0.73, 2.18) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_Active.B12 </td>
-   <td style="text-align:left;"> -0.00 (-0.00, -0.00) </td>
-   <td style="text-align:left;"> 0.05 </td>
+   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.08 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> 1.03 (0.40, 1.65) </td>
-   <td style="text-align:left;"> 0.001 </td>
+   <td style="text-align:left;"> 1.15 (0.61, 1.69) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> -0.57 (-0.86, -0.28) </td>
-   <td style="text-align:left;"> 0.0001 </td>
+   <td style="text-align:left;"> -0.53 (-0.81, -0.25) </td>
+   <td style="text-align:left;"> 0.0002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:left;"> -0.01 (-0.05, 0.04) </td>
-   <td style="text-align:left;"> 0.71 </td>
+   <td style="text-align:left;"> 0.72 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_Active.B12:GDM_newGDM </td>
-   <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.82 </td>
+   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
+   <td style="text-align:left;"> 0.28 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.30 (-1.00, 0.40) </td>
-   <td style="text-align:left;"> 0.40 </td>
+   <td style="text-align:left;"> -0.48 (-1.00, 0.05) </td>
+   <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> folate_Active.B12:StudySTOP </td>
    <td style="text-align:left;"> 0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.24 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> folate_Active.B12:GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.00 (-0.00, 0.00) </td>
-   <td style="text-align:left;"> 0.22 </td>
+   <td style="text-align:left;"> 0.43 </td>
   </tr>
 </tbody>
 </table>
@@ -33346,38 +34086,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 87.96751 </td>
-   <td style="text-align:right;"> 3.018003 </td>
-   <td style="text-align:right;"> 294.5178 </td>
-   <td style="text-align:right;"> 82.22401 </td>
-   <td style="text-align:right;"> 94.11221 </td>
+   <td style="text-align:right;"> 88.04922 </td>
+   <td style="text-align:right;"> 3.026850 </td>
+   <td style="text-align:right;"> 288.7021 </td>
+   <td style="text-align:right;"> 82.28881 </td>
+   <td style="text-align:right;"> 94.21288 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 101.57466 </td>
-   <td style="text-align:right;"> 2.975544 </td>
-   <td style="text-align:right;"> 166.0346 </td>
-   <td style="text-align:right;"> 95.86655 </td>
-   <td style="text-align:right;"> 107.62266 </td>
+   <td style="text-align:right;"> 101.59394 </td>
+   <td style="text-align:right;"> 2.988394 </td>
+   <td style="text-align:right;"> 163.6881 </td>
+   <td style="text-align:right;"> 95.86127 </td>
+   <td style="text-align:right;"> 107.66944 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 76.56298 </td>
-   <td style="text-align:right;"> 5.761943 </td>
-   <td style="text-align:right;"> 574.9492 </td>
-   <td style="text-align:right;"> 66.04263 </td>
-   <td style="text-align:right;"> 88.75919 </td>
+   <td style="text-align:right;"> 75.32856 </td>
+   <td style="text-align:right;"> 5.693745 </td>
+   <td style="text-align:right;"> 550.9688 </td>
+   <td style="text-align:right;"> 64.93511 </td>
+   <td style="text-align:right;"> 87.38558 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 99.80564 </td>
-   <td style="text-align:right;"> 4.430299 </td>
-   <td style="text-align:right;"> 371.8743 </td>
-   <td style="text-align:right;"> 91.46343 </td>
-   <td style="text-align:right;"> 108.90872 </td>
+   <td style="text-align:right;"> 100.33245 </td>
+   <td style="text-align:right;"> 4.462084 </td>
+   <td style="text-align:right;"> 371.6288 </td>
+   <td style="text-align:right;"> 91.93106 </td>
+   <td style="text-align:right;"> 109.50163 </td>
   </tr>
 </tbody>
 </table>
@@ -33454,38 +34194,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 14.53672 </td>
-   <td style="text-align:right;"> 1.1303660 </td>
+   <td style="text-align:right;"> 14.52969 </td>
+   <td style="text-align:right;"> 1.1290796 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 12.48181 </td>
-   <td style="text-align:right;"> 16.92993 </td>
+   <td style="text-align:right;"> 12.47702 </td>
+   <td style="text-align:right;"> 16.92006 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 10.62248 </td>
-   <td style="text-align:right;"> 0.6105386 </td>
+   <td style="text-align:right;"> 10.62686 </td>
+   <td style="text-align:right;"> 0.6103258 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 9.49079 </td>
-   <td style="text-align:right;"> 11.88912 </td>
+   <td style="text-align:right;"> 9.49551 </td>
+   <td style="text-align:right;"> 11.89300 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 38.96700 </td>
-   <td style="text-align:right;"> 7.8648272 </td>
+   <td style="text-align:right;"> 39.13558 </td>
+   <td style="text-align:right;"> 7.9435717 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 26.23593 </td>
-   <td style="text-align:right;"> 57.87588 </td>
+   <td style="text-align:right;"> 26.29048 </td>
+   <td style="text-align:right;"> 58.25658 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 18.38372 </td>
-   <td style="text-align:right;"> 1.8868603 </td>
+   <td style="text-align:right;"> 18.48524 </td>
+   <td style="text-align:right;"> 1.9016206 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 15.03378 </td>
-   <td style="text-align:right;"> 22.48013 </td>
+   <td style="text-align:right;"> 15.10984 </td>
+   <td style="text-align:right;"> 22.61467 </td>
   </tr>
 </tbody>
 </table>
@@ -33508,38 +34248,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 3.554842 </td>
-   <td style="text-align:right;"> 0.3000100 </td>
+   <td style="text-align:right;"> 3.552503 </td>
+   <td style="text-align:right;"> 0.2995868 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 3.012891 </td>
-   <td style="text-align:right;"> 4.194279 </td>
+   <td style="text-align:right;"> 3.011283 </td>
+   <td style="text-align:right;"> 4.190996 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 2.205229 </td>
-   <td style="text-align:right;"> 0.1346677 </td>
+   <td style="text-align:right;"> 2.206362 </td>
+   <td style="text-align:right;"> 0.1346450 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.956469 </td>
-   <td style="text-align:right;"> 2.485618 </td>
+   <td style="text-align:right;"> 1.957634 </td>
+   <td style="text-align:right;"> 2.486692 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 10.158437 </td>
-   <td style="text-align:right;"> 2.3753668 </td>
+   <td style="text-align:right;"> 10.223246 </td>
+   <td style="text-align:right;"> 2.4037386 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 6.423753 </td>
-   <td style="text-align:right;"> 16.064417 </td>
+   <td style="text-align:right;"> 6.448374 </td>
+   <td style="text-align:right;"> 16.207925 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 3.912431 </td>
-   <td style="text-align:right;"> 0.4287104 </td>
+   <td style="text-align:right;"> 3.937619 </td>
+   <td style="text-align:right;"> 0.4329703 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 3.156277 </td>
-   <td style="text-align:right;"> 4.849739 </td>
+   <td style="text-align:right;"> 3.174226 </td>
+   <td style="text-align:right;"> 4.884607 </td>
   </tr>
 </tbody>
 </table>
@@ -33613,6 +34353,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -33622,6 +34363,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.958 (0.913, 1.005) </td>
    <td style="text-align:left;"> 0.08 </td>
   </tr>
@@ -33629,6 +34371,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.057 (1.006, 1.110) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
@@ -33636,6 +34379,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.955 (0.874, 1.045) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -33643,6 +34387,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.054 (0.980, 1.133) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -33650,34 +34395,39 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 1.001 (0.976, 1.027) </td>
-   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 1.009 (0.983, 1.035) </td>
+   <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.972 (0.947, 0.998) </td>
-   <td style="text-align:left;"> 0.04 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.965 (0.939, 0.992) </td>
+   <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 1.019 (0.970, 1.070) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.939 (0.860, 1.026) </td>
+   <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.990 (0.951, 1.030) </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.010 (0.967, 1.056) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.978 (0.947, 1.011) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -33685,6 +34435,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.021 (0.986, 1.057) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -33692,6 +34443,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.958 (0.899, 1.022) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -33699,6 +34451,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.000 (0.949, 1.055) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
@@ -33706,62 +34459,71 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.950 (0.902, 1.002) </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.958 (0.912, 1.007) </td>
+   <td style="text-align:left;"> 0.09 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin </td>
+   <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.989 (0.934, 1.047) </td>
+   <td style="text-align:left;"> 0.7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Insulin </td>
+   <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.922 (0.847, 1.005) </td>
    <td style="text-align:left;"> 0.06 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.999 (0.939, 1.062) </td>
-   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.952 (0.879, 1.031) </td>
+   <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin </td>
+   <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.966 (0.889, 1.049) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.955 (0.907, 1.006) </td>
+   <td style="text-align:left;"> 0.08 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin </td>
+   <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.931 (0.850, 1.019) </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.985 (0.926, 1.048) </td>
+   <td style="text-align:left;"> 0.6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HOMA.IR </td>
+   <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.908 (0.826, 0.998) </td>
+   <td style="text-align:left;"> 0.05 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> HOMA.IR </td>
+   <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.936 (0.861, 1.018) </td>
    <td style="text-align:left;"> 0.1 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> HOMA.IR </td>
-   <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
-   <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.946 (0.896, 0.999) </td>
-   <td style="text-align:left;"> 0.05 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> HOMA.IR </td>
-   <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.996 (0.932, 1.064) </td>
-   <td style="text-align:left;"> 0.9 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> HOMA.IR </td>
-   <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
-   <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.958 (0.870, 1.055) </td>
-   <td style="text-align:left;"> 0.4 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> HOMA.IR </td>
-   <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.912 (0.832, 1.000) </td>
-   <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.991 (0.986, 0.996) </td>
    <td style="text-align:left;"> 0.0006 </td>
   </tr>
@@ -33769,6 +34531,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.996 (0.984, 1.008) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -33776,6 +34539,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.971 (0.945, 0.998) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
@@ -33783,6 +34547,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.976 (0.957, 0.995) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
@@ -33883,52 +34648,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 0.9428530 </td>
-   <td style="text-align:right;"> 0.0341921 </td>
-   <td style="text-align:right;"> 664.1298 </td>
-   <td style="text-align:right;"> 0.8780499 </td>
-   <td style="text-align:right;"> 1.012439 </td>
-   <td style="text-align:left;"> 0.105 </td>
+   <td style="text-align:right;"> 1.0293092 </td>
+   <td style="text-align:right;"> 0.0555449 </td>
+   <td style="text-align:right;"> 422.6078 </td>
+   <td style="text-align:right;"> 0.9257213 </td>
+   <td style="text-align:right;"> 1.1444885 </td>
+   <td style="text-align:left;"> 0.593 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 0.9710062 </td>
-   <td style="text-align:right;"> 0.0176066 </td>
-   <td style="text-align:right;"> 664.1298 </td>
-   <td style="text-align:right;"> 0.9370432 </td>
-   <td style="text-align:right;"> 1.006200 </td>
-   <td style="text-align:left;"> 0.105 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 0.9569665 </td>
+   <td style="text-align:right;"> 0.0184170 </td>
+   <td style="text-align:right;"> 709.0099 </td>
+   <td style="text-align:right;"> 0.9214827 </td>
+   <td style="text-align:right;"> 0.9938168 </td>
+   <td style="text-align:left;"> 0.023 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 0.9710062 </td>
-   <td style="text-align:right;"> 0.0176066 </td>
-   <td style="text-align:right;"> 664.1298 </td>
-   <td style="text-align:right;"> 0.9370432 </td>
-   <td style="text-align:right;"> 1.006200 </td>
-   <td style="text-align:left;"> 0.105 </td>
+   <td style="text-align:right;"> 1.0755958 </td>
+   <td style="text-align:right;"> 0.0538283 </td>
+   <td style="text-align:right;"> 407.0315 </td>
+   <td style="text-align:right;"> 0.9748181 </td>
+   <td style="text-align:right;"> 1.1867919 </td>
+   <td style="text-align:left;"> 0.146 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 1.0178977 </td>
-   <td style="text-align:right;"> 0.0236578 </td>
-   <td style="text-align:right;"> 640.5579 </td>
-   <td style="text-align:right;"> 0.9724857 </td>
-   <td style="text-align:right;"> 1.065430 </td>
-   <td style="text-align:left;"> 0.446 </td>
+   <td style="text-align:right;"> 0.9313548 </td>
+   <td style="text-align:right;"> 0.0435245 </td>
+   <td style="text-align:right;"> 362.4851 </td>
+   <td style="text-align:right;"> 0.8495777 </td>
+   <td style="text-align:right;"> 1.0210034 </td>
+   <td style="text-align:left;"> 0.129 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 1.0178977 </td>
-   <td style="text-align:right;"> 0.0236578 </td>
-   <td style="text-align:right;"> 640.5579 </td>
-   <td style="text-align:right;"> 0.9724857 </td>
-   <td style="text-align:right;"> 1.065430 </td>
-   <td style="text-align:left;"> 0.446 </td>
+   <td style="text-align:right;"> 1.0468090 </td>
+   <td style="text-align:right;"> 0.0276512 </td>
+   <td style="text-align:right;"> 716.9310 </td>
+   <td style="text-align:right;"> 0.9939056 </td>
+   <td style="text-align:right;"> 1.1025284 </td>
+   <td style="text-align:left;"> 0.084 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -34021,52 +34786,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 1.0126581 </td>
-   <td style="text-align:right;"> 0.0760304 </td>
+   <td style="text-align:right;"> 1.0649411 </td>
+   <td style="text-align:right;"> 0.0772902 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8740869 </td>
-   <td style="text-align:right;"> 1.173197 </td>
-   <td style="text-align:left;"> 0.867 </td>
+   <td style="text-align:right;"> 0.9237363 </td>
+   <td style="text-align:right;"> 1.227731 </td>
+   <td style="text-align:left;"> 0.386 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 1.0506702 </td>
-   <td style="text-align:right;"> 0.0436650 </td>
+   <td style="text-align:right;"> 1.0319598 </td>
+   <td style="text-align:right;"> 0.0374482 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9684811 </td>
-   <td style="text-align:right;"> 1.139834 </td>
-   <td style="text-align:left;"> 0.234 </td>
+   <td style="text-align:right;"> 0.9611120 </td>
+   <td style="text-align:right;"> 1.108030 </td>
+   <td style="text-align:left;"> 0.386 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 0.9638211 </td>
-   <td style="text-align:right;"> 0.0603072 </td>
+   <td style="text-align:right;"> 1.0319598 </td>
+   <td style="text-align:right;"> 0.0374482 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8525815 </td>
-   <td style="text-align:right;"> 1.089574 </td>
-   <td style="text-align:left;"> 0.556 </td>
+   <td style="text-align:right;"> 0.9611120 </td>
+   <td style="text-align:right;"> 1.108030 </td>
+   <td style="text-align:left;"> 0.386 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 1.0162039 </td>
-   <td style="text-align:right;"> 0.0509835 </td>
+   <td style="text-align:right;"> 0.9623745 </td>
+   <td style="text-align:right;"> 0.0419947 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9210338 </td>
-   <td style="text-align:right;"> 1.121208 </td>
-   <td style="text-align:left;"> 0.749 </td>
+   <td style="text-align:right;"> 0.8834879 </td>
+   <td style="text-align:right;"> 1.048305 </td>
+   <td style="text-align:left;"> 0.379 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9322037 </td>
-   <td style="text-align:right;"> 0.0521722 </td>
+   <td style="text-align:right;"> 0.9623745 </td>
+   <td style="text-align:right;"> 0.0419947 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8353570 </td>
-   <td style="text-align:right;"> 1.040278 </td>
-   <td style="text-align:left;"> 0.210 </td>
+   <td style="text-align:right;"> 0.8834879 </td>
+   <td style="text-align:right;"> 1.048305 </td>
+   <td style="text-align:left;"> 0.379 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -34090,52 +34855,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 1.0026877 </td>
-   <td style="text-align:right;"> 0.0810911 </td>
+   <td style="text-align:right;"> 1.0631318 </td>
+   <td style="text-align:right;"> 0.0826268 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8557085 </td>
-   <td style="text-align:right;"> 1.174913 </td>
-   <td style="text-align:left;"> 0.974 </td>
+   <td style="text-align:right;"> 0.9129177 </td>
+   <td style="text-align:right;"> 1.238063 </td>
+   <td style="text-align:left;"> 0.431 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 1.0527770 </td>
-   <td style="text-align:right;"> 0.0461223 </td>
+   <td style="text-align:right;"> 1.0310828 </td>
+   <td style="text-align:right;"> 0.0400680 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9661514 </td>
-   <td style="text-align:right;"> 1.147170 </td>
-   <td style="text-align:left;"> 0.240 </td>
+   <td style="text-align:right;"> 0.9554673 </td>
+   <td style="text-align:right;"> 1.112683 </td>
+   <td style="text-align:left;"> 0.431 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 0.9524218 </td>
-   <td style="text-align:right;"> 0.0647749 </td>
+   <td style="text-align:right;"> 1.0310828 </td>
+   <td style="text-align:right;"> 0.0400680 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8335631 </td>
-   <td style="text-align:right;"> 1.088229 </td>
-   <td style="text-align:left;"> 0.474 </td>
+   <td style="text-align:right;"> 0.9554673 </td>
+   <td style="text-align:right;"> 1.112683 </td>
+   <td style="text-align:left;"> 0.431 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 1.0127409 </td>
-   <td style="text-align:right;"> 0.0572445 </td>
+   <td style="text-align:right;"> 0.9506305 </td>
+   <td style="text-align:right;"> 0.0447923 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9065354 </td>
-   <td style="text-align:right;"> 1.131389 </td>
-   <td style="text-align:left;"> 0.823 </td>
+   <td style="text-align:right;"> 0.8667710 </td>
+   <td style="text-align:right;"> 1.042603 </td>
+   <td style="text-align:left;"> 0.283 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9162020 </td>
-   <td style="text-align:right;"> 0.0530725 </td>
+   <td style="text-align:right;"> 0.9506305 </td>
+   <td style="text-align:right;"> 0.0447923 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.8178694 </td>
-   <td style="text-align:right;"> 1.026357 </td>
-   <td style="text-align:left;"> 0.131 </td>
+   <td style="text-align:right;"> 0.8667710 </td>
+   <td style="text-align:right;"> 1.042603 </td>
+   <td style="text-align:left;"> 0.283 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -34228,7 +34993,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_GDM_analysis_files/figure-html/unnamed-chunk-77-4.png" width="672" />
 
 
@@ -34276,58 +35041,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 186.2873571 </td>
+   <td style="text-align:right;"> 145.0597858 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 2.3744735 </td>
+   <td style="text-align:left;"> Homocysteine </td>
+   <td style="text-align:right;"> 1.4645859 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.1 </td>
+   <td style="text-align:left;"> 0.2 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 0.8352147 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.4 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 2.3632920 </td>
+   <td style="text-align:right;"> 2.3423556 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.1 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 89.8462847 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 0.0346867 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 27.6014746 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 145.4047280 </td>
+   <td style="text-align:right;"> 139.7575423 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 2.0357209 </td>
+   <td style="text-align:left;"> Homocysteine:GDM_new </td>
+   <td style="text-align:right;"> 1.7444634 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 3.8352749 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.05 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Homocysteine:Study </td>
+   <td style="text-align:right;"> 0.0118213 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Homocysteine:GDM_new:Study </td>
+   <td style="text-align:right;"> 2.7686048 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.10 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -34348,58 +35120,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 114.7698430 </td>
+   <td style="text-align:right;"> 36.4449860 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 7.2736070 </td>
+   <td style="text-align:left;"> Homocysteine </td>
+   <td style="text-align:right;"> 0.6556876 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.007 </td>
-   <td style="text-align:left;"> ** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1.2866802 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> 0.4 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 122.0690428 </td>
+   <td style="text-align:left;"> GDM_new </td>
+   <td style="text-align:right;"> 0.1042487 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 2.9326031 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 2.8477539 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.09 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 0.2523666 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.6 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 2038.4734597 </td>
+   <td style="text-align:right;"> 1872.6604971 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 1.9535696 </td>
+   <td style="text-align:left;"> Homocysteine:GDM_new </td>
+   <td style="text-align:right;"> 0.4873806 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.2 </td>
+   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 0.5441908 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Homocysteine:Study </td>
+   <td style="text-align:right;"> 0.0811476 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.8 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Homocysteine:GDM_new:Study </td>
+   <td style="text-align:right;"> 0.1343363 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.7 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -34420,58 +35199,65 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:right;"> 222.6039862 </td>
+   <td style="text-align:right;"> 235.4814378 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study </td>
-   <td style="text-align:right;"> 0.8028006 </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.4 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1.2852257 </td>
+   <td style="text-align:left;"> Homocysteine </td>
+   <td style="text-align:right;"> 1.2749445 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 27.8356406 </td>
+   <td style="text-align:left;"> GDM_new </td>
+   <td style="text-align:right;"> 0.0108539 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.9 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 1.0983585 </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 857.3642845 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
-   <td style="text-align:right;"> 0.6462443 </td>
+   <td style="text-align:left;"> Homocysteine:GDM_new </td>
+   <td style="text-align:right;"> 0.1125577 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> 0.7 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 0.4132299 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 0.5351343 </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:left;"> 0.5 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 862.5535317 </td>
+   <td style="text-align:left;"> Homocysteine:Study </td>
+   <td style="text-align:right;"> 0.9971124 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
+   <td style="text-align:left;"> 0.3 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Study:GDM_new </td>
-   <td style="text-align:right;"> 3.4900314 </td>
+   <td style="text-align:left;"> Homocysteine:GDM_new:Study </td>
+   <td style="text-align:right;"> 0.0389948 </td>
    <td style="text-align:right;"> 1 </td>
-   <td style="text-align:left;"> 0.06 </td>
+   <td style="text-align:left;"> 0.8 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
@@ -34495,72 +35281,82 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> Homocysteine </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 21.941 </td>
-   <td style="text-align:right;"> 21.941 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 32.023 </td>
-   <td style="text-align:right;"> 32.023 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 228.774 </td>
-   <td style="text-align:right;"> 228.774 </td>
+   <td style="text-align:right;"> 19.971 </td>
+   <td style="text-align:right;"> 19.971 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
+   <td style="text-align:left;"> GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 16.948 </td>
-   <td style="text-align:right;"> 16.948 </td>
+   <td style="text-align:right;"> 32.054 </td>
+   <td style="text-align:right;"> 32.054 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
+   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.127 </td>
-   <td style="text-align:right;"> 0.127 </td>
-   <td style="text-align:left;"> 0.7 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 11.698 </td>
+   <td style="text-align:right;"> 11.698 </td>
+   <td style="text-align:left;"> 0.0006 </td>
+   <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.547 </td>
-   <td style="text-align:right;"> 0.547 </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:right;"> 0.002 </td>
+   <td style="text-align:left;"> 1.0 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> Homocysteine:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.128 </td>
-   <td style="text-align:right;"> 4.128 </td>
-   <td style="text-align:left;"> 0.04 </td>
+   <td style="text-align:right;"> 15.897 </td>
+   <td style="text-align:right;"> 15.897 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> Homocysteine:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 6.473 </td>
+   <td style="text-align:right;"> 6.473 </td>
+   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 6.743 </td>
+   <td style="text-align:right;"> 6.743 </td>
+   <td style="text-align:left;"> 0.009 </td>
+   <td style="text-align:left;"> ** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> Homocysteine:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 6.386 </td>
+   <td style="text-align:right;"> 6.386 </td>
+   <td style="text-align:left;"> 0.01 </td>
    <td style="text-align:left;"> \* </td>
   </tr>
 </tbody>
@@ -34584,73 +35380,83 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> Homocysteine </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 35.890 </td>
-   <td style="text-align:right;"> 35.890 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 29.826 </td>
-   <td style="text-align:right;"> 29.826 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 225.782 </td>
-   <td style="text-align:right;"> 225.782 </td>
+   <td style="text-align:right;"> 21.949 </td>
+   <td style="text-align:right;"> 21.949 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
+   <td style="text-align:left;"> GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 17.023 </td>
-   <td style="text-align:right;"> 17.023 </td>
+   <td style="text-align:right;"> 35.671 </td>
+   <td style="text-align:right;"> 35.671 </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
    <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
+   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.075 </td>
-   <td style="text-align:right;"> 0.075 </td>
-   <td style="text-align:left;"> 0.8 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 17.025 </td>
+   <td style="text-align:right;"> 17.025 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> 8 </td>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.242 </td>
-   <td style="text-align:right;"> 0.242 </td>
-   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:right;"> 0.034 </td>
+   <td style="text-align:right;"> 0.034 </td>
+   <td style="text-align:left;"> 0.9 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> Homocysteine:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.391 </td>
-   <td style="text-align:right;"> 4.391 </td>
-   <td style="text-align:left;"> 0.04 </td>
-   <td style="text-align:left;"> \* </td>
+   <td style="text-align:right;"> 18.293 </td>
+   <td style="text-align:right;"> 18.293 </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> Homocysteine:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 8.289 </td>
+   <td style="text-align:right;"> 8.289 </td>
+   <td style="text-align:left;"> 0.004 </td>
+   <td style="text-align:left;"> ** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 8.818 </td>
+   <td style="text-align:right;"> 8.818 </td>
+   <td style="text-align:left;"> 0.003 </td>
+   <td style="text-align:left;"> ** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> Homocysteine:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 8.172 </td>
+   <td style="text-align:right;"> 8.172 </td>
+   <td style="text-align:left;"> 0.004 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
 </tbody>
 </table>
@@ -34673,73 +35479,83 @@ Type III ANOVA on main and interaction effects, and LM model summaries.
 <tbody>
   <tr>
    <td style="text-align:left;"> 1 </td>
-   <td style="text-align:left;"> Study </td>
+   <td style="text-align:left;"> Homocysteine </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 54.379 </td>
-   <td style="text-align:right;"> 54.379 </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-   <td style="text-align:left;"> *** </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 3 </td>
-   <td style="text-align:left;"> GDM_new </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 3.763 </td>
-   <td style="text-align:right;"> 3.763 </td>
-   <td style="text-align:left;"> 0.05 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 4 </td>
-   <td style="text-align:left;"> BMI </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 8.487 </td>
-   <td style="text-align:right;"> 8.487 </td>
-   <td style="text-align:left;"> 0.004 </td>
+   <td style="text-align:right;"> 8.564 </td>
+   <td style="text-align:right;"> 8.564 </td>
+   <td style="text-align:left;"> 0.003 </td>
    <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
    <td style="text-align:left;"> 5 </td>
-   <td style="text-align:left;"> Ethnicity_cauc </td>
+   <td style="text-align:left;"> GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.174 </td>
-   <td style="text-align:right;"> 1.174 </td>
+   <td style="text-align:right;"> 9.165 </td>
+   <td style="text-align:right;"> 9.165 </td>
+   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> ** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 7 </td>
+   <td style="text-align:left;"> Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 13.971 </td>
+   <td style="text-align:right;"> 13.971 </td>
+   <td style="text-align:left;"> 0.0002 </td>
+   <td style="text-align:left;"> *** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 8 </td>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 0.961 </td>
+   <td style="text-align:right;"> 0.961 </td>
    <td style="text-align:left;"> 0.3 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> 6 </td>
-   <td style="text-align:left;"> f10c_any_cig_1st_vst </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:right;"> 0.002 </td>
-   <td style="text-align:left;"> 1.0 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> 7 </td>
-   <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:right;"> 1 </td>
-   <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.289 </td>
-   <td style="text-align:right;"> 0.289 </td>
-   <td style="text-align:left;"> 0.6 </td>
-   <td style="text-align:left;"> ns </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> 2 </td>
-   <td style="text-align:left;"> Study:GDM_new </td>
+   <td style="text-align:left;"> Homocysteine:GDM_new </td>
    <td style="text-align:right;"> 1 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 1.683 </td>
-   <td style="text-align:right;"> 1.683 </td>
-   <td style="text-align:left;"> 0.2 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 7.553 </td>
+   <td style="text-align:right;"> 7.553 </td>
+   <td style="text-align:left;"> 0.006 </td>
+   <td style="text-align:left;"> ** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 4 </td>
+   <td style="text-align:left;"> Homocysteine:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 5.823 </td>
+   <td style="text-align:right;"> 5.823 </td>
+   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> \* </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 6 </td>
+   <td style="text-align:left;"> GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 7.209 </td>
+   <td style="text-align:right;"> 7.209 </td>
+   <td style="text-align:left;"> 0.007 </td>
+   <td style="text-align:left;"> ** </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> 3 </td>
+   <td style="text-align:left;"> Homocysteine:GDM_new:Study </td>
+   <td style="text-align:right;"> 1 </td>
+   <td style="text-align:right;"> Inf </td>
+   <td style="text-align:right;"> 7.141 </td>
+   <td style="text-align:right;"> 7.141 </td>
+   <td style="text-align:left;"> 0.008 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
 </tbody>
 </table>
@@ -35038,43 +35854,48 @@ Ratio of Geometric means (95% CI)
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 1.77 (1.64, 1.91) </td>
+   <td style="text-align:left;"> 1.74 (1.60, 1.87) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Homocysteine </td>
-   <td style="text-align:left;"> -0.01 (-0.02, 0.01) </td>
-   <td style="text-align:left;"> 0.32 </td>
+   <td style="text-align:left;"> 0.00 (-0.01, 0.02) </td>
+   <td style="text-align:left;"> 0.90 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM </td>
-   <td style="text-align:left;"> 0.28 (0.06, 0.49) </td>
-   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> 0.68 (0.23, 1.12) </td>
+   <td style="text-align:left;"> 0.003 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> -0.19 (-0.30, -0.08) </td>
-   <td style="text-align:left;"> 0.0009 </td>
+   <td style="text-align:left;"> -0.12 (-0.22, -0.01) </td>
+   <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:left;"> -0.00 (-0.01, 0.00) </td>
-   <td style="text-align:left;"> 0.39 </td>
+   <td style="text-align:left;"> 0.33 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Homocysteine:GDM_newGDM </td>
-   <td style="text-align:left;"> -0.04 (-0.08, -0.01) </td>
-   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> -0.14 (-0.24, -0.04) </td>
+   <td style="text-align:left;"> 0.005 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM_newGDM:StudySTOP </td>
-   <td style="text-align:left;"> -0.05 (-0.15, 0.05) </td>
-   <td style="text-align:left;"> 0.36 </td>
+   <td style="text-align:left;"> -0.64 (-1.10, -0.17) </td>
+   <td style="text-align:left;"> 0.007 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Homocysteine:StudySTOP </td>
-   <td style="text-align:left;"> 0.01 (-0.01, 0.03) </td>
-   <td style="text-align:left;"> 0.43 </td>
+   <td style="text-align:left;"> -0.01 (-0.03, 0.01) </td>
+   <td style="text-align:left;"> 0.56 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Homocysteine:GDM_newGDM:StudySTOP </td>
+   <td style="text-align:left;"> 0.14 (0.04, 0.24) </td>
+   <td style="text-align:left;"> 0.008 </td>
   </tr>
 </tbody>
 </table>
@@ -35374,38 +36195,38 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 5.422011 </td>
-   <td style="text-align:right;"> 0.0686761 </td>
+   <td style="text-align:right;"> 5.447121 </td>
+   <td style="text-align:right;"> 0.0654643 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 5.289066 </td>
-   <td style="text-align:right;"> 5.558299 </td>
+   <td style="text-align:right;"> 5.320313 </td>
+   <td style="text-align:right;"> 5.576952 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> Uncomplicated </td>
-   <td style="text-align:right;"> 4.706633 </td>
-   <td style="text-align:right;"> 0.0406765 </td>
+   <td style="text-align:right;"> 4.701641 </td>
+   <td style="text-align:right;"> 0.0394811 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.627580 </td>
-   <td style="text-align:right;"> 4.787036 </td>
+   <td style="text-align:right;"> 4.624892 </td>
+   <td style="text-align:right;"> 4.779663 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 5.813447 </td>
-   <td style="text-align:right;"> 0.2585134 </td>
+   <td style="text-align:right;"> 5.340856 </td>
+   <td style="text-align:right;"> 0.2627192 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 5.328222 </td>
-   <td style="text-align:right;"> 6.342859 </td>
+   <td style="text-align:right;"> 4.849979 </td>
+   <td style="text-align:right;"> 5.881416 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:right;"> 4.813028 </td>
-   <td style="text-align:right;"> 0.0630128 </td>
+   <td style="text-align:right;"> 4.850957 </td>
+   <td style="text-align:right;"> 0.0626863 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 4.691096 </td>
-   <td style="text-align:right;"> 4.938129 </td>
+   <td style="text-align:right;"> 4.729637 </td>
+   <td style="text-align:right;"> 4.975390 </td>
   </tr>
 </tbody>
 </table>
@@ -35425,6 +36246,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> GDM_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -35434,6 +36256,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.978 (0.930, 1.027) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -35441,6 +36264,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.967 (0.927, 1.009) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -35448,6 +36272,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.952 (0.860, 1.053) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -35455,6 +36280,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.941 (0.865, 1.024) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -35462,6 +36288,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.990 (0.964, 1.017) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -35469,6 +36296,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.983 (0.961, 1.006) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -35476,6 +36304,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.927 (0.878, 0.979) </td>
    <td style="text-align:left;"> 0.006 </td>
   </tr>
@@ -35483,6 +36312,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.921 (0.879, 0.964) </td>
    <td style="text-align:left;"> 0.0004 </td>
   </tr>
@@ -35490,6 +36320,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.980 (0.946, 1.016) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -35497,6 +36328,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 1.003 (0.973, 1.035) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
@@ -35504,6 +36336,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.934 (0.868, 1.006) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
@@ -35511,6 +36344,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.956 (0.899, 1.017) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -35518,6 +36352,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.979 (0.905, 1.059) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -35525,6 +36360,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.980 (0.926, 1.038) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -35532,6 +36368,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.576 (0.442, 0.750) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -35539,6 +36376,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.870 (0.747, 1.014) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
@@ -35546,6 +36384,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.980 (0.901, 1.067) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -35553,6 +36392,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
    <td style="text-align:left;"> 0.982 (0.924, 1.044) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -35560,6 +36400,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.518 (0.387, 0.695) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -35567,6 +36408,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.865 (0.736, 1.017) </td>
    <td style="text-align:left;"> 0.08 </td>
   </tr>
@@ -35574,29 +36416,33 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.992 (0.978, 1.008) </td>
-   <td style="text-align:left;"> 0.3 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> GLUC3_mmol.L </td>
-   <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 1.001 (0.986, 1.017) </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 1.001 (0.987, 1.015) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> Uncomplicated </td>
+   <td style="text-align:left;"> 0.995 (0.980, 1.010) </td>
+   <td style="text-align:left;"> 0.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GLUC3_mmol.L </td>
+   <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:left;"> 0.952 (0.913, 0.993) </td>
-   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.870 (0.790, 0.958) </td>
+   <td style="text-align:left;"> 0.005 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:left;"> 0.960 (0.931, 0.991) </td>
-   <td style="text-align:left;"> 0.01 </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.993 (0.971, 1.016) </td>
+   <td style="text-align:left;"> 0.5 </td>
   </tr>
 </tbody>
 </table>
@@ -35971,53 +36817,53 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <tbody>
   <tr>
    <td style="text-align:left;"> SCOPE/SCOPE (Overall) </td>
-   <td style="text-align:right;"> 1.0180861 </td>
-   <td style="text-align:right;"> 0.0232931 </td>
+   <td style="text-align:right;"> 1.1337832 </td>
+   <td style="text-align:right;"> 0.0589925 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9734409 </td>
-   <td style="text-align:right;"> 1.0647789 </td>
-   <td style="text-align:left;"> 0.433 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 1.0238604 </td>
+   <td style="text-align:right;"> 1.2555076 </td>
+   <td style="text-align:left;"> 0.016 </td>
+   <td style="text-align:left;"> \* </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (Uncomplicated) </td>
-   <td style="text-align:right;"> 1.0090025 </td>
-   <td style="text-align:right;"> 0.0115427 </td>
+   <td style="text-align:right;"> 0.9938672 </td>
+   <td style="text-align:right;"> 0.0106101 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9866311 </td>
-   <td style="text-align:right;"> 1.0318812 </td>
-   <td style="text-align:left;"> 0.433 </td>
+   <td style="text-align:right;"> 0.9732879 </td>
+   <td style="text-align:right;"> 1.0148816 </td>
+   <td style="text-align:left;"> 0.564 </td>
    <td style="text-align:left;"> ns </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP/SCOPE (GDM) </td>
-   <td style="text-align:right;"> 1.0090025 </td>
-   <td style="text-align:right;"> 0.0115427 </td>
+   <td style="text-align:right;"> 1.1407794 </td>
+   <td style="text-align:right;"> 0.0578375 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9866311 </td>
-   <td style="text-align:right;"> 1.0318812 </td>
-   <td style="text-align:left;"> 0.433 </td>
-   <td style="text-align:left;"> ns </td>
+   <td style="text-align:right;"> 1.0328702 </td>
+   <td style="text-align:right;"> 1.2599624 </td>
+   <td style="text-align:left;"> 0.009 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (SCOPE) </td>
-   <td style="text-align:right;"> 0.9590829 </td>
-   <td style="text-align:right;"> 0.0177554 </td>
+   <td style="text-align:right;"> 0.8696156 </td>
+   <td style="text-align:right;"> 0.0432179 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9249067 </td>
-   <td style="text-align:right;"> 0.9945219 </td>
-   <td style="text-align:left;"> 0.024 </td>
-   <td style="text-align:left;"> \* </td>
+   <td style="text-align:right;"> 0.7889047 </td>
+   <td style="text-align:right;"> 0.9585839 </td>
+   <td style="text-align:left;"> 0.005 </td>
+   <td style="text-align:left;"> ** </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GDM/Uncomplicated (STOP) </td>
-   <td style="text-align:right;"> 0.9590829 </td>
-   <td style="text-align:right;"> 0.0177554 </td>
+   <td style="text-align:right;"> 0.9981612 </td>
+   <td style="text-align:right;"> 0.0136557 </td>
    <td style="text-align:right;"> Inf </td>
-   <td style="text-align:right;"> 0.9249067 </td>
-   <td style="text-align:right;"> 0.9945219 </td>
-   <td style="text-align:left;"> 0.024 </td>
-   <td style="text-align:left;"> \* </td>
+   <td style="text-align:right;"> 0.9717522 </td>
+   <td style="text-align:right;"> 1.0252879 </td>
+   <td style="text-align:left;"> 0.893 </td>
+   <td style="text-align:left;"> ns </td>
   </tr>
 </tbody>
 </table>
@@ -36040,7 +36886,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_GDM_analysis_files/figure-html/unnamed-chunk-84-4.png" width="672" />
 
 

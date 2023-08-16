@@ -51,7 +51,7 @@
    <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/ml): Mean (SD) </td>
    <td style="text-align:left;border-top:1px solid black;"> 19.8 (24.7) </td>
    <td style="text-align:left;border-top:1px solid black;"> 33.7 (43.9) </td>
    <td style="text-align:left;border-top:1px solid black;"> 21.4 (27.8) </td>
@@ -102,7 +102,7 @@
    <td style="text-align:center;"> 205 (81.7%) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:center;"> 1817 (87.0%) </td>
    <td style="text-align:center;"> 227 (90.4%) </td>
   </tr>
@@ -115,6 +115,30 @@
    <td style="text-align:left;"> Glucose (mmol/L) </td>
    <td style="text-align:center;"> 2068 (99.0%) </td>
    <td style="text-align:center;"> 250 (99.6%) </td>
+  </tr>
+</tbody>
+</table>
+
+<hr>
+
+<b>Folate</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Characteristic </th>
+   <th style="text-align:left;"> No (n=2121) </th>
+   <th style="text-align:left;"> Yes (n=256) </th>
+   <th style="text-align:left;"> Total (n=2377) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> Serum folate concentration (nM): Median (IQ range) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 39.0 (32.9-43.9) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 40.1 (35.0-44.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 39.1 (33.3-44.1) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.01 </td>
   </tr>
 </tbody>
 </table>
@@ -156,7 +180,7 @@
    <td style="text-align:left;border-top:1px solid black;"> 0.0004 </td>
   </tr>
   <tr>
-   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/ml): Mean (SD) </td>
    <td style="text-align:left;border-top:1px solid black;"> 23.8 (27.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 50.4 (55.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 24.9 (29.2) </td>
@@ -1342,7 +1366,7 @@
    <td style="text-align:left;border-top:1px solid black;"> 0.09 </td>
   </tr>
   <tr>
-   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/ml): Mean (SD) </td>
    <td style="text-align:left;border-top:1px solid black;"> 16.6 (22.1) </td>
    <td style="text-align:left;border-top:1px solid black;"> 30.6 (41.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 18.9 (26.5) </td>
@@ -1481,7 +1505,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.0010 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.0005 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -1859,7 +1883,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.05 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -2506,54 +2530,54 @@
  <thead>
   <tr>
    <th style="text-align:left;"> Characteristic </th>
-   <th style="text-align:left;"> SCOPE (n=0) </th>
-   <th style="text-align:left;"> STOP (n=0) </th>
-   <th style="text-align:left;"> Total (n=0) </th>
+   <th style="text-align:left;"> SCOPE (n=58) </th>
+   <th style="text-align:left;"> STOP (n=193) </th>
+   <th style="text-align:left;"> Total (n=251) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
  </thead>
 <tbody>
   <tr>
    <td style="text-align:left;border-top:1px solid black;"> PRL (ng/ml): Mean (SD) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> - </td>
+   <td style="text-align:left;border-top:1px solid black;"> 118.8 (86.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 98.5 (95.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 101.1 (94.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.27 </td>
   </tr>
   <tr>
    <td style="text-align:left;border-top:1px solid black;"> hPL (μg/ml): Mean (SD) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> - </td>
+   <td style="text-align:left;border-top:1px solid black;"> 116.5 (49.3) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 70.4 (50.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 76.2 (52.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;border-top:1px solid black;"> GH2 (ng/ml): Mean (SD) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> - </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.1 (2.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 1.7 (1.2) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 1.9 (1.4) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.003 </td>
   </tr>
   <tr>
-   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> - </td>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 50.4 (55.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 30.6 (41.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 33.7 (43.9) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;border-top:1px solid black;"> HOMA-IR: Mean (SD) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> - </td>
+   <td style="text-align:left;border-top:1px solid black;"> 14.8 (18.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 7.5 (13.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 8.6 (14.2) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;border-top:1px solid black;"> Glucose (mmol/L): Mean (SD) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> - </td>
+   <td style="text-align:left;border-top:1px solid black;"> 6.0 (1.1) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.9 (0.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 5.2 (1.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
 </tbody>
 </table>
@@ -3692,54 +3716,54 @@
  <thead>
   <tr>
    <th style="text-align:left;"> Characteristic </th>
-   <th style="text-align:left;"> SCOPE (n=0) </th>
-   <th style="text-align:left;"> STOP (n=0) </th>
-   <th style="text-align:left;"> Total (n=0) </th>
+   <th style="text-align:left;"> SCOPE (n=1066) </th>
+   <th style="text-align:left;"> STOP (n=1022) </th>
+   <th style="text-align:left;"> Total (n=2088) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
  </thead>
 <tbody>
   <tr>
    <td style="text-align:left;border-top:1px solid black;"> PRL (ng/ml): Mean (SD) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> - </td>
+   <td style="text-align:left;border-top:1px solid black;"> 187.4 (184.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 106.3 (116.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 142.2 (156.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;border-top:1px solid black;"> hPL (μg/ml): Mean (SD) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> - </td>
+   <td style="text-align:left;border-top:1px solid black;"> 186.1 (54.2) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 74.7 (49.9) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 124.6 (75.9) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;border-top:1px solid black;"> GH2 (ng/ml): Mean (SD) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> - </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.7 (2.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 1.9 (1.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.2 (2.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/L): Mean (SD) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> - </td>
+   <td style="text-align:left;border-top:1px solid black;"> Insulin (uU/ml): Mean (SD) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 23.8 (27.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 16.6 (22.1) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 19.8 (24.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;border-top:1px solid black;"> HOMA-IR: Mean (SD) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> - </td>
+   <td style="text-align:left;border-top:1px solid black;"> 6.1 (7.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.7 (5.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.8 (6.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;border-top:1px solid black;"> Glucose (mmol/L): Mean (SD) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NA (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> NaN (NA) </td>
-   <td style="text-align:left;border-top:1px solid black;"> - </td>
+   <td style="text-align:left;border-top:1px solid black;"> 5.4 (0.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.8 (0.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 5.1 (0.8) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
 </tbody>
 </table>
@@ -8893,6 +8917,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -8901,24 +8926,28 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.05 (0.78, 1.41) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.86 (0.69, 1.06) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.47 (0.22, 1.01) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.93 (0.71, 1.23) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -9165,6 +9194,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -9173,24 +9203,28 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.98 (0.83, 1.15) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.98 (0.88, 1.10) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.90 (0.61, 1.32) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.72 (0.62, 0.84) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -9437,6 +9471,7 @@ LME for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -9445,24 +9480,28 @@ LME for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.13 (0.91, 1.42) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.92 (0.78, 1.07) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.81 (0.45, 1.48) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.13 (0.92, 1.40) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -9709,6 +9748,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -9717,24 +9757,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.29 (0.92, 1.82) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.82 (0.65, 1.03) </td>
    <td style="text-align:left;"> 0.08 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.38 (0.73, 2.60) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.84 (0.61, 1.17) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -9981,6 +10025,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -9989,24 +10034,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.42 (0.97, 2.06) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.80 (0.63, 1.02) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.34 (0.69, 2.61) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.84 (0.60, 1.18) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -10253,6 +10302,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -10261,24 +10311,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.05 (0.97, 1.14) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.99 (0.96, 1.01) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.97 (0.87, 1.07) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.98 (0.94, 1.02) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -11143,6 +11197,7 @@ LME for duplicated or repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -11151,144 +11206,168 @@ LME for duplicated or repeated measures.
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.93 (0.67, 1.31) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.98 (0.69, 1.38) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.04 (0.91, 1.20) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.83 (0.59, 1.18) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.89 (0.77, 1.03) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.85 (0.73, 1.00) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.91 (0.63, 1.32) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.96 (0.66, 1.40) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.05 (0.93, 1.20) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.81 (0.55, 1.18) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.89 (0.78, 1.01) </td>
    <td style="text-align:left;"> 0.10 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.84 (0.73, 0.97) </td>
    <td style="text-align:left;"> 0.010 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.28 (0.62, 2.61) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.73 (0.40, 1.33) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.57 (0.31, 1.05) </td>
    <td style="text-align:left;"> 0.08 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.45 (0.54, 3.88) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.15 (0.43, 3.10) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.79 (0.56, 1.12) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.07 (0.41, 2.81) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.73 (0.55, 0.97) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.93 (0.68, 1.26) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -11654,6 +11733,7 @@ LME for duplicated or repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -11662,144 +11742,168 @@ LME for duplicated or repeated measures.
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.03 (0.86, 1.22) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.95 (0.80, 1.14) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.93 (0.86, 1.00) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.81 (0.68, 0.98) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.79 (0.74, 0.85) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.85 (0.79, 0.93) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.78 (0.65, 0.95) </td>
    <td style="text-align:left;"> 0.006 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.72 (0.59, 0.87) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.92 (0.86, 0.98) </td>
    <td style="text-align:left;"> 0.007 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.58 (0.48, 0.71) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.75 (0.70, 0.80) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.81 (0.75, 0.87) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.98 (0.71, 1.35) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.83 (0.62, 1.11) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.85 (0.65, 1.11) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.84 (0.50, 1.40) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.73 (0.43, 1.23) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.88 (0.73, 1.05) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.57 (0.34, 0.95) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.68 (0.59, 0.80) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.78 (0.66, 0.92) </td>
    <td style="text-align:left;"> 0.0008 </td>
   </tr>
@@ -12165,6 +12269,7 @@ LME for duplicated or repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -12173,144 +12278,168 @@ LME for duplicated or repeated measures.
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.00 (0.78, 1.28) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.85 (0.66, 1.10) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.85 (0.77, 0.94) </td>
    <td style="text-align:left;"> 0.0003 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.72 (0.56, 0.92) </td>
    <td style="text-align:left;"> 0.004 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.71 (0.64, 0.79) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.84 (0.75, 0.94) </td>
    <td style="text-align:left;"> 0.0005 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.57 (0.43, 0.74) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.51 (0.39, 0.67) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.90 (0.82, 0.99) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.48 (0.36, 0.63) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.85 (0.77, 0.94) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.94 (0.85, 1.05) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.97 (0.58, 1.62) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.64 (0.41, 1.01) </td>
    <td style="text-align:left;"> 0.06 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.67 (0.43, 1.02) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.02 (0.50, 2.09) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.80 (0.39, 1.64) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.78 (0.60, 1.01) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.87 (0.43, 1.75) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.85 (0.69, 1.05) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.09 (0.86, 1.37) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
@@ -12647,6 +12776,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -12655,144 +12785,168 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.21 (0.72, 2.02) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.83 (1.09, 3.08) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.51 (1.23, 1.87) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 2.34 (1.39, 3.92) </td>
    <td style="text-align:left;"> 0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.93 (1.58, 2.37) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.28 (1.03, 1.58) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.16 (0.77, 1.77) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.59 (1.04, 2.42) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.36 (1.17, 1.58) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 2.53 (1.66, 3.86) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 2.17 (1.87, 2.53) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.60 (1.36, 1.87) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.21 (0.72, 2.02) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.83 (1.09, 3.08) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.51 (1.23, 1.87) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.34 (1.39, 3.92) </td>
    <td style="text-align:left;"> 0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.93 (1.58, 2.37) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.28 (1.03, 1.58) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.16 (0.77, 1.77) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.59 (1.04, 2.42) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.36 (1.17, 1.58) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.53 (1.66, 3.86) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.17 (1.87, 2.53) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.60 (1.36, 1.87) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -13129,6 +13283,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -13137,144 +13292,168 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.23 (0.73, 2.05) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.86 (1.10, 3.13) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.51 (1.21, 1.90) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 2.40 (1.42, 4.03) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.95 (1.57, 2.43) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.29 (1.02, 1.63) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.20 (0.79, 1.83) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.66 (1.08, 2.54) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.39 (1.18, 1.62) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 2.73 (1.78, 4.18) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 2.28 (1.94, 2.67) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.64 (1.39, 1.95) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.23 (0.73, 2.05) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.86 (1.10, 3.13) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.51 (1.21, 1.90) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.40 (1.42, 4.03) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.95 (1.57, 2.43) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.29 (1.02, 1.63) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.20 (0.79, 1.83) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.66 (1.08, 2.54) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.39 (1.18, 1.62) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.73 (1.78, 4.18) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.28 (1.94, 2.67) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.64 (1.39, 1.95) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -13611,6 +13790,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -13619,144 +13799,168 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.02 (0.96, 1.09) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.05 (0.98, 1.14) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.03 (0.98, 1.09) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.02 (0.96, 1.09) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.00 (0.96, 1.04) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.97 (0.91, 1.04) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.03 (0.98, 1.09) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.05 (0.99, 1.11) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.02 (0.98, 1.06) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.07 (1.01, 1.13) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.03 (1.00, 1.07) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.02 (0.97, 1.06) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.02 (0.96, 1.09) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.05 (0.98, 1.14) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.03 (0.98, 1.09) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.02 (0.96, 1.09) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.00 (0.96, 1.04) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.97 (0.91, 1.04) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.03 (0.98, 1.09) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.05 (0.99, 1.11) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.02 (0.98, 1.06) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.07 (1.01, 1.13) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.03 (1.00, 1.07) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.02 (0.97, 1.06) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -14621,6 +14825,7 @@ LME for duplicated or repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -14629,144 +14834,168 @@ LME for duplicated or repeated measures.
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.88 (0.77, 1.01) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.26 (0.81, 1.98) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.43 (0.90, 2.27) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.56 (0.26, 1.18) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.63 (0.30, 1.34) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.44 (0.19, 1.05) </td>
    <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.86 (0.76, 0.97) </td>
    <td style="text-align:left;"> 0.010 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.81 (0.56, 1.15) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.94 (0.65, 1.35) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.84 (0.55, 1.28) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.97 (0.63, 1.50) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.04 (0.60, 1.80) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.69 (0.42, 1.14) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.39 (0.14, 1.09) </td>
    <td style="text-align:left;"> 0.08 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.57 (0.21, 1.58) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.86 (0.67, 1.11) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.21 (0.69, 2.11) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.40 (0.80, 2.45) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.68 (0.42, 1.10) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.79 (0.49, 1.27) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.56 (0.28, 1.12) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -15132,6 +15361,7 @@ LME for duplicated or repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -15140,144 +15370,168 @@ LME for duplicated or repeated measures.
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.82 (0.76, 0.87) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.97 (0.76, 1.23) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.18 (0.93, 1.51) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.85 (0.59, 1.22) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.04 (0.72, 1.50) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.88 (0.57, 1.35) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.77 (0.73, 0.83) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.06 (0.88, 1.28) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.38 (1.13, 1.67) </td>
    <td style="text-align:left;"> 0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.72 (0.58, 0.90) </td>
    <td style="text-align:left;"> 0.001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.93 (0.74, 1.17) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.68 (0.51, 0.90) </td>
    <td style="text-align:left;"> 0.003 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.85 (0.67, 1.07) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.82 (0.50, 1.36) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.97 (0.59, 1.61) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.75 (0.65, 0.85) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.85 (0.64, 1.14) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.14 (0.85, 1.52) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.49 (0.38, 0.63) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.66 (0.51, 0.85) </td>
    <td style="text-align:left;"> 0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.58 (0.40, 0.83) </td>
    <td style="text-align:left;"> 0.0005 </td>
   </tr>
@@ -15643,6 +15897,7 @@ LME for duplicated or repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -15651,144 +15906,168 @@ LME for duplicated or repeated measures.
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.76 (0.69, 0.84) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.11 (0.79, 1.56) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.46 (1.03, 2.07) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.94 (0.54, 1.63) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.24 (0.71, 2.16) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.85 (0.44, 1.62) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.88 (0.81, 0.97) </td>
    <td style="text-align:left;"> 0.002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.98 (0.75, 1.28) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.11 (0.85, 1.46) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.77 (0.56, 1.05) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.87 (0.63, 1.20) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.78 (0.52, 1.17) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.66 (0.46, 0.95) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.66 (0.30, 1.46) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.01 (0.46, 2.21) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> NA (NA, NA) </td>
    <td style="text-align:left;"> - </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.93 (0.77, 1.13) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.15 (0.75, 1.76) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.23 (0.81, 1.88) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.06 (0.74, 1.51) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.13 (0.79, 1.62) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.92 (0.55, 1.55) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
@@ -16125,6 +16404,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -16133,144 +16413,168 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.65 (1.37, 1.99) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.26 (0.77, 2.05) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.76 (0.46, 1.26) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 2.02 (1.06, 3.84) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.22 (0.64, 2.33) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.60 (0.72, 3.55) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.97 (1.71, 2.27) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.81 (0.57, 1.16) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.41 (0.29, 0.60) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.36 (1.03, 1.79) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.69 (0.52, 0.92) </td>
    <td style="text-align:left;"> 0.005 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.67 (1.08, 2.58) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.65 (1.37, 1.99) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.26 (0.77, 2.05) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.76 (0.46, 1.26) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.02 (1.06, 3.84) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.22 (0.64, 2.33) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.60 (0.72, 3.55) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.97 (1.71, 2.27) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.81 (0.57, 1.16) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.41 (0.29, 0.60) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.36 (1.03, 1.79) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.69 (0.52, 0.92) </td>
    <td style="text-align:left;"> 0.005 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.67 (1.08, 2.58) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
@@ -16607,6 +16911,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -16615,144 +16920,168 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.67 (1.37, 2.04) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.37 (0.81, 2.33) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.82 (0.48, 1.41) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 2.10 (1.02, 4.31) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.26 (0.61, 2.59) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.53 (0.63, 3.70) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 2.05 (1.77, 2.39) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.81 (0.56, 1.19) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.40 (0.27, 0.58) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.36 (1.02, 1.82) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.66 (0.49, 0.90) </td>
    <td style="text-align:left;"> 0.002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.68 (1.07, 2.64) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.67 (1.37, 2.04) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.37 (0.81, 2.33) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.82 (0.48, 1.41) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.10 (1.02, 4.31) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.26 (0.61, 2.59) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.53 (0.63, 3.70) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.05 (1.77, 2.39) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.81 (0.56, 1.19) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.40 (0.27, 0.58) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.36 (1.02, 1.82) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.66 (0.49, 0.90) </td>
    <td style="text-align:left;"> 0.002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.68 (1.07, 2.64) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
@@ -17089,6 +17418,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -17097,144 +17427,168 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.99 (0.94, 1.03) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.01 (0.95, 1.07) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.03 (0.96, 1.09) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.06 (0.87, 1.29) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.08 (0.89, 1.31) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.05 (0.86, 1.28) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.03 (1.00, 1.07) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.00 (0.96, 1.04) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.97 (0.92, 1.01) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.99 (0.95, 1.04) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.96 (0.92, 1.01) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.00 (0.95, 1.05) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.99 (0.94, 1.03) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.01 (0.95, 1.07) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.03 (0.96, 1.09) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.06 (0.87, 1.29) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.08 (0.89, 1.31) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.05 (0.86, 1.28) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.03 (1.00, 1.07) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.00 (0.96, 1.04) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.97 (0.92, 1.01) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.99 (0.95, 1.04) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.96 (0.92, 1.01) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.00 (0.95, 1.05) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
@@ -17883,6 +18237,7 @@ LME for duplicated or repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -17891,24 +18246,28 @@ LME for duplicated or repeated measures.
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.06 (0.94, 1.20) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.03 (0.88, 1.21) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.66 (0.45, 0.97) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.94 (0.74, 1.18) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -18155,6 +18514,7 @@ LME for duplicated or repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -18163,24 +18523,28 @@ LME for duplicated or repeated measures.
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.90 (0.85, 0.96) </td>
    <td style="text-align:left;"> 0.002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.81 (0.74, 0.88) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.91 (0.76, 1.09) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.88 (0.78, 1.00) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
@@ -18427,6 +18791,7 @@ LME for duplicated or repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -18435,24 +18800,28 @@ LME for duplicated or repeated measures.
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.91 (0.83, 0.99) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.95 (0.85, 1.08) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.68 (0.51, 0.89) </td>
    <td style="text-align:left;"> 0.006 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.99 (0.84, 1.18) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -18699,6 +19068,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -18707,24 +19077,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 2.47 (2.10, 2.92) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 2.21 (1.76, 2.78) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.99 (1.20, 3.30) </td>
    <td style="text-align:left;"> 0.007 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.20 (1.60, 3.01) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -18971,6 +19345,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -18979,24 +19354,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 2.79 (2.33, 3.33) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 2.53 (1.97, 3.24) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.05 (1.16, 3.63) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 2.52 (1.77, 3.59) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -19243,6 +19622,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -19251,24 +19631,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.13 (1.10, 1.17) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.15 (1.10, 1.19) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.12 (0.92, 1.36) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.13 (1.06, 1.20) </td>
    <td style="text-align:left;"> 0.0001 </td>
   </tr>
@@ -19917,6 +20301,7 @@ LME for duplicated or repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -19925,24 +20310,28 @@ LME for duplicated or repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.23 (1.05, 1.44) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.03 (0.90, 1.17) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.37 (0.74, 2.54) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.51 (1.14, 2.00) </td>
    <td style="text-align:left;"> 0.004 </td>
   </tr>
@@ -20189,6 +20578,7 @@ LME for duplicated or repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -20197,24 +20587,28 @@ LME for duplicated or repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.09 (1.00, 1.19) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.17 (1.08, 1.25) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.37 (1.02, 1.84) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.03 (0.88, 1.21) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -20461,6 +20855,7 @@ LME for duplicated or repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -20469,24 +20864,28 @@ LME for duplicated or repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.03 (0.91, 1.16) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.03 (0.93, 1.14) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.13 (0.72, 1.75) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.91 (0.73, 1.12) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -20733,6 +21132,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -20741,24 +21141,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.19 (0.92, 1.54) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.94 (0.80, 1.12) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.54 (0.24, 1.22) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.15 (0.71, 1.86) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -21005,6 +21409,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -21013,24 +21418,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.20 (0.91, 1.58) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.96 (0.80, 1.14) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.56 (0.24, 1.29) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.09 (0.66, 1.80) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -21277,6 +21686,7 @@ GEE for repeated measures.
   <tr>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -21285,24 +21695,28 @@ GEE for repeated measures.
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.06 (1.00, 1.11) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.05 (0.99, 1.12) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.97 (0.84, 1.11) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.95 (0.91, 0.99) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
@@ -22251,7 +22665,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_nonGDM_analysis_files/figure-html/model_diag-4.png" width="672" />
 
 
@@ -25019,6 +25433,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -25028,6 +25443,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.999 (0.998, 1.000) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -25035,6 +25451,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.000 (0.999, 1.001) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -25042,6 +25459,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.999 (0.997, 1.002) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -25049,6 +25467,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.001 (0.998, 1.003) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -25056,6 +25475,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.000 (0.999, 1.000) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -25063,6 +25483,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.000 (0.999, 1.000) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -25070,6 +25491,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.001 (0.999, 1.002) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -25077,6 +25499,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.000 (0.999, 1.002) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -25084,6 +25507,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.000 (0.999, 1.001) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -25091,6 +25515,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.999 (0.999, 1.000) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -25098,6 +25523,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.000 (0.998, 1.002) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
@@ -25105,6 +25531,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.000 (0.998, 1.002) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -25112,6 +25539,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.999 (0.997, 1.001) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -25119,6 +25547,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.998 (0.997, 0.999) </td>
    <td style="text-align:left;"> 0.002 </td>
   </tr>
@@ -25126,6 +25555,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.997 (0.992, 1.001) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -25133,6 +25563,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.998 (0.995, 1.001) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -25140,6 +25571,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.999 (0.997, 1.001) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -25147,6 +25579,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.998 (0.997, 0.999) </td>
    <td style="text-align:left;"> 0.002 </td>
   </tr>
@@ -25154,6 +25587,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.996 (0.991, 1.001) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
@@ -25161,6 +25595,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.997 (0.994, 1.001) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -25168,6 +25603,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.000 (1.000, 1.000) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -25175,6 +25611,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.000 (1.000, 1.000) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -25182,6 +25619,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.999 (0.998, 1.000) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
@@ -25189,6 +25627,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Folate40.2 / Folate39.2 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.999 (0.998, 1.000) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
@@ -25634,7 +26073,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_nonGDM_analysis_files/figure-html/unnamed-chunk-45-4.png" width="672" />
 
 
@@ -26833,6 +27272,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -26842,6 +27282,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.044 (0.999, 1.092) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
@@ -26849,6 +27290,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.040 (1.007, 1.074) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
@@ -26856,6 +27298,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.061 (0.978, 1.150) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -26863,6 +27306,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.056 (0.989, 1.128) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -26870,6 +27314,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.022 (0.998, 1.046) </td>
    <td style="text-align:left;"> 0.08 </td>
   </tr>
@@ -26877,6 +27322,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.022 (1.005, 1.041) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
@@ -26884,6 +27330,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.997 (0.955, 1.041) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -26891,6 +27338,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.998 (0.963, 1.034) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -26898,6 +27346,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.073 (1.038, 1.109) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -26905,6 +27354,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.024 (1.000, 1.049) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
@@ -26912,6 +27362,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.080 (1.016, 1.147) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
@@ -26919,6 +27370,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.031 (0.981, 1.083) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -26926,6 +27378,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.948 (0.885, 1.016) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -26933,6 +27386,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.969 (0.925, 1.016) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -26940,6 +27394,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.799 (0.600, 1.064) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -26947,6 +27402,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.929 (0.841, 1.026) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -26954,6 +27410,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.948 (0.880, 1.021) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -26961,6 +27418,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.969 (0.922, 1.018) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -26968,6 +27426,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.815 (0.594, 1.117) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -26975,6 +27434,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.925 (0.831, 1.029) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -26982,6 +27442,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.991 (0.979, 1.004) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -26989,6 +27450,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.996 (0.988, 1.003) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -26996,6 +27458,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.994 (0.964, 1.024) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -27003,6 +27466,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12366 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.998 (0.977, 1.020) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -27779,6 +28243,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -27788,6 +28253,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.022 (1.000, 1.045) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
@@ -27795,6 +28261,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.020 (1.003, 1.036) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
@@ -27802,6 +28269,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.030 (0.989, 1.073) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -27809,6 +28277,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.028 (0.994, 1.062) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -27816,6 +28285,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.011 (0.999, 1.023) </td>
    <td style="text-align:left;"> 0.08 </td>
   </tr>
@@ -27823,6 +28293,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.011 (1.002, 1.020) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
@@ -27830,6 +28301,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.999 (0.977, 1.020) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -27837,6 +28309,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.999 (0.981, 1.017) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -27844,6 +28317,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.036 (1.019, 1.053) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -27851,6 +28325,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.012 (1.000, 1.024) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
@@ -27858,6 +28333,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.039 (1.008, 1.071) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
@@ -27865,6 +28341,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.015 (0.990, 1.041) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -27872,6 +28349,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.974 (0.941, 1.008) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -27879,6 +28357,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.985 (0.962, 1.008) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -27886,6 +28365,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.894 (0.774, 1.031) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -27893,6 +28373,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.964 (0.917, 1.013) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -27900,6 +28381,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.974 (0.938, 1.010) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -27907,6 +28389,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.984 (0.960, 1.009) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -27914,6 +28397,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.903 (0.771, 1.057) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -27921,6 +28405,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.962 (0.912, 1.014) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -27928,6 +28413,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.996 (0.990, 1.002) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -27935,6 +28421,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.998 (0.994, 1.002) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -27942,6 +28429,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.997 (0.982, 1.012) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -27949,6 +28437,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> B12316 / B12266 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.999 (0.988, 1.010) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -28394,7 +28883,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_nonGDM_analysis_files/figure-html/unnamed-chunk-53-4.png" width="672" />
 
 
@@ -29592,6 +30081,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -29601,6 +30091,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.979 (0.956, 1.003) </td>
    <td style="text-align:left;"> 0.08 </td>
   </tr>
@@ -29608,6 +30099,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.008 (0.983, 1.033) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -29615,6 +30107,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.985 (0.937, 1.036) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -29622,6 +30115,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.014 (0.973, 1.057) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -29629,6 +30123,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.998 (0.985, 1.010) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -29636,6 +30131,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.992 (0.978, 1.005) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -29643,6 +30139,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.995 (0.969, 1.022) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -29650,6 +30147,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.989 (0.967, 1.012) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -29657,6 +30155,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.978 (0.961, 0.996) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
@@ -29664,6 +30163,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.984 (0.966, 1.003) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -29671,6 +30171,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.983 (0.947, 1.021) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -29678,6 +30179,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.990 (0.959, 1.021) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -29685,6 +30187,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.003 (0.967, 1.040) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -29692,6 +30195,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.976 (0.949, 1.004) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
@@ -29699,6 +30203,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.002 (0.913, 1.099) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
@@ -29706,6 +30211,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.979 (0.927, 1.034) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -29713,6 +30219,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.003 (0.965, 1.041) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -29720,6 +30227,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.975 (0.946, 1.004) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
@@ -29727,6 +30235,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.987 (0.879, 1.109) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
@@ -29734,6 +30243,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.973 (0.918, 1.033) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -29741,6 +30251,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.000 (0.994, 1.006) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -29748,6 +30259,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.004 (0.995, 1.012) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -29755,6 +30267,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.986 (0.961, 1.010) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -29762,6 +30275,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_B12245.96 / folate_B12145.96 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.989 (0.973, 1.006) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -30207,7 +30721,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_nonGDM_analysis_files/figure-html/unnamed-chunk-60-4.png" width="672" />
 
 
@@ -31404,6 +31918,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -31413,6 +31928,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.020 (0.996, 1.045) </td>
    <td style="text-align:left;"> 0.10 </td>
   </tr>
@@ -31420,6 +31936,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.001 (0.979, 1.024) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -31427,6 +31944,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.023 (0.973, 1.076) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -31434,6 +31952,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.004 (0.960, 1.050) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -31441,6 +31960,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.997 (0.985, 1.010) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -31448,6 +31968,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.001 (0.989, 1.013) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -31455,6 +31976,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.023 (0.996, 1.050) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
@@ -31462,6 +31984,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.026 (1.002, 1.051) </td>
    <td style="text-align:left;"> 0.03 </td>
   </tr>
@@ -31469,6 +31992,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.011 (0.993, 1.028) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -31476,6 +32000,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.987 (0.971, 1.003) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -31483,6 +32008,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.031 (0.993, 1.070) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -31490,6 +32016,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.007 (0.974, 1.040) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -31497,6 +32024,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.028 (0.992, 1.066) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -31504,6 +32032,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.995 (0.963, 1.027) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -31511,6 +32040,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.914 (0.796, 1.049) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -31518,6 +32048,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.972 (0.900, 1.049) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -31525,6 +32056,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.035 (0.995, 1.076) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
@@ -31532,6 +32064,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.992 (0.960, 1.026) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -31539,6 +32072,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.900 (0.770, 1.053) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -31546,6 +32080,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.970 (0.892, 1.056) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -31553,6 +32088,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.001 (0.995, 1.008) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -31560,6 +32096,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.005 (0.997, 1.013) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -31567,6 +32104,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.982 (0.959, 1.005) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -31574,6 +32112,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Active.B1271 / Active.B1261 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.985 (0.968, 1.003) </td>
    <td style="text-align:left;"> 0.10 </td>
   </tr>
@@ -32019,7 +32558,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_nonGDM_analysis_files/figure-html/unnamed-chunk-67-4.png" width="672" />
 
 
@@ -33216,6 +33755,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -33225,6 +33765,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.965 (0.931, 1.000) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
@@ -33232,6 +33773,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.025 (0.983, 1.070) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -33239,6 +33781,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.986 (0.907, 1.073) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -33246,6 +33789,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.048 (0.975, 1.126) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -33253,6 +33797,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.004 (0.986, 1.023) </td>
    <td style="text-align:left;"> 0.6 </td>
   </tr>
@@ -33260,6 +33805,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.970 (0.948, 0.993) </td>
    <td style="text-align:left;"> 0.010 </td>
   </tr>
@@ -33267,6 +33813,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 1.018 (0.974, 1.064) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -33274,6 +33821,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.983 (0.946, 1.022) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -33281,6 +33829,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.980 (0.956, 1.006) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -33288,6 +33837,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.002 (0.970, 1.036) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -33295,6 +33845,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.976 (0.917, 1.039) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -33302,6 +33853,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.998 (0.946, 1.053) </td>
    <td style="text-align:left;"> 0.9 </td>
   </tr>
@@ -33309,6 +33861,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.986 (0.927, 1.049) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -33316,6 +33869,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.981 (0.931, 1.033) </td>
    <td style="text-align:left;"> 0.5 </td>
   </tr>
@@ -33323,6 +33877,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.966 (0.889, 1.049) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -33330,6 +33885,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.931 (0.851, 1.019) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -33337,6 +33893,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.985 (0.921, 1.053) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -33344,6 +33901,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.979 (0.926, 1.034) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -33351,6 +33909,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.958 (0.870, 1.055) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
@@ -33358,6 +33917,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.913 (0.833, 1.001) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
@@ -33365,6 +33925,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.996 (0.989, 1.002) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -33372,6 +33933,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.997 (0.985, 1.010) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -33379,6 +33941,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.973 (0.947, 1.000) </td>
    <td style="text-align:left;"> 0.05 </td>
   </tr>
@@ -33386,6 +33949,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> folate_Active.B121123.57 / folate_Active.B12623.57 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.975 (0.955, 0.995) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
@@ -33831,7 +34395,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_nonGDM_analysis_files/figure-html/unnamed-chunk-74-4.png" width="672" />
 
 
@@ -35028,6 +35592,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <th style="text-align:left;"> Hormone </th>
    <th style="text-align:left;"> Contrast </th>
    <th style="text-align:left;"> Study </th>
+   <th style="text-align:left;"> f39_gdm_new </th>
    <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
    <th style="text-align:left;"> P-value </th>
   </tr>
@@ -35037,6 +35602,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.943 (0.908, 0.979) </td>
    <td style="text-align:left;"> 0.002 </td>
   </tr>
@@ -35044,6 +35610,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.936 (0.904, 0.969) </td>
    <td style="text-align:left;"> 0.0002 </td>
   </tr>
@@ -35051,6 +35618,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.944 (0.858, 1.040) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -35058,6 +35626,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Prolactin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.938 (0.860, 1.022) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -35065,6 +35634,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.997 (0.977, 1.018) </td>
    <td style="text-align:left;"> 0.8 </td>
   </tr>
@@ -35072,6 +35642,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.987 (0.968, 1.006) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -35079,6 +35650,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.930 (0.883, 0.980) </td>
    <td style="text-align:left;"> 0.007 </td>
   </tr>
@@ -35086,6 +35658,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HPL </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.921 (0.878, 0.965) </td>
    <td style="text-align:left;"> 0.0006 </td>
   </tr>
@@ -35093,6 +35666,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.987 (0.959, 1.015) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -35100,6 +35674,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.006 (0.980, 1.033) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -35107,6 +35682,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.946 (0.880, 1.017) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -35114,6 +35690,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GH2 </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.964 (0.904, 1.029) </td>
    <td style="text-align:left;"> 0.3 </td>
   </tr>
@@ -35121,6 +35698,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.913 (0.860, 0.970) </td>
    <td style="text-align:left;"> 0.003 </td>
   </tr>
@@ -35128,6 +35706,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.964 (0.922, 1.009) </td>
    <td style="text-align:left;"> 0.1 </td>
   </tr>
@@ -35135,6 +35714,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.576 (0.441, 0.751) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -35142,6 +35722,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> Insulin </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.874 (0.750, 1.018) </td>
    <td style="text-align:left;"> 0.08 </td>
   </tr>
@@ -35149,6 +35730,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.909 (0.852, 0.969) </td>
    <td style="text-align:left;"> 0.004 </td>
   </tr>
@@ -35156,6 +35738,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.968 (0.922, 1.015) </td>
    <td style="text-align:left;"> 0.2 </td>
   </tr>
@@ -35163,6 +35746,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.519 (0.386, 0.697) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
@@ -35170,6 +35754,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> HOMA.IR </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.869 (0.739, 1.022) </td>
    <td style="text-align:left;"> 0.09 </td>
   </tr>
@@ -35177,6 +35762,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 0.989 (0.979, 0.999) </td>
    <td style="text-align:left;"> 0.04 </td>
   </tr>
@@ -35184,6 +35770,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> non-GDM </td>
    <td style="text-align:left;"> 1.002 (0.991, 1.014) </td>
    <td style="text-align:left;"> 0.7 </td>
   </tr>
@@ -35191,6 +35778,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.949 (0.913, 0.986) </td>
    <td style="text-align:left;"> 0.008 </td>
   </tr>
@@ -35198,6 +35786,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
    <td style="text-align:left;"> GLUC3_mmol.L </td>
    <td style="text-align:left;"> Homocysteine5.5 / Homocysteine4.5 </td>
    <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> GDM </td>
    <td style="text-align:left;"> 0.962 (0.932, 0.992) </td>
    <td style="text-align:left;"> 0.01 </td>
   </tr>
@@ -35643,7 +36232,7 @@ Model diagnositcs.
 
 
 
-<p><b>Diagnositcs for  Insulin (uU/L) </b></p>
+<p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
 <img src="06_nonGDM_analysis_files/figure-html/unnamed-chunk-81-4.png" width="672" />
 
 

@@ -48,7 +48,7 @@ Descriptives on raw data.<br />
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L): Mean (SD) </td>
+   <td style="text-align:left;"> Insulin (uU/ml): Mean (SD) </td>
    <td style="text-align:left;"> 24.9 (28.9) </td>
    <td style="text-align:left;"> 18.7 (26.3) </td>
    <td style="text-align:left;"> 21.2 (27.6) </td>
@@ -99,7 +99,7 @@ Descriptives on raw data.<br />
    <td style="text-align:center;"> 1191 (91.6%) </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Insulin (uU/L) </td>
+   <td style="text-align:left;"> Insulin (uU/ml) </td>
    <td style="text-align:center;"> 876 (75.3%) </td>
    <td style="text-align:center;"> 1264 (97.2%) </td>
   </tr>
@@ -13062,7 +13062,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <img src="04_BMI_MetS_files/figure-html/em_plots2-6.png" width="960" />
 
 # Session info
-**Results generated on: 2023-08-11 13:35:08.464626**
+**Results generated on: 2023-08-16 13:32:04.177951**
 <details><summary>Click for more details</summary>
 
 ```
