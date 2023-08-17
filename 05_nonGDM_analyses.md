@@ -15745,7 +15745,7 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 <svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:DarkOrange;overflow:visible;position:relative;"><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zm0-384c13.3 0 24 10.7 24 24V264c0 13.3-10.7 24-24 24s-24-10.7-24-24V152c0-13.3 10.7-24 24-24zM224 352a32 32 0 1 1 64 0 32 32 0 1 1 -64 0z"/></svg>
 ```
 
-<span style="color:DarkOrange;"><b> Effect for every 1 unit increase in Serum folate concentration (nM). </b></span><br />
+<span style="color:DarkOrange;"><b> Effect for every 50 unit increase in Serum folate concentration (nM). </b></span><br />
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
@@ -23513,7 +23513,7 @@ Model diagnositcs.<br />
 
 
 # Session info
-**Results generated on: 2023-08-17 11:33:13.989533**
+**Results generated on: 2023-08-18 00:48:46.121943**
 <details><summary>Click for more details</summary>
 
 ```r
