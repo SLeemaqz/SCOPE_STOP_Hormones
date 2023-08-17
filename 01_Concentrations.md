@@ -1070,7 +1070,7 @@ std_fit2 <- lapply(1:length(std_ls),function(k){lm(Abs.ave ~ ns(Conc,df=3),data=
 </details>
 
 ### Session info
-**Results generated on: 2023-08-16 13:31:33.461793**
+**Results generated on: 2023-08-17 11:27:48.326579**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -2133,7 +2133,7 @@ std_fit <- lapply(1:length(std_ls),function(k){ #fit 4PL
 </details>
 
 ### Session info
-**Results generated on: 2023-08-16 13:31:33.508272**
+**Results generated on: 2023-08-17 11:27:48.370312**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -3400,7 +3400,7 @@ std_fit <- lapply(1:length(std_ls),function(k){lm(Abs.ave ~ ns(Conc,df=3),data=s
 </details>
 
 ### Session info
-**Results generated on: 2023-08-16 13:31:33.554677**
+**Results generated on: 2023-08-17 11:27:48.413638**
 <details><summary>Click for more details</summary>
 
 ```r
