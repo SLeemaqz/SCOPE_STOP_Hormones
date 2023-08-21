@@ -8955,6 +8955,54 @@ LME for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 1.16 (0.92, 1.48) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.90 (0.73, 1.10) </td>
+   <td style="text-align:left;"> 0.3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.51 (1.00, 2.28) </td>
+   <td style="text-align:left;"> 0.05 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 0.67 (0.44, 1.01) </td>
+   <td style="text-align:left;"> 0.06 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.12 (0.94, 1.34) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -9022,6 +9070,9 @@ LME for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## HPL
 LME for repeated measures.
@@ -9232,6 +9283,54 @@ LME for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 1.09 (0.97, 1.24) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 1.11 (0.99, 1.23) </td>
+   <td style="text-align:left;"> 0.07 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.08 (0.87, 1.34) </td>
+   <td style="text-align:left;"> 0.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 0.91 (0.73, 1.12) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 0.89 (0.80, 0.98) </td>
+   <td style="text-align:left;"> 0.01 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -9299,6 +9398,9 @@ LME for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## GH2
 LME for repeated measures.
@@ -9509,6 +9611,54 @@ LME for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 1.07 (0.89, 1.29) </td>
+   <td style="text-align:left;"> 0.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.89 (0.76, 1.03) </td>
+   <td style="text-align:left;"> 0.1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.29 (0.94, 1.79) </td>
+   <td style="text-align:left;"> 0.1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 0.76 (0.55, 1.05) </td>
+   <td style="text-align:left;"> 0.10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.11 (0.97, 1.27) </td>
+   <td style="text-align:left;"> 0.1 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -9576,6 +9726,9 @@ LME for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## Insulin
 GEE for repeated measures.
@@ -9786,6 +9939,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.57 (0.45, 0.72) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.64 (0.51, 0.81) </td>
+   <td style="text-align:left;"> 0.0002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.51 (0.35, 0.74) </td>
+   <td style="text-align:left;"> 0.0005 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 2.19 (1.52, 3.14) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.73 (1.42, 2.12) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -9853,6 +10054,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## HOMA-IR
 GEE for repeated measures.
@@ -10063,6 +10267,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.47 (0.37, 0.60) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.52 (0.41, 0.67) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.42 (0.29, 0.63) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 2.24 (1.53, 3.29) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.81 (1.47, 2.23) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -10130,6 +10382,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## Glucose
 GEE for repeated measures.
@@ -10340,6 +10595,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.83 (0.80, 0.86) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.84 (0.80, 0.88) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.82 (0.78, 0.87) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 1.06 (0.99, 1.14) </td>
+   <td style="text-align:left;"> 0.09 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.03 (1.01, 1.06) </td>
+   <td style="text-align:left;"> 0.008 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -10407,6 +10710,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 # BMI groups
 Descriptives with univariate P-values.
@@ -11375,6 +11681,54 @@ LME for duplicated or repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.98 (0.86, 1.13) </td>
+   <td style="text-align:left;"> 0.8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.02 (0.82, 1.27) </td>
+   <td style="text-align:left;"> 0.8 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -11442,6 +11796,9 @@ LME for duplicated or repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## HPL
 LME for duplicated or repeated measures.
@@ -11911,6 +12268,54 @@ LME for duplicated or repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 1.16 (1.08, 1.24) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.03 (0.92, 1.16) </td>
+   <td style="text-align:left;"> 0.6 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -11978,6 +12383,9 @@ LME for duplicated or repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## GH2
 LME for duplicated or repeated measures.
@@ -12447,6 +12855,54 @@ LME for duplicated or repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 1.11 (1.00, 1.22) </td>
+   <td style="text-align:left;"> 0.04 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 0.90 (0.77, 1.05) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -12514,6 +12970,9 @@ LME for duplicated or repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## Insulin
 GEE for repeated measures.
@@ -12954,6 +13413,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.71 (0.57, 0.88) </td>
+   <td style="text-align:left;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.80 (0.67, 0.97) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.62 (0.45, 0.85) </td>
+   <td style="text-align:left;"> 0.003 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 1.85 (1.46, 2.36) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.43 (1.24, 1.65) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -13021,6 +13528,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## HOMA-IR
 GEE for repeated measures.
@@ -13461,6 +13971,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.59 (0.47, 0.74) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.69 (0.57, 0.83) </td>
+   <td style="text-align:left;"> 0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.50 (0.35, 0.71) </td>
+   <td style="text-align:left;"> 0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 2.02 (1.52, 2.67) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.47 (1.26, 1.71) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -13528,6 +14086,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## Glucose
 GEE for repeated measures.
@@ -13968,6 +14529,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.84 (0.80, 0.88) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.87 (0.84, 0.89) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.81 (0.73, 0.89) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 1.11 (1.00, 1.22) </td>
+   <td style="text-align:left;"> 0.05 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.03 (1.00, 1.06) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -14035,6 +14644,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 # Age & BMI groups
 Descriptives with univariate P-values.
@@ -15003,6 +15615,54 @@ LME for duplicated or repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.97 (0.78, 1.21) </td>
+   <td style="text-align:left;"> 0.8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.15 (0.96, 1.38) </td>
+   <td style="text-align:left;"> 0.1 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -15070,6 +15730,9 @@ LME for duplicated or repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## HPL
 LME for duplicated or repeated measures.
@@ -15539,6 +16202,54 @@ LME for duplicated or repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 1.07 (0.96, 1.20) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 0.93 (0.85, 1.02) </td>
+   <td style="text-align:left;"> 0.1 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -15606,6 +16317,9 @@ LME for duplicated or repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## GH2
 LME for duplicated or repeated measures.
@@ -16075,6 +16789,54 @@ LME for duplicated or repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.91 (0.77, 1.06) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> NA (NA, NA) </td>
+   <td style="text-align:left;"> - </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.14 (0.99, 1.30) </td>
+   <td style="text-align:left;"> 0.06 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -16142,6 +16904,9 @@ LME for duplicated or repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## Insulin
 GEE for repeated measures.
@@ -16582,6 +17347,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.58 (0.46, 0.73) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.66 (0.53, 0.81) </td>
+   <td style="text-align:left;"> 0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.51 (0.37, 0.70) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 1.88 (1.45, 2.43) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.46 (1.27, 1.69) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -16649,6 +17462,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## HOMA-IR
 GEE for repeated measures.
@@ -17089,6 +17905,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.47 (0.37, 0.60) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.55 (0.43, 0.69) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.40 (0.28, 0.58) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 2.04 (1.52, 2.75) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.50 (1.29, 1.75) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -17156,6 +18020,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## Glucose
 GEE for repeated measures.
@@ -17596,6 +18463,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.82 (0.78, 0.87) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.85 (0.81, 0.89) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.79 (0.72, 0.87) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 1.11 (1.00, 1.23) </td>
+   <td style="text-align:left;"> 0.06 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.03 (1.01, 1.06) </td>
+   <td style="text-align:left;"> 0.01 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -17663,6 +18578,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 
 # MetS
@@ -18275,6 +19193,54 @@ LME for duplicated or repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 1.01 (0.86, 1.18) </td>
+   <td style="text-align:left;"> 0.9 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.94 (0.82, 1.08) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.08 (0.85, 1.39) </td>
+   <td style="text-align:left;"> 0.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 0.90 (0.73, 1.11) </td>
+   <td style="text-align:left;"> 0.3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.04 (0.90, 1.20) </td>
+   <td style="text-align:left;"> 0.6 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -18342,6 +19308,9 @@ LME for duplicated or repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## HPL
 LME for duplicated or repeated measures.
@@ -18552,6 +19521,54 @@ LME for duplicated or repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 1.06 (0.98, 1.15) </td>
+   <td style="text-align:left;"> 0.1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 1.03 (0.96, 1.11) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.10 (0.97, 1.24) </td>
+   <td style="text-align:left;"> 0.1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 0.99 (0.89, 1.10) </td>
+   <td style="text-align:left;"> 0.8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.06 (0.98, 1.14) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -18619,6 +19636,9 @@ LME for duplicated or repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## GH2
 LME for duplicated or repeated measures.
@@ -18829,6 +19849,54 @@ LME for duplicated or repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 1.06 (0.95, 1.19) </td>
+   <td style="text-align:left;"> 0.3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.98 (0.89, 1.09) </td>
+   <td style="text-align:left;"> 0.7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.15 (0.96, 1.38) </td>
+   <td style="text-align:left;"> 0.1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 0.89 (0.76, 1.04) </td>
+   <td style="text-align:left;"> 0.1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.04 (0.94, 1.16) </td>
+   <td style="text-align:left;"> 0.5 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -18896,6 +19964,9 @@ LME for duplicated or repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## Insulin
 GEE for repeated measures.
@@ -19106,6 +20177,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.79 (0.65, 0.98) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.82 (0.68, 0.99) </td>
+   <td style="text-align:left;"> 0.04 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.77 (0.56, 1.06) </td>
+   <td style="text-align:left;"> 0.1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 1.56 (1.20, 2.03) </td>
+   <td style="text-align:left;"> 0.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.45 (1.19, 1.77) </td>
+   <td style="text-align:left;"> 0.0002 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -19173,6 +20292,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## HOMA-IR
 GEE for repeated measures.
@@ -19383,6 +20505,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.69 (0.55, 0.86) </td>
+   <td style="text-align:left;"> 0.0010 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.73 (0.60, 0.88) </td>
+   <td style="text-align:left;"> 0.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.65 (0.46, 0.93) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 1.65 (1.22, 2.22) </td>
+   <td style="text-align:left;"> 0.001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.48 (1.19, 1.84) </td>
+   <td style="text-align:left;"> 0.0004 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -19450,6 +20620,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## Glucose
 GEE for repeated measures.
@@ -19660,6 +20833,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.87 (0.82, 0.91) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.89 (0.86, 0.92) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.85 (0.77, 0.93) </td>
+   <td style="text-align:left;"> 0.0007 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 1.07 (0.97, 1.18) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.02 (0.98, 1.06) </td>
+   <td style="text-align:left;"> 0.3 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -19727,6 +20948,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 
 # Birthweight centile
@@ -20339,6 +21563,54 @@ LME for duplicated or repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 1.03 (0.84, 1.26) </td>
+   <td style="text-align:left;"> 0.8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.91 (0.80, 1.05) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.16 (0.81, 1.65) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 0.99 (0.71, 1.37) </td>
+   <td style="text-align:left;"> 1.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.25 (1.07, 1.47) </td>
+   <td style="text-align:left;"> 0.005 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -20406,6 +21678,9 @@ LME for duplicated or repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## HPL
 LME for duplicated or repeated measures.
@@ -20616,6 +21891,54 @@ LME for duplicated or repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 1.09 (0.98, 1.20) </td>
+   <td style="text-align:left;"> 0.1 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 1.14 (1.06, 1.22) </td>
+   <td style="text-align:left;"> 0.0007 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.04 (0.87, 1.24) </td>
+   <td style="text-align:left;"> 0.7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 1.03 (0.88, 1.21) </td>
+   <td style="text-align:left;"> 0.7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 0.94 (0.86, 1.03) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -20683,6 +22006,9 @@ LME for duplicated or repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## GH2
 LME for duplicated or repeated measures.
@@ -20893,6 +22219,54 @@ LME for duplicated or repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 1.00 (0.87, 1.16) </td>
+   <td style="text-align:left;"> 0.9 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.98 (0.88, 1.08) </td>
+   <td style="text-align:left;"> 0.6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 1.03 (0.80, 1.33) </td>
+   <td style="text-align:left;"> 0.8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 0.92 (0.73, 1.16) </td>
+   <td style="text-align:left;"> 0.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 0.97 (0.86, 1.10) </td>
+   <td style="text-align:left;"> 0.6 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -20960,6 +22334,9 @@ LME for duplicated or repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## Insulin
 GEE for repeated measures.
@@ -21170,6 +22547,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.77 (0.59, 1.02) </td>
+   <td style="text-align:left;"> 0.06 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.72 (0.59, 0.87) </td>
+   <td style="text-align:left;"> 0.0007 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.83 (0.51, 1.36) </td>
+   <td style="text-align:left;"> 0.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 1.58 (1.03, 2.44) </td>
+   <td style="text-align:left;"> 0.04 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.84 (1.42, 2.38) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -21237,6 +22662,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## HOMA-IR
 GEE for repeated measures.
@@ -21447,6 +22875,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.64 (0.48, 0.84) </td>
+   <td style="text-align:left;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.62 (0.50, 0.76) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.66 (0.40, 1.08) </td>
+   <td style="text-align:left;"> 0.10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 1.75 (1.13, 2.70) </td>
+   <td style="text-align:left;"> 0.01 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.86 (1.43, 2.42) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -21514,6 +22990,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 ## Glucose
 GEE for repeated measures.
@@ -21724,6 +23203,54 @@ GEE for repeated measures.
 </table>
 
 
+#### Between Groups (no adjustment for multiple testing)
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Overall </td>
+   <td style="text-align:left;"> 0.84 (0.80, 0.87) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> non-GDM </td>
+   <td style="text-align:left;"> 0.87 (0.83, 0.91) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> GDM </td>
+   <td style="text-align:left;"> 0.81 (0.75, 0.87) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:left;"> 1.07 (0.99, 1.15) </td>
+   <td style="text-align:left;"> 0.09 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GDM / (non-GDM) </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:left;"> 1.00 (0.96, 1.04) </td>
+   <td style="text-align:left;"> 0.9 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<details><summary><b>Click here for comparisions with multiple testing</b></summary>
+
+<div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -21791,6 +23318,9 @@ GEE for repeated measures.
   </tr>
 </tbody>
 </table>
+
+
+</div></details>
 
 
 

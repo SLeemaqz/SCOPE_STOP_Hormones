@@ -618,7 +618,7 @@ Descriptives on raw data. <br />
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.16 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.18 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -24903,7 +24903,7 @@ Model diagnositcs.<br />
 
 
 # Session info
-**Results generated on: 2023-08-19 14:06:30.338693**
+**Results generated on: 2023-08-21 12:45:30.137977**
 <details><summary>Click for more details</summary>
 
 ```r
