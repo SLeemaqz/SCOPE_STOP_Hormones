@@ -1915,7 +1915,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.17 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.16 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -4238,7 +4238,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.19 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.15 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -9063,6 +9063,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -9391,6 +9394,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -9719,6 +9725,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -10047,6 +10056,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -10375,6 +10387,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -10703,6 +10718,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -11894,6 +11912,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -12477,6 +12498,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -13060,6 +13084,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -13618,6 +13645,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -14176,6 +14206,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -14734,6 +14767,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -15925,6 +15961,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -16508,6 +16547,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -17091,6 +17133,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -17649,6 +17694,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -18207,6 +18255,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -18765,6 +18816,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -19580,6 +19634,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -19908,6 +19965,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -20236,6 +20296,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -20564,6 +20627,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -20892,6 +20958,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -21220,6 +21289,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -22036,6 +22108,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -22364,6 +22439,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -22692,6 +22770,9 @@ LME for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -23020,6 +23101,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -23348,6 +23432,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
@@ -23676,6 +23763,9 @@ GEE for repeated measures.
 <details><summary><b>Click here for comparisions with multiple testing</b></summary>
 
 <div class="alert alert-danger"><span style="color:red;"><b>NOTE:</b> Some estimates could not be obtained and results may not be reliable.</span><hr><br />
+
+
+
 #### Between Groups
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>

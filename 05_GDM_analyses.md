@@ -7251,11 +7251,11 @@ Descriptives with univariate P-values.
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:500px; overflow-x: scroll; width:100%; "><table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Characteristic </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> &lt;35 yrs (n=229) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> &gt;=35 yrs (n=27) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Total (n=256) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> P-value </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> Characteristic </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> &lt;35 yrs (n=229) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> &gt;=35 yrs (n=27) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> Total (n=256) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> P-value </th>
   </tr>
  </thead>
 <tbody>
@@ -7300,6 +7300,55 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 4.9 (4.6-5.3) </td>
    <td style="text-align:left;"> 4.9 (4.5-5.6) </td>
    <td style="text-align:left;"> 0.50 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Serum folate concentration (nM): Median (IQ range) </td>
+   <td style="text-align:left;"> 39.6 (34.5-44.4) </td>
+   <td style="text-align:left;"> 41.3 (38.6-64.9) </td>
+   <td style="text-align:left;"> 40.1 (35.0-44.8) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> B12 concentration (pM): Median (IQ range) </td>
+   <td style="text-align:left;"> 270.5 (219.8-345.0) </td>
+   <td style="text-align:left;"> 258.0 (190.5-365.5) </td>
+   <td style="text-align:left;"> 270.0 (215.0-345.5) </td>
+   <td style="text-align:left;"> 0.71 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:B12 ratio: Mean (SD) </td>
+   <td style="text-align:left;"> 200.3 (172.1) </td>
+   <td style="text-align:left;"> 303.4 (358.8) </td>
+   <td style="text-align:left;"> 211.8 (203.1) </td>
+   <td style="text-align:left;"> 0.15 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Active B12 concentration (pM): Mean (SD) </td>
+   <td style="text-align:left;"> 75.8 (26.2) </td>
+   <td style="text-align:left;"> 75.4 (26.0) </td>
+   <td style="text-align:left;"> 75.7 (26.1) </td>
+   <td style="text-align:left;"> 0.97 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:Active B12 ratio: Mean (SD) </td>
+   <td style="text-align:left;"> 683.6 (556.7) </td>
+   <td style="text-align:left;"> 1439.3 (1771.2) </td>
+   <td style="text-align:left;"> 751.8 (768.4) </td>
+   <td style="text-align:left;"> 0.17 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Homocysteine concentration (μM): Mean (SD) </td>
+   <td style="text-align:left;"> 4.6 (1.0) </td>
+   <td style="text-align:left;"> 4.8 (1.0) </td>
+   <td style="text-align:left;"> 4.7 (1.0) </td>
+   <td style="text-align:left;"> 0.47 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 4.4 (2.4-8.8) </td>
+   <td style="text-align:left;"> 5.3 (2.6-10.1) </td>
+   <td style="text-align:left;"> 4.5 (2.4-9.1) </td>
+   <td style="text-align:left;"> 0.58 </td>
   </tr>
 </tbody>
 </table></div>
@@ -7400,6 +7449,13 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 4.1 (3.5-4.7) </td>
    <td style="text-align:left;"> 3.9 (3.6-4.6) </td>
    <td style="text-align:left;"> 0.94 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 7.7 (4.2-12.4) </td>
+   <td style="text-align:left;"> 11.0 (9.5-12.4) </td>
+   <td style="text-align:left;"> 7.8 (4.4-12.5) </td>
+   <td style="text-align:left;"> 0.38 </td>
   </tr>
 </tbody>
 </table></div>
@@ -7502,6 +7558,13 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 0.64 </td>
   </tr>
   <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 3.9 (2.0-7.5) </td>
+   <td style="text-align:left;"> 4.2 (2.5-9.8) </td>
+   <td style="text-align:left;"> 3.9 (2.1-8.1) </td>
+   <td style="text-align:left;"> 0.45 </td>
+  </tr>
+  <tr>
    <td style="text-align:left;"> Red cell folate (nmol/L): Median (IQ range) </td>
    <td style="text-align:left;"> 1536.5 (1311.0-1792.0) </td>
    <td style="text-align:left;"> 1715.0 (1300.0-1792.0) </td>
@@ -7512,48 +7575,10 @@ Descriptives with univariate P-values.
 </table></div>
 
 
-```r
-mod_ls <- lapply(c(hormone_var,insulin_var),function(x){
-	#	if(x%in%hormone_var){ #LME for hormones
-			 #mod_eq <- as.formula(paste0(x,"~BMI_gp2 + GA_samp + Study + (1|Study.ID)"))
-	 #mod_eq <- as.formula(paste0("log(",x,")~",fvarc,"+",fvarc,"*Study + GA_samp + Study + (1|Study.ID) + (1|Assay.",x,")")) #log
-	#		 mod1 <- eval(bquote(lmer(.(mod_eq),data=dat_run)))}
-	#	if(x%in%insulin_var){ #GEE for insulin
-			dat_tmp <- na.omit(dat_run[with(dat_run,order(Study,Study.ID)),c("Study","Study.ID","GA_samp",fvarc,x)])
-			dat_tmp <- dat_tmp[with(dat_tmp,order(Study,Study.ID)),]
-			mod_eq <- as.formula(paste0("log(",x,")~",fvarc,"+",fvarc,"*Study + GA_samp + Study"))
-			mod1 <- eval(bquote(geeglm(.(mod_eq),data=dat_tmp,id=Study.ID,corstr="independence")))#}
-			 return(mod1)})
-#mod_em <- lapply(mod_ls,function(x){emmeans(x,as.formula(paste0("revpairwise~",fvarc,"|Study")),type="response")})
-#mod_em2 <- lapply(mod_ls,function(x){emmeans(x,as.formula(paste0("revpairwise~Study|",fvarc)),type="response")})
-mod_em <- foreach(ind1=1:length(mod_ls)) %dofuture% {
-	if(!any(class(mod_ls[[ind1]])%in%"gee")){
-	em1 <- emmeans(mod_ls[[ind1]],as.formula(paste0("revpairwise~",fvarc,"|Study")),type="response",lmer.df="satterthwaite",data=dat_run)}
-	if(any(class(mod_ls[[ind1]])%in%"gee")){
-	em1 <- emmeans(mod_ls[[ind1]],as.formula(paste0("revpairwise~",fvarc,"|Study")),type="response")}
-	return(em1)}
-mod_em2 <- foreach(ind2=1:length(mod_ls)) %dofuture% {
-	if(!any(class(mod_ls[[ind2]])%in%"gee")){
-	em2 <- emmeans(mod_ls[[ind2]],as.formula(paste0("revpairwise~Study|",fvarc)),type="response",lmer.df="satterthwaite",data=dat_run)}
-	if(any(class(mod_ls[[ind2]])%in%"gee")){
-	em2 <- emmeans(mod_ls[[ind2]],as.formula(paste0("revpairwise~Study|",fvarc)),type="response")}
-	return(em2)}
-names(mod_ls) <- names(mod_em) <- names(mod_em2) <- c(hormone_var,insulin_var)
 
-#mod_sum <- lapply(mod_ls,extract.ci.lme,rc=2,eff.exp=T) #model summary
-mod_sum <- foreach(ind3=1:length(mod_ls)) %dofuture% {
-	extract.ci.mod(mod_ls[[ind3]],rc=2,eff.exp=T)} #model summary
-names(mod_sum) <- c(hormone_var,insulin_var)
-mod_em_est <- lapply(mod_em,function(x) round_df(data.frame(x$emmeans),2)) #estimated means
-mod_em_sum1 <- lapply(mod_em,emmeans.sum) #post-hoc contrasts
-mod_em_sum2 <- lapply(mod_em2,emmeans.sum) #post-hoc contrasts
-mod_em_sum <- mapply(function(x,y){
-			     x[,2] <- paste(dat_labels[names(x)[2]],x[,2],sep=": ")
-			     y[,2] <- paste(dat_labels[names(y)[2]],y[,2],sep=": ")
-			     names(x)[2] <- names(y)[2] <- "Subgroup"
-			     return(rbind(x,y))},
-			     mod_em_sum1,mod_em_sum2,SIMPLIFY=F)
-```
+
+
+
 
 ## Prolactin
 LME for repeated measures.
@@ -8374,6 +8399,369 @@ GEE for repeated measures.
 </tbody>
 </table>
 
+
+## Folate
+Multiple linear regression.
+
+
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 50.03 (39.09, 64.04) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
+   <td style="text-align:left;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> StudySTOP </td>
+   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 0.98 (0.96, 0.99) </td>
+   <td style="text-align:left;"> 0.009 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
+   <td style="text-align:left;"> 0.97 (0.75, 1.26) </td>
+   <td style="text-align:left;"> 0.82 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> Study </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 37.78 </td>
+   <td style="text-align:right;"> 0.88 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 36.09 </td>
+   <td style="text-align:right;"> 39.55 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 53.37 </td>
+   <td style="text-align:right;"> 5.93 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 42.92 </td>
+   <td style="text-align:right;"> 66.36 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 44.12 </td>
+   <td style="text-align:right;"> 0.90 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 42.38 </td>
+   <td style="text-align:right;"> 45.92 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 60.45 </td>
+   <td style="text-align:right;"> 4.59 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 52.08 </td>
+   <td style="text-align:right;"> 70.16 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/mod_sum_fa3_plot-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
+   <td style="text-align:left;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.37 (1.18, 1.59) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
+   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
+   <td style="text-align:left;"> 1.13 (0.87, 1.48) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+</tbody>
+</table>
+
+## CRP
+Multiple linear regression.
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 3.92 (2.27, 6.77) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.24 (0.78, 1.97) </td>
+   <td style="text-align:left;"> 0.37 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> StudySTOP </td>
+   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.01 (0.98, 1.05) </td>
+   <td style="text-align:left;"> 0.56 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
+   <td style="text-align:left;"> 1.18 (0.67, 2.09) </td>
+   <td style="text-align:left;"> 0.57 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> Study </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 4.49 </td>
+   <td style="text-align:right;"> 0.24 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 4.05 </td>
+   <td style="text-align:right;"> 4.98 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 5.56 </td>
+   <td style="text-align:right;"> 1.33 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 3.48 </td>
+   <td style="text-align:right;"> 8.89 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 2.90 </td>
+   <td style="text-align:right;"> 0.13 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 2.66 </td>
+   <td style="text-align:right;"> 3.17 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 4.24 </td>
+   <td style="text-align:right;"> 0.70 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 3.07 </td>
+   <td style="text-align:right;"> 5.87 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/CRP_sum-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.24 (0.78, 1.98) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.46 (1.06, 2.03) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
+   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
+   <td style="text-align:left;"> 0.76 (0.43, 1.36) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+</tbody>
+</table>
+
+## RCF
+Multiple linear regression.
+
+
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 1211.47 (1071.54, 1369.67) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.01 (1.00, 1.02) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:right;"> 1390.65 </td>
+   <td style="text-align:right;"> 11.88 </td>
+   <td style="text-align:right;"> 1187 </td>
+   <td style="text-align:right;"> 1367.54 </td>
+   <td style="text-align:right;"> 1414.16 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:right;"> 1537.95 </td>
+   <td style="text-align:right;"> 71.39 </td>
+   <td style="text-align:right;"> 1187 </td>
+   <td style="text-align:right;"> 1404.09 </td>
+   <td style="text-align:right;"> 1684.58 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/mod_sum_fa4_plot-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+</tbody>
+</table>
+
+
 # BMI groups
 `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:orange;overflow:visible;position:relative;"><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>`{=html} <span style="color:orange;"><b>Underweight and Normal merged into one group due to low numbers.</b></span><br />
 
@@ -8383,12 +8771,12 @@ Descriptives with univariate P-values.
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:500px; overflow-x: scroll; width:100%; "><table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Characteristic </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Underweight/Normal (n=69) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Overweight (n=53) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Obese (n=134) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Total (n=256) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> P-value </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> Characteristic </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> Underweight/Normal (n=69) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> Overweight (n=53) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> Obese (n=134) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> Total (n=256) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> P-value </th>
   </tr>
  </thead>
 <tbody>
@@ -8439,6 +8827,62 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 5.1 (4.6-5.8) </td>
    <td style="text-align:left;"> 4.9 (4.5-5.6) </td>
    <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Serum folate concentration (nM): Median (IQ range) </td>
+   <td style="text-align:left;"> 42.9 (37.1-47.4) </td>
+   <td style="text-align:left;"> 40.2 (36.3-55.6) </td>
+   <td style="text-align:left;"> 39.3 (33.8-43.8) </td>
+   <td style="text-align:left;"> 40.1 (35.0-44.8) </td>
+   <td style="text-align:left;"> 0.08 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> B12 concentration (pM): Median (IQ range) </td>
+   <td style="text-align:left;"> 293.0 (234.0-352.0) </td>
+   <td style="text-align:left;"> 259.0 (211.0-352.5) </td>
+   <td style="text-align:left;"> 259.0 (210.0-328.0) </td>
+   <td style="text-align:left;"> 270.0 (215.0-345.5) </td>
+   <td style="text-align:left;"> 0.10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:B12 ratio: Mean (SD) </td>
+   <td style="text-align:left;"> 227.7 (273.3) </td>
+   <td style="text-align:left;"> 204.8 (179.2) </td>
+   <td style="text-align:left;"> 206.7 (169.3) </td>
+   <td style="text-align:left;"> 211.8 (203.1) </td>
+   <td style="text-align:left;"> 0.77 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Active B12 concentration (pM): Mean (SD) </td>
+   <td style="text-align:left;"> 73.7 (23.1) </td>
+   <td style="text-align:left;"> 75.1 (31.9) </td>
+   <td style="text-align:left;"> 76.7 (24.6) </td>
+   <td style="text-align:left;"> 75.7 (26.1) </td>
+   <td style="text-align:left;"> 0.87 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:Active B12 ratio: Mean (SD) </td>
+   <td style="text-align:left;"> 990.0 (1353.2) </td>
+   <td style="text-align:left;"> 663.3 (301.8) </td>
+   <td style="text-align:left;"> 707.0 (609.2) </td>
+   <td style="text-align:left;"> 751.8 (768.4) </td>
+   <td style="text-align:left;"> 0.21 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Homocysteine concentration (μM): Mean (SD) </td>
+   <td style="text-align:left;"> 4.7 (0.9) </td>
+   <td style="text-align:left;"> 4.7 (1.2) </td>
+   <td style="text-align:left;"> 4.6 (1.0) </td>
+   <td style="text-align:left;"> 4.7 (1.0) </td>
+   <td style="text-align:left;"> 0.77 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 2.4 (1.0-5.1) </td>
+   <td style="text-align:left;"> 5.1 (2.9-7.6) </td>
+   <td style="text-align:left;"> 6.6 (3.1-11.9) </td>
+   <td style="text-align:left;"> 4.5 (2.4-9.1) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
 </tbody>
 </table></div>
@@ -8553,6 +8997,14 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 3.9 (3.6-4.6) </td>
    <td style="text-align:left;"> 0.06 </td>
   </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 4.1 (2.4-7.1) </td>
+   <td style="text-align:left;"> 7.6 (3.0-9.1) </td>
+   <td style="text-align:left;"> 10.5 (7.5-13.8) </td>
+   <td style="text-align:left;"> 7.8 (4.4-12.5) </td>
+   <td style="text-align:left;"> 0.004 </td>
+  </tr>
 </tbody>
 </table></div>
 
@@ -8665,6 +9117,14 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 4.8 (4.0-5.2) </td>
    <td style="text-align:left;"> 4.8 (4.0-5.3) </td>
    <td style="text-align:left;"> 0.83 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 2.4 (0.9-4.5) </td>
+   <td style="text-align:left;"> 4.3 (2.8-6.7) </td>
+   <td style="text-align:left;"> 5.3 (2.5-10.6) </td>
+   <td style="text-align:left;"> 3.9 (2.1-8.1) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Red cell folate (nmol/L): Median (IQ range) </td>
@@ -9843,6 +10303,363 @@ GEE for repeated measures.
 </tbody>
 </table>
 
+## Folate
+Multiple linear regression.
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 50.03 (39.09, 64.04) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
+   <td style="text-align:left;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> StudySTOP </td>
+   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 0.98 (0.96, 0.99) </td>
+   <td style="text-align:left;"> 0.009 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
+   <td style="text-align:left;"> 0.97 (0.75, 1.26) </td>
+   <td style="text-align:left;"> 0.82 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> Study </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 37.78 </td>
+   <td style="text-align:right;"> 0.88 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 36.09 </td>
+   <td style="text-align:right;"> 39.55 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 53.37 </td>
+   <td style="text-align:right;"> 5.93 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 42.92 </td>
+   <td style="text-align:right;"> 66.36 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 44.12 </td>
+   <td style="text-align:right;"> 0.90 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 42.38 </td>
+   <td style="text-align:right;"> 45.92 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 60.45 </td>
+   <td style="text-align:right;"> 4.59 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 52.08 </td>
+   <td style="text-align:right;"> 70.16 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/Folate_sum_bmi-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
+   <td style="text-align:left;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.37 (1.18, 1.59) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
+   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
+   <td style="text-align:left;"> 1.13 (0.87, 1.48) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+</tbody>
+</table>
+
+## CRP
+Multiple linear regression.
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 3.92 (2.27, 6.77) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.24 (0.78, 1.97) </td>
+   <td style="text-align:left;"> 0.37 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> StudySTOP </td>
+   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.01 (0.98, 1.05) </td>
+   <td style="text-align:left;"> 0.56 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
+   <td style="text-align:left;"> 1.18 (0.67, 2.09) </td>
+   <td style="text-align:left;"> 0.57 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> Study </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 4.49 </td>
+   <td style="text-align:right;"> 0.24 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 4.05 </td>
+   <td style="text-align:right;"> 4.98 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 5.56 </td>
+   <td style="text-align:right;"> 1.33 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 3.48 </td>
+   <td style="text-align:right;"> 8.89 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 2.90 </td>
+   <td style="text-align:right;"> 0.13 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 2.66 </td>
+   <td style="text-align:right;"> 3.17 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 4.24 </td>
+   <td style="text-align:right;"> 0.70 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 3.07 </td>
+   <td style="text-align:right;"> 5.87 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/CRP_sum_bmi-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.24 (0.78, 1.98) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.46 (1.06, 2.03) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
+   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
+   <td style="text-align:left;"> 0.76 (0.43, 1.36) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+</tbody>
+</table>
+
+## RCF
+Multiple linear regression.
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 1211.47 (1071.54, 1369.67) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.01 (1.00, 1.02) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:right;"> 1390.65 </td>
+   <td style="text-align:right;"> 11.88 </td>
+   <td style="text-align:right;"> 1187 </td>
+   <td style="text-align:right;"> 1367.54 </td>
+   <td style="text-align:right;"> 1414.16 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:right;"> 1537.95 </td>
+   <td style="text-align:right;"> 71.39 </td>
+   <td style="text-align:right;"> 1187 </td>
+   <td style="text-align:right;"> 1404.09 </td>
+   <td style="text-align:right;"> 1684.58 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/RCF_sum_bmi-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+</tbody>
+</table>
+
 # Age & BMI groups
 `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:orange;overflow:visible;position:relative;"><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>`{=html} <span style="color:orange;"><b>Age >=35 yrs (obese or non-obese) merged into one group due to low numbers.</b></span><br />
 
@@ -9853,12 +10670,12 @@ Descriptives with univariate P-values.
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:500px; overflow-x: scroll; width:100%; "><table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Characteristic </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> &lt;35y, non-obese (n=112) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> &lt;35y, obese (n=117) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> &gt;=35y (n=27) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Total (n=256) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> P-value </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> Characteristic </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> &lt;35y, non-obese (n=112) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> &lt;35y, obese (n=117) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> &gt;=35y (n=27) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> Total (n=256) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> P-value </th>
   </tr>
  </thead>
 <tbody>
@@ -9909,6 +10726,62 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 4.9 (4.6-5.3) </td>
    <td style="text-align:left;"> 4.9 (4.5-5.6) </td>
    <td style="text-align:left;"> 0.04 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Serum folate concentration (nM): Median (IQ range) </td>
+   <td style="text-align:left;"> 40.7 (36.3-45.2) </td>
+   <td style="text-align:left;"> 38.9 (33.4-43.3) </td>
+   <td style="text-align:left;"> 41.3 (38.6-64.9) </td>
+   <td style="text-align:left;"> 40.1 (35.0-44.8) </td>
+   <td style="text-align:left;"> 0.01 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> B12 concentration (pM): Median (IQ range) </td>
+   <td style="text-align:left;"> 284.5 (226.2-356.0) </td>
+   <td style="text-align:left;"> 258.5 (208.0-306.0) </td>
+   <td style="text-align:left;"> 258.0 (190.5-365.5) </td>
+   <td style="text-align:left;"> 270.0 (215.0-345.5) </td>
+   <td style="text-align:left;"> 0.09 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:B12 ratio: Mean (SD) </td>
+   <td style="text-align:left;"> 199.3 (180.5) </td>
+   <td style="text-align:left;"> 201.4 (164.6) </td>
+   <td style="text-align:left;"> 303.4 (358.8) </td>
+   <td style="text-align:left;"> 211.8 (203.1) </td>
+   <td style="text-align:left;"> 0.04 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Active B12 concentration (pM): Mean (SD) </td>
+   <td style="text-align:left;"> 74.6 (28.1) </td>
+   <td style="text-align:left;"> 76.6 (24.8) </td>
+   <td style="text-align:left;"> 75.4 (26.0) </td>
+   <td style="text-align:left;"> 75.7 (26.1) </td>
+   <td style="text-align:left;"> 0.91 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:Active B12 ratio: Mean (SD) </td>
+   <td style="text-align:left;"> 719.0 (635.7) </td>
+   <td style="text-align:left;"> 656.9 (492.1) </td>
+   <td style="text-align:left;"> 1439.3 (1771.2) </td>
+   <td style="text-align:left;"> 751.8 (768.4) </td>
+   <td style="text-align:left;"> 0.004 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Homocysteine concentration (μM): Mean (SD) </td>
+   <td style="text-align:left;"> 4.7 (1.0) </td>
+   <td style="text-align:left;"> 4.6 (1.0) </td>
+   <td style="text-align:left;"> 4.8 (1.0) </td>
+   <td style="text-align:left;"> 4.7 (1.0) </td>
+   <td style="text-align:left;"> 0.68 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 3.6 (1.5-6.6) </td>
+   <td style="text-align:left;"> 6.5 (3.1-11.4) </td>
+   <td style="text-align:left;"> 5.3 (2.6-10.1) </td>
+   <td style="text-align:left;"> 4.5 (2.4-9.1) </td>
+   <td style="text-align:left;"> 0.0002 </td>
   </tr>
 </tbody>
 </table></div>
@@ -10023,6 +10896,14 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 3.9 (3.6-4.6) </td>
    <td style="text-align:left;"> 0.14 </td>
   </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 6.4 (2.6-8.4) </td>
+   <td style="text-align:left;"> 10.5 (7.1-14.0) </td>
+   <td style="text-align:left;"> 11.0 (9.5-12.4) </td>
+   <td style="text-align:left;"> 7.8 (4.4-12.5) </td>
+   <td style="text-align:left;"> 0.009 </td>
+  </tr>
 </tbody>
 </table></div>
 
@@ -10135,6 +11016,14 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 4.9 (4.5-5.2) </td>
    <td style="text-align:left;"> 4.8 (4.0-5.3) </td>
    <td style="text-align:left;"> 0.88 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 3.2 (1.2-5.5) </td>
+   <td style="text-align:left;"> 4.7 (2.5-10.3) </td>
+   <td style="text-align:left;"> 4.2 (2.5-9.8) </td>
+   <td style="text-align:left;"> 3.9 (2.1-8.1) </td>
+   <td style="text-align:left;"> 0.002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Red cell folate (nmol/L): Median (IQ range) </td>
@@ -11313,6 +12202,362 @@ GEE for repeated measures.
 </tbody>
 </table>
 
+## Folate
+Multiple linear regression.
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 50.03 (39.09, 64.04) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
+   <td style="text-align:left;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> StudySTOP </td>
+   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 0.98 (0.96, 0.99) </td>
+   <td style="text-align:left;"> 0.009 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
+   <td style="text-align:left;"> 0.97 (0.75, 1.26) </td>
+   <td style="text-align:left;"> 0.82 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> Study </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 37.78 </td>
+   <td style="text-align:right;"> 0.88 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 36.09 </td>
+   <td style="text-align:right;"> 39.55 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 53.37 </td>
+   <td style="text-align:right;"> 5.93 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 42.92 </td>
+   <td style="text-align:right;"> 66.36 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 44.12 </td>
+   <td style="text-align:right;"> 0.90 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 42.38 </td>
+   <td style="text-align:right;"> 45.92 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 60.45 </td>
+   <td style="text-align:right;"> 4.59 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 52.08 </td>
+   <td style="text-align:right;"> 70.16 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/Folate_sum_bmi-25-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
+   <td style="text-align:left;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.37 (1.18, 1.59) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
+   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
+   <td style="text-align:left;"> 1.13 (0.87, 1.48) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+</tbody>
+</table>
+
+## CRP
+Multiple linear regression.
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 3.92 (2.27, 6.77) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.24 (0.78, 1.97) </td>
+   <td style="text-align:left;"> 0.37 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> StudySTOP </td>
+   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.01 (0.98, 1.05) </td>
+   <td style="text-align:left;"> 0.56 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
+   <td style="text-align:left;"> 1.18 (0.67, 2.09) </td>
+   <td style="text-align:left;"> 0.57 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> Study </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 4.49 </td>
+   <td style="text-align:right;"> 0.24 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 4.05 </td>
+   <td style="text-align:right;"> 4.98 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 5.56 </td>
+   <td style="text-align:right;"> 1.33 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 3.48 </td>
+   <td style="text-align:right;"> 8.89 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 2.90 </td>
+   <td style="text-align:right;"> 0.13 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 2.66 </td>
+   <td style="text-align:right;"> 3.17 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 4.24 </td>
+   <td style="text-align:right;"> 0.70 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 3.07 </td>
+   <td style="text-align:right;"> 5.87 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/CRP_sum_bmi-26-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.24 (0.78, 1.98) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.46 (1.06, 2.03) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
+   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
+   <td style="text-align:left;"> 0.76 (0.43, 1.36) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+</tbody>
+</table>
+
+## RCF
+Multiple linear regression.
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 1211.47 (1071.54, 1369.67) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.01 (1.00, 1.02) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:right;"> 1390.65 </td>
+   <td style="text-align:right;"> 11.88 </td>
+   <td style="text-align:right;"> 1187 </td>
+   <td style="text-align:right;"> 1367.54 </td>
+   <td style="text-align:right;"> 1414.16 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:right;"> 1537.95 </td>
+   <td style="text-align:right;"> 71.39 </td>
+   <td style="text-align:right;"> 1187 </td>
+   <td style="text-align:right;"> 1404.09 </td>
+   <td style="text-align:right;"> 1684.58 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/RCF_sum_bmi-27-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+</tbody>
+</table>
 
 # MetS
 Descriptives with univariate P-values.
@@ -11321,11 +12566,11 @@ Descriptives with univariate P-values.
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:500px; overflow-x: scroll; width:100%; "><table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Characteristic </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> No MetS (n=173) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> MetS (n=68) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Total (n=241) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> P-value </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> Characteristic </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> No MetS (n=173) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> MetS (n=68) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> Total (n=241) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> P-value </th>
   </tr>
  </thead>
 <tbody>
@@ -11369,6 +12614,55 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 4.8 (4.5-5.2) </td>
    <td style="text-align:left;"> 5.8 (5.1-6.4) </td>
    <td style="text-align:left;"> 5.0 (4.5-5.6) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Serum folate concentration (nM): Median (IQ range) </td>
+   <td style="text-align:left;"> 40.7 (35.7-51.5) </td>
+   <td style="text-align:left;"> 37.6 (32.9-42.1) </td>
+   <td style="text-align:left;"> 40.0 (34.8-44.9) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> B12 concentration (pM): Median (IQ range) </td>
+   <td style="text-align:left;"> 278.0 (215.8-355.0) </td>
+   <td style="text-align:left;"> 257.5 (195.0-301.0) </td>
+   <td style="text-align:left;"> 270.0 (215.0-348.0) </td>
+   <td style="text-align:left;"> 0.07 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:B12 ratio: Mean (SD) </td>
+   <td style="text-align:left;"> 214.2 (216.1) </td>
+   <td style="text-align:left;"> 207.6 (177.6) </td>
+   <td style="text-align:left;"> 212.4 (206.0) </td>
+   <td style="text-align:left;"> 0.81 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Active B12 concentration (pM): Mean (SD) </td>
+   <td style="text-align:left;"> 76.2 (25.6) </td>
+   <td style="text-align:left;"> 72.5 (27.0) </td>
+   <td style="text-align:left;"> 75.0 (26.1) </td>
+   <td style="text-align:left;"> 0.47 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:Active B12 ratio: Mean (SD) </td>
+   <td style="text-align:left;"> 776.4 (832.3) </td>
+   <td style="text-align:left;"> 752.3 (701.4) </td>
+   <td style="text-align:left;"> 768.5 (789.0) </td>
+   <td style="text-align:left;"> 0.87 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Homocysteine concentration (μM): Mean (SD) </td>
+   <td style="text-align:left;"> 4.8 (1.0) </td>
+   <td style="text-align:left;"> 4.5 (0.9) </td>
+   <td style="text-align:left;"> 4.7 (1.0) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 3.8 (1.9-7.3) </td>
+   <td style="text-align:left;"> 7.7 (4.2-12.4) </td>
+   <td style="text-align:left;"> 4.5 (2.4-9.1) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
 </tbody>
@@ -11471,6 +12765,13 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 3.9 (3.6-4.6) </td>
    <td style="text-align:left;"> 0.10 </td>
   </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 6.2 (2.6-9.0) </td>
+   <td style="text-align:left;"> 9.1 (7.4-12.5) </td>
+   <td style="text-align:left;"> 7.7 (4.2-12.4) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
 </tbody>
 </table></div>
 
@@ -11570,6 +12871,13 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 4.8 (4.1-5.2) </td>
    <td style="text-align:left;"> 4.8 (4.0-5.3) </td>
    <td style="text-align:left;"> 0.92 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 3.5 (1.5-7.0) </td>
+   <td style="text-align:left;"> 6.7 (3.4-12.1) </td>
+   <td style="text-align:left;"> 3.9 (2.2-8.1) </td>
+   <td style="text-align:left;"> 0.002 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Red cell folate (nmol/L): Median (IQ range) </td>
@@ -12086,7 +13394,7 @@ GEE for repeated measures.
 </tbody>
 </table>
 
-<img src="05_GDM_analyses_files/figure-html/insulin_sum_bmi_age-26-1.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/insulin_sum_bmi_age-29-1.png" width="672" />
 
 
 <br /><b>Post-hoc comparisons</b><br />
@@ -12222,7 +13530,7 @@ GEE for repeated measures.
 </tbody>
 </table>
 
-<img src="05_GDM_analyses_files/figure-html/HOMA_sum_bmi_age-27-1.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/HOMA_sum_bmi_age-30-1.png" width="672" />
 
 
 <br /><b>Post-hoc comparisons</b><br />
@@ -12358,7 +13666,7 @@ GEE for repeated measures.
 </tbody>
 </table>
 
-<img src="05_GDM_analyses_files/figure-html/GLUC_sum_bmi_age-28-1.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/GLUC_sum_bmi_age-31-1.png" width="672" />
 
 
 <br /><b>Post-hoc comparisons</b><br />
@@ -12399,6 +13707,364 @@ GEE for repeated measures.
 </tbody>
 </table>
 
+## Folate
+Multiple linear regression.
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 50.03 (39.09, 64.04) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
+   <td style="text-align:left;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> StudySTOP </td>
+   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 0.98 (0.96, 0.99) </td>
+   <td style="text-align:left;"> 0.009 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
+   <td style="text-align:left;"> 0.97 (0.75, 1.26) </td>
+   <td style="text-align:left;"> 0.82 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> Study </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 37.78 </td>
+   <td style="text-align:right;"> 0.88 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 36.09 </td>
+   <td style="text-align:right;"> 39.55 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 53.37 </td>
+   <td style="text-align:right;"> 5.93 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 42.92 </td>
+   <td style="text-align:right;"> 66.36 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 44.12 </td>
+   <td style="text-align:right;"> 0.90 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 42.38 </td>
+   <td style="text-align:right;"> 45.92 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 60.45 </td>
+   <td style="text-align:right;"> 4.59 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 52.08 </td>
+   <td style="text-align:right;"> 70.16 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/Folate_sum_bmi-32-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
+   <td style="text-align:left;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.37 (1.18, 1.59) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
+   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
+   <td style="text-align:left;"> 1.13 (0.87, 1.48) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+</tbody>
+</table>
+
+## CRP
+Multiple linear regression.
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 3.92 (2.27, 6.77) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.24 (0.78, 1.97) </td>
+   <td style="text-align:left;"> 0.37 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> StudySTOP </td>
+   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.01 (0.98, 1.05) </td>
+   <td style="text-align:left;"> 0.56 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
+   <td style="text-align:left;"> 1.18 (0.67, 2.09) </td>
+   <td style="text-align:left;"> 0.57 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> Study </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 4.49 </td>
+   <td style="text-align:right;"> 0.24 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 4.05 </td>
+   <td style="text-align:right;"> 4.98 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 5.56 </td>
+   <td style="text-align:right;"> 1.33 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 3.48 </td>
+   <td style="text-align:right;"> 8.89 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 2.90 </td>
+   <td style="text-align:right;"> 0.13 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 2.66 </td>
+   <td style="text-align:right;"> 3.17 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 4.24 </td>
+   <td style="text-align:right;"> 0.70 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 3.07 </td>
+   <td style="text-align:right;"> 5.87 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/CRP_sum_bmi-33-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.24 (0.78, 1.98) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.46 (1.06, 2.03) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
+   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
+   <td style="text-align:left;"> 0.76 (0.43, 1.36) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+</tbody>
+</table>
+
+## RCF
+Multiple linear regression.
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 1211.47 (1071.54, 1369.67) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.01 (1.00, 1.02) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:right;"> 1390.65 </td>
+   <td style="text-align:right;"> 11.88 </td>
+   <td style="text-align:right;"> 1187 </td>
+   <td style="text-align:right;"> 1367.54 </td>
+   <td style="text-align:right;"> 1414.16 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:right;"> 1537.95 </td>
+   <td style="text-align:right;"> 71.39 </td>
+   <td style="text-align:right;"> 1187 </td>
+   <td style="text-align:right;"> 1404.09 </td>
+   <td style="text-align:right;"> 1684.58 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/RCF_sum_bmi-34-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+</tbody>
+</table>
+
+
 # Birthweight centile
 Descriptives with univariate P-values.
 
@@ -12406,11 +14072,11 @@ Descriptives with univariate P-values.
 <div style="border: 1px solid #ddd; padding: 0px; overflow-y: scroll; height:500px; overflow-x: scroll; width:100%; "><table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Characteristic </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> &lt;=90th centile (n=223) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> &gt;90th centile (n=31) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> Total (n=254) </th>
-   <th style="text-align:left;position: sticky; top:0; background-color: #FFFFFF;"> P-value </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> Characteristic </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> &lt;=90th centile (n=223) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> &gt;90th centile (n=31) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> Total (n=254) </th>
+   <th style="text-align:left;font-weight: bold;position: sticky; top:0; background-color: #FFFFFF;"> P-value </th>
   </tr>
  </thead>
 <tbody>
@@ -12455,6 +14121,55 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 4.8 (4.5-5.4) </td>
    <td style="text-align:left;"> 4.9 (4.5-5.6) </td>
    <td style="text-align:left;"> 0.21 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Serum folate concentration (nM): Median (IQ range) </td>
+   <td style="text-align:left;"> 39.7 (35.0-44.4) </td>
+   <td style="text-align:left;"> 43.1 (37.2-63.6) </td>
+   <td style="text-align:left;"> 40.1 (35.1-44.8) </td>
+   <td style="text-align:left;"> 0.09 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> B12 concentration (pM): Median (IQ range) </td>
+   <td style="text-align:left;"> 272.0 (212.5-348.5) </td>
+   <td style="text-align:left;"> 269.5 (232.2-300.0) </td>
+   <td style="text-align:left;"> 270.0 (215.0-346.0) </td>
+   <td style="text-align:left;"> 0.67 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:B12 ratio: Mean (SD) </td>
+   <td style="text-align:left;"> 203.9 (187.2) </td>
+   <td style="text-align:left;"> 275.2 (295.2) </td>
+   <td style="text-align:left;"> 212.5 (203.8) </td>
+   <td style="text-align:left;"> 0.21 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Active B12 concentration (pM): Mean (SD) </td>
+   <td style="text-align:left;"> 74.0 (26.1) </td>
+   <td style="text-align:left;"> 84.7 (24.2) </td>
+   <td style="text-align:left;"> 75.4 (26.0) </td>
+   <td style="text-align:left;"> 0.10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Folate:Active B12 ratio: Mean (SD) </td>
+   <td style="text-align:left;"> 734.6 (729.2) </td>
+   <td style="text-align:left;"> 909.0 (1032.7) </td>
+   <td style="text-align:left;"> 757.2 (772.6) </td>
+   <td style="text-align:left;"> 0.51 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Homocysteine concentration (μM): Mean (SD) </td>
+   <td style="text-align:left;"> 4.7 (1.0) </td>
+   <td style="text-align:left;"> 4.4 (0.9) </td>
+   <td style="text-align:left;"> 4.7 (1.0) </td>
+   <td style="text-align:left;"> 0.07 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 4.5 (2.4-9.3) </td>
+   <td style="text-align:left;"> 4.1 (2.3-8.4) </td>
+   <td style="text-align:left;"> 4.5 (2.4-9.1) </td>
+   <td style="text-align:left;"> 0.56 </td>
   </tr>
 </tbody>
 </table></div>
@@ -12556,6 +14271,13 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 3.9 (3.6-4.6) </td>
    <td style="text-align:left;"> 0.66 </td>
   </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 8.1 (5.8-12.5) </td>
+   <td style="text-align:left;"> 4.2 (4.1-7.7) </td>
+   <td style="text-align:left;"> 7.8 (4.4-12.5) </td>
+   <td style="text-align:left;"> 0.35 </td>
+  </tr>
 </tbody>
 </table></div>
 
@@ -12655,6 +14377,13 @@ Descriptives with univariate P-values.
    <td style="text-align:left;"> 4.6 (3.8-4.8) </td>
    <td style="text-align:left;"> 4.8 (4.0-5.3) </td>
    <td style="text-align:left;"> 0.06 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;"> 3.9 (2.2-7.5) </td>
+   <td style="text-align:left;"> 4.0 (1.5-8.5) </td>
+   <td style="text-align:left;"> 3.9 (2.2-8.2) </td>
+   <td style="text-align:left;"> 0.75 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Red cell folate (nmol/L): Median (IQ range) </td>
@@ -12763,7 +14492,7 @@ LME for duplicated or repeated measures.
 </tbody>
 </table>
 
-<img src="05_GDM_analyses_files/figure-html/prolactin_sum_mets-32-1.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/prolactin_sum_mets-38-1.png" width="672" />
 
 
 <br /><b>Post-hoc comparisons</b><br />
@@ -12899,7 +14628,7 @@ LME for duplicated or repeated measures.
 </tbody>
 </table>
 
-<img src="05_GDM_analyses_files/figure-html/hpl_sum_mets-33-1.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/hpl_sum_mets-39-1.png" width="672" />
 
 
 <br /><b>Post-hoc comparisons</b><br />
@@ -13035,7 +14764,7 @@ LME for duplicated or repeated measures.
 </tbody>
 </table>
 
-<img src="05_GDM_analyses_files/figure-html/gh2_sum_mets-34-1.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/gh2_sum_mets-40-1.png" width="672" />
 
 
 <br /><b>Post-hoc comparisons</b><br />
@@ -13171,7 +14900,7 @@ GEE for repeated measures.
 </tbody>
 </table>
 
-<img src="05_GDM_analyses_files/figure-html/insulin_sum_bmi_age-35-1.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/insulin_sum_bmi_age-41-1.png" width="672" />
 
 
 <br /><b>Post-hoc comparisons</b><br />
@@ -13307,7 +15036,7 @@ GEE for repeated measures.
 </tbody>
 </table>
 
-<img src="05_GDM_analyses_files/figure-html/HOMA_sum_bmi_age-36-1.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/HOMA_sum_bmi_age-42-1.png" width="672" />
 
 
 <br /><b>Post-hoc comparisons</b><br />
@@ -13443,7 +15172,7 @@ GEE for repeated measures.
 </tbody>
 </table>
 
-<img src="05_GDM_analyses_files/figure-html/GLUC_sum_bmi_age-37-1.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/GLUC_sum_bmi_age-43-1.png" width="672" />
 
 
 <br /><b>Post-hoc comparisons</b><br />
@@ -13480,6 +15209,363 @@ GEE for repeated measures.
    <td style="text-align:left;"> Birthweight centile: &gt;90th centile </td>
    <td style="text-align:left;"> 0.80 (0.70, 0.90) </td>
    <td style="text-align:left;"> 0.0002 </td>
+  </tr>
+</tbody>
+</table>
+
+## Folate
+Multiple linear regression.
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 50.03 (39.09, 64.04) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
+   <td style="text-align:left;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> StudySTOP </td>
+   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 0.98 (0.96, 0.99) </td>
+   <td style="text-align:left;"> 0.009 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
+   <td style="text-align:left;"> 0.97 (0.75, 1.26) </td>
+   <td style="text-align:left;"> 0.82 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> Study </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 37.78 </td>
+   <td style="text-align:right;"> 0.88 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 36.09 </td>
+   <td style="text-align:right;"> 39.55 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 53.37 </td>
+   <td style="text-align:right;"> 5.93 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 42.92 </td>
+   <td style="text-align:right;"> 66.36 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 44.12 </td>
+   <td style="text-align:right;"> 0.90 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 42.38 </td>
+   <td style="text-align:right;"> 45.92 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 60.45 </td>
+   <td style="text-align:right;"> 4.59 </td>
+   <td style="text-align:right;"> 2327 </td>
+   <td style="text-align:right;"> 52.08 </td>
+   <td style="text-align:right;"> 70.16 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/Folate_sum_bmi-44-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
+   <td style="text-align:left;"> 0.002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.37 (1.18, 1.59) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
+   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
+   <td style="text-align:left;"> 1.13 (0.87, 1.48) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+</tbody>
+</table>
+
+## CRP
+Multiple linear regression.
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 3.92 (2.27, 6.77) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.24 (0.78, 1.97) </td>
+   <td style="text-align:left;"> 0.37 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> StudySTOP </td>
+   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.01 (0.98, 1.05) </td>
+   <td style="text-align:left;"> 0.56 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
+   <td style="text-align:left;"> 1.18 (0.67, 2.09) </td>
+   <td style="text-align:left;"> 0.57 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> Study </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 4.49 </td>
+   <td style="text-align:right;"> 0.24 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 4.05 </td>
+   <td style="text-align:right;"> 4.98 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 5.56 </td>
+   <td style="text-align:right;"> 1.33 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 3.48 </td>
+   <td style="text-align:right;"> 8.89 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 2.90 </td>
+   <td style="text-align:right;"> 0.13 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 2.66 </td>
+   <td style="text-align:right;"> 3.17 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 4.24 </td>
+   <td style="text-align:right;"> 0.70 </td>
+   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 3.07 </td>
+   <td style="text-align:right;"> 5.87 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/CRP_sum_bmi-45-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Subgroup </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.24 (0.78, 1.98) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.46 (1.06, 2.03) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
+   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
+   <td style="text-align:left;"> 0.76 (0.43, 1.36) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+</tbody>
+</table>
+
+## RCF
+Multiple linear regression.
+
+<b>Model summary</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Var </th>
+   <th style="text-align:left;"> Effect </th>
+   <th style="text-align:left;"> P </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> (Intercept) </td>
+   <td style="text-align:left;"> 1211.47 (1071.54, 1369.67) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_gp&gt;=35 </td>
+   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> GA_samp </td>
+   <td style="text-align:left;"> 1.01 (1.00, 1.02) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+</tbody>
+</table>
+
+
+<b>Estimated marginal means</b>
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:right;"> response </th>
+   <th style="text-align:right;"> SE </th>
+   <th style="text-align:right;"> df </th>
+   <th style="text-align:right;"> lower.CL </th>
+   <th style="text-align:right;"> upper.CL </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:right;"> 1390.65 </td>
+   <td style="text-align:right;"> 11.88 </td>
+   <td style="text-align:right;"> 1187 </td>
+   <td style="text-align:right;"> 1367.54 </td>
+   <td style="text-align:right;"> 1414.16 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:right;"> 1537.95 </td>
+   <td style="text-align:right;"> 71.39 </td>
+   <td style="text-align:right;"> 1187 </td>
+   <td style="text-align:right;"> 1404.09 </td>
+   <td style="text-align:right;"> 1684.58 </td>
+  </tr>
+</tbody>
+</table>
+
+<img src="05_GDM_analyses_files/figure-html/RCF_sum_bmi-46-1.png" width="672" />
+
+
+<br /><b>Post-hoc comparisons</b><br />
+<table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
+ <thead>
+  <tr>
+   <th style="text-align:left;"> Contrast </th>
+   <th style="text-align:left;"> Ratio of Geometric means (95% CI) </th>
+   <th style="text-align:left;"> P-value </th>
+  </tr>
+ </thead>
+<tbody>
+  <tr>
+   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
+   <td style="text-align:left;"> 0.03 </td>
   </tr>
 </tbody>
 </table>
@@ -15460,32 +17546,32 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 Model diagnositcs.
 
 <p><b>Diagnositcs for  PRL (ng/ml) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-44-1.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-53-1.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  hPL (μg/ml) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-44-2.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-53-2.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  GH2 (ng/ml) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-44-3.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-53-3.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-44-4.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-53-4.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  HOMA-IR </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-44-5.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-53-5.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  Glucose (mmol/L) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-44-6.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-53-6.png" width="672" />
 
 ### Plots
 
@@ -17184,52 +19270,52 @@ Estimated marginal means (or adjusted means) adjusted for GA at sampling.<br />
 ### Diagnostics
 Model diagnositcs.
 <p><b>Diagnositcs for  PRL (ng/ml) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-46-1.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-55-1.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  hPL (μg/ml) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-46-2.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-55-2.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  GH2 (ng/ml) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-46-3.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-55-3.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-46-4.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-55-4.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  HOMA-IR </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-46-5.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-55-5.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  Glucose (mmol/L) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-46-6.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-55-6.png" width="672" />
 
 
 
 ### Plots
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-46-7.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-55-7.png" width="672" />
 
 
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-46-8.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-55-8.png" width="672" />
 
 
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-46-9.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-55-9.png" width="672" />
 
 
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-46-10.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-55-10.png" width="672" />
 
 
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-46-11.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-55-11.png" width="672" />
 
 
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-46-12.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-55-12.png" width="672" />
 
 ## B12
 
@@ -22650,32 +24736,32 @@ Ratio of Geometric means (95% CI)
 Model diagnositcs.
 
 <p><b>Diagnositcs for  PRL (ng/ml) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-50-1.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-59-1.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  hPL (μg/ml) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-50-2.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-59-2.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  GH2 (ng/ml) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-50-3.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-59-3.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  Insulin (uU/ml) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-50-4.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-59-4.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  HOMA-IR </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-50-5.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-59-5.png" width="672" />
 
 
 
 <p><b>Diagnositcs for  Glucose (mmol/L) </b></p>
-<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-50-6.png" width="672" />
+<img src="05_GDM_analyses_files/figure-html/unnamed-chunk-59-6.png" width="672" />
 
 ### Plots
 
@@ -24006,7 +26092,7 @@ Model diagnositcs.<br />
 
 
 # Session info
-**Results generated on: 2023-08-21 12:46:32.869048**
+**Results generated on: 2023-08-27 23:00:57.584469**
 <details><summary>Click for more details</summary>
 
 ```r
