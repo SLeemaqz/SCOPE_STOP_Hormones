@@ -864,6 +864,13 @@
    <td style="text-align:left;border-top:1px solid black;"> 0.4 (0.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 0.04 </td>
   </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.3 (2.3-7.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 7.8 (4.4-12.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.5 (2.4-8.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
 </tbody>
 </table></div>
 
@@ -1481,7 +1488,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.0005 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.0010 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -1859,7 +1866,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.009 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.006 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -2049,6 +2056,13 @@
    <td style="text-align:left;border-top:1px solid black;"> 0.4 (0.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 0.4 (0.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.1 (1.3-6.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.9 (2.1-8.1) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.3 (1.4-6.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.001 </td>
   </tr>
   <tr>
    <td style="text-align:left;border-top:1px solid black;"> Red cell folate (nmol/L): Mean (SD) </td>
@@ -3243,6 +3257,13 @@
    <td style="text-align:left;border-top:1px solid black;"> 0.4 (0.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 0.07 </td>
   </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 7.8 (4.4-12.5) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.9 (2.1-8.1) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.5 (2.4-9.1) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
 </tbody>
 </table></div>
 
@@ -4238,7 +4259,7 @@
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.15 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.16 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -4427,6 +4448,13 @@
    <td style="text-align:left;border-top:1px solid black;"> 0.4 (0.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 0.4 (0.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> 0.4 (0.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.3 (2.3-7.7) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.1 (1.3-6.0) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.6 (1.7-6.9) </td>
    <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
 </tbody>
@@ -11794,8 +11822,8 @@ LME for repeated measures.
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 1.37 (0.68, 2.79) </td>
-   <td style="text-align:left;"> 0.7 </td>
+   <td style="text-align:left;"> 1.37 (0.72, 2.62) </td>
+   <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
@@ -11808,15 +11836,15 @@ LME for repeated measures.
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.70 (0.38, 1.28) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> 0.70 (0.40, 1.21) </td>
+   <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.51 (0.28, 0.93) </td>
-   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> 0.51 (0.29, 0.88) </td>
+   <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
@@ -12380,7 +12408,7 @@ LME for repeated measures.
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.97 (0.69, 1.35) </td>
+   <td style="text-align:left;"> 0.97 (0.72, 1.31) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
@@ -12394,15 +12422,15 @@ LME for repeated measures.
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.85 (0.63, 1.14) </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> 0.85 (0.65, 1.11) </td>
+   <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.88 (0.67, 1.16) </td>
-   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:left;"> 0.88 (0.68, 1.13) </td>
+   <td style="text-align:left;"> 0.5 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
@@ -12966,8 +12994,8 @@ LME for repeated measures.
    <td style="text-align:left;"> Overweight / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 1.08 (0.65, 1.81) </td>
-   <td style="text-align:left;"> 1.0 </td>
+   <td style="text-align:left;"> 1.08 (0.68, 1.73) </td>
+   <td style="text-align:left;"> 0.9 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Underweight </td>
@@ -12980,15 +13008,15 @@ LME for repeated measures.
    <td style="text-align:left;"> Obese / Normal </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.67 (0.42, 1.05) </td>
-   <td style="text-align:left;"> 0.1 </td>
+   <td style="text-align:left;"> 0.67 (0.44, 1.01) </td>
+   <td style="text-align:left;"> 0.06 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Obese / Overweight </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.62 (0.40, 0.94) </td>
-   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> 0.62 (0.42, 0.90) </td>
+   <td style="text-align:left;"> 0.009 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> Normal / Underweight </td>
@@ -15829,8 +15857,8 @@ LME for repeated measures.
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.64 (0.39, 1.05) </td>
-   <td style="text-align:left;"> 0.09 </td>
+   <td style="text-align:left;"> 0.64 (0.40, 1.00) </td>
+   <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
@@ -15850,15 +15878,15 @@ LME for repeated measures.
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.38 (0.14, 1.06) </td>
-   <td style="text-align:left;"> 0.07 </td>
+   <td style="text-align:left;"> 0.38 (0.15, 0.97) </td>
+   <td style="text-align:left;"> 0.04 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.60 (0.22, 1.67) </td>
-   <td style="text-align:left;"> 0.6 </td>
+   <td style="text-align:left;"> 0.60 (0.24, 1.53) </td>
+   <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&gt;=35 yrs, non-obese) </td>
@@ -16415,8 +16443,8 @@ LME for repeated measures.
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.87 (0.69, 1.11) </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> 0.87 (0.70, 1.08) </td>
+   <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
@@ -16436,14 +16464,14 @@ LME for repeated measures.
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.85 (0.51, 1.42) </td>
-   <td style="text-align:left;"> 0.8 </td>
+   <td style="text-align:left;"> 0.85 (0.53, 1.36) </td>
+   <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.97 (0.58, 1.63) </td>
+   <td style="text-align:left;"> 0.97 (0.61, 1.56) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
@@ -17001,8 +17029,8 @@ LME for repeated measures.
    <td style="text-align:left;"> &lt;35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.64 (0.44, 0.92) </td>
-   <td style="text-align:left;"> 0.010 </td>
+   <td style="text-align:left;"> 0.64 (0.46, 0.89) </td>
+   <td style="text-align:left;"> 0.005 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> (&gt;=35 yrs, non-obese) / (&lt;35 yrs, non-obese) </td>
@@ -17022,14 +17050,14 @@ LME for repeated measures.
    <td style="text-align:left;"> &gt;=35 yrs, obese / (&lt;35 yrs, non-obese) </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 0.65 (0.29, 1.48) </td>
-   <td style="text-align:left;"> 0.5 </td>
+   <td style="text-align:left;"> 0.65 (0.31, 1.38) </td>
+   <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> &gt;=35 yrs, obese / &lt;35 yrs, obese </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:left;"> GDM </td>
-   <td style="text-align:left;"> 1.02 (0.45, 2.33) </td>
+   <td style="text-align:left;"> 1.02 (0.49, 2.16) </td>
    <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>

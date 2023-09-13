@@ -149,7 +149,7 @@ Descriptives on raw data. <br />
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
    <td style="text-align:left;border-top:1px solid black;">  </td>
-   <td style="text-align:left;border-top:1px solid black;"> 0.02 </td>
+   <td style="text-align:left;border-top:1px solid black;"> 0.001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> <span style="     float:right;text-align: right;">Missing</span> </td>
@@ -159,17 +159,17 @@ Descriptives on raw data. <br />
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> <span style="     float:right;text-align: right;">&lt;35</span> </td>
-   <td style="text-align:left;"> 1140 (97.9) </td>
-   <td style="text-align:left;"> 1252 (96.3) </td>
-   <td style="text-align:left;"> 2392 (97.1) </td>
+   <td style="text-align:left;"> <span style="     float:right;text-align: right;">&lt;35 yrs</span> </td>
+   <td style="text-align:left;"> 1132 (97.3) </td>
+   <td style="text-align:left;"> 1230 (94.6) </td>
+   <td style="text-align:left;"> 2362 (95.9) </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> <span style="     float:right;text-align: right;">&gt;=35</span> </td>
-   <td style="text-align:left;"> 24 (2.1) </td>
-   <td style="text-align:left;"> 48 (3.7) </td>
-   <td style="text-align:left;"> 72 (2.9) </td>
+   <td style="text-align:left;"> <span style="     float:right;text-align: right;">&gt;=35 yrs</span> </td>
+   <td style="text-align:left;"> 32 (2.7) </td>
+   <td style="text-align:left;"> 70 (5.4) </td>
+   <td style="text-align:left;"> 102 (4.1) </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
@@ -809,6 +809,13 @@ Descriptives on raw data. <br />
    <td style="text-align:left;border-top:1px solid black;"> 0.4 (0.0) </td>
    <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
   </tr>
+  <tr>
+   <td style="text-align:left;border-top:1px solid black;"> CRP (mg/L): Median (IQ range) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.9 (2.5-9.1) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 3.4 (1.4-6.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> 4.0 (1.9-7.6) </td>
+   <td style="text-align:left;border-top:1px solid black;"> &lt;0.0001 </td>
+  </tr>
 </tbody>
 </table></div>
 
@@ -840,14 +847,14 @@ Descriptives on raw data. <br />
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> <span style="     float:right;text-align: right;">No</span> </td>
+   <td style="text-align:left;"> <span style="     float:right;text-align: right;">No MetS</span> </td>
    <td style="text-align:left;"> 952 (81.8) </td>
    <td style="text-align:left;"> 1100 (84.6) </td>
    <td style="text-align:left;"> 2052 (83.3) </td>
    <td style="text-align:left;">  </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> <span style="     float:right;text-align: right;">Yes</span> </td>
+   <td style="text-align:left;"> <span style="     float:right;text-align: right;">MetS</span> </td>
    <td style="text-align:left;"> 201 (17.3) </td>
    <td style="text-align:left;"> 108 (8.3) </td>
    <td style="text-align:left;"> 309 (12.5) </td>
@@ -8424,13 +8431,13 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 50.03 (39.09, 64.04) </td>
+   <td style="text-align:left;"> 50.12 (39.14, 64.20) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
-   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> Age_gp&gt;=35 yrs </td>
+   <td style="text-align:left;"> 1.28 (1.06, 1.54) </td>
+   <td style="text-align:left;"> 0.009 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
@@ -8443,9 +8450,9 @@ Multiple linear regression.
    <td style="text-align:left;"> 0.009 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
-   <td style="text-align:left;"> 0.97 (0.75, 1.26) </td>
-   <td style="text-align:left;"> 0.82 </td>
+   <td style="text-align:left;"> Age_gp&gt;=35 yrs:StudySTOP </td>
+   <td style="text-align:left;"> 0.97 (0.78, 1.22) </td>
+   <td style="text-align:left;"> 0.81 </td>
   </tr>
 </tbody>
 </table>
@@ -8466,40 +8473,40 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 37.78 </td>
-   <td style="text-align:right;"> 0.88 </td>
+   <td style="text-align:right;"> 37.79 </td>
+   <td style="text-align:right;"> 0.89 </td>
    <td style="text-align:right;"> 2327 </td>
    <td style="text-align:right;"> 36.09 </td>
-   <td style="text-align:right;"> 39.55 </td>
+   <td style="text-align:right;"> 39.57 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> &gt;=35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 53.37 </td>
-   <td style="text-align:right;"> 5.93 </td>
+   <td style="text-align:right;"> 48.47 </td>
+   <td style="text-align:right;"> 4.61 </td>
    <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 42.92 </td>
-   <td style="text-align:right;"> 66.36 </td>
+   <td style="text-align:right;"> 40.23 </td>
+   <td style="text-align:right;"> 58.40 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 44.12 </td>
-   <td style="text-align:right;"> 0.90 </td>
+   <td style="text-align:right;"> 44.09 </td>
+   <td style="text-align:right;"> 0.91 </td>
    <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 42.38 </td>
-   <td style="text-align:right;"> 45.92 </td>
+   <td style="text-align:right;"> 42.34 </td>
+   <td style="text-align:right;"> 45.91 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> &gt;=35 yrs </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 60.45 </td>
-   <td style="text-align:right;"> 4.59 </td>
+   <td style="text-align:right;"> 55.03 </td>
+   <td style="text-align:right;"> 3.48 </td>
    <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 52.08 </td>
-   <td style="text-align:right;"> 70.16 </td>
+   <td style="text-align:right;"> 48.62 </td>
+   <td style="text-align:right;"> 62.29 </td>
   </tr>
 </tbody>
 </table>
@@ -8519,28 +8526,28 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> Study: SCOPE </td>
-   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
-   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> 1.28 (1.06, 1.54) </td>
+   <td style="text-align:left;"> 0.009 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> Study: STOP </td>
-   <td style="text-align:left;"> 1.37 (1.18, 1.59) </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> 1.25 (1.10, 1.41) </td>
+   <td style="text-align:left;"> 0.0005 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
+   <td style="text-align:left;"> Maternal age (yrs): &lt;35 yrs </td>
    <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
-   <td style="text-align:left;"> 1.13 (0.87, 1.48) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 yrs </td>
+   <td style="text-align:left;"> 1.14 (0.90, 1.43) </td>
+   <td style="text-align:left;"> 0.3 </td>
   </tr>
 </tbody>
 </table>
@@ -8560,13 +8567,13 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 3.92 (2.27, 6.77) </td>
+   <td style="text-align:left;"> 3.93 (2.27, 6.78) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.24 (0.78, 1.97) </td>
-   <td style="text-align:left;"> 0.37 </td>
+   <td style="text-align:left;"> Age_gp&gt;=35 yrs </td>
+   <td style="text-align:left;"> 1.25 (0.82, 1.89) </td>
+   <td style="text-align:left;"> 0.29 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
@@ -8576,12 +8583,12 @@ Multiple linear regression.
   <tr>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:left;"> 1.01 (0.98, 1.05) </td>
-   <td style="text-align:left;"> 0.56 </td>
+   <td style="text-align:left;"> 0.57 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
-   <td style="text-align:left;"> 1.18 (0.67, 2.09) </td>
-   <td style="text-align:left;"> 0.57 </td>
+   <td style="text-align:left;"> Age_gp&gt;=35 yrs:StudySTOP </td>
+   <td style="text-align:left;"> 1.03 (0.63, 1.70) </td>
+   <td style="text-align:left;"> 0.90 </td>
   </tr>
 </tbody>
 </table>
@@ -8602,7 +8609,7 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> &lt;35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
    <td style="text-align:right;"> 4.49 </td>
    <td style="text-align:right;"> 0.24 </td>
@@ -8611,16 +8618,16 @@ Multiple linear regression.
    <td style="text-align:right;"> 4.98 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> &gt;=35 yrs </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 5.56 </td>
-   <td style="text-align:right;"> 1.33 </td>
+   <td style="text-align:right;"> 5.60 </td>
+   <td style="text-align:right;"> 1.19 </td>
    <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 3.48 </td>
-   <td style="text-align:right;"> 8.89 </td>
+   <td style="text-align:right;"> 3.70 </td>
+   <td style="text-align:right;"> 8.50 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> &lt;35 yrs </td>
    <td style="text-align:left;"> STOP </td>
    <td style="text-align:right;"> 2.90 </td>
    <td style="text-align:right;"> 0.13 </td>
@@ -8629,13 +8636,13 @@ Multiple linear regression.
    <td style="text-align:right;"> 3.17 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> &gt;=35 yrs </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 4.24 </td>
-   <td style="text-align:right;"> 0.70 </td>
+   <td style="text-align:right;"> 3.74 </td>
+   <td style="text-align:right;"> 0.51 </td>
    <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 3.07 </td>
-   <td style="text-align:right;"> 5.87 </td>
+   <td style="text-align:right;"> 2.85 </td>
+   <td style="text-align:right;"> 4.90 </td>
   </tr>
 </tbody>
 </table>
@@ -8655,28 +8662,28 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> Study: SCOPE </td>
-   <td style="text-align:left;"> 1.24 (0.78, 1.98) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> 1.25 (0.82, 1.89) </td>
+   <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
    <td style="text-align:left;"> Study: STOP </td>
-   <td style="text-align:left;"> 1.46 (1.06, 2.03) </td>
-   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> 1.29 (0.98, 1.69) </td>
+   <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
+   <td style="text-align:left;"> Maternal age (yrs): &lt;35 yrs </td>
    <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
-   <td style="text-align:left;"> 0.76 (0.43, 1.36) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 yrs </td>
+   <td style="text-align:left;"> 0.67 (0.40, 1.10) </td>
+   <td style="text-align:left;"> 0.1 </td>
   </tr>
 </tbody>
 </table>
@@ -8698,13 +8705,13 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 1211.47 (1071.54, 1369.67) </td>
+   <td style="text-align:left;"> 1212.71 (1072.62, 1371.10) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> Age_gp&gt;=35 yrs </td>
+   <td style="text-align:left;"> 1.08 (1.00, 1.17) </td>
+   <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
@@ -8729,20 +8736,20 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
-   <td style="text-align:right;"> 1390.65 </td>
-   <td style="text-align:right;"> 11.88 </td>
+   <td style="text-align:left;"> &lt;35 yrs </td>
+   <td style="text-align:right;"> 1390.06 </td>
+   <td style="text-align:right;"> 11.98 </td>
    <td style="text-align:right;"> 1187 </td>
-   <td style="text-align:right;"> 1367.54 </td>
-   <td style="text-align:right;"> 1414.16 </td>
+   <td style="text-align:right;"> 1366.76 </td>
+   <td style="text-align:right;"> 1413.76 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
-   <td style="text-align:right;"> 1537.95 </td>
-   <td style="text-align:right;"> 71.39 </td>
+   <td style="text-align:left;"> &gt;=35 yrs </td>
+   <td style="text-align:right;"> 1500.47 </td>
+   <td style="text-align:right;"> 57.12 </td>
    <td style="text-align:right;"> 1187 </td>
-   <td style="text-align:right;"> 1404.09 </td>
-   <td style="text-align:right;"> 1684.58 </td>
+   <td style="text-align:right;"> 1392.48 </td>
+   <td style="text-align:right;"> 1616.84 </td>
   </tr>
 </tbody>
 </table>
@@ -8761,9 +8768,9 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
-   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> &gt;=35 yrs / &lt;35 yrs </td>
+   <td style="text-align:left;"> 1.08 (1.00, 1.17) </td>
+   <td style="text-align:left;"> 0.05 </td>
   </tr>
 </tbody>
 </table>
@@ -10786,28 +10793,48 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 50.03 (39.09, 64.04) </td>
+   <td style="text-align:left;"> 42.98 (31.81, 58.08) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
-   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> BMI_gp3Normal </td>
+   <td style="text-align:left;"> 1.19 (1.00, 1.42) </td>
+   <td style="text-align:left;"> 0.06 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BMI_gp3Overweight </td>
+   <td style="text-align:left;"> 1.17 (0.97, 1.40) </td>
+   <td style="text-align:left;"> 0.10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BMI_gp3Obese </td>
+   <td style="text-align:left;"> 1.16 (0.97, 1.40) </td>
+   <td style="text-align:left;"> 0.10 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> 1.00 (0.77, 1.31) </td>
+   <td style="text-align:left;"> 0.98 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:left;"> 0.98 (0.96, 0.99) </td>
-   <td style="text-align:left;"> 0.009 </td>
+   <td style="text-align:left;"> 0.010 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
-   <td style="text-align:left;"> 0.97 (0.75, 1.26) </td>
-   <td style="text-align:left;"> 0.82 </td>
+   <td style="text-align:left;"> BMI_gp3Normal:StudySTOP </td>
+   <td style="text-align:left;"> 1.20 (0.92, 1.56) </td>
+   <td style="text-align:left;"> 0.18 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BMI_gp3Overweight:StudySTOP </td>
+   <td style="text-align:left;"> 1.17 (0.90, 1.53) </td>
+   <td style="text-align:left;"> 0.25 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BMI_gp3Obese:StudySTOP </td>
+   <td style="text-align:left;"> 1.14 (0.87, 1.49) </td>
+   <td style="text-align:left;"> 0.34 </td>
   </tr>
 </tbody>
 </table>
@@ -10817,7 +10844,7 @@ Multiple linear regression.
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> BMI_gp3 </th>
    <th style="text-align:left;"> Study </th>
    <th style="text-align:right;"> response </th>
    <th style="text-align:right;"> SE </th>
@@ -10828,40 +10855,76 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 37.78 </td>
-   <td style="text-align:right;"> 0.88 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 36.09 </td>
-   <td style="text-align:right;"> 39.55 </td>
+   <td style="text-align:right;"> 32.50 </td>
+   <td style="text-align:right;"> 2.91 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 27.26 </td>
+   <td style="text-align:right;"> 38.75 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> Normal </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 53.37 </td>
-   <td style="text-align:right;"> 5.93 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 42.92 </td>
-   <td style="text-align:right;"> 66.36 </td>
+   <td style="text-align:right;"> 38.70 </td>
+   <td style="text-align:right;"> 1.15 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 36.51 </td>
+   <td style="text-align:right;"> 41.01 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 44.12 </td>
-   <td style="text-align:right;"> 0.90 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 42.38 </td>
-   <td style="text-align:right;"> 45.92 </td>
+   <td style="text-align:left;"> Overweight </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 37.89 </td>
+   <td style="text-align:right;"> 1.29 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 35.46 </td>
+   <td style="text-align:right;"> 40.50 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> Obese </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 37.84 </td>
+   <td style="text-align:right;"> 1.31 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 35.36 </td>
+   <td style="text-align:right;"> 40.49 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Underweight </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 60.45 </td>
-   <td style="text-align:right;"> 4.59 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 52.08 </td>
-   <td style="text-align:right;"> 70.16 </td>
+   <td style="text-align:right;"> 32.63 </td>
+   <td style="text-align:right;"> 3.21 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 26.91 </td>
+   <td style="text-align:right;"> 39.58 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Normal </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 46.48 </td>
+   <td style="text-align:right;"> 1.24 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 44.11 </td>
+   <td style="text-align:right;"> 48.98 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Overweight </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 44.59 </td>
+   <td style="text-align:right;"> 1.35 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 42.01 </td>
+   <td style="text-align:right;"> 47.33 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 43.29 </td>
+   <td style="text-align:right;"> 1.29 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 40.84 </td>
+   <td style="text-align:right;"> 45.89 </td>
   </tr>
 </tbody>
 </table>
@@ -10881,28 +10944,100 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> Study: SCOPE </td>
-   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
+   <td style="text-align:left;"> 1.19 (0.94, 1.50) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Overweight / Underweight </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.17 (0.92, 1.48) </td>
+   <td style="text-align:left;"> 0.3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Overweight / Normal </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 0.98 (0.89, 1.08) </td>
+   <td style="text-align:left;"> 0.9 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Underweight </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.16 (0.92, 1.48) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Normal </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 0.98 (0.89, 1.08) </td>
+   <td style="text-align:left;"> 0.9 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Overweight </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.00 (0.90, 1.11) </td>
+   <td style="text-align:left;"> 1.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Normal / Underweight </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.42 (1.10, 1.84) </td>
    <td style="text-align:left;"> 0.002 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Overweight / Underweight </td>
    <td style="text-align:left;"> Study: STOP </td>
-   <td style="text-align:left;"> 1.37 (1.18, 1.59) </td>
+   <td style="text-align:left;"> 1.37 (1.05, 1.77) </td>
+   <td style="text-align:left;"> 0.01 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Overweight / Normal </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 0.96 (0.88, 1.05) </td>
+   <td style="text-align:left;"> 0.6 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Underweight </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.33 (1.02, 1.72) </td>
+   <td style="text-align:left;"> 0.03 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Normal </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 0.93 (0.85, 1.02) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Overweight </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 0.97 (0.88, 1.07) </td>
+   <td style="text-align:left;"> 0.9 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal BMI: Underweight </td>
+   <td style="text-align:left;"> 1.00 (0.77, 1.31) </td>
+   <td style="text-align:left;"> 1.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal BMI: Normal </td>
+   <td style="text-align:left;"> 1.20 (1.10, 1.31) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
-   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> Maternal BMI: Overweight </td>
+   <td style="text-align:left;"> 1.18 (1.07, 1.30) </td>
+   <td style="text-align:left;"> 0.001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
-   <td style="text-align:left;"> 1.13 (0.87, 1.48) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> Maternal BMI: Obese </td>
+   <td style="text-align:left;"> 1.14 (1.03, 1.26) </td>
+   <td style="text-align:left;"> 0.009 </td>
   </tr>
 </tbody>
 </table>
@@ -10922,28 +11057,48 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 3.92 (2.27, 6.77) </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> 1.80 (0.96, 3.38) </td>
+   <td style="text-align:left;"> 0.07 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.24 (0.78, 1.97) </td>
-   <td style="text-align:left;"> 0.37 </td>
+   <td style="text-align:left;"> BMI_gp3Normal </td>
+   <td style="text-align:left;"> 1.35 (0.92, 1.97) </td>
+   <td style="text-align:left;"> 0.12 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BMI_gp3Overweight </td>
+   <td style="text-align:left;"> 2.11 (1.43, 3.10) </td>
+   <td style="text-align:left;"> 0.0002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BMI_gp3Obese </td>
+   <td style="text-align:left;"> 3.72 (2.53, 5.47) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> 0.57 (0.33, 1.00) </td>
+   <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:left;"> 1.01 (0.98, 1.05) </td>
-   <td style="text-align:left;"> 0.56 </td>
+   <td style="text-align:left;"> 1.02 (0.98, 1.05) </td>
+   <td style="text-align:left;"> 0.33 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
-   <td style="text-align:left;"> 1.18 (0.67, 2.09) </td>
-   <td style="text-align:left;"> 0.57 </td>
+   <td style="text-align:left;"> BMI_gp3Normal:StudySTOP </td>
+   <td style="text-align:left;"> 1.26 (0.72, 2.21) </td>
+   <td style="text-align:left;"> 0.41 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BMI_gp3Overweight:StudySTOP </td>
+   <td style="text-align:left;"> 1.13 (0.64, 1.99) </td>
+   <td style="text-align:left;"> 0.67 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BMI_gp3Obese:StudySTOP </td>
+   <td style="text-align:left;"> 0.97 (0.55, 1.70) </td>
+   <td style="text-align:left;"> 0.90 </td>
   </tr>
 </tbody>
 </table>
@@ -10953,7 +11108,7 @@ Multiple linear regression.
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> BMI_gp3 </th>
    <th style="text-align:left;"> Study </th>
    <th style="text-align:right;"> response </th>
    <th style="text-align:right;"> SE </th>
@@ -10964,40 +11119,76 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> Underweight </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 4.49 </td>
-   <td style="text-align:right;"> 0.24 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 4.05 </td>
-   <td style="text-align:right;"> 4.98 </td>
+   <td style="text-align:right;"> 2.24 </td>
+   <td style="text-align:right;"> 0.43 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 1.54 </td>
+   <td style="text-align:right;"> 3.25 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> Normal </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 5.56 </td>
-   <td style="text-align:right;"> 1.33 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 3.48 </td>
-   <td style="text-align:right;"> 8.89 </td>
+   <td style="text-align:right;"> 3.02 </td>
+   <td style="text-align:right;"> 0.19 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 2.67 </td>
+   <td style="text-align:right;"> 3.41 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 2.90 </td>
-   <td style="text-align:right;"> 0.13 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 2.66 </td>
-   <td style="text-align:right;"> 3.17 </td>
+   <td style="text-align:left;"> Overweight </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 4.71 </td>
+   <td style="text-align:right;"> 0.34 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 4.10 </td>
+   <td style="text-align:right;"> 5.42 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> Obese </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 8.32 </td>
+   <td style="text-align:right;"> 0.61 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 7.21 </td>
+   <td style="text-align:right;"> 9.61 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Underweight </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 4.24 </td>
-   <td style="text-align:right;"> 0.70 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 3.07 </td>
-   <td style="text-align:right;"> 5.87 </td>
+   <td style="text-align:right;"> 1.28 </td>
+   <td style="text-align:right;"> 0.26 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 0.85 </td>
+   <td style="text-align:right;"> 1.92 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Normal </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 2.18 </td>
+   <td style="text-align:right;"> 0.12 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 1.96 </td>
+   <td style="text-align:right;"> 2.42 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Overweight </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 3.04 </td>
+   <td style="text-align:right;"> 0.19 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 2.70 </td>
+   <td style="text-align:right;"> 3.44 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 4.59 </td>
+   <td style="text-align:right;"> 0.28 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 4.07 </td>
+   <td style="text-align:right;"> 5.18 </td>
   </tr>
 </tbody>
 </table>
@@ -11017,28 +11208,100 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> Normal / Underweight </td>
    <td style="text-align:left;"> Study: SCOPE </td>
-   <td style="text-align:left;"> 1.24 (0.78, 1.98) </td>
+   <td style="text-align:left;"> 1.35 (0.82, 2.22) </td>
    <td style="text-align:left;"> 0.4 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
-   <td style="text-align:left;"> Study: STOP </td>
-   <td style="text-align:left;"> 1.46 (1.06, 2.03) </td>
-   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> Overweight / Underweight </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 2.11 (1.27, 3.49) </td>
+   <td style="text-align:left;"> 0.0009 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
-   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> Overweight / Normal </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.56 (1.27, 1.92) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Underweight </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 3.72 (2.24, 6.18) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Normal </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 2.76 (2.24, 3.40) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Overweight </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.77 (1.41, 2.21) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Normal / Underweight </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.70 (0.99, 2.92) </td>
+   <td style="text-align:left;"> 0.05 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Overweight / Underweight </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 2.38 (1.38, 4.10) </td>
+   <td style="text-align:left;"> 0.0002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Overweight / Normal </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.40 (1.16, 1.68) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Underweight </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 3.59 (2.09, 6.17) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Normal </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 2.11 (1.76, 2.53) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Overweight </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.51 (1.24, 1.83) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
-   <td style="text-align:left;"> 0.76 (0.43, 1.36) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> Maternal BMI: Underweight </td>
+   <td style="text-align:left;"> 0.57 (0.33, 1.00) </td>
+   <td style="text-align:left;"> 0.05 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal BMI: Normal </td>
+   <td style="text-align:left;"> 0.72 (0.60, 0.87) </td>
+   <td style="text-align:left;"> 0.0006 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal BMI: Overweight </td>
+   <td style="text-align:left;"> 0.65 (0.53, 0.79) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal BMI: Obese </td>
+   <td style="text-align:left;"> 0.55 (0.45, 0.68) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
 </tbody>
 </table>
@@ -11058,13 +11321,23 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 1211.47 (1071.54, 1369.67) </td>
+   <td style="text-align:left;"> 1087.49 (923.94, 1279.99) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> BMI_gp3Normal </td>
+   <td style="text-align:left;"> 1.11 (0.99, 1.24) </td>
+   <td style="text-align:left;"> 0.07 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BMI_gp3Overweight </td>
+   <td style="text-align:left;"> 1.11 (0.99, 1.24) </td>
+   <td style="text-align:left;"> 0.08 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> BMI_gp3Obese </td>
+   <td style="text-align:left;"> 1.14 (1.02, 1.28) </td>
+   <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
@@ -11079,7 +11352,7 @@ Multiple linear regression.
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> BMI_gp3 </th>
    <th style="text-align:right;"> response </th>
    <th style="text-align:right;"> SE </th>
    <th style="text-align:right;"> df </th>
@@ -11089,20 +11362,36 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
-   <td style="text-align:right;"> 1390.65 </td>
-   <td style="text-align:right;"> 11.88 </td>
-   <td style="text-align:right;"> 1187 </td>
-   <td style="text-align:right;"> 1367.54 </td>
-   <td style="text-align:right;"> 1414.16 </td>
+   <td style="text-align:left;"> Underweight </td>
+   <td style="text-align:right;"> 1248.75 </td>
+   <td style="text-align:right;"> 69.65 </td>
+   <td style="text-align:right;"> 1185 </td>
+   <td style="text-align:right;"> 1119.30 </td>
+   <td style="text-align:right;"> 1393.17 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
-   <td style="text-align:right;"> 1537.95 </td>
-   <td style="text-align:right;"> 71.39 </td>
-   <td style="text-align:right;"> 1187 </td>
-   <td style="text-align:right;"> 1404.09 </td>
-   <td style="text-align:right;"> 1684.58 </td>
+   <td style="text-align:left;"> Normal </td>
+   <td style="text-align:right;"> 1388.14 </td>
+   <td style="text-align:right;"> 18.84 </td>
+   <td style="text-align:right;"> 1185 </td>
+   <td style="text-align:right;"> 1351.67 </td>
+   <td style="text-align:right;"> 1425.60 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Overweight </td>
+   <td style="text-align:right;"> 1382.99 </td>
+   <td style="text-align:right;"> 21.71 </td>
+   <td style="text-align:right;"> 1185 </td>
+   <td style="text-align:right;"> 1341.04 </td>
+   <td style="text-align:right;"> 1426.26 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese </td>
+   <td style="text-align:right;"> 1427.37 </td>
+   <td style="text-align:right;"> 21.63 </td>
+   <td style="text-align:right;"> 1185 </td>
+   <td style="text-align:right;"> 1385.56 </td>
+   <td style="text-align:right;"> 1470.44 </td>
   </tr>
 </tbody>
 </table>
@@ -11121,9 +11410,34 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
-   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> Normal / Underweight </td>
+   <td style="text-align:left;"> 1.11 (0.96, 1.29) </td>
+   <td style="text-align:left;"> 0.3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Overweight / Underweight </td>
+   <td style="text-align:left;"> 1.11 (0.95, 1.29) </td>
+   <td style="text-align:left;"> 0.3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Overweight / Normal </td>
+   <td style="text-align:left;"> 1.00 (0.94, 1.05) </td>
+   <td style="text-align:left;"> 1.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Underweight </td>
+   <td style="text-align:left;"> 1.14 (0.99, 1.33) </td>
+   <td style="text-align:left;"> 0.10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Normal </td>
+   <td style="text-align:left;"> 1.03 (0.98, 1.08) </td>
+   <td style="text-align:left;"> 0.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Obese / Overweight </td>
+   <td style="text-align:left;"> 1.03 (0.98, 1.09) </td>
+   <td style="text-align:left;"> 0.5 </td>
   </tr>
 </tbody>
 </table>
@@ -13145,28 +13459,48 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 50.03 (39.09, 64.04) </td>
+   <td style="text-align:left;"> 50.50 (39.40, 64.72) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
-   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> Age_BMI_gp&lt;35y, obese </td>
+   <td style="text-align:left;"> 1.00 (0.93, 1.07) </td>
+   <td style="text-align:left;"> 0.90 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_BMI_gp&gt;=35y, non-obese </td>
+   <td style="text-align:left;"> 1.36 (1.08, 1.71) </td>
+   <td style="text-align:left;"> 0.009 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_BMI_gp&gt;=35y, obese </td>
+   <td style="text-align:left;"> 1.15 (0.84, 1.57) </td>
+   <td style="text-align:left;"> 0.39 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
+   <td style="text-align:left;"> 1.18 (1.09, 1.28) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:left;"> 0.98 (0.96, 0.99) </td>
-   <td style="text-align:left;"> 0.009 </td>
+   <td style="text-align:left;"> 0.008 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
-   <td style="text-align:left;"> 0.97 (0.75, 1.26) </td>
-   <td style="text-align:left;"> 0.82 </td>
+   <td style="text-align:left;"> Age_BMI_gp&lt;35y, obese:StudySTOP </td>
+   <td style="text-align:left;"> 0.95 (0.87, 1.04) </td>
+   <td style="text-align:left;"> 0.30 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_BMI_gp&gt;=35y, non-obese:StudySTOP </td>
+   <td style="text-align:left;"> 0.94 (0.70, 1.25) </td>
+   <td style="text-align:left;"> 0.65 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_BMI_gp&gt;=35y, obese:StudySTOP </td>
+   <td style="text-align:left;"> 1.04 (0.72, 1.48) </td>
+   <td style="text-align:left;"> 0.85 </td>
   </tr>
 </tbody>
 </table>
@@ -13176,7 +13510,7 @@ Multiple linear regression.
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> Age_BMI_gp </th>
    <th style="text-align:left;"> Study </th>
    <th style="text-align:right;"> response </th>
    <th style="text-align:right;"> SE </th>
@@ -13187,40 +13521,76 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> &lt;35y, non-obese </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 37.78 </td>
-   <td style="text-align:right;"> 0.88 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 36.09 </td>
-   <td style="text-align:right;"> 39.55 </td>
+   <td style="text-align:right;"> 37.87 </td>
+   <td style="text-align:right;"> 0.96 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 36.04 </td>
+   <td style="text-align:right;"> 39.79 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> &lt;35y, obese </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 53.37 </td>
-   <td style="text-align:right;"> 5.93 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 42.92 </td>
-   <td style="text-align:right;"> 66.36 </td>
+   <td style="text-align:right;"> 37.70 </td>
+   <td style="text-align:right;"> 1.32 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 35.20 </td>
+   <td style="text-align:right;"> 40.38 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 44.12 </td>
-   <td style="text-align:right;"> 0.90 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 42.38 </td>
-   <td style="text-align:right;"> 45.92 </td>
+   <td style="text-align:left;"> &gt;=35y, non-obese </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 51.39 </td>
+   <td style="text-align:right;"> 6.00 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 40.88 </td>
+   <td style="text-align:right;"> 64.60 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> &gt;=35y, obese </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 43.47 </td>
+   <td style="text-align:right;"> 6.97 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 31.74 </td>
+   <td style="text-align:right;"> 59.54 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35y, non-obese </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 60.45 </td>
-   <td style="text-align:right;"> 4.59 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 52.08 </td>
-   <td style="text-align:right;"> 70.16 </td>
+   <td style="text-align:right;"> 44.77 </td>
+   <td style="text-align:right;"> 1.01 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 42.83 </td>
+   <td style="text-align:right;"> 46.79 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35y, obese </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 42.42 </td>
+   <td style="text-align:right;"> 1.31 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 39.93 </td>
+   <td style="text-align:right;"> 45.06 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, non-obese </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 56.84 </td>
+   <td style="text-align:right;"> 5.03 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 47.79 </td>
+   <td style="text-align:right;"> 67.60 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 53.22 </td>
+   <td style="text-align:right;"> 4.72 </td>
+   <td style="text-align:right;"> 2323 </td>
+   <td style="text-align:right;"> 44.73 </td>
+   <td style="text-align:right;"> 63.32 </td>
   </tr>
 </tbody>
 </table>
@@ -13240,28 +13610,100 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> &lt;35y, obese / (&lt;35y, non-obese) </td>
    <td style="text-align:left;"> Study: SCOPE </td>
-   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
-   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> 1.00 (0.91, 1.09) </td>
+   <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> (&gt;=35y, non-obese) / (&lt;35y, non-obese) </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.36 (1.00, 1.83) </td>
+   <td style="text-align:left;"> 0.05 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> (&gt;=35y, non-obese) / &lt;35y, obese </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.36 (1.00, 1.85) </td>
+   <td style="text-align:left;"> 0.05 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / (&lt;35y, non-obese) </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.15 (0.76, 1.73) </td>
+   <td style="text-align:left;"> 0.8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / &lt;35y, obese </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.15 (0.76, 1.75) </td>
+   <td style="text-align:left;"> 0.8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / (&gt;=35y, non-obese) </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 0.85 (0.51, 1.40) </td>
+   <td style="text-align:left;"> 0.8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35y, obese / (&lt;35y, non-obese) </td>
    <td style="text-align:left;"> Study: STOP </td>
-   <td style="text-align:left;"> 1.37 (1.18, 1.59) </td>
+   <td style="text-align:left;"> 0.95 (0.87, 1.03) </td>
+   <td style="text-align:left;"> 0.3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> (&gt;=35y, non-obese) / (&lt;35y, non-obese) </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.27 (1.01, 1.60) </td>
+   <td style="text-align:left;"> 0.04 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> (&gt;=35y, non-obese) / &lt;35y, obese </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.34 (1.06, 1.70) </td>
+   <td style="text-align:left;"> 0.008 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / (&lt;35y, non-obese) </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.19 (0.94, 1.50) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / &lt;35y, obese </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.25 (0.99, 1.59) </td>
+   <td style="text-align:left;"> 0.06 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / (&gt;=35y, non-obese) </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 0.94 (0.68, 1.29) </td>
+   <td style="text-align:left;"> 1.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age, BMI: &lt;35y, non-obese </td>
+   <td style="text-align:left;"> 1.18 (1.09, 1.28) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
-   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> Maternal age, BMI: &lt;35y, obese </td>
+   <td style="text-align:left;"> 1.13 (1.02, 1.25) </td>
+   <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
-   <td style="text-align:left;"> 1.13 (0.87, 1.48) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> Maternal age, BMI: &gt;=35y, non-obese </td>
+   <td style="text-align:left;"> 1.11 (0.83, 1.48) </td>
+   <td style="text-align:left;"> 0.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age, BMI: &gt;=35y, obese </td>
+   <td style="text-align:left;"> 1.22 (0.85, 1.76) </td>
+   <td style="text-align:left;"> 0.3 </td>
   </tr>
 </tbody>
 </table>
@@ -13281,28 +13723,48 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 3.92 (2.27, 6.77) </td>
+   <td style="text-align:left;"> 2.91 (1.72, 4.91) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.24 (0.78, 1.97) </td>
-   <td style="text-align:left;"> 0.37 </td>
+   <td style="text-align:left;"> Age_BMI_gp&lt;35y, obese </td>
+   <td style="text-align:left;"> 2.33 (2.01, 2.71) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_BMI_gp&gt;=35y, non-obese </td>
+   <td style="text-align:left;"> 1.11 (0.69, 1.79) </td>
+   <td style="text-align:left;"> 0.67 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_BMI_gp&gt;=35y, obese </td>
+   <td style="text-align:left;"> 3.24 (1.62, 6.48) </td>
+   <td style="text-align:left;"> 0.0009 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> 0.69 (0.58, 0.81) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:left;"> 1.01 (0.98, 1.05) </td>
-   <td style="text-align:left;"> 0.56 </td>
+   <td style="text-align:left;"> 1.02 (0.98, 1.05) </td>
+   <td style="text-align:left;"> 0.38 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
-   <td style="text-align:left;"> 1.18 (0.67, 2.09) </td>
-   <td style="text-align:left;"> 0.57 </td>
+   <td style="text-align:left;"> Age_BMI_gp&lt;35y, obese:StudySTOP </td>
+   <td style="text-align:left;"> 0.79 (0.65, 0.96) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_BMI_gp&gt;=35y, non-obese:StudySTOP </td>
+   <td style="text-align:left;"> 0.97 (0.53, 1.77) </td>
+   <td style="text-align:left;"> 0.92 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_BMI_gp&gt;=35y, obese:StudySTOP </td>
+   <td style="text-align:left;"> 0.71 (0.32, 1.55) </td>
+   <td style="text-align:left;"> 0.39 </td>
   </tr>
 </tbody>
 </table>
@@ -13312,7 +13774,7 @@ Multiple linear regression.
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> Age_BMI_gp </th>
    <th style="text-align:left;"> Study </th>
    <th style="text-align:right;"> response </th>
    <th style="text-align:right;"> SE </th>
@@ -13323,40 +13785,76 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> &lt;35y, non-obese </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 4.49 </td>
-   <td style="text-align:right;"> 0.24 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 4.05 </td>
-   <td style="text-align:right;"> 4.98 </td>
+   <td style="text-align:right;"> 3.55 </td>
+   <td style="text-align:right;"> 0.19 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 3.19 </td>
+   <td style="text-align:right;"> 3.94 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> &lt;35y, obese </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 5.56 </td>
-   <td style="text-align:right;"> 1.33 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 3.48 </td>
-   <td style="text-align:right;"> 8.89 </td>
+   <td style="text-align:right;"> 8.26 </td>
+   <td style="text-align:right;"> 0.62 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 7.12 </td>
+   <td style="text-align:right;"> 9.58 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 2.90 </td>
-   <td style="text-align:right;"> 0.13 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 2.66 </td>
-   <td style="text-align:right;"> 3.17 </td>
+   <td style="text-align:left;"> &gt;=35y, non-obese </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 3.93 </td>
+   <td style="text-align:right;"> 0.96 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 2.43 </td>
+   <td style="text-align:right;"> 6.35 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> &gt;=35y, obese </td>
+   <td style="text-align:left;"> SCOPE </td>
+   <td style="text-align:right;"> 11.47 </td>
+   <td style="text-align:right;"> 4.07 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 5.73 </td>
+   <td style="text-align:right;"> 22.98 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35y, non-obese </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 4.24 </td>
-   <td style="text-align:right;"> 0.70 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 3.07 </td>
-   <td style="text-align:right;"> 5.87 </td>
+   <td style="text-align:right;"> 2.44 </td>
+   <td style="text-align:right;"> 0.11 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 2.23 </td>
+   <td style="text-align:right;"> 2.68 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35y, obese </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 4.50 </td>
+   <td style="text-align:right;"> 0.29 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 3.96 </td>
+   <td style="text-align:right;"> 5.10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, non-obese </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 2.63 </td>
+   <td style="text-align:right;"> 0.47 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 1.85 </td>
+   <td style="text-align:right;"> 3.74 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 5.58 </td>
+   <td style="text-align:right;"> 1.05 </td>
+   <td style="text-align:right;"> 2272 </td>
+   <td style="text-align:right;"> 3.86 </td>
+   <td style="text-align:right;"> 8.09 </td>
   </tr>
 </tbody>
 </table>
@@ -13376,28 +13874,100 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> &lt;35y, obese / (&lt;35y, non-obese) </td>
    <td style="text-align:left;"> Study: SCOPE </td>
-   <td style="text-align:left;"> 1.24 (0.78, 1.98) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> 2.33 (1.92, 2.83) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> (&gt;=35y, non-obese) / (&lt;35y, non-obese) </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.11 (0.59, 2.08) </td>
+   <td style="text-align:left;"> 1.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> (&gt;=35y, non-obese) / &lt;35y, obese </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 0.48 (0.25, 0.91) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / (&lt;35y, non-obese) </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 3.24 (1.30, 8.04) </td>
+   <td style="text-align:left;"> 0.005 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / &lt;35y, obese </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 1.39 (0.55, 3.49) </td>
+   <td style="text-align:left;"> 0.8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / (&gt;=35y, non-obese) </td>
+   <td style="text-align:left;"> Study: SCOPE </td>
+   <td style="text-align:left;"> 2.92 (0.97, 8.76) </td>
+   <td style="text-align:left;"> 0.06 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;35y, obese / (&lt;35y, non-obese) </td>
    <td style="text-align:left;"> Study: STOP </td>
-   <td style="text-align:left;"> 1.46 (1.06, 2.03) </td>
+   <td style="text-align:left;"> 1.84 (1.55, 2.19) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> (&gt;=35y, non-obese) / (&lt;35y, non-obese) </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.08 (0.67, 1.72) </td>
+   <td style="text-align:left;"> 1.0 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> (&gt;=35y, non-obese) / &lt;35y, obese </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 0.58 (0.36, 0.95) </td>
+   <td style="text-align:left;"> 0.02 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / (&lt;35y, non-obese) </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 2.29 (1.40, 3.73) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / &lt;35y, obese </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 1.24 (0.75, 2.05) </td>
+   <td style="text-align:left;"> 0.7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / (&gt;=35y, non-obese) </td>
+   <td style="text-align:left;"> Study: STOP </td>
+   <td style="text-align:left;"> 2.12 (1.09, 4.13) </td>
    <td style="text-align:left;"> 0.02 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
-   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> Maternal age, BMI: &lt;35y, non-obese </td>
+   <td style="text-align:left;"> 0.69 (0.58, 0.81) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
-   <td style="text-align:left;"> 0.76 (0.43, 1.36) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> Maternal age, BMI: &lt;35y, obese </td>
+   <td style="text-align:left;"> 0.54 (0.44, 0.68) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age, BMI: &gt;=35y, non-obese </td>
+   <td style="text-align:left;"> 0.67 (0.37, 1.22) </td>
+   <td style="text-align:left;"> 0.2 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Maternal age, BMI: &gt;=35y, obese </td>
+   <td style="text-align:left;"> 0.49 (0.22, 1.08) </td>
+   <td style="text-align:left;"> 0.08 </td>
   </tr>
 </tbody>
 </table>
@@ -13417,18 +13987,28 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 1211.47 (1071.54, 1369.67) </td>
+   <td style="text-align:left;"> 1198.36 (1059.08, 1355.96) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> Age_BMI_gp&lt;35y, obese </td>
+   <td style="text-align:left;"> 1.03 (0.99, 1.07) </td>
+   <td style="text-align:left;"> 0.10 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_BMI_gp&gt;=35y, non-obese </td>
+   <td style="text-align:left;"> 1.08 (0.97, 1.21) </td>
+   <td style="text-align:left;"> 0.14 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> Age_BMI_gp&gt;=35y, obese </td>
+   <td style="text-align:left;"> 1.09 (0.98, 1.22) </td>
+   <td style="text-align:left;"> 0.10 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:left;"> 1.01 (1.00, 1.02) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> 0.02 </td>
   </tr>
 </tbody>
 </table>
@@ -13438,7 +14018,7 @@ Multiple linear regression.
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> Age_BMI_gp </th>
    <th style="text-align:right;"> response </th>
    <th style="text-align:right;"> SE </th>
    <th style="text-align:right;"> df </th>
@@ -13448,20 +14028,36 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
-   <td style="text-align:right;"> 1390.65 </td>
-   <td style="text-align:right;"> 11.88 </td>
-   <td style="text-align:right;"> 1187 </td>
-   <td style="text-align:right;"> 1367.54 </td>
-   <td style="text-align:right;"> 1414.16 </td>
+   <td style="text-align:left;"> &lt;35y, non-obese </td>
+   <td style="text-align:right;"> 1377.40 </td>
+   <td style="text-align:right;"> 14.15 </td>
+   <td style="text-align:right;"> 1185 </td>
+   <td style="text-align:right;"> 1349.91 </td>
+   <td style="text-align:right;"> 1405.45 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
-   <td style="text-align:right;"> 1537.95 </td>
-   <td style="text-align:right;"> 71.39 </td>
-   <td style="text-align:right;"> 1187 </td>
-   <td style="text-align:right;"> 1404.09 </td>
-   <td style="text-align:right;"> 1684.58 </td>
+   <td style="text-align:left;"> &lt;35y, obese </td>
+   <td style="text-align:right;"> 1420.52 </td>
+   <td style="text-align:right;"> 22.47 </td>
+   <td style="text-align:right;"> 1185 </td>
+   <td style="text-align:right;"> 1377.12 </td>
+   <td style="text-align:right;"> 1465.29 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, non-obese </td>
+   <td style="text-align:right;"> 1494.07 </td>
+   <td style="text-align:right;"> 81.84 </td>
+   <td style="text-align:right;"> 1185 </td>
+   <td style="text-align:right;"> 1341.83 </td>
+   <td style="text-align:right;"> 1663.59 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese </td>
+   <td style="text-align:right;"> 1506.48 </td>
+   <td style="text-align:right;"> 79.72 </td>
+   <td style="text-align:right;"> 1185 </td>
+   <td style="text-align:right;"> 1357.91 </td>
+   <td style="text-align:right;"> 1671.30 </td>
   </tr>
 </tbody>
 </table>
@@ -13480,9 +14076,34 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
-   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> &lt;35y, obese / (&lt;35y, non-obese) </td>
+   <td style="text-align:left;"> 1.03 (0.98, 1.08) </td>
+   <td style="text-align:left;"> 0.4 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> (&gt;=35y, non-obese) / (&lt;35y, non-obese) </td>
+   <td style="text-align:left;"> 1.08 (0.94, 1.25) </td>
+   <td style="text-align:left;"> 0.5 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> (&gt;=35y, non-obese) / &lt;35y, obese </td>
+   <td style="text-align:left;"> 1.05 (0.91, 1.22) </td>
+   <td style="text-align:left;"> 0.8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / (&lt;35y, non-obese) </td>
+   <td style="text-align:left;"> 1.09 (0.95, 1.26) </td>
+   <td style="text-align:left;"> 0.3 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / &lt;35y, obese </td>
+   <td style="text-align:left;"> 1.06 (0.92, 1.22) </td>
+   <td style="text-align:left;"> 0.7 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;=35y, obese / (&gt;=35y, non-obese) </td>
+   <td style="text-align:left;"> 1.01 (0.83, 1.23) </td>
+   <td style="text-align:left;"> 1.0 </td>
   </tr>
 </tbody>
 </table>
@@ -14650,28 +15271,28 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 50.03 (39.09, 64.04) </td>
+   <td style="text-align:left;"> 53.49 (40.84, 70.06) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
-   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> metab.C1MetS </td>
+   <td style="text-align:left;"> 0.96 (0.89, 1.04) </td>
+   <td style="text-align:left;"> 0.34 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> 1.15 (1.06, 1.25) </td>
+   <td style="text-align:left;"> 0.0010 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:left;"> 0.98 (0.96, 0.99) </td>
-   <td style="text-align:left;"> 0.009 </td>
+   <td style="text-align:left;"> 0.006 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
-   <td style="text-align:left;"> 0.97 (0.75, 1.26) </td>
-   <td style="text-align:left;"> 0.82 </td>
+   <td style="text-align:left;"> metab.C1MetS:StudySTOP </td>
+   <td style="text-align:left;"> 0.94 (0.83, 1.07) </td>
+   <td style="text-align:left;"> 0.35 </td>
   </tr>
 </tbody>
 </table>
@@ -14681,7 +15302,7 @@ Multiple linear regression.
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> metab.C1 </th>
    <th style="text-align:left;"> Study </th>
    <th style="text-align:right;"> response </th>
    <th style="text-align:right;"> SE </th>
@@ -14692,40 +15313,40 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 37.78 </td>
-   <td style="text-align:right;"> 0.88 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 36.09 </td>
-   <td style="text-align:right;"> 39.55 </td>
+   <td style="text-align:right;"> 38.63 </td>
+   <td style="text-align:right;"> 0.99 </td>
+   <td style="text-align:right;"> 2242 </td>
+   <td style="text-align:right;"> 36.74 </td>
+   <td style="text-align:right;"> 40.62 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> MetS </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 53.37 </td>
-   <td style="text-align:right;"> 5.93 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 42.92 </td>
-   <td style="text-align:right;"> 66.36 </td>
+   <td style="text-align:right;"> 37.13 </td>
+   <td style="text-align:right;"> 1.58 </td>
+   <td style="text-align:right;"> 2242 </td>
+   <td style="text-align:right;"> 34.15 </td>
+   <td style="text-align:right;"> 40.36 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> No MetS </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 44.12 </td>
-   <td style="text-align:right;"> 0.90 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 42.38 </td>
-   <td style="text-align:right;"> 45.92 </td>
+   <td style="text-align:right;"> 44.46 </td>
+   <td style="text-align:right;"> 1.01 </td>
+   <td style="text-align:right;"> 2242 </td>
+   <td style="text-align:right;"> 42.53 </td>
+   <td style="text-align:right;"> 46.48 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> MetS </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 60.45 </td>
-   <td style="text-align:right;"> 4.59 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 52.08 </td>
-   <td style="text-align:right;"> 70.16 </td>
+   <td style="text-align:right;"> 40.15 </td>
+   <td style="text-align:right;"> 2.10 </td>
+   <td style="text-align:right;"> 2242 </td>
+   <td style="text-align:right;"> 36.23 </td>
+   <td style="text-align:right;"> 44.50 </td>
   </tr>
 </tbody>
 </table>
@@ -14745,28 +15366,28 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> Study: SCOPE </td>
-   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
-   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> 0.96 (0.89, 1.04) </td>
+   <td style="text-align:left;"> 0.3 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> Study: STOP </td>
-   <td style="text-align:left;"> 1.37 (1.18, 1.59) </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> 0.90 (0.82, 1.00) </td>
+   <td style="text-align:left;"> 0.05 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
-   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
+   <td style="text-align:left;"> MetS: No MetS </td>
+   <td style="text-align:left;"> 1.15 (1.06, 1.25) </td>
+   <td style="text-align:left;"> 0.0010 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
-   <td style="text-align:left;"> 1.13 (0.87, 1.48) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> MetS: MetS </td>
+   <td style="text-align:left;"> 1.08 (0.94, 1.25) </td>
+   <td style="text-align:left;"> 0.3 </td>
   </tr>
 </tbody>
 </table>
@@ -14786,28 +15407,28 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 3.92 (2.27, 6.77) </td>
+   <td style="text-align:left;"> 3.06 (1.71, 5.49) </td>
+   <td style="text-align:left;"> 0.0002 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> metab.C1MetS </td>
+   <td style="text-align:left;"> 1.47 (1.23, 1.76) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.24 (0.78, 1.97) </td>
-   <td style="text-align:left;"> 0.37 </td>
-  </tr>
-  <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> 0.69 (0.57, 0.82) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:left;"> 1.01 (0.98, 1.05) </td>
-   <td style="text-align:left;"> 0.56 </td>
+   <td style="text-align:left;"> 1.02 (0.98, 1.06) </td>
+   <td style="text-align:left;"> 0.25 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
-   <td style="text-align:left;"> 1.18 (0.67, 2.09) </td>
-   <td style="text-align:left;"> 0.57 </td>
+   <td style="text-align:left;"> metab.C1MetS:StudySTOP </td>
+   <td style="text-align:left;"> 1.44 (1.09, 1.91) </td>
+   <td style="text-align:left;"> 0.01 </td>
   </tr>
 </tbody>
 </table>
@@ -14817,7 +15438,7 @@ Multiple linear regression.
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> metab.C1 </th>
    <th style="text-align:left;"> Study </th>
    <th style="text-align:right;"> response </th>
    <th style="text-align:right;"> SE </th>
@@ -14828,40 +15449,40 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> No MetS </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 4.49 </td>
-   <td style="text-align:right;"> 0.24 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 4.05 </td>
-   <td style="text-align:right;"> 4.98 </td>
+   <td style="text-align:right;"> 4.11 </td>
+   <td style="text-align:right;"> 0.23 </td>
+   <td style="text-align:right;"> 2192 </td>
+   <td style="text-align:right;"> 3.67 </td>
+   <td style="text-align:right;"> 4.59 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> MetS </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 5.56 </td>
-   <td style="text-align:right;"> 1.33 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 3.48 </td>
-   <td style="text-align:right;"> 8.89 </td>
+   <td style="text-align:right;"> 6.05 </td>
+   <td style="text-align:right;"> 0.56 </td>
+   <td style="text-align:right;"> 2192 </td>
+   <td style="text-align:right;"> 5.04 </td>
+   <td style="text-align:right;"> 7.26 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> No MetS </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 2.90 </td>
-   <td style="text-align:right;"> 0.13 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 2.66 </td>
-   <td style="text-align:right;"> 3.17 </td>
+   <td style="text-align:right;"> 2.82 </td>
+   <td style="text-align:right;"> 0.14 </td>
+   <td style="text-align:right;"> 2192 </td>
+   <td style="text-align:right;"> 2.57 </td>
+   <td style="text-align:right;"> 3.10 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> MetS </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 4.24 </td>
-   <td style="text-align:right;"> 0.70 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 3.07 </td>
-   <td style="text-align:right;"> 5.87 </td>
+   <td style="text-align:right;"> 6.00 </td>
+   <td style="text-align:right;"> 0.68 </td>
+   <td style="text-align:right;"> 2192 </td>
+   <td style="text-align:right;"> 4.81 </td>
+   <td style="text-align:right;"> 7.49 </td>
   </tr>
 </tbody>
 </table>
@@ -14881,28 +15502,28 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> Study: SCOPE </td>
-   <td style="text-align:left;"> 1.24 (0.78, 1.98) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> 1.47 (1.23, 1.76) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> MetS / No MetS </td>
    <td style="text-align:left;"> Study: STOP </td>
-   <td style="text-align:left;"> 1.46 (1.06, 2.03) </td>
-   <td style="text-align:left;"> 0.02 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
-   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> 2.13 (1.71, 2.65) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
-   <td style="text-align:left;"> 0.76 (0.43, 1.36) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> MetS: No MetS </td>
+   <td style="text-align:left;"> 0.69 (0.57, 0.82) </td>
+   <td style="text-align:left;"> &lt;0.0001 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> MetS: MetS </td>
+   <td style="text-align:left;"> 0.99 (0.73, 1.35) </td>
+   <td style="text-align:left;"> 1.0 </td>
   </tr>
 </tbody>
 </table>
@@ -14922,18 +15543,18 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 1211.47 (1071.54, 1369.67) </td>
+   <td style="text-align:left;"> 1128.58 (1006.25, 1265.80) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> metab.C1MetS </td>
+   <td style="text-align:left;"> 1.01 (0.96, 1.07) </td>
+   <td style="text-align:left;"> 0.67 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:left;"> 1.01 (1.00, 1.02) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> 1.02 (1.01, 1.03) </td>
+   <td style="text-align:left;"> 0.0003 </td>
   </tr>
 </tbody>
 </table>
@@ -14943,7 +15564,7 @@ Multiple linear regression.
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> metab.C1 </th>
    <th style="text-align:right;"> response </th>
    <th style="text-align:right;"> SE </th>
    <th style="text-align:right;"> df </th>
@@ -14953,20 +15574,20 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
-   <td style="text-align:right;"> 1390.65 </td>
-   <td style="text-align:right;"> 11.88 </td>
-   <td style="text-align:right;"> 1187 </td>
-   <td style="text-align:right;"> 1367.54 </td>
-   <td style="text-align:right;"> 1414.16 </td>
+   <td style="text-align:left;"> No MetS </td>
+   <td style="text-align:right;"> 1395.27 </td>
+   <td style="text-align:right;"> 11.43 </td>
+   <td style="text-align:right;"> 1160 </td>
+   <td style="text-align:right;"> 1373.02 </td>
+   <td style="text-align:right;"> 1417.88 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
-   <td style="text-align:right;"> 1537.95 </td>
-   <td style="text-align:right;"> 71.39 </td>
-   <td style="text-align:right;"> 1187 </td>
-   <td style="text-align:right;"> 1404.09 </td>
-   <td style="text-align:right;"> 1684.58 </td>
+   <td style="text-align:left;"> MetS </td>
+   <td style="text-align:right;"> 1411.50 </td>
+   <td style="text-align:right;"> 37.12 </td>
+   <td style="text-align:right;"> 1160 </td>
+   <td style="text-align:right;"> 1340.53 </td>
+   <td style="text-align:right;"> 1486.23 </td>
   </tr>
 </tbody>
 </table>
@@ -14985,9 +15606,9 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
-   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> MetS / No MetS </td>
+   <td style="text-align:left;"> 1.01 (0.96, 1.07) </td>
+   <td style="text-align:left;"> 0.7 </td>
   </tr>
 </tbody>
 </table>
@@ -16155,28 +16776,28 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 50.03 (39.09, 64.04) </td>
+   <td style="text-align:left;"> 49.88 (38.83, 64.08) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
-   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> BW_gp&gt;90th centile </td>
+   <td style="text-align:left;"> 1.00 (0.90, 1.11) </td>
+   <td style="text-align:left;"> 0.98 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
+   <td style="text-align:left;"> 1.18 (1.09, 1.27) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
-   <td style="text-align:left;"> 0.98 (0.96, 0.99) </td>
-   <td style="text-align:left;"> 0.009 </td>
+   <td style="text-align:left;"> 0.98 (0.96, 1.00) </td>
+   <td style="text-align:left;"> 0.01 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
-   <td style="text-align:left;"> 0.97 (0.75, 1.26) </td>
-   <td style="text-align:left;"> 0.82 </td>
+   <td style="text-align:left;"> BW_gp&gt;90th centile:StudySTOP </td>
+   <td style="text-align:left;"> 0.99 (0.86, 1.14) </td>
+   <td style="text-align:left;"> 0.87 </td>
   </tr>
 </tbody>
 </table>
@@ -16186,7 +16807,7 @@ Multiple linear regression.
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> BW_gp </th>
    <th style="text-align:left;"> Study </th>
    <th style="text-align:right;"> response </th>
    <th style="text-align:right;"> SE </th>
@@ -16197,40 +16818,40 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 37.78 </td>
-   <td style="text-align:right;"> 0.88 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 36.09 </td>
-   <td style="text-align:right;"> 39.55 </td>
+   <td style="text-align:right;"> 37.95 </td>
+   <td style="text-align:right;"> 0.91 </td>
+   <td style="text-align:right;"> 2300 </td>
+   <td style="text-align:right;"> 36.21 </td>
+   <td style="text-align:right;"> 39.78 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> &gt;90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 53.37 </td>
-   <td style="text-align:right;"> 5.93 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 42.92 </td>
-   <td style="text-align:right;"> 66.36 </td>
+   <td style="text-align:right;"> 37.90 </td>
+   <td style="text-align:right;"> 2.10 </td>
+   <td style="text-align:right;"> 2300 </td>
+   <td style="text-align:right;"> 34.00 </td>
+   <td style="text-align:right;"> 42.24 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> &lt;=90th centile </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 44.12 </td>
-   <td style="text-align:right;"> 0.90 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 42.38 </td>
-   <td style="text-align:right;"> 45.92 </td>
+   <td style="text-align:right;"> 44.72 </td>
+   <td style="text-align:right;"> 0.95 </td>
+   <td style="text-align:right;"> 2300 </td>
+   <td style="text-align:right;"> 42.90 </td>
+   <td style="text-align:right;"> 46.61 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> &gt;90th centile </td>
    <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 60.45 </td>
-   <td style="text-align:right;"> 4.59 </td>
-   <td style="text-align:right;"> 2327 </td>
-   <td style="text-align:right;"> 52.08 </td>
-   <td style="text-align:right;"> 70.16 </td>
+   <td style="text-align:right;"> 44.14 </td>
+   <td style="text-align:right;"> 2.06 </td>
+   <td style="text-align:right;"> 2300 </td>
+   <td style="text-align:right;"> 40.28 </td>
+   <td style="text-align:right;"> 48.37 </td>
   </tr>
 </tbody>
 </table>
@@ -16250,28 +16871,28 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> Study: SCOPE </td>
-   <td style="text-align:left;"> 1.41 (1.14, 1.76) </td>
-   <td style="text-align:left;"> 0.002 </td>
+   <td style="text-align:left;"> 1.00 (0.90, 1.11) </td>
+   <td style="text-align:left;"> 1.0 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> Study: STOP </td>
-   <td style="text-align:left;"> 1.37 (1.18, 1.59) </td>
+   <td style="text-align:left;"> 0.99 (0.90, 1.08) </td>
+   <td style="text-align:left;"> 0.8 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> STOP / SCOPE </td>
+   <td style="text-align:left;"> Birthweight centile: &lt;=90th centile </td>
+   <td style="text-align:left;"> 1.18 (1.09, 1.27) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
-   <td style="text-align:left;"> 1.17 (1.08, 1.26) </td>
-   <td style="text-align:left;"> &lt;0.0001 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
-   <td style="text-align:left;"> 1.13 (0.87, 1.48) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> Birthweight centile: &gt;90th centile </td>
+   <td style="text-align:left;"> 1.16 (1.00, 1.35) </td>
+   <td style="text-align:left;"> 0.04 </td>
   </tr>
 </tbody>
 </table>
@@ -16291,28 +16912,28 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 3.92 (2.27, 6.77) </td>
+   <td style="text-align:left;"> 3.84 (2.21, 6.66) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.24 (0.78, 1.97) </td>
-   <td style="text-align:left;"> 0.37 </td>
+   <td style="text-align:left;"> BW_gp&gt;90th centile </td>
+   <td style="text-align:left;"> 0.98 (0.77, 1.24) </td>
+   <td style="text-align:left;"> 0.85 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> StudySTOP </td>
-   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> 0.66 (0.55, 0.78) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:left;"> 1.01 (0.98, 1.05) </td>
-   <td style="text-align:left;"> 0.56 </td>
+   <td style="text-align:left;"> 0.50 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35:StudySTOP </td>
-   <td style="text-align:left;"> 1.18 (0.67, 2.09) </td>
-   <td style="text-align:left;"> 0.57 </td>
+   <td style="text-align:left;"> BW_gp&gt;90th centile:StudySTOP </td>
+   <td style="text-align:left;"> 0.99 (0.72, 1.35) </td>
+   <td style="text-align:left;"> 0.93 </td>
   </tr>
 </tbody>
 </table>
@@ -16322,7 +16943,7 @@ Multiple linear regression.
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> BW_gp </th>
    <th style="text-align:left;"> Study </th>
    <th style="text-align:right;"> response </th>
    <th style="text-align:right;"> SE </th>
@@ -16333,40 +16954,40 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
+   <td style="text-align:left;"> &lt;=90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 4.49 </td>
+   <td style="text-align:right;"> 4.50 </td>
    <td style="text-align:right;"> 0.24 </td>
-   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 2254 </td>
    <td style="text-align:right;"> 4.05 </td>
-   <td style="text-align:right;"> 4.98 </td>
+   <td style="text-align:right;"> 5.00 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
+   <td style="text-align:left;"> &gt;90th centile </td>
    <td style="text-align:left;"> SCOPE </td>
-   <td style="text-align:right;"> 5.56 </td>
-   <td style="text-align:right;"> 1.33 </td>
-   <td style="text-align:right;"> 2276 </td>
+   <td style="text-align:right;"> 4.40 </td>
+   <td style="text-align:right;"> 0.54 </td>
+   <td style="text-align:right;"> 2254 </td>
+   <td style="text-align:right;"> 3.45 </td>
+   <td style="text-align:right;"> 5.61 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &lt;=90th centile </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 2.96 </td>
+   <td style="text-align:right;"> 0.14 </td>
+   <td style="text-align:right;"> 2254 </td>
+   <td style="text-align:right;"> 2.70 </td>
+   <td style="text-align:right;"> 3.24 </td>
+  </tr>
+  <tr>
+   <td style="text-align:left;"> &gt;90th centile </td>
+   <td style="text-align:left;"> STOP </td>
+   <td style="text-align:right;"> 2.85 </td>
+   <td style="text-align:right;"> 0.29 </td>
+   <td style="text-align:right;"> 2254 </td>
+   <td style="text-align:right;"> 2.33 </td>
    <td style="text-align:right;"> 3.48 </td>
-   <td style="text-align:right;"> 8.89 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> &lt;35 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 2.90 </td>
-   <td style="text-align:right;"> 0.13 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 2.66 </td>
-   <td style="text-align:right;"> 3.17 </td>
-  </tr>
-  <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
-   <td style="text-align:left;"> STOP </td>
-   <td style="text-align:right;"> 4.24 </td>
-   <td style="text-align:right;"> 0.70 </td>
-   <td style="text-align:right;"> 2276 </td>
-   <td style="text-align:right;"> 3.07 </td>
-   <td style="text-align:right;"> 5.87 </td>
   </tr>
 </tbody>
 </table>
@@ -16386,28 +17007,28 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> Study: SCOPE </td>
-   <td style="text-align:left;"> 1.24 (0.78, 1.98) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> 0.98 (0.77, 1.24) </td>
+   <td style="text-align:left;"> 0.8 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
+   <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
    <td style="text-align:left;"> Study: STOP </td>
-   <td style="text-align:left;"> 1.46 (1.06, 2.03) </td>
-   <td style="text-align:left;"> 0.02 </td>
+   <td style="text-align:left;"> 0.96 (0.79, 1.18) </td>
+   <td style="text-align:left;"> 0.7 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &lt;35 </td>
-   <td style="text-align:left;"> 0.65 (0.55, 0.76) </td>
+   <td style="text-align:left;"> Birthweight centile: &lt;=90th centile </td>
+   <td style="text-align:left;"> 0.66 (0.55, 0.78) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> STOP / SCOPE </td>
-   <td style="text-align:left;"> Maternal age (yrs): &gt;=35 </td>
-   <td style="text-align:left;"> 0.76 (0.43, 1.36) </td>
-   <td style="text-align:left;"> 0.4 </td>
+   <td style="text-align:left;"> Birthweight centile: &gt;90th centile </td>
+   <td style="text-align:left;"> 0.65 (0.47, 0.90) </td>
+   <td style="text-align:left;"> 0.010 </td>
   </tr>
 </tbody>
 </table>
@@ -16427,18 +17048,18 @@ Multiple linear regression.
 <tbody>
   <tr>
    <td style="text-align:left;"> (Intercept) </td>
-   <td style="text-align:left;"> 1211.47 (1071.54, 1369.67) </td>
+   <td style="text-align:left;"> 1207.31 (1065.75, 1367.66) </td>
    <td style="text-align:left;"> &lt;0.0001 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> Age_gp&gt;=35 </td>
-   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> BW_gp&gt;90th centile </td>
+   <td style="text-align:left;"> 1.00 (0.95, 1.06) </td>
+   <td style="text-align:left;"> 1.00 </td>
   </tr>
   <tr>
    <td style="text-align:left;"> GA_samp </td>
    <td style="text-align:left;"> 1.01 (1.00, 1.02) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> 0.02 </td>
   </tr>
 </tbody>
 </table>
@@ -16448,7 +17069,7 @@ Multiple linear regression.
 <table class=" lightable-classic" style='font-size: 16px; font-family: "Arial Narrow", "Source Sans Pro", sans-serif; width: auto !important; '>
  <thead>
   <tr>
-   <th style="text-align:left;"> Age_gp </th>
+   <th style="text-align:left;"> BW_gp </th>
    <th style="text-align:right;"> response </th>
    <th style="text-align:right;"> SE </th>
    <th style="text-align:right;"> df </th>
@@ -16458,20 +17079,20 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &lt;35 </td>
-   <td style="text-align:right;"> 1390.65 </td>
-   <td style="text-align:right;"> 11.88 </td>
-   <td style="text-align:right;"> 1187 </td>
-   <td style="text-align:right;"> 1367.54 </td>
-   <td style="text-align:right;"> 1414.16 </td>
+   <td style="text-align:left;"> &lt;=90th centile </td>
+   <td style="text-align:right;"> 1394.13 </td>
+   <td style="text-align:right;"> 12.57 </td>
+   <td style="text-align:right;"> 1165 </td>
+   <td style="text-align:right;"> 1369.70 </td>
+   <td style="text-align:right;"> 1419.01 </td>
   </tr>
   <tr>
-   <td style="text-align:left;"> &gt;=35 </td>
-   <td style="text-align:right;"> 1537.95 </td>
-   <td style="text-align:right;"> 71.39 </td>
-   <td style="text-align:right;"> 1187 </td>
-   <td style="text-align:right;"> 1404.09 </td>
-   <td style="text-align:right;"> 1684.58 </td>
+   <td style="text-align:left;"> &gt;90th centile </td>
+   <td style="text-align:right;"> 1394.18 </td>
+   <td style="text-align:right;"> 36.14 </td>
+   <td style="text-align:right;"> 1165 </td>
+   <td style="text-align:right;"> 1325.04 </td>
+   <td style="text-align:right;"> 1466.92 </td>
   </tr>
 </tbody>
 </table>
@@ -16490,9 +17111,9 @@ Multiple linear regression.
  </thead>
 <tbody>
   <tr>
-   <td style="text-align:left;"> &gt;=35 / &lt;35 </td>
-   <td style="text-align:left;"> 1.11 (1.01, 1.21) </td>
-   <td style="text-align:left;"> 0.03 </td>
+   <td style="text-align:left;"> &gt;90th centile / &lt;=90th centile </td>
+   <td style="text-align:left;"> 1.00 (0.95, 1.06) </td>
+   <td style="text-align:left;"> 1.0 </td>
   </tr>
 </tbody>
 </table>
@@ -27015,7 +27636,7 @@ Model diagnositcs.<br />
 
 
 # Session info
-**Results generated on: 2023-08-27 22:58:03.444293**
+**Results generated on: 2023-09-13 12:22:52.958499**
 <details><summary>Click for more details</summary>
 
 ```r
@@ -27048,48 +27669,48 @@ sessionInfo()
 ## 
 ## other attached packages:
 ##  [1] ggpubr_0.6.0      car_3.1-2         carData_3.0-5     xlsx_0.6.5       
-##  [5] geepack_1.3.9     doFuture_1.0.0    future_1.32.0     foreach_1.5.2    
-##  [9] emmeans_1.8.5     lmerTest_3.1-3    lme4_1.1-33       Matrix_1.6-0     
-## [13] readxl_1.4.2      fontawesome_0.5.1 htmlwidgets_1.6.2 kableExtra_1.3.4 
-## [17] knitr_1.42        rmarkdown_2.21    ggplot2_3.4.2     devtools_2.4.3   
-## [21] usethis_2.1.5     pander_0.6.5      magrittr_2.0.3    gridExtra_2.3    
+##  [5] geepack_1.3.9     doFuture_1.0.0    future_1.33.0     foreach_1.5.2    
+##  [9] emmeans_1.8.8     lmerTest_3.1-3    lme4_1.1-34       Matrix_1.6-1     
+## [13] readxl_1.4.3      fontawesome_0.5.2 htmlwidgets_1.6.2 kableExtra_1.3.4 
+## [17] knitr_1.43        rmarkdown_2.24    ggplot2_3.4.3     devtools_2.4.3   
+## [21] usethis_2.2.2     pander_0.6.5      magrittr_2.0.3    gridExtra_2.3    
 ## [25] Hmisc_5.1-0      
 ## 
 ## loaded via a namespace (and not attached):
-##   [1] remotes_2.4.2       sandwich_3.0-1      rlang_1.1.1        
-##   [4] multcomp_1.4-18     compiler_4.3.1      mgcv_1.9-0         
+##   [1] remotes_2.4.2.1     sandwich_3.0-2      rlang_1.1.1        
+##   [4] multcomp_1.4-25     compiler_4.3.1      mgcv_1.9-0         
 ##   [7] systemfonts_1.0.4   callr_3.7.3         vctrs_0.6.3        
 ##  [10] rvest_1.0.3         stringr_1.5.0       pkgconfig_2.0.3    
 ##  [13] crayon_1.5.2        fastmap_1.1.1       backports_1.4.1    
-##  [16] ellipsis_0.3.2      labeling_0.4.2      utf8_1.2.3         
+##  [16] ellipsis_0.3.2      labeling_0.4.3      utf8_1.2.3         
 ##  [19] sessioninfo_1.2.2   ps_1.7.5            nloptr_2.0.0       
-##  [22] purrr_1.0.1         xfun_0.39           cachem_1.0.8       
-##  [25] jsonlite_1.8.4      highr_0.10          xlsxjars_0.6.1     
-##  [28] broom_1.0.4         parallel_4.3.1      prettyunits_1.1.1  
-##  [31] cluster_2.1.4       R6_2.5.1            bslib_0.4.2        
-##  [34] stringi_1.7.12      parallelly_1.36.0   boot_1.3-28        
-##  [37] pkgload_1.3.2       rpart_4.1.19        jquerylib_0.1.4    
+##  [22] purrr_1.0.2         xfun_0.40           cachem_1.0.8       
+##  [25] jsonlite_1.8.7      highr_0.10          xlsxjars_0.6.1     
+##  [28] broom_1.0.5         parallel_4.3.1      prettyunits_1.1.1  
+##  [31] cluster_2.1.4       R6_2.5.1            bslib_0.5.1        
+##  [34] stringi_1.7.12      parallelly_1.36.0   boot_1.3-28.1      
+##  [37] pkgload_1.3.2.1     rpart_4.1.19        jquerylib_0.1.4    
 ##  [40] cellranger_1.1.0    numDeriv_2016.8-1.1 estimability_1.4.1 
-##  [43] Rcpp_1.0.11         bookdown_0.34       iterators_1.0.14   
-##  [46] future.apply_1.8.1  zoo_1.8-9           base64enc_0.1-3    
+##  [43] Rcpp_1.0.11         bookdown_0.35       iterators_1.0.14   
+##  [46] future.apply_1.8.1  zoo_1.8-12          base64enc_0.1-3    
 ##  [49] nnet_7.3-19         tidyselect_1.2.0    abind_1.4-5        
-##  [52] rstudioapi_0.14     yaml_2.3.7          codetools_0.2-19   
-##  [55] processx_3.8.1      listenv_0.8.0       pkgbuild_1.4.0     
+##  [52] rstudioapi_0.15.0   yaml_2.3.7          codetools_0.2-19   
+##  [55] processx_3.8.2      listenv_0.9.0       pkgbuild_1.4.2     
 ##  [58] lattice_0.21-8      tibble_3.2.1        withr_2.5.0        
-##  [61] coda_0.19-4         evaluate_0.21       foreign_0.8-82     
-##  [64] survival_3.5-5      rJava_1.0-6         xml2_1.3.3         
-##  [67] pillar_1.9.0        checkmate_2.0.0     generics_0.1.3     
-##  [70] munsell_0.5.0       scales_1.2.1        minqa_1.2.4        
+##  [61] coda_0.19-4         evaluate_0.21       foreign_0.8-84     
+##  [64] survival_3.5-7      rJava_1.0-6         xml2_1.3.5         
+##  [67] pillar_1.9.0        checkmate_2.2.0     generics_0.1.3     
+##  [70] munsell_0.5.0       scales_1.2.1        minqa_1.2.5        
 ##  [73] globals_0.16.2      xtable_1.8-4        glue_1.6.2         
 ##  [76] tools_4.3.1         data.table_1.14.8   ggsignif_0.6.4     
-##  [79] webshot_0.5.4       fs_1.6.2            mvtnorm_1.1-3      
-##  [82] tidyr_1.3.0         colorspace_2.1-0    nlme_3.1-162       
-##  [85] htmlTable_2.4.0     Formula_1.2-4       cli_3.6.1          
-##  [88] fansi_1.0.4         viridisLite_0.4.2   svglite_2.1.0      
-##  [91] dplyr_1.1.2         gtable_0.3.3        rstatix_0.7.2      
-##  [94] sass_0.4.6          digest_0.6.33       pbkrtest_0.5.2     
-##  [97] TH.data_1.1-0       farver_2.1.1        memoise_2.0.1      
-## [100] htmltools_0.5.5     lifecycle_1.0.3     httr_1.4.2         
+##  [79] webshot_0.5.5       fs_1.6.3            mvtnorm_1.2-3      
+##  [82] tidyr_1.3.0         colorspace_2.1-0    nlme_3.1-163       
+##  [85] htmlTable_2.4.1     Formula_1.2-5       cli_3.6.1          
+##  [88] fansi_1.0.4         viridisLite_0.4.2   svglite_2.1.1      
+##  [91] dplyr_1.1.3         gtable_0.3.4        rstatix_0.7.2      
+##  [94] sass_0.4.7          digest_0.6.33       pbkrtest_0.5.2     
+##  [97] TH.data_1.1-2       farver_2.1.1        memoise_2.0.1      
+## [100] htmltools_0.5.6     lifecycle_1.0.3     httr_1.4.7         
 ## [103] MASS_7.3-60
 ```
 </details>
