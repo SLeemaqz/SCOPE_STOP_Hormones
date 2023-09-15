@@ -27628,7 +27628,7 @@ Model diagnositcs.<br />
 ## Red cell folate (categories 3)
 <div class="alert alert-danger">
 `<svg aria-hidden="true" role="img" viewBox="0 0 512 512" style="height:1em;width:1em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:red;overflow:visible;position:relative;"><path d="M256 512A256 256 0 1 0 256 0a256 256 0 1 0 0 512zM216 336h24V272H216c-13.3 0-24-10.7-24-24s10.7-24 24-24h48c13.3 0 24 10.7 24 24v88h8c13.3 0 24 10.7 24 24s-10.7 24-24 24H216c-13.3 0-24-10.7-24-24s10.7-24 24-24zm40-208a32 32 0 1 1 0 64 32 32 0 1 1 0-64z"/></svg>`{=html} <span style="color:red;"><b>Red cell folate data available for STOP cohort only.</b></span></div><br />
-Over detection limit <14900 vs ≥14900.
+Over or below median (median level calculated in STOP) <14900 vs ≥14900.
 
 
 ### Global tests
@@ -28284,7 +28284,7 @@ Model diagnositcs.<br />
 
 
 # Session info
-**Results generated on: 2023-09-15 12:26:01.132023**
+**Results generated on: 2023-09-15 13:33:42.420039**
 <details><summary>Click for more details</summary>
 
 ```r
